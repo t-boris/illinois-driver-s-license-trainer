@@ -25,3 +25,30 @@ The confirmed brief, decisions and requirements are in [`docs/features/illinois-
 - REQ-006 Deployed on Vercel
 - REQ-007 Per-topic progress and readiness indicator (local, no accounts)
 - REQ-008 Anonymous aggregated usage analytics with privacy note
+
+## Development
+
+```
+npm install
+npm run dev                         # app with reviewed content only (content/)
+VITE_SHOW_DRAFTS=1 npm run dev      # also loads unreviewed AI drafts (content-drafts/) for review; dev only
+npm test                            # unit tests (content gate, analytics event model)
+npm run validate                    # build gate: every item in content/ and signs/ must be complete and reviewed
+npm run bank                        # question-bank coverage report (use: node scripts/bank-report.mjs content-drafts)
+npm run build                       # runs the gate, then type-checks and builds (this is the Vercel build command)
+```
+
+### Content workflow (DEC-013, DEC-021)
+
+1. AI drafts live in `content-drafts/<topic>/` with no review records.
+2. The owner or a designee reads them in the app (`VITE_SHOW_DRAFTS=1`), checks them against the Rules of the Road in RU and EN, then runs
+   `node scripts/promote-draft.mjs content-drafts/<topic> --reviewer-ru "Name" --reviewer-en "Name"` and opens a pull request. Run it only after a real review.
+3. The build gate fails if anything in `content/` lacks a section reference, manual version, RU/EN review record, or a sign-library source.
+
+### Sign library (DEC-010, DEC-014)
+
+`signs/<designation>.svg` + `.json` are extracted from the official FHWA Standard Highway Signs PDFs with `scripts/build-signs.py` and `scripts/extract-sign.py`; every asset records its source sheet and a visual check.
+
+### Analytics (DEC-015)
+
+`api/event.ts` stores aggregate counters in Neon (`db/schema.sql`). Set `DATABASE_URL` in Vercel and `VITE_ANALYTICS_URL=/api/event` for the build to enable it; without them events are dropped silently.
