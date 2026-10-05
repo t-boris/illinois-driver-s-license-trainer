@@ -3,7 +3,7 @@ import { join } from 'node:path'
 
 export const STYLE =
   'Flat, friendly, colourful vector illustration with warm light, consistent style, adult characters of varied ethnicity, ' +
-  'Illinois setting. No text, letters or numbers anywhere. No legible road signs, traffic signals or pavement markings. Scene: '
+  'Midwestern American setting. No text, letters or numbers anywhere, no signboards, welcome signs, road signs, traffic signals or pavement markings. Scene: '
 
 // Road signs, signals and markings must come from the official library, never from an AI image.
 const SIGN_SUBJECT = /\b(stop|yield|speed limit|road|traffic|warning|regulatory|street|railroad)\s+(signs?|signals?|lights?|markings?)\b|\btraffic lights?\b|\bcrosswalk markings?\b/i
@@ -12,7 +12,7 @@ export function lintEntry(e) {
   const errors = []
   if (!e.id || !e.file) errors.push('missing id/file')
   if (typeof e.prompt !== 'string' || e.prompt.trim().split(/\s+/).length < 8) errors.push('prompt too short')
-  else if (SIGN_SUBJECT.test(e.prompt)) errors.push('prompt makes a sign/signal/marking the subject (DEC-010)')
+  else if (SIGN_SUBJECT.test(e.prompt.replace(/\b(no|not|without|never)\b[^.]*\.?/gi, ' '))) errors.push('prompt makes a sign/signal/marking the subject (DEC-010)')
   if (!e.alt?.ru?.trim() || !e.alt?.en?.trim()) errors.push('missing bilingual alt text')
   return errors
 }

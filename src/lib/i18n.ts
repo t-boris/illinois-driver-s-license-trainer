@@ -57,6 +57,11 @@ export const strings = {
     ru: 'Неофициальное учебное приложение, не связано с Секретарём штата Иллинойс. Официальный источник — Illinois Rules of the Road на ilsos.gov.',
     en: 'Unofficial study app, not affiliated with the Illinois Secretary of State. The official source is the Illinois Rules of the Road at ilsos.gov.',
   },
+  betaBanner: {
+    ru: 'Бета: материалы ещё не проверены проверяющим по Rules of the Road. Главный источник — официальное руководство Иллинойса (ilsos.gov).',
+    en: 'Beta: these materials have not yet been reviewed against the Rules of the Road by a reviewer. The official Illinois manual (ilsos.gov) is the authority.',
+  },
+  draftTag: { ru: 'Черновик', en: 'Draft' },
   progress: { ru: 'Прогресс', en: 'Progress' },
   noQuestions: { ru: 'Вопросов пока нет.', en: 'No questions yet.' },
 } satisfies Record<string, Record<Lang, string>>

@@ -6,12 +6,15 @@ const deployed = import.meta.glob('../../content/**/*.json', { eager: true, impo
 // Fixtures exist only for local development and are never bundled into production.
 const fixtures = import.meta.env.DEV ? import.meta.glob('../../content-fixtures/*.json', { eager: true, import: 'default' }) : {}
 
-// Dev-only review aid: VITE_SHOW_DRAFTS=1 npm run dev loads the unreviewed AI drafts so the owner can read them in the real UI.
-const drafts = import.meta.env.DEV && import.meta.env.VITE_SHOW_DRAFTS ? import.meta.glob('../../content-drafts/**/*.json', { eager: true, import: 'default' }) : {}
+// Unreviewed AI drafts are shown only in beta mode (DEC-031): VITE_PUBLISH_DRAFTS=1 at build time, or VITE_SHOW_DRAFTS=1 in dev.
+// Every draft item is flagged so the UI can label it.
+const betaOn = Boolean(import.meta.env.VITE_PUBLISH_DRAFTS) || (import.meta.env.DEV && Boolean(import.meta.env.VITE_SHOW_DRAFTS))
+const drafts = betaOn ? import.meta.glob('../../content-drafts/**/*.json', { eager: true, import: 'default' }) : {}
 
 // Defence in depth: unreviewed content is never shown (REQ-003), even if the build gate is bypassed.
 const reviewed = Object.values(deployed).filter((i) => validateItem(i).length === 0)
-const items = [...reviewed, ...Object.values(fixtures), ...Object.values(drafts)] as Item[]
+const items = [...reviewed, ...Object.values(fixtures), ...Object.values(drafts).map((d) => ({ ...(d as object), draft: true }))] as Item[]
+export const hasDrafts = items.some((i) => i.draft)
 
 export const topics: Topic[] = (() => {
   const map = new Map<string, Topic>()

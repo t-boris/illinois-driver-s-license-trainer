@@ -56,6 +56,15 @@ export function validateDir(dir, signsDir = join(dirname(dir), 'signs'), { draft
 
 const isStrId = (v) => typeof v === 'string' && v !== ''
 
+// Beta mode (DEC-031): when drafts are published, they must at least be structurally valid and reference real signs.
+function checkPublishedDrafts() {
+  if (!process.env.VITE_PUBLISH_DRAFTS) return 0
+  const { failures } = validateDir('content-drafts', join(dirname('content-drafts'), 'signs'), { draft: true })
+  for (const f of failures) console.error(`${f.file}:\n  - ${f.errors.join('\n  - ')}`)
+  if (failures.length) console.error(`Draft validation failed: ${failures.length} item(s) (VITE_PUBLISH_DRAFTS is set).`)
+  return failures.length ? 1 : 0
+}
+
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const draft = process.argv.includes('--draft')
   const dir = process.argv.slice(2).find((a) => !a.startsWith('--')) || 'content'
@@ -66,5 +75,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     console.error(`Content validation failed: ${failures.length} item(s).`)
     process.exit(1)
   }
+  if (checkPublishedDrafts()) process.exit(1)
   console.log('Content validation passed.')
 }

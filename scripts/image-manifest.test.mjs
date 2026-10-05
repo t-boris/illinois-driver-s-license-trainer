@@ -10,3 +10,5 @@ test('alt required in both languages', () => { const e = ok(); e.alt.ru = ''; as
 test('promoted path is found', () => assert.ok(candidatePaths('content-drafts/t/q-01.json').includes('content/t/q-01.json')))
 test('image attached', () => assert.equal(withImage({ id: 'q1' }, 'q1', { ru: 'а', en: 'a' }).image.src, '/images/q1.webp'))
 test('official sign image is never replaced', () => { const item = { id: 'q1', image: { sign: true, signId: 'R1-1' } }; assert.equal(withImage(item, 'q1', { ru: 'а', en: 'a' }), item) })
+test('negated mentions are allowed', () => { const e = ok(); e.prompt += ' Absolutely no road signs, traffic lights or billboards anywhere in the scene.'; assert.deepEqual(lintEntry(e), []) })
+test('positive sign subject still rejected after a negation', () => { const e = ok(); e.prompt = 'No text. A close up of a red stop sign on a quiet corner at dusk in the city'; assert.match(lintEntry(e).join(), /DEC-010/) })

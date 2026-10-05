@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { topics, examPool, examDraw, quizPool, signAssets } from './lib/content'
+import { topics, examPool, examDraw, quizPool, signAssets, hasDrafts } from './lib/content'
 import { EXAM } from './lib/config'
 import { initialLang, persistLang, strings, type Key } from './lib/i18n'
 import { load, save, reset, topicStats, readiness, type Progress, type Sim } from './lib/progress'
@@ -50,6 +50,7 @@ function QuestionRun({ questions: given, lang, onAnswer, onDone, doneLabel, shuf
         <div className="bar" aria-hidden="true"><i style={{ width: `${((i + (checked ? 1 : 0)) / questions.length) * 100}%` }} /></div>
         <span>{i + 1} {t('questionOf')} {questions.length}</span>
       </div>
+      {q.draft && <span className="tag-draft">{t('draftTag')}</span>}
       <h2 className="q-text">{q.text[lang]}</h2>
       <Picture img={q.image} lang={lang} />
       {lang === 'ru' && (
@@ -162,6 +163,7 @@ export default function App() {
       if (route.page === 'lesson')
         return (
           <section className="reading">
+            {topic.lesson?.draft && <span className="tag-draft">{t('draftTag')}</span>}
             <h2>{topic.title[lang]}</h2>
             <Picture img={topic.lesson?.image} lang={lang} />
             <Rich text={topic.lesson?.body[lang] ?? ''} />
@@ -254,6 +256,7 @@ export default function App() {
           {(['ru', 'en'] as const).map((l) => <button key={l} aria-pressed={lang === l} onClick={() => setLang(l)}>{l.toUpperCase()}</button>)}
         </div>
       </header>
+      {hasDrafts && <div className="beta" role="note"><IconInfo /><span>{t('betaBanner')}</span></div>}
       <main>{body}</main>
       <footer><p>{t('unofficial')}</p><a href="#/privacy">{t('privacy')}</a></footer>
       {toast && <Celebration message={toast} />}
