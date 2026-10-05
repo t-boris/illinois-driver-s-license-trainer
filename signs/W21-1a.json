@@ -1,0 +1,21 @@
+{
+  "id": "W21-1a",
+  "designation": "W21-1a",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W21-1a WORKERS",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 152,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 152 signs/W21-1a.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "W21-1a.svg",
+  "alt": {
+    "ru": "Знак «Впереди дорожные рабочие (Workers Ahead)»",
+    "en": "Workers Ahead sign"
+  }
+}

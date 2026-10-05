@@ -1,2 +1,5 @@
 .dde/
 .DS_Store
+node_modules/
+dist/
+.shs-cache/

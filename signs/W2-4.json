@@ -1,0 +1,21 @@
+{
+  "id": "W2-4",
+  "designation": "W2-4",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W2-4 T-SYMBOL",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 17,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 17 signs/W2-4.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "W2-4.svg",
+  "alt": {
+    "ru": "Знак «Т-образный перекрёсток (\"T\" Intersection)»",
+    "en": "\"T\" Intersection sign"
+  }
+}

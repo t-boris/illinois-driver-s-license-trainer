@@ -1,0 +1,21 @@
+{
+  "id": "R6-1",
+  "designation": "R6-1",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R6-1 ONE WAY",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 88,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 88 signs/R6-1.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "R6-1.svg",
+  "alt": {
+    "ru": "Знак «Одностороннее движение (One-Way)»",
+    "en": "One-Way sign"
+  }
+}

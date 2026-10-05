@@ -1,0 +1,21 @@
+{
+  "id": "R3-4",
+  "designation": "R3-4",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R3-4 U-TURN PROHIBITED",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 28,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 28 signs/R3-4.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "R3-4.svg",
+  "alt": {
+    "ru": "Знак «Разворот запрещён (No U-Turn)»",
+    "en": "No U-Turn sign"
+  }
+}

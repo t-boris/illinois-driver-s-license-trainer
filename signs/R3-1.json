@@ -1,0 +1,21 @@
+{
+  "id": "R3-1",
+  "designation": "R3-1",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R3-1 RIGHT TURN PROHIBITION",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 23,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 23 signs/R3-1.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "R3-1.svg",
+  "alt": {
+    "ru": "Знак «Поворот запрещён: направо/налево (No Right/Left Turn)»",
+    "en": "No Right/Left Turn sign"
+  }
+}

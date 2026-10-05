@@ -1,0 +1,21 @@
+{
+  "id": "R1-1",
+  "designation": "R1-1",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R1-1 (STOP)",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 1,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 1 signs/R1-1.svg 110 60 395 395",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Shape, red/white colours and STOP legend compared with the source sheet; dimension lines and labels removed."
+  },
+  "file": "R1-1.svg",
+  "alt": {
+    "ru": "Знак «СТОП»: красный восьмиугольник с белой надписью STOP",
+    "en": "STOP sign: red octagon with white STOP legend"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "S1-1",
+  "designation": "S1-1",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, School Signs, sheet S1-1 SCHOOL",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/School.pdf",
+    "page": 1,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py School.pdf 1 signs/S1-1.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "S1-1.svg",
+  "alt": {
+    "ru": "Знак «Школьный знак (School Sign)»",
+    "en": "School Sign sign"
+  }
+}

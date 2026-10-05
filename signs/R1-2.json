@@ -1,0 +1,21 @@
+{
+  "id": "R1-2",
+  "designation": "R1-2",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R1-2 YIELD",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 2,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 2 signs/R1-2.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "R1-2.svg",
+  "alt": {
+    "ru": "Знак «Уступите дорогу (Yield)»",
+    "en": "Yield sign"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "W4-2",
+  "designation": "W4-2",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W4-2L LANE ENDS",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 31,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 31 signs/W4-2.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "W4-2.svg",
+  "alt": {
+    "ru": "Знак «Сужение числа полос (Reduction in Lanes)»",
+    "en": "Reduction in Lanes sign"
+  }
+}

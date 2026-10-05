@@ -1,0 +1,21 @@
+{
+  "id": "W10-1",
+  "designation": "W10-1",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W10-1 HIGHWAY-RAIL GRADE CROSSING ADVANCE WARNING",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 76,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 76 signs/W10-1.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and stray sheet pieces removed."
+  },
+  "file": "W10-1.svg",
+  "alt": {
+    "ru": "Знак «Железнодорожный переезд (Railroad Crossing)»",
+    "en": "Railroad Crossing sign"
+  }
+}
