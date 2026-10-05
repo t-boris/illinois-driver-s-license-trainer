@@ -44,5 +44,12 @@
         "en": "Correct! Alleys are 15 mph: they are tight, with pedestrians and cars pulling out."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q42.webp",
+    "alt": {
+      "ru": "Узкий переулок за магазинами, мусорные баки, велосипед и медленная машина.",
+      "en": "A narrow alley behind shops with bins, a bicycle and a slow car."
+    }
+  }
 }

@@ -33,5 +33,12 @@
         "en": "Not quite. Pull right immediately; sometimes a complete stop is necessary. At a two-way intersection, remain stopped until the vehicle passes through."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q48.webp",
+    "alt": {
+      "ru": "Пожарная машина с мигалками едет по улице, машины прижимаются к краю.",
+      "en": "A fire truck with lights drives down a street as cars move toward the curb."
+    }
+  }
 }

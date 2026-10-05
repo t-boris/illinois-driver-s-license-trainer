@@ -33,5 +33,12 @@
         "en": "Not quite. Interior light lets the officer see you clearly. Keep your hands on the steering wheel."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q35.webp",
+    "alt": {
+      "ru": "Ночью машина на обочине, в салоне тёплый свет, водитель держит руль.",
+      "en": "At night a parked car glows inside as the driver holds the wheel."
+    }
+  }
 }

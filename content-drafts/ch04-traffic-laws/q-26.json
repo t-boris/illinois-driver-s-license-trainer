@@ -55,5 +55,12 @@
         "en": "Correct! Reporting an emergency is one of three exceptions. The others are parked on the shoulder and stopped in obstructed traffic in neutral or park."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q26.webp",
+    "alt": {
+      "ru": "Водитель остановился на широкой обочине возле поля, прерия вдали.",
+      "en": "A driver sits in a parked car on a wide shoulder beside a farm field."
+    }
+  }
 }

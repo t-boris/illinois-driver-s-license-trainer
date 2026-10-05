@@ -44,5 +44,12 @@
         "en": "Correct! Those are three safe options. Hazard lights help communicate your intentions to the officer."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q32.webp",
+    "alt": {
+      "ru": "Водитель на вечерней улице городка смотрит в зеркало, сзади тёмная машина.",
+      "en": "A driver on a small-town evening street glances at the mirror as a plain dark car follows."
+    }
+  }
 }

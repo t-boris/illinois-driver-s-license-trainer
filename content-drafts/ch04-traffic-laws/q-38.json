@@ -44,5 +44,12 @@
         "en": "Too close. A deploying air bag could injure you."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q38.webp",
+    "alt": {
+      "ru": "Женщина за рулём сидит прямо на комфортном расстоянии от руля.",
+      "en": "A woman drives seated upright at a comfortable distance from the wheel."
+    }
+  }
 }

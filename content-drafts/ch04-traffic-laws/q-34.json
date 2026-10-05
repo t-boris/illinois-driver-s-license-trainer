@@ -33,5 +33,12 @@
         "en": "Not quite. Refusing a test can itself lead to loss of driving privileges. It is best to cooperate with law enforcement."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q34.webp",
+    "alt": {
+      "ru": "Сумерки, машина на обочине у поля, водитель стоит рядом.",
+      "en": "At dusk a car stands on a shoulder beside a field, its driver nearby."
+    }
+  }
 }

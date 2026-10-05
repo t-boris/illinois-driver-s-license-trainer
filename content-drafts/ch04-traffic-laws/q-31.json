@@ -44,5 +44,12 @@
         "en": "Correct! Do not stop where it is hard for others to pass: bridges, curves, guardrails, concrete walls, medians. Do not slam on the brakes or stop in the traffic lane."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q31.webp",
+    "alt": {
+      "ru": "Полицейская машина останавливает седан на широкой обочине сельского шоссе.",
+      "en": "A patrol car pulls a sedan over onto a wide shoulder of a rural highway."
+    }
+  }
 }

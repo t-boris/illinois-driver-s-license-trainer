@@ -44,5 +44,12 @@
         "en": "No. Rear-facing seats should never be installed in front of an active air bag. Some pick-up trucks allow turning it off."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q39.webp",
+    "alt": {
+      "ru": "Родители пристёгивают малыша в детском кресле на заднем сиденье минивэна.",
+      "en": "Parents buckle a toddler into a child seat in the back of a minivan."
+    }
+  }
 }

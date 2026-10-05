@@ -44,5 +44,12 @@
         "en": "Correct! Stay aware of pedestrians, bicyclists, weather, and road conditions too. The maximum speed is allowed only under safe conditions."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q43.webp",
+    "alt": {
+      "ru": "Машина замедляется у перекрёстка в городке под лёгким дождём.",
+      "en": "A car slows toward a crossroads in a small town in light rain."
+    }
+  }
 }

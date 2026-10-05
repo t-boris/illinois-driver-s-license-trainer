@@ -33,5 +33,12 @@
         "en": "Correct! Stay in the vehicle with both hands on the wheel until the officer says otherwise. Getting out can be seen as a threat."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q29.webp",
+    "alt": {
+      "ru": "Машина на обочине, сзади остановилась полицейская машина с огнями.",
+      "en": "A car on the shoulder with a patrol car stopped behind it."
+    }
+  }
 }

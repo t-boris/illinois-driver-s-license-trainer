@@ -33,5 +33,12 @@
         "en": "Not quite. Tell the officer where the documents are and follow the directions given. That keeps everyone calm and safe."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q30.webp",
+    "alt": {
+      "ru": "Водитель спокойно сидит в машине, руки на руле, рядом силуэт офицера.",
+      "en": "A driver sits calmly with hands on the wheel as an officer stands near the window."
+    }
+  }
 }

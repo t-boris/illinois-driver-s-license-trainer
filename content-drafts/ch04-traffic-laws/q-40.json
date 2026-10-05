@@ -44,5 +44,12 @@
         "en": "No. A belt or child seat is always required, however short the trip."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q40.webp",
+    "alt": {
+      "ru": "Отец помогает школьнику устроиться на заднем сиденье универсала во дворе.",
+      "en": "A father fastens a school-age child in the back seat of a station wagon."
+    }
+  }
 }

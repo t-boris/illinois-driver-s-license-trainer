@@ -33,5 +33,12 @@
         "en": "Not quite. Do not drive between vehicles in an organized procession unless directed by an officer, and do not join one to gain right of way."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q51.webp",
+    "alt": {
+      "ru": "Колонна машин с включёнными фарами едет по тихой улице, остальные ждут.",
+      "en": "A line of cars with headlights on drives down a quiet street while others wait."
+    }
+  }
 }

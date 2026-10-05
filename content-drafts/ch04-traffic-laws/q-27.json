@@ -33,5 +33,12 @@
         "en": "Not quite. All of these take your eyes and attention off the road, so they are against the law."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q27.webp",
+    "alt": {
+      "ru": "Водитель смотрит на дорогу в городе, движение небольшое.",
+      "en": "A driver looks straight ahead on a city street with light traffic."
+    }
+  }
 }

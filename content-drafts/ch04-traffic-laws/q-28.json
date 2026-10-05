@@ -44,5 +44,12 @@
         "en": "No. Volume does not matter: headsets are prohibited, except a single-sided one used with a phone."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q28.webp",
+    "alt": {
+      "ru": "Улыбающийся водитель в хэтчбэке на сельской дороге среди кукурузных полей.",
+      "en": "A smiling driver in a hatchback on a country road past cornfields."
+    }
+  }
 }

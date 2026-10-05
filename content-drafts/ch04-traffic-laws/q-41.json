@@ -55,5 +55,12 @@
         "en": "70 mph is for interstates and tollways. Four-lane highways are lower."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q41.webp",
+    "alt": {
+      "ru": "Четырёхполосное шоссе с небольшим потоком среди зелёных полей.",
+      "en": "A four-lane highway with light traffic through green farmland."
+    }
+  }
 }

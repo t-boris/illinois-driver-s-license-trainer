@@ -44,5 +44,12 @@
         "en": "No. In a work zone you must slow down."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q46.webp",
+    "alt": {
+      "ru": "Рабочие в жилетах и экскаватор у дороги, пикап замедляется.",
+      "en": "Road workers in vests and an excavator beside a road as a pickup slows."
+    }
+  }
 }

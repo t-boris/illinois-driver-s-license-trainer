@@ -109,3 +109,7 @@ Owner: asked for the URL of the Vercel deployment, asked to deploy the new versi
 ### Answers during implementation (15) · 2026-10-04
 
 Owner: re-check that all necessary information, all signs and all exam topics are on the site and well described, and make the site more dynamic. Recorded as DEC-032 (coverage audit, dynamic interface) and REQ-011 (flashcards).
+
+### Implementation note (16) · 2026-10-04
+
+The coverage audit (DEC-032) added roughly 340 questions, 112 glossary terms in total and 71 official sign, signal and marking assets. Quiz sessions were limited to 10 questions and the per-topic threshold set to 10 answers at 80% (DEC-033, implementer's choice under DEC-002).

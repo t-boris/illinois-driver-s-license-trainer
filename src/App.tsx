@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { topics, examPool, examDraw, quizPool, signAssets, hasDrafts } from './lib/content'
-import { EXAM } from './lib/config'
+import { EXAM, QUIZ_LENGTH } from './lib/config'
 import { initialLang, persistLang, strings, type Key } from './lib/i18n'
 import { load, save, reset, topicStats, readiness, type Progress, type Sim } from './lib/progress'
 import { track } from './lib/analytics'
@@ -32,11 +32,18 @@ function Picture({ img, lang }: { img?: Img; lang: Lang }) {
   return src ? <img className={img.sign ? 'pic sign-pic' : 'pic'} src={src} alt={img.alt[lang]} loading="lazy" /> : null
 }
 
-function QuestionRun({ questions: given, lang, onAnswer, onDone, doneLabel, shuffled = false }: {
-  questions: Question[]; lang: Lang; onAnswer: (q: Question, ok: boolean) => void; onDone: () => void; doneLabel: string; shuffled?: boolean
+// A quiz session: unanswered or missed questions first, then the ones already answered correctly, shuffled within each group.
+function pickQuiz(pool: Question[], answered: Record<string, boolean> = {}, n = QUIZ_LENGTH): Question[] {
+  const open = shuffle(pool.filter((q) => answered[q.id] !== true))
+  const done = shuffle(pool.filter((q) => answered[q.id] === true))
+  return [...open, ...done].slice(0, n)
+}
+
+function QuestionRun({ questions: given, lang, onAnswer, onDone, doneLabel, shuffled = false, answered }: {
+  questions: Question[]; lang: Lang; onAnswer: (q: Question, ok: boolean) => void; onDone: () => void; doneLabel: string; shuffled?: boolean; answered?: Record<string, boolean>
 }) {
   // Order is fixed once per run: a parent re-render must never reshuffle the questions under the learner.
-  const [questions] = useState(() => (shuffled ? shuffle(given) : given))
+  const [questions] = useState(() => (shuffled ? pickQuiz(given, answered) : given))
   const [i, setI] = useState(0)
   const [pick, setPick] = useState<number | null>(null)
   const [checked, setChecked] = useState(false)
@@ -179,7 +186,7 @@ export default function App() {
           </section>
         )
       return (
-        <QuestionRun key={`${topic.id}-${run}`} questions={quizPool(topic.id)} shuffled lang={lang} doneLabel={t('finish')}
+        <QuestionRun key={`${topic.id}-${run}`} questions={quizPool(topic.id)} shuffled answered={progress.answers[topic.id]} lang={lang} doneLabel={t('finish')}
           onAnswer={(q, ok) => {
             track({ type: 'answer', topic: topic.id, question: q.id, correct: ok })
             update({ ...progress, answers: { ...progress.answers, [topic.id]: { ...progress.answers[topic.id], [q.id]: ok } } })

@@ -44,5 +44,12 @@
         "en": "Arguing at the scene will not help. Stay calm and contest the ticket in court."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q33.webp",
+    "alt": {
+      "ru": "Водитель и офицер спокойно разговаривают возле машины на тихой улице.",
+      "en": "A driver and an officer talk calmly beside a parked car on a quiet street."
+    }
+  }
 }

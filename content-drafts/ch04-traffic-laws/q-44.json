@@ -33,5 +33,12 @@
         "en": "Not quite. Driving too slowly creates interference and risky passing. Drive safely but with the flow of traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q44.webp",
+    "alt": {
+      "ru": "Колонна машин спокойно едет по двухполосной сельской дороге.",
+      "en": "A line of cars moves steadily along a two-lane country highway."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Correct! That is when the 20 mph limit applies."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q45.webp",
+    "alt": {
+      "ru": "Утро у начальной школы, взрослые ведут детей по тротуару.",
+      "en": "Morning at an elementary school, adults walk children along the sidewalk."
+    }
+  }
 }

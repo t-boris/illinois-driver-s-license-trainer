@@ -33,5 +33,12 @@
         "en": "Correct! Driving over fire hoses is prohibited unless the fire official in command permits it."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q50.webp",
+    "alt": {
+      "ru": "Пожарные тянут шланг по улице, машина ждёт вдалеке.",
+      "en": "Firefighters pull a hose along a street while a car waits at a distance."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "No. There is no exemption: belts are required for everyone age 8 and older, and the driver helps."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q36.webp",
+    "alt": {
+      "ru": "Водитель помогает пожилому пассажиру в фургоне пристегнуть ремень, парковка у парка.",
+      "en": "A driver helps an elderly passenger in a van with a belt beside a park."
+    }
+  }
 }

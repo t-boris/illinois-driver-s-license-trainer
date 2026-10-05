@@ -44,5 +44,12 @@
         "en": "No. Go by what you see: workers and vehicles, not only signs."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q47.webp",
+    "alt": {
+      "ru": "Пикап медленно проезжает мимо дорожной бригады с катком.",
+      "en": "A pickup drives slowly past a road crew with a roller machine."
+    }
+  }
 }

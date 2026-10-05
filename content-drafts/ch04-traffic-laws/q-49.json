@@ -44,5 +44,12 @@
         "en": "The distance is much greater: 500 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q49.webp",
+    "alt": {
+      "ru": "Скорая и полицейская машина с огнями на обочине шоссе.",
+      "en": "An ambulance and a police cruiser with lights stopped at a highway roadside."
+    }
+  }
 }

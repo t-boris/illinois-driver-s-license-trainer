@@ -33,5 +33,12 @@
         "en": "Not quite. Hands-free devices and Bluetooth are allowed for age 19 and older. Even so, it is safer to pull off the road before a call."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q25.webp",
+    "alt": {
+      "ru": "Водитель обеими руками держит руль, спокойная пригородная дорога днём.",
+      "en": "A driver keeps both hands on the wheel on a quiet suburban road in daylight."
+    }
+  }
 }

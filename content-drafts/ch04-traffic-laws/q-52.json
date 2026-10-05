@@ -33,5 +33,12 @@
         "en": "Not quite. Stop completely first, yield to everyone, then turn. If a sign prohibits it, do not turn."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q52.webp",
+    "alt": {
+      "ru": "Машина стоит на углу перекрёстка, пешеходы и велосипедист переходят дорогу.",
+      "en": "A car waits at an intersection corner as pedestrians and a cyclist cross."
+    }
+  }
 }

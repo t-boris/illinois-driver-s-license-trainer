@@ -44,5 +44,12 @@
         "en": "No. A belt across the soft abdomen can cause injuries in a crash."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q37.webp",
+    "alt": {
+      "ru": "Улыбающийся водитель устраивается в машине на подъездной дорожке, раннее утро.",
+      "en": "A smiling driver settles into a hatchback seat in a driveway on a sunny morning."
+    }
+  }
 }
