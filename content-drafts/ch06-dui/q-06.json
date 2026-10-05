@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q06",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какая концентрация THC в цельной крови делает управление автомобилем незаконным?",
+    "en": "What THC concentration in whole blood makes it illegal to operate a motor vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "1 нанограмм или более на миллилитр",
+        "en": "1 nanogram or more per milliliter"
+      },
+      "explanation": {
+        "ru": "Это ниже порога из руководства. Нужно 5 нанограмм и более.",
+        "en": "This is below the manual's threshold. The limit is 5 nanograms or more."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "5 нанограмм или более на миллилитр",
+        "en": "5 nanograms or more per milliliter"
+      },
+      "explanation": {
+        "ru": "Верно. Для другой биологической среды порог 10 нанограмм и более на миллилитр.",
+        "en": "Correct. For other bodily substances the threshold is 10 nanograms or more per milliliter."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "20 нанограмм или более на миллилитр",
+        "en": "20 nanograms or more per milliliter"
+      },
+      "explanation": {
+        "ru": "Порог ниже: 5 нанограмм и более на миллилитр цельной крови.",
+        "en": "The threshold is lower: 5 nanograms or more per milliliter of whole blood."
+      }
+    }
+  ]
+}

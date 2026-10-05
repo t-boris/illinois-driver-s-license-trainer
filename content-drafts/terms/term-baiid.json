@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-baiid",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "алкозамок (BAIID)",
+    "en": "Breath Alcohol Ignition Interlock Device (BAIID)"
+  },
+  "definition": {
+    "ru": "Устройство, установленное в автомобиле, за которым следит Secretary of State. Оно сообщает в ведомство, если водитель пытается завести машину после употребления алкоголя или вмешивается в работу устройства; установку и обслуживание оплачивает нарушитель, если его не признали малоимущим.",
+    "en": "A device installed in your vehicle that the Secretary of State monitors. It alerts the office if the driver tries to start the vehicle after drinking alcohol or tampers with the device, and the DUI offender pays for installation and monitoring unless declared indigent."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q03",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что такое аннулирование прав (cancellation)?",
+    "en": "What is a cancellation?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Прекращение права управлять по официальному решению Secretary of State из-за ошибки или дефекта в правах либо потому, что человек больше не имеет на них права",
+        "en": "The termination of driving privileges by formal action of the Secretary of State because of an error or defect in the license or because the licensee is no longer entitled to it"
+      },
+      "explanation": {
+        "ru": "Верно. Повторно подать заявление можно только после выполнения условий аннулирования.",
+        "en": "Correct. Reapplication may be made only after the terms of the cancellation have been met."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Бессрочное лишение прав, после которого можно подать заявление минимум через год",
+        "en": "An indefinite withdrawal of driving privileges, with reapplication possible after a minimum of one year"
+      },
+      "explanation": {
+        "ru": "Это определение отзыва (revocation). Cancellation связано с ошибкой или дефектом в правах либо с утратой права на них.",
+        "en": "That describes a revocation. A cancellation is tied to an error or defect in the license or loss of entitlement."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Временная потеря прав на определённый срок с уплатой сбора за восстановление",
+        "en": "A temporary loss of driving privileges for a set time, with a reinstatement fee"
+      },
+      "explanation": {
+        "ru": "Это приостановка (suspension). Cancellation — формальное прекращение прав из-за ошибки, дефекта или утраты права на них.",
+        "en": "That is a suspension. A cancellation is a formal termination because of an error, a defect, or loss of entitlement."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Временный отказ в праве подать заявление на права для человека младше 18 лет",
+        "en": "A temporary refusal of the privilege of applying for a license for a person under 18"
+      },
+      "explanation": {
+        "ru": "Это отказ (denial). Cancellation — другой механизм: прекращение прав из-за ошибки, дефекта или утраты права на них.",
+        "en": "That is a denial. A cancellation is different: termination because of an error, a defect, or loss of entitlement."
+      }
+    }
+  ]
+}

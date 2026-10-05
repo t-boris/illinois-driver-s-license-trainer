@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q12",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 56",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если вам 55 лет или больше, то успешное прохождение восьмичасового курса защитного вождения (defensive driving course) может снизить стоимость страховки ответственности.",
+    "en": "If you are age 55 or over, successfully completing an eight-hour defensive driving course may reduce your motor vehicle liability insurance."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Размер скидки уточните у страхового агента. Сведения о курсах есть на www.aarp.org/drive.",
+        "en": "Correct! Contact your insurance agent for the amount of the reduction. Course information is available at www.aarp.org/drive."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Это возможно: в руководстве сказано, что после курса можно получить скидку. Уточните размер у страхового агента.",
+        "en": "It is possible: the manual says you may receive a reduction after the course. Ask your insurance agent about the amount."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-instruction-permit",
+  "topic": "ch03-under-21",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "учебное разрешение (instruction permit)",
+    "en": "Instruction permit"
+  },
+  "definition": {
+    "ru": "Разрешение, которое позволяет тренироваться в вождении под присмотром: с инструктором автошколы или со взрослым от 21 года, у которого есть действующие права и не менее года водительского стажа. Этот человек сидит на переднем пассажирском сиденье. Чтобы получить permit, нужно сдать экзамены на зрение и письменный экзамен.",
+    "en": "A permit that lets you practice driving with a qualified supervisor, such as a driver education instructor or an adult age 21 or older with a valid license and at least one year of driving experience, who sits in the front passenger seat. To get one you must pass the vision and written exams."
+  }
+}

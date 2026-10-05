@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q10",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 19",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько раз водитель младше 21 года может получить судебный надзор (court supervision) за серьёзные нарушения правил движения?",
+    "en": "How many court supervisions for serious traffic offenses is a driver under age 21 limited to?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Один раз",
+        "en": "One"
+      },
+      "explanation": {
+        "ru": "Верно: водитель младше 21 года ограничен одним судебным надзором. Для него нужно также пройти traffic safety school.",
+        "en": "Correct: a driver under 21 is limited to one court supervision. Attending traffic safety school is also required to obtain it."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Два раза",
+        "en": "Two"
+      },
+      "explanation": {
+        "ru": "Предел ниже: только один раз.",
+        "en": "The limit is lower: only one."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три раза",
+        "en": "Three"
+      },
+      "explanation": {
+        "ru": "Предел ниже: только один раз для серьёзных нарушений.",
+        "en": "The limit is lower: just one for serious traffic offenses."
+      }
+    }
+  ]
+}

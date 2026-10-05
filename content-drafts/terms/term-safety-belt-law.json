@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-safety-belt-law",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "закон о ремнях безопасности",
+    "en": "Safety belt law"
+  },
+  "definition": {
+    "ru": "Все водители и пассажиры от 8 лет, на передних и задних сиденьях, обязаны пристёгиваться, даже если в машине есть подушки безопасности. Водитель отвечает за то, чтобы все пассажиры соблюдали этот закон и Child Passenger Protection Act.",
+    "en": "All drivers and passengers age 8 and older, in the front and back seats, must wear safety belts, even if the vehicle has air bags. The driver is responsible for making sure all passengers obey this law and the Child Passenger Protection Act."
+  }
+}

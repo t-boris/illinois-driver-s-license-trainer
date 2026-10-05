@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q08",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Груз выступает за заднюю часть автомобиля на 4 фута и более. Как его нужно отметить днём?",
+    "en": "A load extends 4 feet or more to the rear of your vehicle. How must it be marked during the day?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Красным флажком",
+        "en": "With a red flag"
+      },
+      "explanation": {
+        "ru": "Верно. Ночью или при плохой видимости нужен красный свет, видимый за 500 футов.",
+        "en": "Correct. At night or in poor visibility, a red light visible for 500 feet is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Белой лентой",
+        "en": "With white tape"
+      },
+      "explanation": {
+        "ru": "В руководстве упоминается красный флажок (red flag).",
+        "en": "The manual calls for a red flag."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничем, если груз хорошо закреплён",
+        "en": "Nothing, if it is well secured"
+      },
+      "explanation": {
+        "ru": "Хорошее крепление не заменяет маркировку: груз от 4 футов нужно отметить.",
+        "en": "Good securing does not replace marking: loads of 4 feet or more must be marked."
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q02",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R1-2",
+    "alt": {
+      "ru": "Красно-белый треугольный знак, направленный вершиной вниз",
+      "en": "Red and white triangular sign pointing downward"
+    }
+  },
+  "text": {
+    "ru": "Что должен сделать водитель, увидев этот знак?",
+    "en": "What should a driver do when seeing this sign?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Уступить дорогу всем машинам и пешеходам",
+        "en": "Give the right of way to all vehicles and pedestrians"
+      },
+      "explanation": {
+        "ru": "Отлично! Треугольный красно-белый знак это YIELD: сначала пропустите всех, при необходимости остановитесь.",
+        "en": "Great! The red and white triangle is YIELD: let everyone go first, and stop if necessary."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда полностью останавливаться",
+        "en": "Always make a full stop"
+      },
+      "explanation": {
+        "ru": "Полная остановка нужна у знака СТОП (Stop). У знака Yield нужно сбавить скорость и остановиться только если это необходимо.",
+        "en": "A full stop is required at a STOP sign. At a YIELD sign you slow down and stop only if necessary."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать первым, потому что у вас преимущество",
+        "en": "Go first, because you have the right of way"
+      },
+      "explanation": {
+        "ru": "Нет, наоборот: у знака Yield преимущество у других. Сбавьте скорость до безопасной и пропустите их.",
+        "en": "No, the opposite: at a YIELD sign the right of way belongs to others. Slow to a safe speed and let them go first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дорога закрыта",
+        "en": "The road is closed"
+      },
+      "explanation": {
+        "ru": "Закрытую дорогу (Road Closed) показывает другой знак. Треугольник означает Yield.",
+        "en": "A closed road (Road Closed) has a different sign. The triangle means YIELD."
+      }
+    }
+  ]
+}

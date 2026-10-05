@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w3-1",
+  "topic": "ch09-signs",
+  "signId": "W3-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Впереди знак СТОП (Stop Ahead)",
+    "en": "Stop Ahead"
+  },
+  "meaning": {
+    "ru": "Предупреждает о приближающемся устройстве регулирования движения. Даже если его ещё не видно, знак стоит достаточно близко, чтобы пора было начинать снижать скорость.",
+    "en": "Warns of approaching traffic control. Although the control may not yet be visible, the sign is close enough to require you to start slowing down."
+  }
+}

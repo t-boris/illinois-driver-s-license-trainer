@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-double-yellow-line",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "двойная сплошная жёлтая линия",
+    "en": "Solid double yellow lines"
+  },
+  "definition": {
+    "ru": "Две сплошные жёлтые линии отмечают середину дороги, где движение идёт во встречных направлениях. Их можно пересекать, чтобы повернуть налево в переулок, на частную дорогу, подъездную дорогу или улицу либо выехать оттуда.",
+    "en": "Two solid yellow lines mark the center of a roadway where traffic moves in opposite directions. They may be crossed to make a left turn to or from an alley, private road, driveway or street."
+  }
+}

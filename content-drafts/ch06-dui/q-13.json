@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q13",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 52",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Разрешать другому человеку вести вашу машину незаконно, если вы знаете, что он пьян (Contributing to a DUI).",
+    "en": "It is illegal to allow someone to drive your vehicle if you know that person is under the influence."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Это называется Contributing to a DUI.",
+        "en": "Correct. This is called Contributing to a DUI."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Руководство однозначно: так делать нельзя, и это отдельное нарушение.",
+        "en": "The manual is clear: this is not allowed and is a separate offense."
+      }
+    }
+  ]
+}

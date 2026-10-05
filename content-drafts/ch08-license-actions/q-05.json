@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q05",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Приостановка прав (suspension) была на определённый срок и закончилась. Что нужно, чтобы вернуть право на вождение?",
+    "en": "A suspension for a specific length of time has ended. What do you do to regain your driving privileges?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Подождать минимум год и подать заявление заново",
+        "en": "Wait at least a year and apply again"
+      },
+      "explanation": {
+        "ru": "Минимум год — это правило для отзыва (revocation). При приостановке на определённый срок права можно вернуть после его окончания.",
+        "en": "A one-year minimum is the revocation rule. For a suspension with a set length, you may regain privileges after it ends."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего: права возвращаются автоматически",
+        "en": "Nothing, privileges return automatically"
+      },
+      "explanation": {
+        "ru": "Почти: нужно ещё оплатить сбор за восстановление (reinstatement fee), а в некоторых случаях выполнить и другие требования.",
+        "en": "Almost: a reinstatement fee must be paid, and in some cases other requirements must be met too."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Оплатить сбор за восстановление (reinstatement fee)",
+        "en": "Pay a reinstatement fee"
+      },
+      "explanation": {
+        "ru": "Верно. После окончания срока приостановки нужно оплатить сбор. В некоторых случаях права не вернут, пока не выполнены другие требования.",
+        "en": "Correct. After the suspension ends you pay a reinstatement fee. In some cases the license is not returned until other requirements are met."
+      }
+    }
+  ]
+}

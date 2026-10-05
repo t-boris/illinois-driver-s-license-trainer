@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q20",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Все зоны дорожного строительства в Иллинойсе являются зонами, где обгон запрещён.",
+    "en": "All construction zones in Illinois are no passing zones."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! В зоне строительства обгонять нельзя: это правило действует во всех таких зонах штата.",
+        "en": "Correct! Passing is not allowed in a construction zone. This applies to all construction zones in Illinois."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Нет, исключений нет: все строительные зоны в Иллинойсе считаются зонами без обгона (no passing zones).",
+        "en": "No exceptions: all construction zones in Illinois are no passing zones."
+      }
+    }
+  ]
+}

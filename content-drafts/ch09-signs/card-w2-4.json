@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w2-4",
+  "topic": "ch09-signs",
+  "signId": "W2-4",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Т-образный перекрёсток (\"T\" Intersection)",
+    "en": "\"T\" Intersection"
+  },
+  "meaning": {
+    "ru": "Предупреждает о Т-образном перекрёстке впереди, где может быть движение или потребоваться поворот направо или налево.",
+    "en": "Warns of a \"T\" intersection ahead where traffic may exist or a right or left turn may be required."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q08",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W4-1",
+    "alt": {
+      "ru": "Жёлтый ромбовидный знак с чёрным рисунком",
+      "en": "Yellow diamond-shaped sign with a black symbol"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Две полосы скоро сольются в одну",
+        "en": "Two lanes will soon merge into one"
+      },
+      "explanation": {
+        "ru": "Верно! Будьте готовы перестроиться или пропустить других на свою полосу. Водитель на магистрали должен сбавить скорость, чтобы пропустить въезжающего.",
+        "en": "Correct! Be ready to change lanes or let other traffic into your lane. The driver on the expressway should slow down to let the driver on the ramp merge."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дорога становится односторонней",
+        "en": "The road becomes one-way"
+      },
+      "explanation": {
+        "ru": "Одностороннее движение показывает знак One-Way со стрелкой, а этот знак предупреждает о слиянии (merge).",
+        "en": "One-way traffic is shown by a One-Way sign with an arrow; this sign warns of a merge."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди перекрёсток",
+        "en": "An intersection is ahead"
+      },
+      "explanation": {
+        "ru": "Перекрёсток (intersection) обозначается знаком с крестом, Т или Y. Здесь полосы сливаются.",
+        "en": "An intersection is shown by a cross, T, or Y symbol. Here the lanes merge."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди заканчивается разделённая дорога",
+        "en": "A divided highway ends ahead"
+      },
+      "explanation": {
+        "ru": "Это другой знак: здесь две полосы одного направления сливаются в одну.",
+        "en": "That is a different sign: here two lanes going the same direction merge into one."
+      }
+    }
+  ]
+}

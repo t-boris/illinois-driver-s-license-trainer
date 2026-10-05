@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q01",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда вы пользуетесь правилом трёх секунд (three-second rule), ваша машина не должна доехать до выбранного неподвижного ориентира раньше счёта...",
+    "en": "When using the three-second rule, your vehicle should not reach the fixed object before the count of..."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "«одна тысяча два»",
+        "en": "one-thousand-two"
+      },
+      "explanation": {
+        "ru": "Почти! Вы ехали бы слишком близко: нужен ещё один отсчёт запаса.",
+        "en": "Close! That would be following too closely. You need one more second of space."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "«одна тысяча три»",
+        "en": "one-thousand-three"
+      },
+      "explanation": {
+        "ru": "Верно. Если вы доезжаете до ориентира раньше этого счёта, вы едете слишком близко (following too closely).",
+        "en": "Correct. If you reach the object before that count, you are following too closely."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "«одна тысяча пять»",
+        "en": "one-thousand-five"
+      },
+      "explanation": {
+        "ru": "Хорошее стремление держать запас, но в руководстве правило звучит как три секунды, а не пять.",
+        "en": "A nice instinct to leave extra room, but the manual states the rule as three seconds, not five."
+      }
+    }
+  ]
+}

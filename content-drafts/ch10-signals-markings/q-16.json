@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q16",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что делать, если на переезде шлагбаумы (gates) опущены?",
+    "en": "What should you do when the gates at a railroad crossing are lowered?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Объехать шлагбаум, если поезда не видно",
+        "en": "Go around the gates if no train is visible"
+      },
+      "explanation": {
+        "ru": "Объезжать опущенные шлагбаумы нельзя, и пытаться проскочить, пока они опускаются, тоже.",
+        "en": "Never go around lowered gates, and never try to beat them as they are lowering."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Стоять, пока шлагбаумы не поднимутся и огни не перестанут мигать",
+        "en": "Remain stopped until the gates are raised and the lights are no longer flashing"
+      },
+      "explanation": {
+        "ru": "Верно. Нужно и то, и другое: шлагбаумы подняты и огни погашены.",
+        "en": "Correct. Both conditions matter: gates raised and lights no longer flashing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проехать, как только поезд прошёл",
+        "en": "Go as soon as the train has passed"
+      },
+      "explanation": {
+        "ru": "Дождитесь, пока шлагбаумы поднимутся и огни перестанут мигать: после первого поезда может быть и другой.",
+        "en": "Wait until the gates rise and the lights stop flashing: another train may be coming."
+      }
+    }
+  ]
+}

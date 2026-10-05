@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q08",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого времени в пятницу и субботу действует ночное ограничение (nighttime driving restriction) для фаз Permit и Initial Licensing?",
+    "en": "On Friday and Saturday nights, when does the nighttime driving restriction start in the Permit and Initial Licensing phases?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 10 вечера",
+        "en": "At 10 p.m."
+      },
+      "explanation": {
+        "ru": "10 вечера — это начало ограничения с воскресенья по четверг. В пятницу и субботу оно начинается позже.",
+        "en": "10 p.m. is the start from Sunday through Thursday. On Friday and Saturday it starts later."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С полуночи",
+        "en": "At midnight"
+      },
+      "explanation": {
+        "ru": "Чуть раньше: в пятницу и субботу ограничение начинается в 11 вечера.",
+        "en": "A little earlier: on Friday and Saturday the restriction starts at 11 p.m."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "С 11 вечера (до 6 утра)",
+        "en": "At 11 p.m. (until 6 a.m.)"
+      },
+      "explanation": {
+        "ru": "Верно: пт.-сб. с 11 вечера до 6 утра; вс.-чт. с 10 вечера до 6 утра. Местные комендантские часы (local curfews) могут отличаться.",
+        "en": "Correct: Fri.-Sat. 11 p.m.-6 a.m.; Sun.-Thurs. 10 p.m.-6 a.m. Local curfews may differ."
+      }
+    }
+  ]
+}

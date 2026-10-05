@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q06",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что происходит с тормозным путём (stopping distance), если скорость вашего автомобиля увеличивается вдвое?",
+    "en": "What happens to your vehicle's stopping distance when you double your speed?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Он увеличивается вдвое",
+        "en": "It doubles"
+      },
+      "explanation": {
+        "ru": "Интуитивно кажется, что так, но зависимость сильнее.",
+        "en": "It seems logical, but the effect is stronger than that."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Он увеличивается втрое",
+        "en": "It triples"
+      },
+      "explanation": {
+        "ru": "Близко, но в руководстве указан другой множитель.",
+        "en": "Close, but the manual gives a different multiplier."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Он увеличивается вчетверо",
+        "en": "It quadruples"
+      },
+      "explanation": {
+        "ru": "Верно: удвоение скорости увеличивает тормозной путь в четыре раза (quadruples). Поэтому скорость нужно подбирать под условия.",
+        "en": "Correct: doubling your speed quadruples your stopping distance. That is why speed should match conditions."
+      }
+    }
+  ]
+}

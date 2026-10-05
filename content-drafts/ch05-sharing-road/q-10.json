@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q10",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какой рукой удобнее открывать дверь автомобиля после парковки и почему?",
+    "en": "Which hand should a driver consider using to open the car door after parking, and why?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Левой, чтобы быстрее выйти",
+        "en": "The left hand, to get out faster"
+      },
+      "explanation": {
+        "ru": "Руководство советует другое: правая рука заставляет корпус повернуться и посмотреть назад.",
+        "en": "The manual suggests otherwise: the right hand makes your body turn and look behind."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любой, это не важно",
+        "en": "Either hand; it makes no difference"
+      },
+      "explanation": {
+        "ru": "Выбор руки имеет значение: правая рука даёт лучший обзор.",
+        "en": "The manual says the choice helps: the right hand gives a better view."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Правой, потому что корпус разворачивается и видно велосипедистов и машины сзади (right hand)",
+        "en": "The right hand, because it makes you turn and look for oncoming bicyclists and vehicles"
+      },
+      "explanation": {
+        "ru": "Верно. Так проще заметить велосипедистов и машины, приближающиеся сзади. Перед открытием двери всегда проверяйте обстановку.",
+        "en": "Correct. It makes it easier to spot bicyclists and vehicles coming from behind. Always check before opening the door."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сначала открыть дверь, потом проверить",
+        "en": "Open the door first, then check"
+      },
+      "explanation": {
+        "ru": "Лучше наоборот: сначала проверьте, нет ли велосипедистов, и только потом открывайте дверь.",
+        "en": "Better the other way round: check for bicyclists first, then open the door."
+      }
+    }
+  ]
+}

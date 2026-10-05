@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-emergency-vehicle",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "автомобиль экстренной службы",
+    "en": "Emergency vehicle"
+  },
+  "definition": {
+    "ru": "Когда он приближается с проблесковыми маячками и/или сиреной, нужно сразу прижаться к правому краю дороги и пропустить его; иногда требуется полностью остановиться. На перекрёстке с двусторонним движением оставайтесь на месте, пока он не проедет перекрёсток.",
+    "en": "When one approaches you using lights and/or sirens, you must immediately pull to the right side of the road and let it pass; sometimes a complete stop is needed. At an intersection with two-way traffic, stay stopped until it has passed through."
+  }
+}

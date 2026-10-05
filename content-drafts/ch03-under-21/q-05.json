@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q05",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что включают одобренные курсы driver education, о которых говорится в руководстве?",
+    "en": "What do approved driver education courses include, according to the manual?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Десять часов теории и два часа вождения",
+        "en": "Ten hours of classroom study and two hours of driving"
+      },
+      "explanation": {
+        "ru": "Объём больше: не менее 30 часов теории и шести часов практики.",
+        "en": "The course is longer: at least 30 hours of classroom study and six hours behind the wheel."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не менее 30 часов теории и шесть часов вождения в обычном легковом автомобиле",
+        "en": "At least 30 hours of classroom study and six hours of behind-the-wheel training in a regular passenger vehicle"
+      },
+      "explanation": {
+        "ru": "Верно: 30 часов в классе плюс шесть часов за рулём обычного легкового автомобиля.",
+        "en": "Correct: 30 hours in the classroom plus six hours behind the wheel of a regular passenger vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Шесть часов теории и 30 часов вождения",
+        "en": "Six hours of classroom study and 30 hours of driving"
+      },
+      "explanation": {
+        "ru": "Цифры перепутаны местами: 30 часов теории и шесть часов вождения.",
+        "en": "The numbers are swapped: 30 hours of classroom study and six hours of driving."
+      }
+    }
+  ]
+}

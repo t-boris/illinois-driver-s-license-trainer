@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-court-supervision",
+  "topic": "ch03-under-21",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 19",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "судебный надзор (court supervision)",
+    "en": "Court supervision"
+  },
+  "definition": {
+    "ru": "Решение суда по нарушению правил движения. Водителю младше 21 года положен только один такой надзор за серьёзные нарушения; нужно пройти курс в школе безопасности дорожного движения, а если водителю нет 18 лет, то прийти в суд с родителем или законным опекуном.",
+    "en": "A court outcome for a traffic violation. A driver under age 21 is limited to one court supervision for serious traffic offenses, must attend traffic safety school, and, if under age 18, must appear in court with a parent or legal guardian."
+  }
+}

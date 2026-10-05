@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q14",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какой максимальный лимит скорости на интерстейтах и платных магистралях (interstates and tollways), если знаками не указано иное?",
+    "en": "What is the speed limit on interstates and tollways unless otherwise posted?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "55 миль/ч",
+        "en": "55 mph"
+      },
+      "explanation": {
+        "ru": "55 миль/ч — для прочих шоссе и сельской местности. На интерстейтах лимит выше.",
+        "en": "55 mph is for other highways and rural areas. The limit on interstates is higher."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "65 миль/ч",
+        "en": "65 mph"
+      },
+      "explanation": {
+        "ru": "65 миль/ч — для шоссе с четырьмя полосами. Для интерстейтов и платных магистралей — 70.",
+        "en": "65 mph is for highways with four lanes. For interstates and tollways it is 70."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "70 миль/ч",
+        "en": "70 mph"
+      },
+      "explanation": {
+        "ru": "Верно! 70 миль/ч — на интерстейтах и платных магистралях. Ехать с максимально допустимой скоростью можно только в безопасных условиях.",
+        "en": "Correct! 70 mph on interstates and tollways. You may drive at the maximum allowable speed only under safe conditions."
+      }
+    }
+  ]
+}

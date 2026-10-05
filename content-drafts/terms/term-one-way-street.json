@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-one-way-street",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "улица с односторонним движением",
+    "en": "One-way street"
+  },
+  "definition": {
+    "ru": "Улица или подъезд, где ехать можно только в направлении стрелки на знаке ONE WAY. Знаки DO NOT ENTER и WRONG WAY предупреждают, что въезжать или поворачивать в обратном направлении нельзя.",
+    "en": "A street or driveway where you must always go only in the direction of the arrow on the ONE WAY sign. DO NOT ENTER and WRONG WAY signs warn you away from entering or turning the wrong way."
+  }
+}

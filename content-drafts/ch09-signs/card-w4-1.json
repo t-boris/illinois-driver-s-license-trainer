@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w4-1",
+  "topic": "ch09-signs",
+  "signId": "W4-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Слияние полос (Merging Lanes)",
+    "en": "Merging Lanes"
+  },
+  "meaning": {
+    "ru": "Две полосы, идущие в одном направлении, скоро сольются в одну. Будьте готовы перестроиться или пропустить других на свою полосу. Знаки слияния могут стоять на магистрали перед въездами: водитель на магистрали должен сбавить скорость, чтобы пропустить въезжающего.",
+    "en": "Two lanes of traffic going the same direction will soon merge into one lane. Be ready to either change lanes or allow other traffic to merge into your lane. On an expressway, the driver on the expressway should slow down to let the driver on the ramp merge."
+  }
+}

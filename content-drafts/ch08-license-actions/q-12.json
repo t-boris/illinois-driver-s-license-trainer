@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q12",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 62",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кому может быть выдано Family Financial Responsibility Driving Permit (FRP)?",
+    "en": "Who may receive a Family Financial Responsibility Driving Permit (FRP)?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любому водителю, у которого нет страховки",
+        "en": "Any driver without insurance"
+      },
+      "explanation": {
+        "ru": "FRP не связан со страховкой: он нужен тем, у кого права приостановлены за неуплату алиментов или нарушение порядка свиданий с ребёнком.",
+        "en": "The FRP is not about insurance: it is for drivers suspended for nonpayment of child support or child visitation abuse."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Водителю, права которого приостановлены за неуплату алиментов или нарушение порядка свиданий с ребёнком, по решению окружного судьи или по указанию Illinois Department of Healthcare and Family Services",
+        "en": "A driver whose license was suspended for nonpayment of child support or child visitation abuse, following a circuit judge’s order or direction from the Illinois Department of Healthcare and Family Services"
+      },
+      "explanation": {
+        "ru": "Верно. Разрешение выдаётся только после судебного решения или по указанию Illinois Department of Healthcare and Family Services.",
+        "en": "Correct. It is only issued following a circuit judge’s order or upon direction from the Illinois Department of Healthcare and Family Services."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любому водителю, который хочет ездить на работу",
+        "en": "Any driver who wants to drive to work"
+      },
+      "explanation": {
+        "ru": "Для поездок на работу чаще подходят другие разрешения (RDP, ODP). FRP выдаётся только в связи с алиментами или свиданиями с ребёнком.",
+        "en": "Other permits (RDP, ODP) cover work trips. The FRP is issued only in connection with child support or child visitation."
+      }
+    }
+  ]
+}

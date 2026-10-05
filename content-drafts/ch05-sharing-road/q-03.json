@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q03",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 42",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какую дистанцию нужно держать, следуя за мотоциклом?",
+    "en": "What following distance should you allow behind a motorcycle?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не менее трёх-четырёх секунд (following distance)",
+        "en": "At least three to four seconds"
+      },
+      "explanation": {
+        "ru": "Верно. Такая дистанция даёт мотоциклисту время для манёвра в экстренной ситуации.",
+        "en": "Correct. This gives the motorcyclist enough time to maneuver in an emergency."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Меньше, чем за легковой машиной, ведь мотоцикл маленький",
+        "en": "Less than behind a car, because a motorcycle is small"
+      },
+      "explanation": {
+        "ru": "Логично на первый взгляд, но руководство советует другое: держать не менее трёх-четырёх секунд.",
+        "en": "It sounds logical, but the manual advises otherwise: allow at least three to four seconds."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Столько же, сколько и за любой другой машиной, без особых правил",
+        "en": "The same as for any car, with no special rule"
+      },
+      "explanation": {
+        "ru": "Для мотоцикла руководство даёт отдельную рекомендацию: не менее трёх-четырёх секунд.",
+        "en": "For motorcycles the manual gives a specific guideline: at least three to four seconds."
+      }
+    }
+  ]
+}

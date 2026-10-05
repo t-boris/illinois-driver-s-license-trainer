@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q17",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W8-5",
+    "alt": {
+      "ru": "Жёлтый ромбовидный знак с чёрным рисунком",
+      "en": "Yellow diamond-shaped sign with a black picture"
+    }
+  },
+  "text": {
+    "ru": "О чём предупреждает этот жёлтый ромб?",
+    "en": "What does this yellow diamond warn about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "О скользком покрытии: можно потерять управление",
+        "en": "Slippery pavement that can make you lose control"
+      },
+      "explanation": {
+        "ru": "Верно! Сбавьте скорость на мокрой дороге: тормозной путь длиннее.",
+        "en": "Correct! Slow down on wet pavement because it takes longer to stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "О крутом спуске",
+        "en": "A steep hill"
+      },
+      "explanation": {
+        "ru": "Крутой спуск (downgrade) показывает знак с наклонной линией и машиной на спуске.",
+        "en": "A downgrade is shown by a sign with a sloping line and a vehicle heading downhill."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "О сужении дороги",
+        "en": "A road that narrows"
+      },
+      "explanation": {
+        "ru": "Сужение дороги (road narrows) обозначается другим знаком с надписью или линиями.",
+        "en": "A road that narrows has its own sign with lettering or lines."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "О пешеходном переходе",
+        "en": "A pedestrian crosswalk"
+      },
+      "explanation": {
+        "ru": "Пешеходный переход обозначается знаком с фигурой пешехода.",
+        "en": "A crosswalk is shown by a sign with a pedestrian figure."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q10",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 63",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли: знак в форме ромба предупреждает водителей о возможных опасностях?",
+    "en": "True or false: a diamond-shaped sign warns drivers of possible hazards."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Отлично! Ромб (diamond) это предупреждающий знак (WARNING) об опасностях на дороге или рядом с ней: снизьте скорость и будьте осторожны.",
+        "en": "Great! The diamond is a WARNING sign about hazards on or near the roadway: slow down and use caution."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Хорошая мысль, но это верное утверждение. Ромб (diamond) действительно предупреждает об опасностях, а регулирующие знаки чаще имеют другие формы.",
+        "en": "Good thinking, but the statement is true. The diamond does warn of hazards, while regulatory signs have other shapes."
+      }
+    }
+  ]
+}

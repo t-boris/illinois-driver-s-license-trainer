@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q05",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 52",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водитель младше 21 года, в организме которого обнаружены любые следы алкоголя за рулём. Какое минимальное наказание ожидает его по руководству?",
+    "en": "A driver under age 21 is found with any trace of alcohol in the system while driving. What is the minimum penalty in the manual?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Предупреждение без последствий для прав",
+        "en": "A warning with no effect on driving privileges"
+      },
+      "explanation": {
+        "ru": "Руководство называет приостановку прав, а не только предупреждение.",
+        "en": "The manual describes a suspension of driving privileges, not only a warning."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приостановка прав минимум на три месяца (suspension)",
+        "en": "Suspension of driving privileges for a minimum of three months"
+      },
+      "explanation": {
+        "ru": "Верно. Для водителей до 21 года действует строгое правило: любые следы алкоголя.",
+        "en": "Correct. Drivers under 21 face a strict rule: any trace of alcohol counts."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Лишение прав минимум на пять лет",
+        "en": "Revocation for a minimum of five years"
+      },
+      "explanation": {
+        "ru": "Пять лет относится ко второму осуждению за DUI. За следы алкоголя до 21 года минимум три месяца.",
+        "en": "Five years applies to a second DUI conviction. For any trace of alcohol under 21 the minimum is three months."
+      }
+    }
+  ]
+}

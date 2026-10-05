@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-intersection",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "перекрёсток",
+    "en": "Intersection"
+  },
+  "definition": {
+    "ru": "Место, где пересекаются дороги. На перекрёстке со знаком STOP или мигающим красным сигналом остановитесь у стоп-линии; если её нет, то перед пешеходным переходом, а если нет и перехода, то там, откуда видно все приближающиеся машины. Нельзя въезжать на перекрёсток, пока нет места для проезда других машин и пешеходов, а на зелёный нужно уступить, если на перекрёстке ещё остались машины.",
+    "en": "A place where roads meet. At an intersection with a stop sign or flashing red signal, stop at the stop line; if there is none, stop before the crosswalk, and if there is no crosswalk, stop where you can see all approaching traffic. You may not enter an intersection unless there is enough space for other vehicles and pedestrians to pass, and you must yield even after the light turns green if vehicles are still in it."
+  }
+}

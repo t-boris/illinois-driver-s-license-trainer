@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-school-zone",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "школьная зона",
+    "en": "School zone"
+  },
+  "definition": {
+    "ru": "Обозначенный участок возле школы, где с 6:30 до 16:00 в учебные дни, когда рядом есть дети, нужно снизить скорость до 20 миль/ч, прекратить пользоваться телефоном (кроме hands-free) и остановиться, уступая детям или взрослым на пешеходном переходе.",
+    "en": "A marked area near a school where, between 6:30 a.m. and 4 p.m. on days school is in operation and children are present, you must reduce speed to 20 mph, stop cellphone use (unless hands-free), and stop and yield to children or adults in the crosswalk."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-open-container",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "открытая ёмкость с алкоголем (open container)",
+    "en": "Open container (illegal transportation of alcoholic beverages)"
+  },
+  "definition": {
+    "ru": "Пить алкогольные напитки в машине незаконно, как и держать в салоне алкоголь в открытой ёмкости. Водителю и пассажирам могут выписать штраф; исключение — пассажиры арендованных автобусов (не для школьных целей), автодомов и лимузинов.",
+    "en": "It is illegal to drink alcoholic beverages in a vehicle, and illegal to have alcohol in the passenger area if the container has been opened. The driver and passengers may be issued a traffic citation; passengers on chartered buses used for nonschool purposes, motor homes, mini motor homes and limousines are exempt."
+  }
+}

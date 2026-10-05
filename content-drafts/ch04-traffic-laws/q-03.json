@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q03",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 28",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "При обгоне нужно вернуться в свою полосу до того, как вы окажетесь ближе к встречному автомобилю, чем на сколько футов?",
+    "en": "When passing, you must return to your lane before getting within how many feet of an oncoming vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "100 футов",
+        "en": "100 feet"
+      },
+      "explanation": {
+        "ru": "100 футов — это запретная дистанция для обгона возле перекрёстка или переезда, а здесь цифра другая: 200 футов.",
+        "en": "100 feet is the no-passing distance near an intersection or railroad crossing. For oncoming vehicles the number is 200 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "200 футов",
+        "en": "200 feet"
+      },
+      "explanation": {
+        "ru": "Верно! Вернитесь в свою полосу до того, как до встречной машины останется 200 футов. Заодно убедитесь, что обгоняемая машина целиком видна в зеркале заднего вида (rearview mirror).",
+        "en": "Correct! You must return to your lane before getting within 200 feet of an oncoming vehicle. Also wait until the entire vehicle you passed is visible in your rearview mirror."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "300 футов",
+        "en": "300 feet"
+      },
+      "explanation": {
+        "ru": "Это не та дистанция для этого правила. Для встречной машины запомните 200 футов.",
+        "en": "That is not the distance for this rule. For an oncoming vehicle, remember 200 feet."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "500 футов",
+        "en": "500 feet"
+      },
+      "explanation": {
+        "ru": "500 футов — это обзорность для разворота на кривой или холме. При обгоне нужно успеть вернуться в полосу за 200 футов до встречной машины.",
+        "en": "500 feet is the visibility needed for a U-turn on a curve or hill. When passing, return to your lane before 200 feet from the oncoming vehicle."
+      }
+    }
+  ]
+}

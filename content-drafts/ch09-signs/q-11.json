@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q11",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R2-1",
+    "alt": {
+      "ru": "Белый прямоугольный знак с чёрной надписью и цифрами",
+      "en": "White rectangular sign with black lettering and numerals"
+    }
+  },
+  "text": {
+    "ru": "Что может показывать такой знак на фривеях и магистралях с контролируемым доступом?",
+    "en": "What can signs like this show on freeways and controlled-access highways?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Максимальную и минимальную разрешённую скорость",
+        "en": "Maximum and minimum speed limits"
+      },
+      "explanation": {
+        "ru": "Верно! Ехать медленнее минимальной скорости (minimum speed limit) незаконно, если это не нужно для безопасности.",
+        "en": "Correct! Driving slower than the minimum speed limit is illegal unless necessary for safety."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только рекомендуемую скорость на повороте",
+        "en": "Only a suggested speed on a curve"
+      },
+      "explanation": {
+        "ru": "Скорость на повороте показывает другой, жёлтый знак. Этот знак задаёт лимит (speed limit).",
+        "en": "Speed on a curve is shown by a different, yellow sign. This sign sets a speed limit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Расстояние до следующего съезда",
+        "en": "The distance to the next exit"
+      },
+      "explanation": {
+        "ru": "Расстояние до пунктов назначения показывают зелёные указательные знаки (guide signs).",
+        "en": "Distances to destinations are shown on green guide signs."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Номер автомагистрали",
+        "en": "The highway number"
+      },
+      "explanation": {
+        "ru": "Номера дорог показывают маркеры маршрутов (route markers). Этот знак про скорость.",
+        "en": "Road numbers are shown by route markers. This sign is about speed."
+      }
+    }
+  ]
+}

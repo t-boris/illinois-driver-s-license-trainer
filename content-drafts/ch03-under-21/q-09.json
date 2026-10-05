@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q09",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что в первые 12 месяцев Initial Licensing Phase водителю разрешено возить не более двух пассажиров младше 20 лет (если это не братья, сёстры, дети или пасынки/падчерицы водителя)?",
+    "en": "True or false: During the first 12 months of the Initial Licensing Phase, a driver may carry up to two passengers under age 20 (unless they are siblings, stepsiblings, children, or stepchildren)."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Здесь число другое: по руководству разрешён только один пассажир младше 20 лет, кроме братьев и сестёр (в том числе сводных), детей, пасынков и падчериц водителя.",
+        "en": "The number is different: the manual allows only one passenger under age 20, other than the driver’s sibling, stepsibling, child, or stepchild."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Да, это утверждение неверно. В первые 12 месяцев (или до 18 лет, что наступит раньше) разрешён один пассажир младше 20 лет, если это не брат или сестра (в том числе сводные), ребёнок или пасынок/падчерица водителя.",
+        "en": "Right. For the first 12 months of licensing, or until the driver turns 18, whichever occurs first, only one passenger under 20 is allowed, unless the passenger is a sibling, stepsibling, child, or stepchild."
+      }
+    }
+  ]
+}

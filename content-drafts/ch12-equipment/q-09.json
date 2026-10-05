@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q09",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Мигающие огни, кроме указателей поворота и аварийной сигнализации, разрешены на любом автомобиле.",
+    "en": "Flashing lights other than turn signals or hazard indicators are allowed on any vehicle."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Такие огни запрещены всем, кроме полиции и специальных экстренных служб (police or designated emergency vehicles).",
+        "en": "Such lights are prohibited except for police or designated emergency vehicles."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно. То же касается красных огней, видимых спереди.",
+        "en": "Correct. The same goes for red lights visible from the front."
+      }
+    }
+  ]
+}

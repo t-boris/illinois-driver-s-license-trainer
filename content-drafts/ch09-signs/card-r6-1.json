@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r6-1",
+  "topic": "ch09-signs",
+  "signId": "R6-1",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Одностороннее движение (One-Way)",
+    "en": "One-Way"
+  },
+  "meaning": {
+    "ru": "Знак стоит на улицах и подъездах с односторонним движением. Ехать можно только в направлении стрелки.",
+    "en": "Used on one-way streets or driveways. You must always go only in the direction of the arrow."
+  }
+}

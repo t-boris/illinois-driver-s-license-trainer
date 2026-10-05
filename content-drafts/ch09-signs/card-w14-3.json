@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w14-3",
+  "topic": "ch09-signs",
+  "signId": "W14-3",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 64",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Зона запрета обгона (No Passing Zone)",
+    "en": "No Passing Zone"
+  },
+  "meaning": {
+    "ru": "Жёлтый трёхсторонний знак с чёрными буквами. Стоит слева на двухполосной дороге с движением в обе стороны в начале участка, где есть и разметка запрета обгона.",
+    "en": "A three-sided yellow sign with black letters. It appears on the left side of a two-lane, two-way roadway at the beginning of the area where \"no passing\" pavement markings are also used."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w20-7a",
+  "topic": "ch09-signs",
+  "signId": "W20-7a",
+  "category": "construction",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 73",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Впереди регулировщик (Flagger)",
+    "en": "Flagger"
+  },
+  "meaning": {
+    "ru": "Впереди работает регулировщик (flagger) рядом с движением. Сбавьте скорость и будьте готовы выполнять его сигналы. Если он подаёт сигнал остановки, вы обязаны остановиться.",
+    "en": "There is a flagger ahead. Use caution, as the individual will be working close to traffic. Slow down and be prepared to obey the signals of the flagger. You must stop if signaled to do so."
+  }
+}

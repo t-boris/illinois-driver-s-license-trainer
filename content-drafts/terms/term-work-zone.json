@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-work-zone",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "зона дорожных работ",
+    "en": "Work zone (construction zone)"
+  },
+  "definition": {
+    "ru": "Участок дороги, где идут строительные или ремонтные работы. Снизьте скорость, не пользуйтесь телефоном в руках, уступайте служебным машинам и рабочим, по возможности перестройтесь подальше от рабочих и соблюдайте установленное ограничение скорости круглосуточно, все семь дней в неделю.",
+    "en": "A highway construction or maintenance area. Slow down, stop using a handheld cellphone, yield to authorized vehicles and workers, move away from workers when possible, and obey the posted construction zone speed limit 24 hours a day, seven days a week."
+  }
+}

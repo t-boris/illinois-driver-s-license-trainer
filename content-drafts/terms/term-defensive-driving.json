@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-defensive-driving",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "защитное вождение (defensive driving)",
+    "en": "Drive defensively"
+  },
+  "definition": {
+    "ru": "Всегда будьте готовы отреагировать на действия другого водителя и не думайте, что знаете, что он сделает. Если избежать аварии нельзя, сохраняйте спокойствие и постарайтесь выбрать наименее опасный вариант.",
+    "en": "Always be prepared to react to another driver and do not assume you know what the other driver is going to do. If a crash cannot be avoided, stay calm and try to choose the least dangerous situation."
+  }
+}

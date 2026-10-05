@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-slow-moving-vehicle-emblem",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "знак «тихоходное транспортное средство» (slow-moving vehicle emblem)",
+    "en": "Slow-moving vehicle emblem"
+  },
+  "definition": {
+    "ru": "Оранжевый знак, который должен быть на задней части некоторых тихоходных транспортных средств, таких как сельхозтехника, строительные машины и гужевые повозки. Увидев его, снизьте скорость и обгоняйте только тогда, когда это безопасно и законно.",
+    "en": "An orange emblem that must be on the rear of certain slow-moving vehicles, such as farm vehicles, construction equipment and animal-drawn vehicles. When you see it, slow down and pass only when it is safe and legal."
+  }
+}

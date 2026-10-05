@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q14",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие из перечисленных лекарств, по руководству, могут нарушать безопасное вождение?",
+    "en": "Which of the following may impair safe driving, according to the manual?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только запрещённые препараты",
+        "en": "Only illegal drugs"
+      },
+      "explanation": {
+        "ru": "Руководство говорит шире: многие рецептурные и безрецептурные препараты тоже влияют на вождение.",
+        "en": "The manual is broader: many prescription and nonprescription drugs impair driving too."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Антигистаминные, средства от простуды и обезболивающие (antihistamines, cold remedies, pain relievers)",
+        "en": "Antihistamines, cold remedies, and pain relievers"
+      },
+      "explanation": {
+        "ru": "Верно. Смешивать даже небольшое количество алкоголя с другими препаратами очень опасно.",
+        "en": "Correct. Mixing even small amounts of alcohol with other drugs is very dangerous."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ни одно лекарство не влияет, если оно продаётся без рецепта",
+        "en": "None, if sold without a prescription"
+      },
+      "explanation": {
+        "ru": "Руководство указывает, что безрецептурные препараты тоже могут мешать безопасному вождению.",
+        "en": "The manual notes that nonprescription drugs can impair safe driving too."
+      }
+    }
+  ]
+}

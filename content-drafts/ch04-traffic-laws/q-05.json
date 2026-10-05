@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q05",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Разговор по телефону, который вы держите в руке, с включённой громкой связью (speaker phone) считается пользованием hands-free и разрешён в Иллинойсе.",
+    "en": "Using a cellphone while holding the device and using the speaker phone is considered hands-free in Illinois."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Это не так. Если телефон у вас в руке, громкая связь не делает его hands-free.",
+        "en": "This is not the case. If you are holding the phone, using the speaker phone does not make it hands-free."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, это нарушение! Hands-free означает, что телефон не нужно держать в руке. Руки на руле, а разговор через Bluetooth или голосовое управление.",
+        "en": "Correct, it is a violation! Hands-free means you do not hold the device. Keep your hands on the wheel and use Bluetooth or voice controls."
+      }
+    }
+  ]
+}

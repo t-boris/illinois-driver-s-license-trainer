@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q08",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Закон о подразумеваемом согласии (implied consent law) означает, что, ведя машину по дорогам Иллинойса, вы автоматически соглашаетесь пройти определённые тесты на алкоголь или наркотики.",
+    "en": "The implied consent law means that when operating a vehicle on Illinois roadways, you automatically consent to certain tests to determine if you were under the influence."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Тесты могут включать дыхание, кровь, мочу или другие биологические среды.",
+        "en": "Correct. Tests can include breath, blood, urine, or other bodily substance tests."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Именно так работает этот закон: согласие подразумевается автоматически.",
+        "en": "This is exactly how the law works: consent is automatic."
+      }
+    }
+  ]
+}

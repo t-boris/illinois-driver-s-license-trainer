@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q11",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 47",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Чего никогда нельзя делать рядом с лошадью или другим скотом на дороге?",
+    "en": "What should you never do near a horse or other livestock?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Никогда не сигналить: звук может её испугать (never sound a horn)",
+        "en": "Never sound a horn, because it may frighten the animal and cause a crash"
+      },
+      "explanation": {
+        "ru": "Верно. Приближайтесь осторожно и будьте готовы остановиться.",
+        "en": "Correct. Approach with caution and be prepared to stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никогда не снижать скорость",
+        "en": "Never slow down"
+      },
+      "explanation": {
+        "ru": "Наоборот, руководство советует осторожность и готовность остановиться.",
+        "en": "On the contrary, the manual advises caution and being prepared to stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Подать длинный сигнал, чтобы лошадь ушла с дороги",
+        "en": "Honk long so the horse moves off the road"
+      },
+      "explanation": {
+        "ru": "Именно этого делать нельзя: звук может испугать лошадь и привести к аварии.",
+        "en": "This is exactly what to avoid: the sound may frighten the horse and cause a crash."
+      }
+    }
+  ]
+}

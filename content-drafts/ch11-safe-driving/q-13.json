@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q13",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Колёса вашей машины съехали с асфальта на обочину. Как правильно вернуться на дорогу?",
+    "en": "Your wheels drift off the pavement onto the shoulder. How should you return to the road?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко вывернуть руль обратно на асфальт",
+        "en": "Jerk the wheel sharply back onto the pavement"
+      },
+      "explanation": {
+        "ru": "Резкий поворот руля может привести к выезду на встречную полосу (jerk the wheel).",
+        "en": "Jerking the wheel may send the vehicle into oncoming traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сильно нажать на тормоз",
+        "en": "Brake hard"
+      },
+      "explanation": {
+        "ru": "Тормозить нужно мягко (brake gently), а не сильно.",
+        "en": "Brake gently, not hard."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Крепко взяться за руль, убрать ногу с газа, мягко затормозить, проверить машины сзади и плавно вернуться на дорогу",
+        "en": "Grip the wheel firmly, ease off the gas, brake gently, check for traffic behind you, and gently steer back onto the pavement"
+      },
+      "explanation": {
+        "ru": "Верно. Всё плавно и без рывков.",
+        "en": "Correct. Everything smoothly and without jerking."
+      }
+    }
+  ]
+}

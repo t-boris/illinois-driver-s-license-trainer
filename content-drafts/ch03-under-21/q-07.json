@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q07",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько часов вождения в тёмное время суток входит в обязательные 50 часов практики под присмотром для водителей младше 18 лет?",
+    "en": "How many of the required 50 hours of supervised driving for drivers under 18 must be nighttime driving?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "10 часов",
+        "en": "10 hours"
+      },
+      "explanation": {
+        "ru": "Верно: 50 часов практики, из них 10 часов ночью. Журнал вождения (driving log) помогает вести учёт.",
+        "en": "Correct: 50 hours of supervised driving, including 10 hours at night. A driving log helps you track them."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "5 часов",
+        "en": "5 hours"
+      },
+      "explanation": {
+        "ru": "Немного больше: из 50 часов ночью нужно проехать 10.",
+        "en": "A bit more: 10 of the 50 hours must be at night."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "20 часов",
+        "en": "20 hours"
+      },
+      "explanation": {
+        "ru": "Многовато: по руководству достаточно 10 ночных часов из 50.",
+        "en": "That is more than required: the manual asks for 10 nighttime hours out of the 50."
+      }
+    }
+  ]
+}

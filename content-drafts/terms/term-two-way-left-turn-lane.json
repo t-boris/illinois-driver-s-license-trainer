@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-two-way-left-turn-lane",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "центральная полоса для левых поворотов (two-way left turn lane)",
+    "en": "Two-way left turn lane"
+  },
+  "definition": {
+    "ru": "Полоса посередине дороги, где можно безопасно ждать, чтобы повернуть налево на перекрёстке или въехать на подъездную дорогу и выехать с неё посреди квартала. Она размечена жёлтыми линиями и белыми стрелками.",
+    "en": "A lane in the center of the road that gives cars a safe area to make left turns at intersections or into or out of a drive in the middle of the block. It is marked with yellow lines and white arrows."
+  }
+}

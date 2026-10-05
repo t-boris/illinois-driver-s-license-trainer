@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q10",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что означает мигающая жёлтая стрелка?",
+    "en": "What does a flashing yellow arrow mean?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поворот в сторону стрелки запрещён",
+        "en": "Turning in the arrow's direction is prohibited"
+      },
+      "explanation": {
+        "ru": "Наоборот: мигающая жёлтая стрелка поворот разрешает, но с условием.",
+        "en": "Quite the opposite: a flashing yellow arrow allows the turn, with a condition."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Можно поворачивать в сторону стрелки, уступив пешеходам и машинам на перекрёстке или переходе",
+        "en": "You may turn in the arrow's direction after yielding to pedestrians and vehicles in the intersection or crosswalk"
+      },
+      "explanation": {
+        "ru": "Верно. Условие одно: сначала уступите дорогу.",
+        "en": "Correct. The one condition is to yield first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Зелёная стрелка заканчивается",
+        "en": "The green arrow is ending"
+      },
+      "explanation": {
+        "ru": "Об этом говорит постоянно горящая жёлтая стрелка (constantly lit yellow arrow), а не мигающая.",
+        "en": "That is the message of a constantly lit yellow arrow, not a flashing one."
+      }
+    }
+  ]
+}

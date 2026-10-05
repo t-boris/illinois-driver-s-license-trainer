@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q15",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы столкнулись с агрессивным водителем (aggressive driver). Что рекомендуется?",
+    "en": "You encounter an angry or aggressive motorist. What is recommended?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не отвечать ему, не встречаться взглядом, держать двери закрытыми и окна поднятыми",
+        "en": "Do not retaliate, do not make eye contact, keep doors locked and windows up"
+      },
+      "explanation": {
+        "ru": "Верно. Не недооценивайте потенциал агрессии другого водителя.",
+        "en": "Correct. Do not underestimate a driver's potential for aggression."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посигналить и помигать фарами, чтобы он понял",
+        "en": "Honk and flash your headlights so he gets the message"
+      },
+      "explanation": {
+        "ru": "Частые сигналы и мигание фарами сами относятся к агрессивной езде (repeatedly honking, flashing).",
+        "en": "Repeated honking and flashing headlights are themselves listed as aggressive driving."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Опустить стекло и объясниться",
+        "en": "Roll down the window and talk it out"
+      },
+      "explanation": {
+        "ru": "Не вступайте в контакт: в руководстве советуют не взаимодействовать с водителем (do not engage).",
+        "en": "Do not engage the other driver in any way."
+      }
+    }
+  ]
+}

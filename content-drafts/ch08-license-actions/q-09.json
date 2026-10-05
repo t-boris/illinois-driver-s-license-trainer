@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q09",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 62",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кому подходит рабочее разрешение (Occupational Driving Permit, ODP)?",
+    "en": "Who qualifies for an Occupational Driving Permit (ODP)?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любому водителю, чьи права приостановлены за DUI",
+        "en": "Any driver whose license was suspended for DUI"
+      },
+      "explanation": {
+        "ru": "ODP связан с тремя нарушениями правил движения, а не с DUI. Для DUI есть другое разрешение, MDDP.",
+        "en": "The ODP is tied to three moving violations, not DUI. DUI has a different permit, the MDDP."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Водителю коммерческого транспорта (commercial driver)",
+        "en": "A commercial driver"
+      },
+      "explanation": {
+        "ru": "Это как раз исключение: ODP не распространяется на commercial drivers.",
+        "en": "That is the exception: the ODP does not apply to commercial drivers."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Профессиональному водителю, чьи права приостановлены за три нарушения, если вождение — его заработок (но не commercial driver)",
+        "en": "A professional driver whose license was suspended for three moving violations and who drives for a living (not a commercial driver)"
+      },
+      "explanation": {
+        "ru": "Верно. ODP позволяет ездить в связи с трудовой деятельностью, но нужно именно зарабатывать вождением. Commercial drivers сюда не относятся.",
+        "en": "Correct. The ODP allows driving in conjunction with employment, and you must drive for a living. It does not apply to commercial drivers."
+      }
+    }
+  ]
+}

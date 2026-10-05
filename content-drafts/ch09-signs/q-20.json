@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q20",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 73",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W20-7a",
+    "alt": {
+      "ru": "Оранжевый ромбовидный знак с чёрным рисунком",
+      "en": "Orange diamond-shaped sign with a black picture"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот оранжевый знак?",
+    "en": "What does this orange sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди регулировщик: будьте готовы выполнять его сигналы",
+        "en": "A flagger is ahead: be ready to obey the signals"
+      },
+      "explanation": {
+        "ru": "Верно! Регулировщик (flagger) работает близко к движению. Если он подаёт сигнал остановки, вы обязаны остановиться.",
+        "en": "Correct! A flagger works close to traffic. You must stop if signaled to do so."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди школьный переход",
+        "en": "A school crossing is ahead"
+      },
+      "explanation": {
+        "ru": "Школьные знаки жёлтые или жёлто-зелёные, а этот оранжевый.",
+        "en": "School signs are yellow or yellow-green; this one is orange."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дорога закрыта для всех",
+        "en": "The road is closed to all traffic"
+      },
+      "explanation": {
+        "ru": "Закрытую дорогу показывает знак Road Closed с надписью.",
+        "en": "A closed road is shown by the Road Closed sign with lettering."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Парковка для людей с инвалидностью",
+        "en": "Parking for persons with disabilities"
+      },
+      "explanation": {
+        "ru": "Такая парковка обозначается другим знаком: с символом инвалидности.",
+        "en": "That parking is marked by a different sign with the disability symbol."
+      }
+    }
+  ]
+}

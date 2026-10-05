@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w3-3",
+  "topic": "ch09-signs",
+  "signId": "W3-3",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Впереди светофор (Signal Ahead)",
+    "en": "Signal Ahead"
+  },
+  "meaning": {
+    "ru": "Предупреждает о приближающемся светофоре. Даже если сигнал ещё не виден, знак стоит достаточно близко, чтобы пора было снижать скорость.",
+    "en": "Warns of an approaching traffic control signal. Although the traffic signal may not yet be visible, the sign is close enough to require you to start slowing down."
+  }
+}

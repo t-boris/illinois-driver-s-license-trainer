@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-dutch-reach",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "«голландский» способ открывания двери (Dutch Reach)",
+    "en": "Dutch Reach"
+  },
+  "definition": {
+    "ru": "Способ открывать дверь автомобиля правой рукой, потянувшись через себя: при этом вы разворачиваете корпус и смотрите назад, чтобы увидеть приближающиеся машины и велосипедистов. Дверь со стороны движения можно открывать только тогда, когда это безопасно и не мешает потоку.",
+    "en": "A way to open a car door by reaching across with your right hand, which makes you turn your body and look back for oncoming vehicles and bicyclists. Doors on the traffic side may be opened only if it can be done safely and without interfering with traffic."
+  }
+}

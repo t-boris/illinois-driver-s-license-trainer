@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-s1-1",
+  "topic": "ch09-signs",
+  "signId": "S1-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Школьный знак (School Sign)",
+    "en": "School Sign"
+  },
+  "meaning": {
+    "ru": "Предупреждает о школьных зонах и переходах. Будьте внимательны и следите за детьми; при необходимости сбавьте скорость и остановитесь.",
+    "en": "Warns of school areas and crossings. Stay alert and watch for children. Slow down and stop when necessary."
+  }
+}

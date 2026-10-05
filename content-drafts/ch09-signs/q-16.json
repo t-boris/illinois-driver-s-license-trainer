@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q16",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W3-1",
+    "alt": {
+      "ru": "Жёлтый ромбовидный знак с чёрной стрелкой и красной фигурой",
+      "en": "Yellow diamond-shaped sign with a black arrow and a red shape"
+    }
+  },
+  "text": {
+    "ru": "О чём предупреждает этот знак?",
+    "en": "What does this sign warn about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди знак СТОП: пора снижать скорость",
+        "en": "A STOP sign is ahead: start slowing down"
+      },
+      "explanation": {
+        "ru": "Верно! Знак Stop Ahead стоит достаточно близко, чтобы вы начали замедляться, особенно на скоростных дорогах.",
+        "en": "Correct! The Stop Ahead sign is close enough for you to start slowing down, especially in high-speed areas."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди светофор",
+        "en": "A traffic signal is ahead"
+      },
+      "explanation": {
+        "ru": "Светофор показывает знак Signal Ahead с рисунком светофора.",
+        "en": "A signal is shown by the Signal Ahead sign with a picture of a traffic light."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди знак «Уступите дорогу»",
+        "en": "A YIELD sign is ahead"
+      },
+      "explanation": {
+        "ru": "Для этого есть знак Yield Ahead с красно-белым треугольником на рисунке.",
+        "en": "That is the Yield Ahead sign, which pictures the red and white triangle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дорога закрыта",
+        "en": "The road is closed"
+      },
+      "explanation": {
+        "ru": "Закрытая дорога показывается знаком Road Closed, а этот знак предупреждает о СТОП впереди.",
+        "en": "A closed road uses the Road Closed sign; this sign warns of a STOP ahead."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-graduated-driver-licensing",
+  "topic": "ch03-under-21",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "поэтапное получение прав (GDL)",
+    "en": "Graduated Driver Licensing (GDL)"
+  },
+  "definition": {
+    "ru": "Программа штата Иллинойс для водителей 15-20 лет, состоящая из трёх последовательных этапов: Permit, Initial Licensing и Full Licensing. Переход на следующий этап зависит от поведения водителя за рулём, и у каждого этапа свои правила.",
+    "en": "An Illinois program for drivers ages 15-20 with three progressive stages: Permit, Initial Licensing and Full Licensing. Young drivers move from one stage to the next based on their driving behavior, and each stage has its own rules."
+  }
+}

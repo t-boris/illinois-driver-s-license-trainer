@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q11",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Зелёная стрелка направлена вверх. Это значит, что можно повернуть налево.",
+    "en": "A green arrow points upward. This means you may turn left."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: стрелка, направленная вверх, относится только к движению прямо. Для поворота налево нужна стрелка влево.",
+        "en": "Not quite: an upward arrow applies to going straight only. A left turn needs an arrow pointing left."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Неверно. Стрелка вверх разрешает ехать только прямо. Повернуть налево можно при стрелке, направленной влево.",
+        "en": "False. An upward green arrow lets you go straight ahead only. A left turn needs an arrow pointing left."
+      }
+    }
+  ]
+}

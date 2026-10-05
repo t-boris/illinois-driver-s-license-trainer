@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-warning-signs",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "предупреждающие знаки (warning signs)",
+    "en": "Warning signs"
+  },
+  "definition": {
+    "ru": "Знаки, которые предупреждают об условиях впереди: опасностях на дороге, дорожных работах, школах. Обычно они имеют форму ромба и чаще жёлтые, а предупреждающие знаки дорожных работ — оранжевые.",
+    "en": "Signs that alert you to conditions ahead, such as road hazards, construction sites or schools. They are usually diamond-shaped and mostly yellow, while construction and maintenance warning signs are orange."
+  }
+}

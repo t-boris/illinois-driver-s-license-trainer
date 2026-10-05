@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-air-bag",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "подушка безопасности",
+    "en": "Air bag"
+  },
+  "definition": {
+    "ru": "Устройство, которое даёт дополнительную защиту вместе с ремнями безопасности, а не вместо них. Желательно держать 10-12 дюймов между водителем и подушкой; детское кресло лицом против хода движения нельзя ставить перед работающей подушкой безопасности.",
+    "en": "A device that gives extra protection in combination with safety belts; it does not replace them. A distance of 10-12 inches between the driver and the air bag is desirable, and a rear-facing child seat should never be installed in front of an active air bag."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q07",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что рекомендуется сделать, если вам «сидит на хвосте» другая машина (tailgating)?",
+    "en": "What should you do if another vehicle is tailgating you?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Перестроиться в другую полосу или медленно съехать на обочину и пропустить машину",
+        "en": "Move to another lane or slowly pull off the road and allow the vehicle to pass"
+      },
+      "explanation": {
+        "ru": "Верно. Так вы убираете напряжение и даёте себе безопасное расстояние.",
+        "en": "Correct. This takes the pressure off and gives you safe space."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко притормозить, чтобы показать водителю, что он слишком близко",
+        "en": "Slam on the brakes to show the driver they are too close"
+      },
+      "explanation": {
+        "ru": "Резкое торможение перед ехавшим вплотную водителем относится к признакам агрессивной езды (aggressive driving).",
+        "en": "Slamming on the brakes in front of a tailgater is listed as aggressive driving."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ускориться как можно сильнее",
+        "en": "Speed up as much as possible"
+      },
+      "explanation": {
+        "ru": "Превышение скорости опасно само по себе. Лучше спокойно пропустить машину.",
+        "en": "Speeding is dangerous in itself. It is better to let the vehicle pass calmly."
+      }
+    }
+  ]
+}

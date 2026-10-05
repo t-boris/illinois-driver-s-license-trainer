@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q11",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого возраста в Иллинойсе разрешены устройства hands-free и технология Bluetooth за рулём?",
+    "en": "Hands-free devices or Bluetooth technology are allowed while driving for persons of what age?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 18 лет и старше",
+        "en": "Age 18 and older"
+      },
+      "explanation": {
+        "ru": "Планка чуть выше: в руководстве указан возраст 19 лет.",
+        "en": "The bar is slightly higher: the manual says age 19."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "С 19 лет и старше",
+        "en": "Age 19 and older"
+      },
+      "explanation": {
+        "ru": "Верно! Hands-free и Bluetooth разрешены с 19 лет. Но даже тогда лучше съехать на обочину, прежде чем звонить: разговор отвлекает.",
+        "en": "Correct! Hands-free and Bluetooth are allowed for age 19 and older. Even then, it is safer to pull off the road before a call, because talking is a distraction."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 21 года и старше",
+        "en": "Age 21 and older"
+      },
+      "explanation": {
+        "ru": "Здесь нужно меньше: hands-free разрешены уже с 19 лет.",
+        "en": "The age is lower than that: hands-free is allowed from age 19."
+      }
+    }
+  ]
+}

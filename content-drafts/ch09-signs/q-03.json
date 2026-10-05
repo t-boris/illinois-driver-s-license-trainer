@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q03",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 63",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W10-1",
+    "alt": {
+      "ru": "Круглый жёлтый знак с чёрным крестом и двумя буквами",
+      "en": "Round yellow sign with a black X and two letters"
+    }
+  },
+  "text": {
+    "ru": "Круглый жёлтый знак с чёрным крестом и буквами RR. О чём он предупреждает?",
+    "en": "A round yellow sign with a black X and the letters RR. What does it warn about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди железнодорожный переезд",
+        "en": "A railroad crossing is ahead"
+      },
+      "explanation": {
+        "ru": "Верно! Это предупреждение (advance warning) о переезде (railroad crossing). Сбавьте скорость, посмотрите и остановитесь, если нужно.",
+        "en": "Correct! This is an advance warning of a railroad crossing. Slow down, look, and stop if necessary."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди школьный переход",
+        "en": "A school crossing is ahead"
+      },
+      "explanation": {
+        "ru": "Школьный переход показывает жёлтый или жёлто-зелёный пятиугольный знак с детьми.",
+        "en": "A school crossing is shown by a yellow or yellow-green five-sided sign with children."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди зона запрета обгона",
+        "en": "A no passing zone is ahead"
+      },
+      "explanation": {
+        "ru": "Зону запрета обгона (No Passing Zone) показывает жёлтый трёхсторонний знак.",
+        "en": "A no passing zone is shown by a three-sided yellow sign."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди работают дорожные рабочие",
+        "en": "Workers are ahead"
+      },
+      "explanation": {
+        "ru": "Дорожные рабочие (workers) обозначаются оранжевыми знаками, а этот знак жёлтый и круглый.",
+        "en": "Workers are shown on orange signs. This sign is yellow and round."
+      }
+    }
+  ]
+}

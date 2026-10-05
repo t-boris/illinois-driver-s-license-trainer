@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q03",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Закон Иллинойса требует включать фары, когда вы пользуетесь дворниками (windshield wipers).",
+    "en": "Illinois law requires you to use your headlights when operating your windshield wipers."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Когда дождь или другие условия требуют работы дворников, фары включают тоже.",
+        "en": "Correct. Whenever rain or other conditions call for wipers, your headlights go on too."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Хорошо, что вы перепроверяете: в руководстве прямо сказано, что фары нужно включать, когда работают дворники.",
+        "en": "Good one to double-check: the manual states directly that headlights are required when the wipers are in use."
+      }
+    }
+  ]
+}

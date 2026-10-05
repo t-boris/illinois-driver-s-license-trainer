@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q01",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В пределах какого расстояния ножной тормоз (foot brake) должен остановить автомобиль, едущий со скоростью 20 миль в час?",
+    "en": "Within what distance must the foot brake stop a vehicle traveling at 20 mph?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "30 футов",
+        "en": "30 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Стояночный (emergency) тормоз должен справиться за 55 футов на той же скорости.",
+        "en": "Correct. The emergency or parking brake must do it in 55 feet at the same speed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "55 футов",
+        "en": "55 feet"
+      },
+      "explanation": {
+        "ru": "Это норматив для стояночного (emergency or parking) тормоза, а у ножного тормоза он строже.",
+        "en": "That is the standard for the emergency or parking brake; the foot brake standard is shorter."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "100 футов",
+        "en": "100 feet"
+      },
+      "explanation": {
+        "ru": "Это слишком много: ножной тормоз должен остановить машину гораздо раньше.",
+        "en": "That is too far; the foot brake must stop the vehicle much sooner."
+      }
+    }
+  ]
+}

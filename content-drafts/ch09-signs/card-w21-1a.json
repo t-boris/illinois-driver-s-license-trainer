@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w21-1a",
+  "topic": "ch09-signs",
+  "signId": "W21-1a",
+  "category": "construction",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Впереди дорожные рабочие (Workers Ahead)",
+    "en": "Workers Ahead"
+  },
+  "meaning": {
+    "ru": "Рабочие могут находиться близко к вашей полосе. Подстройте скорость под ограничение в зоне работ, будьте внимательны и держите безопасную дистанцию до всех ограждений.",
+    "en": "Workers may be working close to your traffic lane. Adjust your speed to the posted construction zone speed limit, stay alert, and keep a safe distance between your vehicle and all traffic barriers."
+  }
+}

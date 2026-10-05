@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q14",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Педаль газа застряла. Что нужно сделать в первую очередь?",
+    "en": "Your gas pedal becomes stuck. What should you try first?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поставить коробку передач в нейтраль и плавно тормозить",
+        "en": "Shift into neutral and brake gently"
+      },
+      "explanation": {
+        "ru": "Это следующий шаг, если освободить педаль не удалось.",
+        "en": "That is the next step if the pedal does not come free."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Зацепить педаль носком ноги и освободить её",
+        "en": "Hook your toe under it to free it"
+      },
+      "explanation": {
+        "ru": "Верно. Если не получилось, переключитесь на нейтраль и мягко тормозите.",
+        "en": "Correct. If that fails, shift to neutral and brake gently."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Заглушить двигатель на скорости",
+        "en": "Turn off the engine while moving fast"
+      },
+      "explanation": {
+        "ru": "В руководстве такого шага нет. Начните с того, чтобы освободить педаль носком.",
+        "en": "The manual does not list this step. Start by freeing the pedal with your toe."
+      }
+    }
+  ]
+}

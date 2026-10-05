@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q12",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы пропустили нужный съезд с магистрали (expressway). Что делать?",
+    "en": "You missed your exit on an expressway. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться и сдать назад к съезду",
+        "en": "Stop and back up to the exit"
+      },
+      "explanation": {
+        "ru": "Движение задним ходом по магистрали запрещено законом.",
+        "en": "Backing up on an expressway is against the law."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Поехать дальше и выехать на следующем доступном съезде",
+        "en": "Go on and take the next available exit"
+      },
+      "explanation": {
+        "ru": "Верно. Это безопасно и законно.",
+        "en": "Correct. It is both safe and legal."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Развернуться через разделительную полосу",
+        "en": "Make a U-turn across the median"
+      },
+      "explanation": {
+        "ru": "В руководстве такой манёвр не предлагается. Правило простое: следующий съезд.",
+        "en": "The manual does not suggest this. The rule is simple: go to the next exit."
+      }
+    }
+  ]
+}

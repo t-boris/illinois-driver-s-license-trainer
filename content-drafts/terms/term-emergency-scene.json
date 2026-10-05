@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-emergency-scene",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "место работы экстренных служб (emergency scene)",
+    "en": "Emergency scene"
+  },
+  "definition": {
+    "ru": "Место, где стоит служебный автомобиль с включёнными мигающими или вращающимися огнями. Уступите дорогу, по возможности перестройтесь подальше от работников экстренных служб и двигайтесь осторожно; фотографировать и пользоваться телефоном в радиусе 500 футов запрещено, кроме особых случаев.",
+    "en": "A location where a stationary authorized vehicle is present and has activated its oscillating, rotating or flashing lights. Yield, change to a lane away from the emergency workers when possible and proceed with caution; photography and cellphone use are prohibited within 500 feet, except in certain circumstances."
+  }
+}

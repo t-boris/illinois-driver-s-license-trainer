@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q13",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Между встречными полосами идут сплошная и прерывистая жёлтые линии. Когда можно обгонять?",
+    "en": "A solid and a broken yellow line separate opposing lanes. When may you pass?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только когда прерывистая линия ближе к вашей полосе",
+        "en": "Only when the broken line is nearest your lane"
+      },
+      "explanation": {
+        "ru": "Верно. Если ближе к вам сплошная линия, обгон не разрешён.",
+        "en": "Correct. If the solid line is nearest you, passing is not allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только когда сплошная линия ближе к вашей полосе",
+        "en": "Only when the solid line is nearest your lane"
+      },
+      "explanation": {
+        "ru": "Здесь всё наоборот: сплошная линия на вашей стороне обгон запрещает.",
+        "en": "It is the reverse: a solid line on your side means no passing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В любом случае, если дорога свободна",
+        "en": "Always, if the road is clear"
+      },
+      "explanation": {
+        "ru": "Положение линий решает всё, а не пустая дорога. Обгон разрешён, когда прерывистая линия ближе к вам.",
+        "en": "The position of the lines decides, not an empty road. Passing is allowed when the broken line is nearest you."
+      }
+    }
+  ]
+}

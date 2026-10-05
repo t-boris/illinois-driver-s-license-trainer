@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-hazard-lights",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "аварийная сигнализация",
+    "en": "Hazard lights (hazard signal)"
+  },
+  "definition": {
+    "ru": "Одновременное мигание обоих указателей поворота, которое показывает, что машина неисправна или стоит. Используйте её, например, если вы застряли на трассе или вынуждены остановиться на дороге в аварийной ситуации.",
+    "en": "Both turn signals flashed at the same time to indicate a disabled or parked vehicle. Use them, for example, when stranded on a highway or when you must stop on a paved roadway in an emergency."
+  }
+}

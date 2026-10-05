@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-leaving-the-scene",
+  "topic": "ch07-violations-crashes",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "оставление места аварии",
+    "en": "Leaving the scene of a crash"
+  },
+  "definition": {
+    "ru": "Водитель, осуждённый за оставление места аварии, особенно с травмами или гибелью людей, подлежит уголовной ответственности. Если были погибшие или пострадавшие, Secretary of State обязан лишить его прав; если ущерб более 1000 долларов, права приостанавливаются.",
+    "en": "A driver convicted of leaving the scene of a crash, especially one involving injury or death, faces criminal charges. If a death or personal injury occurred, the Secretary of State's office must revoke the license; if damage is more than $1,000, driving privileges will be suspended."
+  }
+}

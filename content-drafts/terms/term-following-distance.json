@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-following-distance",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "дистанция до впереди идущей машины",
+    "en": "Following distance"
+  },
+  "definition": {
+    "ru": "Расстояние, которое вы держите до машины впереди. Слишком короткая дистанция — причина большинства столкновений в заднюю часть автомобиля; при плохой дороге или погоде дистанцию нужно увеличить ещё больше.",
+    "en": "The space you keep between your vehicle and the one ahead. Following too closely is the cause of most rear-end crashes, and the distance should be increased even more when road or weather conditions are not good."
+  }
+}

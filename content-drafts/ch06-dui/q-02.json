@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q02",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что единственное способно убрать действие алкоголя?",
+    "en": "What is the only way to remove the effects of alcohol?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Крепкий кофе",
+        "en": "Strong coffee"
+      },
+      "explanation": {
+        "ru": "Это распространённый миф. По руководству, кофе не ускоряет выведение алкоголя.",
+        "en": "This is a common myth. According to the manual, coffee does not speed up elimination."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Холодный душ",
+        "en": "A cold shower"
+      },
+      "explanation": {
+        "ru": "Душ не помогает. Руководство прямо говорит, что он не ускоряет выведение алкоголя.",
+        "en": "A shower does not help. The manual states it does not speed up elimination."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Плотная еда",
+        "en": "A big meal"
+      },
+      "explanation": {
+        "ru": "Еда влияет на реакцию организма на алкоголь, но не ускоряет его выведение.",
+        "en": "Food affects how you react to alcohol, but it does not speed up its elimination."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только время (time)",
+        "en": "Only time"
+      },
+      "explanation": {
+        "ru": "Верно. Только время убирает действие алкоголя. Не садитесь за руль, пока не уверены, что оно прошло.",
+        "en": "Correct. Time is the only way to remove the effects of alcohol. Do not drive until you are sure they have passed."
+      }
+    }
+  ]
+}

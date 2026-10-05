@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-zero-tolerance",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver's License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "нулевая терпимость (zero tolerance)",
+    "en": "Zero tolerance"
+  },
+  "definition": {
+    "ru": "Правило для водителей младше 21 года: концентрация алкоголя выше 0.00, но ниже 0.08 — нарушение, за которое могут приостановить действие прав.",
+    "en": "A rule for drivers under age 21: having an alcohol concentration greater than 0.00 but less than 0.08 is a violation that can lead to suspension of the driver's license."
+  }
+}

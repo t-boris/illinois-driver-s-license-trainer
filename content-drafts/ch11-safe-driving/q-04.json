@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q04",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы услышали стук и почувствовали разрыв шины (blowout). Что делать?",
+    "en": "You hear a thumping sound and have a tire blowout. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко затормозить и остановиться там, где вы есть",
+        "en": "Brake suddenly and stop where you are"
+      },
+      "explanation": {
+        "ru": "Резкое торможение при разрыве шины делать не нужно (do not brake suddenly).",
+        "en": "Do not brake suddenly during a blowout."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Отпустить газ, крепко держать руль, безопасно съехать с дороги и проверить шины",
+        "en": "Ease your foot off the gas, keep a firm grasp on the steering wheel, and pull safely off the roadway"
+      },
+      "explanation": {
+        "ru": "Верно. Плавность и твёрдый хват руля помогают сохранить контроль над машиной.",
+        "en": "Correct. Staying smooth and gripping the wheel firmly helps you keep control."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Отпустить руль, чтобы машина выровнялась сама",
+        "en": "Let go of the wheel so the vehicle straightens itself"
+      },
+      "explanation": {
+        "ru": "Руль нужно держать крепко (firm grasp), иначе вы потеряете контроль.",
+        "en": "Keep a firm grasp on the wheel, otherwise you can lose control."
+      }
+    }
+  ]
+}

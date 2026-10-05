@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-bac",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "концентрация алкоголя в крови (BAC)",
+    "en": "Blood-alcohol concentration (BAC)"
+  },
+  "definition": {
+    "ru": "Показатель количества алкоголя в организме, определяемый по анализу дыхания, крови, мочи или другой биологической среды. Водить с BAC .08% и выше незаконно, а осудить за DUI могут и при BAC ниже .08%, если способность управлять машиной нарушена.",
+    "en": "A measurement of the amount of alcohol in your system, based on a test of your breath, blood, urine or other bodily substance. It is illegal to drive with a BAC of .08% or more, and you can still be convicted of DUI below .08% if your driving ability is impaired."
+  }
+}

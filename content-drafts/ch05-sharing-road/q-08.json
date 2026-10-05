@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q08",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как ведут себя большие машины на правых поворотах, и что из этого следует для вас?",
+    "en": "How do large vehicles behave on right turns, and what follows for you?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поворачивают узко, поэтому можно ехать вплотную справа",
+        "en": "They turn tightly, so you can drive close on the right"
+      },
+      "explanation": {
+        "ru": "Всё наоборот. Большие машины делают широкие правые повороты, и справа вплотную ехать не стоит.",
+        "en": "It is the opposite. Large vehicles make wide right turns, so do not squeeze in close on the right."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Делают широкие правые повороты, поэтому нужно оставлять им много места (wide right turns)",
+        "en": "They make wide right turns, so give them plenty of room"
+      },
+      "explanation": {
+        "ru": "Верно. Перед поворотом они иногда оставляют свободное место справа. Следите за сигналами поворота и дайте им пространство.",
+        "en": "Correct. Before the turn they sometimes leave an open space to the right. Watch turn signals and give them room."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда останавливаются перед поворотом",
+        "en": "They always stop before turning"
+      },
+      "explanation": {
+        "ru": "Такого правила в руководстве нет. Важно следить за сигналами поворота и оставлять достаточно места.",
+        "en": "The manual does not say this. Pay attention to turn signals and leave plenty of room."
+      }
+    }
+  ]
+}

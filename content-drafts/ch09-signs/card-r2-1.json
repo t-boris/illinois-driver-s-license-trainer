@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r2-1",
+  "topic": "ch09-signs",
+  "signId": "R2-1",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Ограничение скорости (Speed Limit)",
+    "en": "Speed Limit"
+  },
+  "meaning": {
+    "ru": "На фривеях и магистралях с контролируемым доступом знаки могут показывать максимальную и минимальную скорость для всех транспортных средств. Ехать медленнее минимума незаконно, если это не нужно для безопасности.",
+    "en": "Some signs show maximum and minimum speed limits for all types of vehicles on freeways and controlled-access highways. Driving slower than the minimum speed limit is illegal unless necessary for safety."
+  }
+}

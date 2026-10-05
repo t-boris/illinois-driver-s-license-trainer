@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-inoperative-traffic-signal",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "неработающий светофор",
+    "en": "Traffic signal not working"
+  },
+  "definition": {
+    "ru": "Если светофор не работает, считайте перекрёсток перекрёстком со знаками STOP со всех сторон: полностью остановитесь, осмотритесь и уступите дорогу перед въездом, если только полицейский не распорядится иначе.",
+    "en": "When traffic control signals are not working, treat the intersection as an all-way stop: come to a complete stop, then look and yield the right of way before entering, unless a law enforcement officer directs otherwise."
+  }
+}

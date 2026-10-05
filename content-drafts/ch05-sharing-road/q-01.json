@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q01",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как должен поступить водитель, приближаясь к пешеходу с собакой-поводырём, белой тростью или другим вспомогательным средством?",
+    "en": "What should a driver do when approaching a pedestrian who is using a guide dog, a white cane, or another assistive device?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Подать звуковой сигнал, чтобы пешеход ускорился",
+        "en": "Sound the horn so the pedestrian will hurry"
+      },
+      "explanation": {
+        "ru": "Сигнал здесь не поможет. Правило другое: такой пешеход имеет право проезда (right of way), и водителю нужно уступить.",
+        "en": "A horn does not help here. The rule is different: this pedestrian has the right of way, and the driver should yield."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Уступить дорогу (yield the right of way)",
+        "en": "Yield the right of way"
+      },
+      "explanation": {
+        "ru": "Верно. Пешеход с собакой-поводырём, белой тростью или инвалидной коляской имеет право проезда и те же права, что любой пешеход.",
+        "en": "Correct. A person with a guide dog, a white cane, or a wheelchair has the right of way and the same rights as any pedestrian."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проехать первым, если дорога свободна",
+        "en": "Go first if the road is clear"
+      },
+      "explanation": {
+        "ru": "Хорошая мысль проверить дорогу, но здесь решает правило: человек с вспомогательным средством имеет право проезда, и ехать нужно после него.",
+        "en": "Checking the road is a good habit, but the rule decides here: the person using an assistive device has the right of way, so let them go first."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-flashing-red-light",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "мигающий красный сигнал",
+    "en": "Flashing red light"
+  },
+  "definition": {
+    "ru": "Нужно остановиться, уступить дорогу транспорту на перекрёстке или переходе и ехать дальше, когда это безопасно. Он используется там, где знак STOP трудно заметить или нужно его подчеркнуть, а также на железнодорожных переездах для предупреждения о приближающемся поезде.",
+    "en": "You must stop, yield the right of way to traffic within the intersection or crosswalk, and proceed when safe. It is used where a stop sign alone is hard to see or needs extra emphasis, and at railroad crossings to warn of approaching trains."
+  }
+}

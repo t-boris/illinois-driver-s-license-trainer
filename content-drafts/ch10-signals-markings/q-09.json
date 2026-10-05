@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q09",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что означает мигающий жёлтый сигнал светофора?",
+    "en": "What does a flashing yellow signal mean?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться и уступить дорогу",
+        "en": "Stop and yield the right of way"
+      },
+      "explanation": {
+        "ru": "Это правило мигающего красного. Мигающий жёлтый не требует остановки.",
+        "en": "That is the flashing red rule. A flashing yellow does not require a stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Светофор скоро станет красным",
+        "en": "The light is about to turn red"
+      },
+      "explanation": {
+        "ru": "Об этом предупреждает постоянный жёлтый, а мигающий жёлтый значит другое.",
+        "en": "A steady yellow gives that warning. A flashing yellow means something different."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Въезжать на перекрёсток с осторожностью",
+        "en": "Proceed into the intersection with caution"
+      },
+      "explanation": {
+        "ru": "Верно. Мигающий жёлтый (flashing yellow) разрешает ехать, но осторожно.",
+        "en": "Correct. A flashing yellow means proceed into the intersection with caution."
+      }
+    }
+  ]
+}

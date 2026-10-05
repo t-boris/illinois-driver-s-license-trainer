@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q04",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Телевизоры и видеомониторы, видимые с места водителя, разрешены, когда автомобиль движется.",
+    "en": "Televisions and video monitors that can be seen from the driver's seat are permitted while the vehicle is in motion."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Здесь действует обратное правило: во время движения такие экраны запрещены (prohibited while in motion).",
+        "en": "The rule is the opposite: such screens are prohibited while the vehicle is in motion."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно. Просмотр или трансляция видео на телефоне тоже нарушение закона Иллинойса.",
+        "en": "Correct. Watching or streaming live video on a cellphone is also a violation of Illinois law."
+      }
+    }
+  ]
+}

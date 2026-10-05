@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q13",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ночью вы едете за грузовиком. Что нужно сделать с фарами?",
+    "en": "You are following a truck at night. What should you do with your headlights?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить дальний свет для лучшей видимости",
+        "en": "Use high beams for better visibility"
+      },
+      "explanation": {
+        "ru": "Дальний свет, отражаясь в больших боковых зеркалах, ослепляет водителя грузовика.",
+        "en": "Bright lights reflecting in the large side mirrors will blind the truck driver."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Переключить на ближний свет (dim headlights)",
+        "en": "Dim your headlights"
+      },
+      "explanation": {
+        "ru": "Верно. Яркий свет отражается в больших боковых зеркалах и слепит водителей больших машин.",
+        "en": "Correct. Bright lights reflect off the large side mirrors and blind the drivers of large vehicles."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выключить фары",
+        "en": "Turn the headlights off"
+      },
+      "explanation": {
+        "ru": "Выключать фары небезопасно. Нужно просто переключиться на ближний свет.",
+        "en": "Turning headlights off is unsafe. Simply dim them."
+      }
+    }
+  ]
+}

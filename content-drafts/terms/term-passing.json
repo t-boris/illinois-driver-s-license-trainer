@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-passing",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 28",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "обгон",
+    "en": "Passing"
+  },
+  "definition": {
+    "ru": "Для обгона встречная полоса должна хорошо просматриваться и быть свободной от встречного движения. Возвращайтесь в правую полосу только тогда, когда обогнанная машина целиком видна в зеркале заднего вида, и вернитесь в свою полосу, не доезжая 200 футов до встречной машины.",
+    "en": "Passing another vehicle requires the lane ahead to be clearly visible and free of oncoming traffic. Do not move back into the right lane until the whole vehicle you passed is visible in your rearview mirror, and return to your lane before getting within 200 feet of an oncoming vehicle."
+  }
+}

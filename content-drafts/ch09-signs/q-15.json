@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q15",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R10-11",
+    "alt": {
+      "ru": "Белый прямоугольный знак с чёрной надписью",
+      "en": "White rectangular sign with black lettering"
+    }
+  },
+  "text": {
+    "ru": "Что запрещает этот знак на перекрёстке?",
+    "en": "What does this sign prohibit at an intersection?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Поворот на красный свет",
+        "en": "Turning on a red light"
+      },
+      "explanation": {
+        "ru": "Верно! Запрещён правый поворот на красный, а также левый поворот на красный на пересечении односторонних улиц.",
+        "en": "Correct! A right turn on red is prohibited, and so is a left turn on red at intersecting one-way streets."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Движение на зелёный свет",
+        "en": "Driving on a green light"
+      },
+      "explanation": {
+        "ru": "Нет, на зелёный свет движение разрешено. Знак говорит о красном (red).",
+        "en": "No, you may go on green. The sign is about red."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановку на перекрёстке",
+        "en": "Stopping at the intersection"
+      },
+      "explanation": {
+        "ru": "Остановка на красном как раз нужна. Запрещён именно поворот на красный.",
+        "en": "Stopping at red is exactly what you do. It is the turn on red that is prohibited."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любое движение через перекрёсток",
+        "en": "Any movement through the intersection"
+      },
+      "explanation": {
+        "ru": "Знак запрещает только поворот на красный свет, а не любое движение.",
+        "en": "The sign prohibits only a turn on red, not all movement."
+      }
+    }
+  ]
+}

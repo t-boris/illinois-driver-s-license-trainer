@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q09",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "После ареста офицер забирает права. На сколько дней водитель получает временную справку, позволяющую ехать?",
+    "en": "At the time of arrest, the officer takes the driver's license and, if valid, provides a temporary receipt allowing the driver to drive for how many days?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "7 дней",
+        "en": "7 days"
+      },
+      "explanation": {
+        "ru": "Срок длиннее. Справка действует 45 дней.",
+        "en": "The period is longer. The receipt allows driving for 45 days."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "30 дней",
+        "en": "30 days"
+      },
+      "explanation": {
+        "ru": "Срок чуть длиннее. Справка действует 45 дней.",
+        "en": "The period is a bit longer. The receipt allows driving for 45 days."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "45 дней",
+        "en": "45 days"
+      },
+      "explanation": {
+        "ru": "Верно. Приостановка (statutory summary suspension) начинается на 46-й день.",
+        "en": "Correct. The statutory summary suspension begins on the 46th day."
+      }
+    }
+  ]
+}

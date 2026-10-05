@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q09",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Запрещено ли ездить, парковаться, стоять с работающим двигателем и высаживать пассажиров в велодорожке (bike lane), если велосипедистов рядом нет?",
+    "en": "Is it prohibited to drive, park, idle, or drop off passengers in a bike lane when no bicyclists are present?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Да, это запрещено",
+        "en": "Yes, it is prohibited"
+      },
+      "explanation": {
+        "ru": "Верно. Транспорту нельзя ездить, парковаться, стоять с работающим двигателем, высаживать и забирать пассажиров в велодорожках, даже если велосипедистов нет.",
+        "en": "Correct. Vehicles may not drive, park, idle, or drop off or pick up passengers in bike lanes even if bicyclists are not present."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нет, если велосипедистов не видно",
+        "en": "No, not if no bicyclists are visible"
+      },
+      "explanation": {
+        "ru": "Хороший вопрос, но руководство однозначно: запрет действует, даже когда велосипедистов нет.",
+        "en": "A fair question, but the manual is clear: the ban applies even when bicyclists are not present."
+      }
+    }
+  ]
+}

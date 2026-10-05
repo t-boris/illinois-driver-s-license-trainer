@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r4-3",
+  "topic": "ch09-signs",
+  "signId": "R4-3",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Тихоходным держаться правее (Slower Traffic Keep Right)",
+    "en": "Slower Traffic Keep Right"
+  },
+  "meaning": {
+    "ru": "Знак стоит для тех, кто едет медленнее обычного потока на некоторых многополосных дорогах. Медленному водителю нужно ехать по правой полосе.",
+    "en": "Posted for those driving slower than the normal speed of traffic on some multilane highways. It tells the slow driver to drive in the right lane."
+  }
+}

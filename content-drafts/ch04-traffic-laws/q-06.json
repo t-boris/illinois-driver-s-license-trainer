@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q06",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Минимум за сколько футов до поворота в деловом или жилом районе нужно непрерывно включать поворотник?",
+    "en": "In a business or residential area, you must give a continuous turn signal for at least how many feet before turning?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "50 футов",
+        "en": "50 feet"
+      },
+      "explanation": {
+        "ru": "Этого мало: в деловых и жилых районах нужно не менее 100 футов, а в остальных местах — 200 футов.",
+        "en": "That is too short: in business or residential areas the minimum is 100 feet, and in other areas it is 200 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "100 футов",
+        "en": "100 feet"
+      },
+      "explanation": {
+        "ru": "Верно! В деловых и жилых районах — минимум 100 футов. В остальных местах сигнал нужно подать не менее чем за 200 футов.",
+        "en": "Correct! In a business or residential area it is at least 100 feet. In other areas, give the signal at least 200 feet before turning."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "200 футов",
+        "en": "200 feet"
+      },
+      "explanation": {
+        "ru": "200 футов — это дистанция для всех остальных мест (вне деловых и жилых районов). В городе достаточно 100 футов.",
+        "en": "200 feet applies in other areas, outside business and residential districts. In business or residential areas, 100 feet is the minimum."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "300 футов",
+        "en": "300 feet"
+      },
+      "explanation": {
+        "ru": "Это не та дистанция для этого правила. Запомните пару: 100 футов в городской застройке, 200 футов в остальных местах.",
+        "en": "That is not the distance for this rule. Remember the pair: 100 feet in business or residential areas, 200 feet in other areas."
+      }
+    }
+  ]
+}

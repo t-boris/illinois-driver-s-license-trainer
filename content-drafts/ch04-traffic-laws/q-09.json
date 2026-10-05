@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q09",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вас остановила полиция. Как нужно вести себя в машине?",
+    "en": "Police have stopped you. What should you do while in your vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выйти из машины и пойти навстречу офицеру",
+        "en": "Get out and walk toward the officer"
+      },
+      "explanation": {
+        "ru": "Выход из машины могут воспринять как агрессию и угрозу для офицера. Лучше оставаться внутри, если вас не попросили выйти.",
+        "en": "Getting out can be perceived as aggressive behavior and a threat to the officer. Stay inside unless you are asked to exit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сразу потянуться в бардачок за документами",
+        "en": "Immediately reach into the glove box for your documents"
+      },
+      "explanation": {
+        "ru": "Сначала сообщите офицеру, где лежат права и страховка (в бардачке, под сиденьем или в телефоне), а потом действуйте по его указаниям.",
+        "en": "First tell the officer where your license and proof of insurance are (glove box, under the seat, or on your phone), then follow the officer’s directions."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Оставаться в машине, держа обе руки на руле на виду",
+        "en": "Stay in the vehicle with both hands clearly in sight on the steering wheel"
+      },
+      "explanation": {
+        "ru": "Верно! Не выходите, пока офицер не попросит, и держите руки на руле, пока он не разрешит иное или остановка не закончится.",
+        "en": "Correct! Do not exit unless asked, and keep your hands on the steering wheel until the officer instructs you otherwise or the stop is complete."
+      }
+    }
+  ]
+}

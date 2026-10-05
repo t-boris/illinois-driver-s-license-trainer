@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w3-2",
+  "topic": "ch09-signs",
+  "signId": "W3-2",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Впереди «Уступите дорогу» (Yield Ahead)",
+    "en": "Yield Ahead"
+  },
+  "meaning": {
+    "ru": "Предупреждает о приближающемся устройстве регулирования движения. Начинайте снижать скорость заранее, особенно на скоростных дорогах, где для торможения нужно больше расстояния.",
+    "en": "Warns of approaching traffic control. Start slowing down early, especially in high-speed areas where more distance is needed to slow down or stop."
+  }
+}

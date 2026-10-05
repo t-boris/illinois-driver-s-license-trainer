@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q06",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W3-3",
+    "alt": {
+      "ru": "Жёлтый ромбовидный знак с цветным рисунком",
+      "en": "Yellow diamond-shaped sign with a colored picture"
+    }
+  },
+  "text": {
+    "ru": "Что сообщает этот знак?",
+    "en": "What does this sign tell you?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди светофор: начинайте снижать скорость",
+        "en": "A traffic signal is ahead: start slowing down"
+      },
+      "explanation": {
+        "ru": "Верно! Знак «Signal Ahead» стоит достаточно близко к светофору, чтобы вы успели замедлиться, даже если сигнал ещё не виден.",
+        "en": "Correct! The Signal Ahead sign is posted close enough for you to start slowing down even if the signal is not yet visible."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Светофор не работает",
+        "en": "The traffic signal is broken"
+      },
+      "explanation": {
+        "ru": "Нет, знак не говорит о неисправности. Он предупреждает, что светофор впереди.",
+        "en": "No, the sign says nothing about a malfunction. It warns that a signal is ahead."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Здесь нужно полностью остановиться",
+        "en": "You must make a complete stop here"
+      },
+      "explanation": {
+        "ru": "Остановка нужна у знака СТОП. Этот знак лишь предупреждает и просит замедлиться.",
+        "en": "A complete stop is for a STOP sign. This sign only warns you and asks you to slow down."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Парковка запрещена",
+        "en": "No parking"
+      },
+      "explanation": {
+        "ru": "Такого значения в этой главе нет. Знак предупреждает о светофоре (signal) впереди.",
+        "en": "This meaning is not in this chapter. The sign warns of a signal ahead."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-pedestrian",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "пешеход",
+    "en": "Pedestrian"
+  },
+  "definition": {
+    "ru": "Любой человек, идущий пешком, на роликовых коньках или на скейтборде, включая человека с нарушением опорно-двигательного аппарата, слуха или зрения. Водитель всегда должен быть готов уступить пешеходу.",
+    "en": "Any person afoot, wearing in-line speed skates or riding a skateboard, including a person with a physical, hearing or visual disability. A driver should always be ready to yield the right of way to pedestrians."
+  }
+}

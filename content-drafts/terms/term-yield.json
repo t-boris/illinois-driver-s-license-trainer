@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-yield",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "уступить дорогу",
+    "en": "Yield"
+  },
+  "definition": {
+    "ru": "Треугольный знак YIELD требует уступить дорогу всем автомобилям и пешеходам, прежде чем ехать дальше. Снизьте скорость до безопасной и при необходимости остановитесь у обозначенного пешеходного перехода или перед въездом на перекрёсток.",
+    "en": "A three-sided (triangle) YIELD sign tells you to give the right of way to all vehicles and pedestrians before proceeding. Slow down to a safe speed and stop if necessary, at a marked crosswalk or before entering the intersection."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-restricted-driving-permit",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver's License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "ограниченное разрешение на вождение (RDP)",
+    "en": "Restricted Driving Permit (RDP)"
+  },
+  "definition": {
+    "ru": "Специальное разрешение для водителя, у которого права приостановлены или отозваны. Ездить можно только в определённое время и по заданным маршрутам: на работу или учёбу, чтобы отвезти ребёнка в детский сад, на лечение или реабилитацию. Лицу младше 16 лет его не выдают.",
+    "en": "A special permit for a driver whose privileges are suspended or revoked. It allows driving only at certain times and along specified routes, for example for work or school, taking a child to day care, or medical care or drug treatment, and it cannot be issued to a person under age 16."
+  }
+}

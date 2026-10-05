@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q13",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R6-1",
+    "alt": {
+      "ru": "Чёрно-белый горизонтальный прямоугольный знак с надписью и стрелкой",
+      "en": "Black and white horizontal rectangular sign with lettering and an arrow"
+    }
+  },
+  "text": {
+    "ru": "В каком направлении можно ехать по улице с таким знаком?",
+    "en": "Which way may you drive on a street with this sign?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только в направлении стрелки",
+        "en": "Only in the direction of the arrow"
+      },
+      "explanation": {
+        "ru": "Верно! Знак One-Way стоит на односторонних улицах и подъездах.",
+        "en": "Correct! The One-Way sign is used on one-way streets and driveways."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В обе стороны",
+        "en": "In both directions"
+      },
+      "explanation": {
+        "ru": "Нет, это знак One-Way, то есть одностороннее движение. Двустороннюю дорогу показывает совсем другой знак.",
+        "en": "No, this is a One-Way sign. A two-way road is shown by a very different sign."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только против стрелки",
+        "en": "Only against the arrow"
+      },
+      "explanation": {
+        "ru": "Стрелка показывает единственное разрешённое направление. Ехать против неё значит ехать не туда (Wrong Way).",
+        "en": "The arrow shows the only allowed direction. Driving against it means going the wrong way."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только по правой полосе",
+        "en": "Only in the right lane"
+      },
+      "explanation": {
+        "ru": "Знак говорит о направлении движения, а не о полосе.",
+        "en": "The sign is about the direction of travel, not about a lane."
+      }
+    }
+  ]
+}

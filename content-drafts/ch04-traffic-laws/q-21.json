@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q21",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда разрешено ехать по левой полосе интерстейта или скоростной магистрали с полным ограничением доступа?",
+    "en": "When may you drive in the left lane of an interstate highway or full access controlled freeway?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "В любое время, когда вам удобно",
+        "en": "Any time you like"
+      },
+      "explanation": {
+        "ru": "Нет: на интерстейте нельзя ехать в левых полосах, кроме обгона и перечисленных исключений.",
+        "en": "No: on an interstate you may not drive in the left lanes except when passing or under the listed exceptions."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только при обгоне; исключения: никого нет прямо позади вас, пробка, погода, препятствие справа или уступка спецтранспорту",
+        "en": "Only when passing another vehicle, with exceptions such as no vehicle directly behind you, congestion, weather, an obstruction in the right lane, or yielding to emergency or construction vehicles"
+      },
+      "explanation": {
+        "ru": "Верно! Левая полоса — для обгона. Исключения приведены в руководстве: например, когда сзади никого нет или погода вынуждает ехать левее.",
+        "en": "Correct! The left lane is for passing. The manual lists exceptions, such as no vehicle directly behind you or weather conditions."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если вы едете медленнее остальных",
+        "en": "Only when you are driving slower than other traffic"
+      },
+      "explanation": {
+        "ru": "Всё наоборот: медленные автомобили должны держаться правой полосы, кроме обгона и левого поворота.",
+        "en": "It is the opposite: slow vehicles must use the right-hand lane except when passing or turning left."
+      }
+    }
+  ]
+}

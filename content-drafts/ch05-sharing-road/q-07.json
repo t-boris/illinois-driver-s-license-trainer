@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q07",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 41",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какая самая частая причина аварий с участием мотоциклов?",
+    "en": "What is the most common cause of motorcycle crashes?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Мотоциклисты ездят слишком быстро",
+        "en": "Motorcyclists ride too fast"
+      },
+      "explanation": {
+        "ru": "Скорость может играть роль, но руководство называет другую главную причину.",
+        "en": "Speed may play a role, but the manual names a different main cause."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Мотоциклы бывают на дороге только летом",
+        "en": "Motorcycles are only on the road in summer"
+      },
+      "explanation": {
+        "ru": "Руководство напоминает, что мотоциклы встречаются в потоке в любое время года, а не только весной и летом.",
+        "en": "The manual reminds us to expect motorcycles at any time of year, not just in spring and summer."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Водители не замечают или не распознают мотоциклы (fail to detect)",
+        "en": "Motorists fail to detect and recognize motorcycles"
+      },
+      "explanation": {
+        "ru": "Верно. Мотоцикл мал, и водители часто недооценивают его скорость. Поэтому перед поворотом внимательно смотрите по сторонам.",
+        "en": "Correct. Motorcycles are small and drivers tend to underestimate their speed, so look carefully before turning."
+      }
+    }
+  ]
+}

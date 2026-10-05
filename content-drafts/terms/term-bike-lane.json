@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-bike-lane",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "велосипедная полоса",
+    "en": "Bike lane"
+  },
+  "definition": {
+    "ru": "Выделенная полоса для велосипедистов, обозначенная сплошной белой линией, которая переходит в пунктир и заканчивается до угла; иногда её красят в ярко-зелёный цвет. Автомобилям нельзя ездить, парковаться, стоять с работающим двигателем, высаживать и забирать пассажиров на велополосе, даже если велосипедистов нет.",
+    "en": "A designated traffic lane for bicyclists, marked by a solid white line that becomes a dotted line ending before the corner; it is sometimes painted bright green. Vehicles may not drive, park, idle, or drop off or pick up passengers in a bike lane, even if no bicyclists are present."
+  }
+}

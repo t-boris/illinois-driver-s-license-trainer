@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q11",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На какой минимальный срок теряют право управлять автомобилем осуждённые за нарушения обязательного страхования, и каков сбор за восстановление?",
+    "en": "Individuals convicted of mandatory insurance violations lose their driving privileges for what minimum period, and what reinstatement fee must they pay?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Минимум на один месяц, без сбора",
+        "en": "A minimum of one month with no fee"
+      },
+      "explanation": {
+        "ru": "Срок и сумма больше: три месяца и сбор 100 долларов.",
+        "en": "The period and amount are larger: three months and a $100 fee."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Минимум на три месяца и сбор за восстановление 100 долларов",
+        "en": "A minimum of three months and a $100 reinstatement fee"
+      },
+      "explanation": {
+        "ru": "Верно! При этом водительский допуск (driving permit) не выдаётся.",
+        "en": "Correct! No driving permit is available during that time."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На один год и сбор 1 000 долларов",
+        "en": "One year and a $1,000 reinstatement fee"
+      },
+      "explanation": {
+        "ru": "В руководстве другие цифры: минимум три месяца и сбор 100 долларов.",
+        "en": "The manual lists different numbers: a minimum of three months and a $100 fee."
+      }
+    }
+  ]
+}

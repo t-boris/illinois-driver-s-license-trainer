@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-uncontrolled-intersection",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "перекрёсток без знаков и светофоров",
+    "en": "Uncontrolled intersection"
+  },
+  "definition": {
+    "ru": "Перекрёсток без знаков и светофоров. Если два автомобиля с разных дорог подъехали к нему одновременно, машина слева уступает машине справа. На Т-образном перекрёстке без знаков и сигналов водитель, выезжающий с упирающейся дороги, тоже уступает дорогу поперечному движению.",
+    "en": "An intersection with no traffic control signs or signals. When two vehicles on different roadways reach it at the same time, the vehicle on the left yields to the vehicle on the right. On the terminating highway of a \"T\" intersection with no signs or signals, the driver also yields to cross traffic."
+  }
+}

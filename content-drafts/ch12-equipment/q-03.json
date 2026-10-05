@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q03",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За сколько футов до встречной машины нужно переключить дальний свет (bright lights) на ближний?",
+    "en": "How many feet before meeting an oncoming vehicle must bright lights be dimmed?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "100 футов",
+        "en": "100 feet"
+      },
+      "explanation": {
+        "ru": "Слишком близко: водитель встречной машины будет ослеплён раньше.",
+        "en": "Too close; the oncoming driver would be dazzled before that."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "300 футов",
+        "en": "300 feet"
+      },
+      "explanation": {
+        "ru": "Это расстояние до обгоняемой машины (before passing a vehicle), а не до встречной.",
+        "en": "That is the distance before passing a vehicle, not before meeting one."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "500 футов",
+        "en": "500 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Перед обгоном дальний свет переключают за 300 футов.",
+        "en": "Correct. Before passing a vehicle, it is 300 feet."
+      }
+    }
+  ]
+}

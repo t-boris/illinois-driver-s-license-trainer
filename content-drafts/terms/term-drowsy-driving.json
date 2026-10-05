@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-drowsy-driving",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "вождение в сонном состоянии",
+    "en": "Drowsy driving"
+  },
+  "definition": {
+    "ru": "Сонливость за рулём ухудшает способность безопасно управлять машиной, даже если вы не засыпаете: вы можете не успеть затормозить или отвернуть от аварии. Хорошо высыпайтесь и чаще останавливайтесь в долгих поездках.",
+    "en": "Driving while drowsy can impair your ability to drive safely even if you do not fall asleep, because you may not react in time to brake or steer away from a crash. Be properly rested and stop frequently on long trips."
+  }
+}

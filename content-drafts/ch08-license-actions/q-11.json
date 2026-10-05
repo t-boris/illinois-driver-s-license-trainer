@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q11",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что права могут быть приостановлены за неуплату пяти или более неоплаченных штрафов с камер за проезд на красный свет или превышение скорости?",
+    "en": "True or false: A license may be suspended for failure to pay five or more unpaid automated traffic violations for red-light or speeding violations in a municipality."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Это основание для приостановки (suspension): пять и более неоплаченных автоматических штрафов за проезд на красный свет или превышение скорости (или их сочетание).",
+        "en": "True. This is a reason for suspension: five or more unpaid automated traffic violations for a red-light signal or speeding, or a combination."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Лучше оплачивать такие штрафы вовремя: пять и более неоплаченных автоматических штрафов за красный свет или скорость (или их сочетание) могут привести к приостановке прав.",
+        "en": "It is best to pay such tickets on time: five or more unpaid automated red-light or speeding violations, or a combination, can lead to suspension."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q05",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 56",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто подаёт сертификат SR-22 в Secretary of State?",
+    "en": "Who files the SR-22 directly with the Secretary of State?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сам водитель лично",
+        "en": "The driver in person"
+      },
+      "explanation": {
+        "ru": "Сертификат подаёт напрямую страховая компания.",
+        "en": "The SR-22 is filed directly by the insurance company."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Страховая компания",
+        "en": "The insurance company"
+      },
+      "explanation": {
+        "ru": "Верно! SR-22 — это сертификат страхования (certificate of insurance), его подаёт страховая компания. Если страховку не продлить или отменить, права будут приостановлены.",
+        "en": "Correct! The SR-22 is a certificate of insurance filed by the insurance company. Failing to renew or cancelling the insurance results in a license suspension."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Секретарь суда",
+        "en": "The clerk of the court"
+      },
+      "explanation": {
+        "ru": "Нет: SR-22 в Secretary of State отправляет страховая компания, а не суд.",
+        "en": "No: the insurance company, not the court, files the SR-22 with the Secretary of State."
+      }
+    }
+  ]
+}

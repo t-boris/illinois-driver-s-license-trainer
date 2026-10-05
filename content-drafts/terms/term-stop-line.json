@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-stop-line",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "стоп-линия",
+    "en": "Stop line"
+  },
+  "definition": {
+    "ru": "Белая линия поперёк полосы на перекрёстке, которая показывает, где нужно остановиться у знака STOP или на красный свет. Остановиться нужно так, чтобы ни одна часть машины не пересекала линию.",
+    "en": "A white line painted across a lane at an intersection that shows where you must stop for a stop sign or red light. You must stop before any part of your vehicle crosses it."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q02",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Два автомобиля с разных дорог одновременно подъехали к перекрёстку с четырьмя стоп-знаками (four-way stop). Кто должен уступить дорогу (yield)?",
+    "en": "Two vehicles on different roadways arrive at a four-way stop at the same time. Who must yield?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Автомобиль справа уступает автомобилю слева",
+        "en": "The vehicle on the right yields to the vehicle on the left"
+      },
+      "explanation": {
+        "ru": "Наоборот. Запомните: слева — уступает, справа — едет первым.",
+        "en": "Close, but it is the other way around. Left yields, right goes first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Тот, кто больше по размеру, проезжает первым",
+        "en": "The larger vehicle goes first"
+      },
+      "explanation": {
+        "ru": "Размер машины роли не играет. Первым едет тот, кто первым остановился, а при одновременном прибытии работает правило «слева уступает справа».",
+        "en": "Vehicle size does not matter. The first driver to stop goes first, and at the same time, the vehicle on the left yields to the one on the right."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Автомобиль слева уступает автомобилю справа",
+        "en": "The vehicle on the left yields to the vehicle on the right"
+      },
+      "explanation": {
+        "ru": "Верно! При одновременном приезде уступает тот, кто слева: он пропускает автомобиль справа.",
+        "en": "Correct! When two vehicles arrive at the same time, the one on the left yields to the one on the right."
+      }
+    }
+  ]
+}

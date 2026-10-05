@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q12",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 19",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что родитель или опекун, давший согласие на получение прав водителем 16-17 лет, может в любой момент до 18-летия отменить права?",
+    "en": "True or false: The parent or legal guardian who gave consent for a 16- or 17-year-old’s license may cancel that license at any time until the driver turns 18."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Для этого нужно обратиться в Secretary of State. Права вернут, только если тот же родитель снова даст согласие или когда водителю исполнится 18.",
+        "en": "True. This is done by contacting the Secretary of State’s office. Privileges return only when the same parent or guardian consents again or the driver turns 18, whichever comes first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Как раз наоборот: родитель или опекун, давший согласие, может отменить права в любое время и по любой причине до 18 лет.",
+        "en": "Quite the opposite: the parent or legal guardian who gave consent may cancel the license at any time, for any reason, until age 18."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-suspension",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver's License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "приостановление действия прав (suspension)",
+    "en": "Suspension"
+  },
+  "definition": {
+    "ru": "Временная потеря водительских прав. Если приостановление назначено на определённый срок, права можно вернуть по его окончании после оплаты reinstatement fee, а в некоторых случаях нужно выполнить и другие требования.",
+    "en": "The temporary loss of driving privileges. When the suspension is for a specific length of time, you may regain your privileges after it ends and you have paid a reinstatement fee, though in some cases other requirements must also be met."
+  }
+}

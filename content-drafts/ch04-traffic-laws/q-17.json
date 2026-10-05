@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q17",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы встретили организованную похоронную процессию (funeral procession). Как нужно поступить?",
+    "en": "You encounter an organized funeral procession. What must you do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Уступить дорогу всем машинам в процессии",
+        "en": "Yield the right of way to all vehicles in the procession"
+      },
+      "explanation": {
+        "ru": "Верно! Не вклинивайтесь между машинами процессии, если вас не направил сотрудник полиции.",
+        "en": "Correct! Do not drive between vehicles in the procession unless a law enforcement officer directs you to."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проехать между машинами, если есть промежуток",
+        "en": "Drive between the vehicles if there is a gap"
+      },
+      "explanation": {
+        "ru": "Это запрещено, кроме случая, когда вас направляет сотрудник полиции.",
+        "en": "This is prohibited, except when directed by a law enforcement officer."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пристроиться к процессии, чтобы получить право проезда",
+        "en": "Join the procession to get the right of way"
+      },
+      "explanation": {
+        "ru": "Присоединяться к процессии ради права проезда нельзя. Она имеет приоритет, а вы просто уступаете.",
+        "en": "Joining a procession to secure the right of way is prohibited. The procession has priority, and you simply yield."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-skidding",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "занос (skidding)",
+    "en": "Skidding"
+  },
+  "definition": {
+    "ru": "Занос происходит, когда шины теряют сцепление с дорогой. Если машину начало заносить, отпустите педаль газа или тормоза, поворачивайте руль в сторону заноса, пока не восстановится сцепление, и затем выровняйте машину.",
+    "en": "Skidding occurs when tires lose traction. If your vehicle starts to skid, ease off the gas pedal or brakes, steer into the direction of the skid until you regain traction, and then straighten the vehicle."
+  }
+}

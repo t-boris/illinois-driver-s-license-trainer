@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-dim-headlights",
+  "topic": "ch12-equipment",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "переключить фары на ближний свет",
+    "en": "Dim the headlights"
+  },
+  "definition": {
+    "ru": "Дальний свет нужно переключить на ближний за 500 футов до встречной машины или за 300 футов до обгона. Фары должны быть включены от заката до рассвета и всегда, когда дождь, снег, туман или другие условия требуют включить дворники.",
+    "en": "Bright lights must be dimmed 500 feet before meeting an oncoming vehicle or 300 feet before passing a vehicle. Headlights must be on from sunset to sunrise and whenever conditions such as rain, snow or fog require windshield wipers."
+  }
+}

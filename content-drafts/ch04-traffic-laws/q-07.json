@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q07",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы едете по двухполосной дороге навстречу школьному автобусу, который остановился с мигающими огнями, а его знак STOP выдвинут. Что нужно сделать?",
+    "en": "You are driving on a two-lane road toward a school bus that has stopped with flashing lights and its stop signal arm extended. What must you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сбавить скорость и осторожно проехать мимо",
+        "en": "Slow down and carefully pass the bus"
+      },
+      "explanation": {
+        "ru": "Только сбавить скорость недостаточно. Нужно полностью остановиться (complete stop) и стоять, пока знак STOP не уберут и огни не погаснут, либо пока водитель автобуса не разрешит проезд.",
+        "en": "Slowing down is not enough. You must come to a complete stop and stay stopped until the stop arm is no longer extended and the lights are off, or the bus driver signals vehicles to pass."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Полностью остановиться и стоять, пока знак STOP не уберут и огни не погаснут, либо пока водитель автобуса не разрешит проезд",
+        "en": "Come to a complete stop and stay stopped until the stop arm is no longer extended and the lights are off, or the bus driver signals you to pass"
+      },
+      "explanation": {
+        "ru": "Верно! Остановка обязательна и для встречных машин на двухполосной дороге. Исключение — только четырёхполосная дорога, где автобус стоит на встречной стороне.",
+        "en": "Correct! Oncoming traffic on a two-lane road must stop too. The exception is a four-lane roadway where the bus is stopped in the opposite direction."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться только тогда, когда вы едете позади автобуса",
+        "en": "Stop only if you are driving behind the bus"
+      },
+      "explanation": {
+        "ru": "Остановиться нужно и тем, кто едет сзади, и тем, кто едет навстречу, если не выполняется исключение для четырёхполосной дороги.",
+        "en": "You must stop whether you are behind the bus or approaching from the opposite direction, except on a four-lane roadway."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q03",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 20",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что ждёт водителя младше 21 года, осуждённого за два или более нарушения правил движения (moving violations) в течение 24 месяцев?",
+    "en": "What happens to a driver under age 21 who is convicted of two or more moving violations within a 24-month period?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только предупреждение от Secretary of State",
+        "en": "Only a warning from the Secretary of State"
+      },
+      "explanation": {
+        "ru": "Для водителей младше 21 года последствия серьёзнее: действует приостановка прав (suspension).",
+        "en": "For drivers under 21 the consequence is more serious: a license suspension applies."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Отзыв прав (revocation) минимум на один год",
+        "en": "A revocation of at least one year"
+      },
+      "explanation": {
+        "ru": "Revocation и suspension — разные вещи. В этом случае речь о приостановке прав (suspension), а не о бессрочном отзыве.",
+        "en": "Revocation and suspension are different. In this case the license is suspended, not revoked."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приостановка водительских прав (suspension) минимум на 30 дней",
+        "en": "A minimum 30-day suspension of the driver’s license"
+      },
+      "explanation": {
+        "ru": "Верно. Минимальный срок приостановки — 30 дней; точный срок зависит от тяжести нарушений, а для восстановления прав может понадобиться курс повышения квалификации.",
+        "en": "Correct. The minimum is 30 days; the exact length depends on how serious the offenses are, and a remedial education course may be required for reinstatement."
+      }
+    }
+  ]
+}

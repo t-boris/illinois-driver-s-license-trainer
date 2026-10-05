@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q08",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Правый поворот на красный сигнал разрешён, если нет знака, который его запрещает.",
+    "en": "You may turn right at a red light unless there is a sign prohibiting it."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Сначала полная остановка и уступка встречным машинам и пешеходам, потом поворот.",
+        "en": "Correct. Come to a complete stop and yield to oncoming traffic and pedestrians before turning."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Правый поворот на красный разрешён, если нет запрещающего знака, после полной остановки и уступки дороги.",
+        "en": "Not quite. A right turn on red is allowed unless a sign prohibits it, after a complete stop and yielding."
+      }
+    }
+  ]
+}

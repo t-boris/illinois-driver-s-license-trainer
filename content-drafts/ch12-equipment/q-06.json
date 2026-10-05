@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q06",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие задние фонари (taillights) должны быть у легкового автомобиля?",
+    "en": "What taillights must a passenger vehicle have?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Два красных, видимых за 500 футов сзади",
+        "en": "Two red lights visible for 500 feet from behind"
+      },
+      "explanation": {
+        "ru": "Верно. Для мопедов и мотоциклов достаточно одного фонаря.",
+        "en": "Correct. Mopeds and motorcycles need only one taillight."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Один белый, видимый за 200 футов",
+        "en": "One white light visible for 200 feet"
+      },
+      "explanation": {
+        "ru": "Задние фонари красные, а белый свет нужен для подсветки номера.",
+        "en": "Taillights are red; the white light is for the license plate."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Два жёлтых, видимых за 300 футов",
+        "en": "Two amber lights visible for 300 feet"
+      },
+      "explanation": {
+        "ru": "Жёлтые бывают у других сигналов, а задние фонари красные.",
+        "en": "Amber belongs to other lamps; taillights are red."
+      }
+    }
+  ]
+}

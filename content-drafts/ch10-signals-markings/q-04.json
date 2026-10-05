@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q04",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Знак «крест» на железнодорожном переезде (railroad crossbuck) следует воспринимать так же, как знак «уступи дорогу» (yield).",
+    "en": "A railroad crossbuck sign should be treated the same as a yield sign."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Вы обязаны уступить дорогу приближающимся поездам и железнодорожной технике. Если путей несколько, их число указано на табличке под знаком.",
+        "en": "Correct. You must yield the right of way to any oncoming trains and railroad equipment. If there is more than one track, the number is shown below the crossbuck."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не так: руководство прямо приравнивает знак «крест» к знаку «уступи дорогу» (yield sign).",
+        "en": "Not this time: the manual says a crossbuck is considered a yield sign."
+      }
+    }
+  ]
+}

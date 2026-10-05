@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w7-1",
+  "topic": "ch09-signs",
+  "signId": "W7-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 71",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Крутой спуск (Downgrade)",
+    "en": "Downgrade"
+  },
+  "meaning": {
+    "ru": "Предупреждает об опасном спуске: он может быть очень длинным, крутым или с резкими поворотами. Снизьте скорость до начала спуска.",
+    "en": "Warns of a dangerous hill. It may be very long or steep, or have sharp curves. Slow your speed before starting down the hill."
+  }
+}

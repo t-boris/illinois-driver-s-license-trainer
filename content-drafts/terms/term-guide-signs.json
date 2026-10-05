@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-guide-signs",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 74",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "указательные знаки (guide signs)",
+    "en": "Guide signs"
+  },
+  "definition": {
+    "ru": "Знаки, которые сообщают, где вы находитесь, по какой дороге едете и как добраться до нужного места. Большинство из них прямоугольные, а цвет зависит от вида информации: зелёный — направления и расстояния, синий — услуги.",
+    "en": "Signs that tell you where you are, what road you are on and how to get to a specific location. Most are rectangular, and their color depends on the type of information: green for destinations and distances, blue for services."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q10",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что сказано в руководстве о фонарях заднего хода (back-up lights)?",
+    "en": "What does the manual say about back-up lights?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Они могут гореть в любое время, в том числе при движении вперёд",
+        "en": "They may be on at any time, including when driving forward"
+      },
+      "explanation": {
+        "ru": "Нет: при движении вперёд они гореть не должны.",
+        "en": "No, they may not be on when the vehicle is moving forward."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Они должны быть красными",
+        "en": "They must be red"
+      },
+      "explanation": {
+        "ru": "Фонари заднего хода излучают белый или янтарный свет, а не красный.",
+        "en": "Back-up lights emit white or amber light, not red."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Они излучают белый или янтарный свет без бликов и не горят при движении вперёд",
+        "en": "They emit white or amber light without glare and may not be on when moving forward"
+      },
+      "explanation": {
+        "ru": "Верно.",
+        "en": "Correct."
+      }
+    }
+  ]
+}

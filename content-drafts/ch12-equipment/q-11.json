@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q11",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько прожекторов (spotlights) разрешено на автомобиле?",
+    "en": "How many spotlights are allowed on a vehicle?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Один",
+        "en": "One"
+      },
+      "explanation": {
+        "ru": "Верно. При приближении к другой машине его нельзя направлять влево или дальше чем на 100 футов вперёд.",
+        "en": "Correct. When approaching another vehicle it must not be directed to the left or more than 100 feet ahead."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Два",
+        "en": "Two"
+      },
+      "explanation": {
+        "ru": "Два огня допускаются для ламп на капоте или крыльях, но не для прожекторов.",
+        "en": "Two is the limit for cowl or fender lamps, not for spotlights."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сколько угодно",
+        "en": "As many as you like"
+      },
+      "explanation": {
+        "ru": "Количество ограничено: только один.",
+        "en": "The number is limited to one."
+      }
+    }
+  ]
+}

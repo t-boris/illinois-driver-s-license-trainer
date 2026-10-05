@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q07",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что предупреждает постоянный жёлтый сигнал светофора?",
+    "en": "What does a steady yellow light warn you about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Сигнал меняется с зелёного на красный",
+        "en": "The signal is changing from green to red"
+      },
+      "explanation": {
+        "ru": "Верно. Когда загорится красный, въезжать на перекрёсток уже нельзя.",
+        "en": "Correct. When the red light appears, do not enter the intersection."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сигнал меняется с красного на зелёный",
+        "en": "The signal is changing from red to green"
+      },
+      "explanation": {
+        "ru": "Наоборот: жёлтый идёт после зелёного и предупреждает о красном.",
+        "en": "It is the other way around: yellow follows green and warns that red is coming."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нужно остановиться и не ехать, пока не появится стрелка",
+        "en": "You must stop and wait for an arrow"
+      },
+      "explanation": {
+        "ru": "Жёлтый не требует ждать стрелку. Он предупреждает о смене с зелёного на красный.",
+        "en": "Yellow does not mean waiting for an arrow. It warns that the light is changing from green to red."
+      }
+    }
+  ]
+}

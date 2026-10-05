@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q02",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Независимо от вины, водитель обязан подать отчёт о ДТП, если ущерб имуществу превышает какую сумму (если никто не пострадал и все машины застрахованы)?",
+    "en": "Regardless of fault, a driver must file a crash report if property damage is more than what amount (when no one is hurt and all vehicles are insured)?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "500 долларов",
+        "en": "$500"
+      },
+      "explanation": {
+        "ru": "500 долларов — порог, когда хотя бы один автомобиль не застрахован. Если все застрахованы, порог выше: 1 500 долларов.",
+        "en": "$500 applies when any vehicle involved is uninsured. When all are insured, the limit is higher: $1,500."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "1 000 долларов",
+        "en": "$1,000"
+      },
+      "explanation": {
+        "ru": "Сумма в руководстве другая: порог для отчёта — 1 500 долларов (или 500 долларов, если есть незастрахованная машина).",
+        "en": "The manual uses a different amount: the report limit is $1,500 (or $500 if a vehicle is uninsured)."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "1 500 долларов",
+        "en": "$1,500"
+      },
+      "explanation": {
+        "ru": "Верно! Отчёт нужен при смерти, телесных повреждениях или ущербе имуществу больше 1 500 долларов. Если какая-то из машин не застрахована, порог ниже: 500 долларов и больше.",
+        "en": "Correct! A report is required for death, bodily injury, or property damage of more than $1,500. If any vehicle is uninsured, the limit is lower: $500 or more."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q07",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое наказание грозит водителю, который не сообщил о ДТП?",
+    "en": "What penalty may a driver face for failing to report a vehicle crash?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только устное предупреждение",
+        "en": "Only a verbal warning"
+      },
+      "explanation": {
+        "ru": "Всё серьёзнее: за неподачу отчёта предусмотрены штраф и возможное тюремное заключение.",
+        "en": "It is more serious: failing to report carries a fine and possible jail time."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Штраф до 100 долларов, без тюрьмы",
+        "en": "A fine up to $100 and no jail"
+      },
+      "explanation": {
+        "ru": "Сумма и срок в руководстве больше: штраф до 2 500 долларов и тюрьма до одного года.",
+        "en": "The manual lists more: a fine of up to $2,500 and up to one year in jail."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Штраф до 2 500 долларов и тюремное заключение до одного года",
+        "en": "A fine of up to $2,500 and a jail sentence of up to one year"
+      },
+      "explanation": {
+        "ru": "Верно! Поэтому лучше сразу сообщить в полицию. Если водитель не может это сделать, а в машине есть пассажир, отчёт должен подать пассажир.",
+        "en": "Correct! That is why it is best to notify police right away. If the driver cannot report and there is a passenger, the passenger must make the report."
+      }
+    }
+  ]
+}

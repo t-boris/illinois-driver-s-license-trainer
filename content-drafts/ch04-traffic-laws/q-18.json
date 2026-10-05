@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q18",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 27",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Пешеход находится на размеченном пешеходном переходе (marked crosswalk). Что вы обязаны сделать?",
+    "en": "A pedestrian is in a marked crosswalk. What must you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посигналить и ехать дальше, если пешеход далеко от вашей полосы",
+        "en": "Honk and continue if the pedestrian is far from your lane"
+      },
+      "explanation": {
+        "ru": "Сигнал не заменяет остановку. Если пешеход на размеченном переходе, нужно полностью остановиться.",
+        "en": "Honking does not replace stopping. If a pedestrian is in a marked crosswalk, you must come to a complete stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только сбавить скорость",
+        "en": "Only slow down"
+      },
+      "explanation": {
+        "ru": "Замедления недостаточно: закон требует полной остановки (complete stop).",
+        "en": "Slowing down is not enough: the law requires a complete stop."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Полностью остановиться и уступить дорогу",
+        "en": "Come to a complete stop and yield"
+      },
+      "explanation": {
+        "ru": "Верно! Пешеход на размеченном переходе всегда получает право проезда. Не въезжайте на переход и перекрёсток, если за ним нет места для проезда других.",
+        "en": "Correct! A pedestrian in a marked crosswalk has the right of way. Also do not enter a crosswalk unless there is enough space for others to pass."
+      }
+    }
+  ]
+}

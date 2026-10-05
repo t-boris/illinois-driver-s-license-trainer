@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q12",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какова обычная скорость медленно движущихся транспортных средств (slow-moving vehicles)?",
+    "en": "What is the normal speed range of slow-moving vehicles?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "25-35 миль/ч",
+        "en": "25-35 mph"
+      },
+      "explanation": {
+        "ru": "Это намного быстрее. Обычная скорость таких машин 5-20 миль/ч.",
+        "en": "That is much faster. Normal speeds for these vehicles are 5-20 mph."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "5-20 миль/ч",
+        "en": "5-20 mph"
+      },
+      "explanation": {
+        "ru": "Верно. Поэтому, приближаясь к ним сзади, будьте готовы замедлиться: разница скоростей резко сокращает время до сближения.",
+        "en": "Correct. So be ready to slow down when approaching from behind: the speed difference dramatically shortens the time to reach them."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "40-55 миль/ч",
+        "en": "40-55 mph"
+      },
+      "explanation": {
+        "ru": "Это слишком быстро для таких машин. Обычная скорость 5-20 миль/ч.",
+        "en": "That is too fast for these vehicles. Normal speeds are 5-20 mph."
+      }
+    }
+  ]
+}

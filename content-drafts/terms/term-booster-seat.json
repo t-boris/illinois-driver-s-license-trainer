@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-booster-seat",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "бустер (детское сиденье-подушка)",
+    "en": "Booster seat"
+  },
+  "definition": {
+    "ru": "Вид детского удерживающего устройства, которое можно использовать только с трёхточечным ремнём (поясной и плечевой). Если на заднем сиденье есть только поясные ремни, ребёнок весом более 40 фунтов может ехать там без бустера, пристёгнутый поясным ремнём.",
+    "en": "A type of child restraint that must only be used with a lap/shoulder safety belt. If the back seat has only lap belts, a child weighing more than 40 pounds may ride there without a booster seat, secured with a lap belt only."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r11-2",
+  "topic": "ch09-signs",
+  "signId": "R11-2",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Дорога закрыта (Road Closed)",
+    "en": "Road Closed"
+  },
+  "meaning": {
+    "ru": "Дорога закрыта для всего движения. Ехать дальше по ней нельзя.",
+    "en": "The road is closed to all traffic. You may not continue on the road."
+  }
+}

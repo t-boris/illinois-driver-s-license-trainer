@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q12",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Хранение и использование устройств для подавления радаров (radar jamming devices) запрещено во всех автомобилях.",
+    "en": "Possession and use of radar jamming devices is prohibited in all vehicles."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Запрет действует для всех автомобилей.",
+        "en": "Correct. The ban applies to all vehicles."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Исключений нет: такие устройства запрещены во всех автомобилях.",
+        "en": "There are no exceptions: such devices are prohibited in all vehicles."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r4-2",
+  "topic": "ch09-signs",
+  "signId": "R4-2",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Обгон разрешён с осторожностью (Pass with Care)",
+    "en": "Pass with Care"
+  },
+  "meaning": {
+    "ru": "Зона запрета обгона закончилась. Теперь обгонять можно, но только когда это безопасно.",
+    "en": "You have reached the end of the no-passing zone. You may pass now only when it is safe."
+  }
+}

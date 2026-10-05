@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-implied-consent-law",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "закон о подразумеваемом согласии (implied consent)",
+    "en": "Implied consent law"
+  },
+  "definition": {
+    "ru": "Управляя машиной на дорогах Иллинойса, вы автоматически соглашаетесь пройти определённые проверки: анализ дыхания, крови, мочи или другой биологической среды, чтобы определить, были ли вы в состоянии опьянения. За отказ действие прав приостанавливается на более долгий срок, а сам отказ могут использовать против вас как доказательство.",
+    "en": "By driving on Illinois roadways you automatically consent to certain tests, such as breath, blood, urine or other bodily substance tests, to determine whether you were under the influence. Refusing a test leads to a longer license suspension and may be used as evidence against you."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w2-1",
+  "topic": "ch09-signs",
+  "signId": "W2-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Перекрёсток (Crossroad)",
+    "en": "Crossroad"
+  },
+  "meaning": {
+    "ru": "Предупреждает о приближающемся перекрёстке, где может быть движение или потребоваться поворот направо или налево. Рядом может стоять знак с названием пересекаемой дороги.",
+    "en": "Warns of an intersection ahead where traffic may exist or a right or left turn may be required. A sign naming the intersecting road also may be posted."
+  }
+}

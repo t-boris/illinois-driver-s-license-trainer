@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q11",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За какое из перечисленных нарушений можно получить обвинение в Aggravated DUI (отягчённое DUI)?",
+    "en": "For which of the following may you be charged with Aggravated DUI?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только за превышение скорости",
+        "en": "Only for speeding"
+      },
+      "explanation": {
+        "ru": "Превышение скорости само по себе не входит в список. Aggravated DUI связано с отягчающими обстоятельствами DUI.",
+        "en": "Speeding alone is not on the list. Aggravated DUI involves aggravating circumstances of a DUI."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "DUI с пострадавшими или погибшими в аварии, DUI за рулём школьного автобуса с детьми (death or personal injury crash)",
+        "en": "A DUI involving a death or personal injury crash, or a DUI while driving a school bus with children"
+      },
+      "explanation": {
+        "ru": "Верно. Также это третье и последующие DUI, DUI без прав, разрешения или страховки.",
+        "en": "Correct. Also a third or subsequent DUI, or a DUI without a valid license, permit, or insurance."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только за отказ пристегнуть ремень",
+        "en": "Only for not wearing a seat belt"
+      },
+      "explanation": {
+        "ru": "Этого нет в списке из руководства. Aggravated DUI связано с DUI и отягчающими обстоятельствами.",
+        "en": "This is not on the manual's list. Aggravated DUI relates to DUI with aggravating circumstances."
+      }
+    }
+  ]
+}

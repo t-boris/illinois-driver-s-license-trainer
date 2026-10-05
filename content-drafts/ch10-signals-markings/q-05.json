@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q05",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Над полосой горит красный «X». Как поступить?",
+    "en": "A red \"X\" is displayed over your lane. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать дальше, но снизить скорость",
+        "en": "Keep driving but slow down"
+      },
+      "explanation": {
+        "ru": "Снижение скорости не поможет: красный «X» означает, что ехать по этой полосе нельзя.",
+        "en": "Slowing down is not enough: a red \"X\" means this lane is closed to driving."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не ехать по этой полосе",
+        "en": "Never drive in this lane"
+      },
+      "explanation": {
+        "ru": "Верно. Красный «X» (red X) на сигнале полосы означает, что ехать по ней нельзя никогда.",
+        "en": "Correct. A red \"X\" on a lane signal means never drive in that lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Использовать полосу только для поворота налево",
+        "en": "Use the lane only for a left turn"
+      },
+      "explanation": {
+        "ru": "Для поворота налево на сигнале полосы служит мигающая жёлтая стрелка. Красный «X» полосу закрывает полностью.",
+        "en": "A flashing yellow arrow is the lane signal for left turns. A red \"X\" closes the lane completely."
+      }
+    }
+  ]
+}

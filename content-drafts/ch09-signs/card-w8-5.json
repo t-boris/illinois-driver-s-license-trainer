@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w8-5",
+  "topic": "ch09-signs",
+  "signId": "W8-5",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Скользкая дорога (Slippery Pavement)",
+    "en": "Slippery Pavement"
+  },
+  "meaning": {
+    "ru": "Предупреждает об условиях, при которых можно потерять управление. Сбавьте скорость на мокром покрытии: тормозной путь становится длиннее.",
+    "en": "Warns of conditions that can cause you to lose control of your car. Slow down when coming upon wet pavement because it takes longer to stop."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-three-second-rule",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "правило трёх секунд",
+    "en": "Three-second rule"
+  },
+  "definition": {
+    "ru": "Способ проверить дистанцию: выберите неподвижный предмет впереди (знак, дерево, путепровод) и после того, как машина впереди проехала мимо него, считайте «one-thousand-one, one-thousand-two». Если вы доехали до предмета раньше счёта one-thousand-three, вы едете слишком близко.",
+    "en": "A way to check your following distance: pick a fixed object ahead, such as a sign, tree or overpass, and count \"one-thousand-one, one-thousand-two\" after the vehicle in front passes it. If you reach the object before the count of one-thousand-three, you are following too closely."
+  }
+}

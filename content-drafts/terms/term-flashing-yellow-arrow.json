@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-flashing-yellow-arrow",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "мигающая жёлтая стрелка",
+    "en": "Flashing yellow arrow"
+  },
+  "definition": {
+    "ru": "Означает, что можно повернуть в направлении стрелки, но только после того, как вы уступили дорогу всем пешеходам и машинам на перекрёстке или переходе.",
+    "en": "It means you may turn in the direction the arrow points, but only after yielding the right of way to any pedestrians and vehicles in the intersection or crosswalk."
+  }
+}

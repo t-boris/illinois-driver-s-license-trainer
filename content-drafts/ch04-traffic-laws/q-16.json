@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q16",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы приближаетесь к неподвижной спецмашине с мигающими огнями на обочине. Что требует закон?",
+    "en": "You are approaching a stationary emergency vehicle with flashing lights on the roadside. What does the law require?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ускориться, чтобы быстрее проехать мимо",
+        "en": "Speed up to get past quickly"
+      },
+      "explanation": {
+        "ru": "Нужно наоборот: снизить скорость и держаться подальше от работников экстренных служб.",
+        "en": "The opposite is required: reduce speed and move away from the emergency workers when you can."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Уступить дорогу, по возможности перестроиться подальше от неё и ехать осторожно со сниженной скоростью",
+        "en": "Yield, change to a lane away from it when possible, and proceed with caution at a reduced speed"
+      },
+      "explanation": {
+        "ru": "Верно! Если перестроиться нельзя, снизьте скорость и проезжайте осторожно. Скорость держите сниженной, пока полностью не проедете машины.",
+        "en": "Correct! If a lane change is not possible, reduce speed and proceed with caution. Keep a reduced speed until you are safely past."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться в своей полосе и ждать, пока спецмашина уедет",
+        "en": "Stop in your lane until the vehicle leaves"
+      },
+      "explanation": {
+        "ru": "Останавливаться посреди полосы не нужно. Достаточно уступить дорогу, перестроиться подальше, если возможно, и проехать на пониженной скорости.",
+        "en": "You do not need to stop in your lane. Yield, move over if possible, and pass at a reduced speed."
+      }
+    }
+  ]
+}

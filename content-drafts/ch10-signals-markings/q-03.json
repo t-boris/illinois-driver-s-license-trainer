@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q03",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сплошная жёлтая линия расположена на вашей стороне осевой. Что вам разрешено?",
+    "en": "A solid yellow line is on your side of the center line. What are you allowed to do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пересечь её, чтобы завершить обгон, начатый до начала зоны запрета, или повернуть налево во двор или на частную дорогу (или выезжая из них)",
+        "en": "Cross it to finish a pass you started before the no-passing zone began, or to turn left into or from a driveway or private road"
+      },
+      "explanation": {
+        "ru": "Верно. Эти два исключения прямо названы в руководстве. Начинать новый обгон через такую линию нельзя.",
+        "en": "Correct. These two exceptions are named in the manual. Starting a new pass across such a line is not allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Начинать обгон в любом месте, если дорога свободна",
+        "en": "Start a pass anywhere if the road is clear"
+      },
+      "explanation": {
+        "ru": "Сплошная жёлтая линия обозначает зоны, где обгон не разрешён, даже если дорога кажется свободной.",
+        "en": "A solid yellow line marks zones where passing is not allowed, even when the road looks clear."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пересекать её по своему усмотрению для перестроения",
+        "en": "Cross it whenever you like to change lanes"
+      },
+      "explanation": {
+        "ru": "Для перестроений такая линия не подходит. Пересекать её можно только в двух случаях, указанных в руководстве.",
+        "en": "This line is not for lane changes. It may be crossed only in the two cases named in the manual."
+      }
+    }
+  ]
+}

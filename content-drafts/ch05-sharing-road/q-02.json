@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q02",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое минимальное расстояние нужно оставить при обгоне велосипедиста?",
+    "en": "What is the minimum space a driver must leave when passing a bicyclist?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "1 фут от кузова",
+        "en": "1 foot from the vehicle"
+      },
+      "explanation": {
+        "ru": "Один фут слишком мало. По руководству нужно оставить не менее 3 футов.",
+        "en": "One foot is too little. The manual calls for at least 3 feet."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "5 футов от велосипедиста",
+        "en": "5 feet from the bicyclist"
+      },
+      "explanation": {
+        "ru": "Руководство называет другое число: не менее 3 футов, и отсчёт идёт от края бокового зеркала автомобиля.",
+        "en": "The manual gives a different number: at least 3 feet, measured from the edge of the vehicle's side mirror."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Достаточно просто объехать медленно",
+        "en": "Just pass slowly; no set distance"
+      },
+      "explanation": {
+        "ru": "Медленный обгон нужен, но этого мало: руководство требует ещё и не менее 3 футов свободного места.",
+        "en": "Passing slowly is required, but it is not enough: the manual also requires at least 3 feet of passing space."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не менее 3 футов от края бокового зеркала автомобиля (at least 3 feet)",
+        "en": "At least 3 feet from the edge of the vehicle's side mirror"
+      },
+      "explanation": {
+        "ru": "Верно. Обгонять нужно медленно, оставляя не менее 3 футов от края бокового зеркала. Если места нет, подождите безопасного момента.",
+        "en": "Correct. Pass slowly and leave at least 3 feet from the edge of the side mirror. If there is no room, wait until you can pass safely."
+      }
+    }
+  ]
+}

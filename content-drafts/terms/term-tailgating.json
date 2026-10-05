@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-tailgating",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "«сидеть на хвосте» (tailgating)",
+    "en": "Tailgating"
+  },
+  "definition": {
+    "ru": "Движение слишком близко за впереди идущей машиной. Это причина большинства столкновений в заднюю часть автомобиля; если вам «сидят на хвосте», перестройтесь в другую полосу или медленно съезжайте с дороги и пропустите машину.",
+    "en": "Following a vehicle too closely. It is the cause of most rear-end crashes; if you are being tailgated, move to another lane or slowly pull off the road and let the vehicle pass."
+  }
+}

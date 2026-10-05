@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q09",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 64",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какого цвета регулирующие знаки, которые нужно выполнять, например СТОП, YIELD, DO NOT ENTER и WRONG WAY?",
+    "en": "What color are regulatory signs that must be obeyed, such as STOP, YIELD, DO NOT ENTER, and WRONG WAY?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Красного",
+        "en": "Red"
+      },
+      "explanation": {
+        "ru": "Верно! Красные знаки (red) регулирующие и обязательны к исполнению.",
+        "en": "Correct! Red signs are regulatory and must be obeyed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Жёлтого",
+        "en": "Yellow"
+      },
+      "explanation": {
+        "ru": "Жёлтый (yellow) используется для предупреждающих знаков о дорожных условиях и опасностях впереди.",
+        "en": "Yellow is used for warning signs about road conditions and dangers ahead."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Зелёного",
+        "en": "Green"
+      },
+      "explanation": {
+        "ru": "Зелёный (green) у указательных знаков: они говорят, где вы находитесь и куда ехать.",
+        "en": "Green is for guide signs that tell you where you are and which way to go."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Синего",
+        "en": "Blue"
+      },
+      "explanation": {
+        "ru": "Синий (blue) показывает услуги вдоль дороги.",
+        "en": "Blue signs tell you about services along the roadway."
+      }
+    }
+  ]
+}

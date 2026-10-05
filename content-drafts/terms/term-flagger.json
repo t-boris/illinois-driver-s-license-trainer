@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-flagger",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 73",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "регулировщик на дорожных работах (flagger)",
+    "en": "Flagger"
+  },
+  "definition": {
+    "ru": "Человек, который регулирует движение возле зоны дорожных работ и стоит рядом с проезжей частью. Снизьте скорость, будьте готовы выполнять его сигналы и остановитесь, если он подаёт сигнал остановки.",
+    "en": "A person who directs traffic near a construction or maintenance zone and works close to traffic. Slow down, be ready to obey the flagger's signals, and stop if signaled to do so."
+  }
+}

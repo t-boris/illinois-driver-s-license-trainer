@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q05",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы подъезжаете к неисправной машине с включёнными аварийными огнями на четырёхполосном шоссе. Что требует закон Иллинойса?",
+    "en": "You approach a disabled vehicle using hazard lights on a four-lane highway. What does Illinois law require?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться позади неё и ждать",
+        "en": "Stop behind it and wait"
+      },
+      "explanation": {
+        "ru": "Останавливаться не нужно. Закон требует перестроиться в соседнюю полосу, если это безопасно.",
+        "en": "Stopping is not required. The law requires changing lanes away from the vehicle if it is safe."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проехать мимо, не меняя полосу и скорость",
+        "en": "Drive past without changing lanes or speed"
+      },
+      "explanation": {
+        "ru": "Так не получится: нужно либо сменить полосу, либо сбавить скорость.",
+        "en": "That does not work: you must either change lanes or reduce speed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Перестроиться в полосу подальше от неё, если это безопасно (change lanes away)",
+        "en": "Change lanes away from it if it is safe to do so"
+      },
+      "explanation": {
+        "ru": "Верно. Если перестроиться небезопасно, снизьте скорость и не ускоряйтесь, пока не отъедете далеко.",
+        "en": "Correct. If changing lanes is not safe, reduce speed and do not speed up until well past the vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить дальний свет, чтобы предупредить водителя",
+        "en": "Switch on high beams to warn the driver"
+      },
+      "explanation": {
+        "ru": "Дальний свет не входит в это правило. Нужно сменить полосу, если это безопасно, или сбавить скорость.",
+        "en": "High beams are not part of this rule. Change lanes if it is safe, or reduce speed."
+      }
+    }
+  ]
+}

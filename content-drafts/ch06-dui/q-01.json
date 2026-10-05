@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q01",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "При каком уровне BAC (blood-alcohol concentration) управлять транспортным средством незаконно?",
+    "en": "At what blood-alcohol concentration (BAC) is it illegal to drive?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": ".02% или выше",
+        "en": ".02% or more"
+      },
+      "explanation": {
+        "ru": "Это ниже порога из руководства. Незаконным считается BAC .08% или выше.",
+        "en": "That is below the threshold in the manual. Driving is illegal at a BAC of .08% or more."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": ".16% или выше",
+        "en": ".16% or more"
+      },
+      "explanation": {
+        "ru": ".16% и выше влечёт усиленные наказания, но незаконно водить уже при .08%.",
+        "en": "A BAC of .16% or more can bring enhanced penalties, but driving is already illegal at .08%."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": ".08% или выше",
+        "en": ".08% or more"
+      },
+      "explanation": {
+        "ru": "Верно. Но помните: DUI возможно и при BAC ниже .08%, если способность управлять машиной нарушена.",
+        "en": "Correct. Remember, though: you can be convicted of DUI with a BAC below .08% if your driving ability is impaired."
+      }
+    }
+  ]
+}

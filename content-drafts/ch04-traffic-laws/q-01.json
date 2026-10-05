@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q01",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое ограничение скорости действует в городе (city/town areas), если знаками не указано иное?",
+    "en": "What is the speed limit in city/town areas unless otherwise posted?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "20 миль/ч",
+        "en": "20 mph"
+      },
+      "explanation": {
+        "ru": "20 миль/ч — это лимит для школьной зоны в учебное время, а не общий городской. Для города запомните цифру 30.",
+        "en": "20 mph applies in school zones at the posted times, not citywide. For city/town areas, remember 30 mph."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "30 миль/ч",
+        "en": "30 mph"
+      },
+      "explanation": {
+        "ru": "Верно! В городах и посёлках 30 миль/ч, если не указано иное. Местные власти могут установить другой лимит, поэтому смотрите на знаки.",
+        "en": "Correct! City/town areas are 30 mph unless otherwise posted. Local municipalities may post different limits, so watch the signs."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "55 миль/ч",
+        "en": "55 mph"
+      },
+      "explanation": {
+        "ru": "55 миль/ч — для прочих шоссе и сельской местности (other highways and rural areas). В городе лимит ниже: 30 миль/ч.",
+        "en": "55 mph is for other highways and rural areas. The city/town limit is lower: 30 mph."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "15 миль/ч",
+        "en": "15 mph"
+      },
+      "explanation": {
+        "ru": "15 миль/ч — это лимит для переулков (alleys). Для города запомните 30 миль/ч.",
+        "en": "15 mph is the limit in alleys. For city/town areas, remember 30 mph."
+      }
+    }
+  ]
+}

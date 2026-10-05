@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q12",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что означает двойная сплошная белая линия между попутными полосами?",
+    "en": "What does a double solid white line between lanes going the same direction mean?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пересекать можно при повороте",
+        "en": "You may cross it when turning"
+      },
+      "explanation": {
+        "ru": "Прерывистая белая линия допускает пересечение при повороте или перестроении, а двойная сплошная нет.",
+        "en": "A broken white line may be crossed for turns or lane changes, but a double solid one may not."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пересекать можно, но с особой осторожностью",
+        "en": "You may cross it with special care"
+      },
+      "explanation": {
+        "ru": "С особой осторожностью (и не рекомендуется) пересекают одинарную сплошную белую. Двойную сплошную белую пересекать нельзя.",
+        "en": "Crossing with special care applies to a single solid white line. A double solid white line must not be crossed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пересекать запрещено",
+        "en": "Crossing it is prohibited"
+      },
+      "explanation": {
+        "ru": "Верно. Двойная сплошная белая (double solid white) разделяет попутные полосы, и пересекать её нельзя.",
+        "en": "Correct. A double solid white line separates lanes going the same direction, and crossing it is prohibited."
+      }
+    }
+  ]
+}

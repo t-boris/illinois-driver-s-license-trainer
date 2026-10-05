@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r5-1a",
+  "topic": "ch09-signs",
+  "signId": "R5-1a",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Неверное направление (Wrong Way)",
+    "en": "Wrong Way"
+  },
+  "meaning": {
+    "ru": "Вы едете в неправильном направлении. Знак стоит на съездах с магистрали чуть дальше знака «Въезд запрещён», а также при неверном повороте на одностороннюю улицу, в переулок или на подъездную дорожку.",
+    "en": "Your vehicle is traveling in the wrong direction. You will see it on expressway ramps a short distance past the DO NOT ENTER sign, and also if you turn the wrong way into a one-way street, alley, or driveway."
+  }
+}

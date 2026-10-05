@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q01",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы стали участником ДТП. Что нужно сделать в первую очередь, если вы можете это сделать?",
+    "en": "You are involved in a traffic crash. What should you do first, if you are able to?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Остановиться в безопасном, хорошо освещённом общественном месте, где вы не мешаете движению",
+        "en": "Stop your vehicle in a safe, well-lit public place that does not obstruct traffic"
+      },
+      "explanation": {
+        "ru": "Верно! Затем помогите пострадавшим, если нужно или просят, позвоните 911 и предупредите других водителей аварийными огнями.",
+        "en": "Correct! Then help any injured person if necessary or requested, call 911, and warn other drivers with emergency flashers."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Уехать и сообщить о ДТП на следующий день",
+        "en": "Drive away and report the crash the next day"
+      },
+      "explanation": {
+        "ru": "Так нельзя: нужно остановиться, а о ДТП сообщить сразу. На отчёт в полицию даётся 30 минут.",
+        "en": "That is not allowed: you should stop, and report right away. A driver has 30 minutes to report a crash."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Подождать, пока другой водитель сам позвонит в службу 911",
+        "en": "Wait until the other driver calls 911"
+      },
+      "explanation": {
+        "ru": "Не ждите: позвоните 911 сами и сразу.",
+        "en": "Do not wait: call 911 immediately yourself."
+      }
+    }
+  ]
+}

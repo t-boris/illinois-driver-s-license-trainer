@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-median",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "разделительная полоса (median)",
+    "en": "Median"
+  },
+  "definition": {
+    "ru": "Полоса, разделяющая потоки встречного направления, например неасфальтированная полоса или разделительный барьер. Пересекать разделительные полосы запрещено.",
+    "en": "A strip that separates traffic going in opposite directions, such as an unpaved strip or a median barrier. It is unlawful to drive across median strips."
+  }
+}

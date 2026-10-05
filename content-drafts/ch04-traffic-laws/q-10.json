@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q10",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Подпись на штрафной квитанции (ticket) означает, что водитель признаёт свою вину.",
+    "en": "Signing a traffic ticket is an admission of the driver’s guilt."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Нет. Подпись говорит лишь о том, что вы получили квитанцию.",
+        "en": "No. Your signature only shows that you received the ticket."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Подпись — это только подтверждение получения (acknowledgment). Отказываться от подписи не стоит, а если вы считаете штраф несправедливым, можно изложить позицию в суде.",
+        "en": "Correct! Signing is only an acknowledgment of receiving the ticket. Do not refuse to sign, and if you believe the ticket is unfair, you can present your case in traffic court."
+      }
+    }
+  ]
+}

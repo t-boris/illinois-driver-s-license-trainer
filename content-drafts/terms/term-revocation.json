@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-revocation",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver's License Revocation, Suspension, Denial and Cancellation, p. 58",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "лишение прав (revocation)",
+    "en": "Revocation"
+  },
+  "definition": {
+    "ru": "Лишение водительских прав на неопределённый срок по решению Secretary of State. Чтобы вернуть их, можно подать заявление на новые права не раньше чем через год, если не указано иное.",
+    "en": "The indefinite withdrawal of driving privileges by the Secretary of State's office. To regain them you may be able to reapply for a license after a minimum of one year, unless otherwise noted."
+  }
+}

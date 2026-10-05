@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-aggravated-dui",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "DUI при отягчающих обстоятельствах (Aggravated DUI)",
+    "en": "Aggravated DUI"
+  },
+  "definition": {
+    "ru": "Более тяжёлое обвинение в DUI. Оно возможно, если вы попали в аварию со смертельным исходом или травмами в нетрезвом состоянии, у вас третий или последующий DUI, вы были нетрезвы за рулём школьного автобуса с детьми или транспорта для перевозки за плату либо ездили в нетрезвом виде без действующих прав, permit или страховки.",
+    "en": "A more serious DUI charge. It can apply if you are involved in a death or personal injury crash while under the influence, have a third or later DUI, drive a school bus with children or a vehicle for hire while under the influence, or commit DUI without a valid license, permit or insurance."
+  }
+}

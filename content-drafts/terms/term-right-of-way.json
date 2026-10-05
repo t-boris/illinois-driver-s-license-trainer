@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-right-of-way",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "право проезда (right of way)",
+    "en": "Right of way"
+  },
+  "definition": {
+    "ru": "Право проезжать первым. Уступить дорогу (yield the right of way) значит пропустить других водителей, велосипедистов или пешеходов. В руководстве перечислено много ситуаций, когда это нужно сделать: после остановки у знака STOP, при повороте направо на красный, при выезде из переулка или с подъездной дороги, а также на зелёный сигнал, если на перекрёстке ещё есть машины.",
+    "en": "The right to go first. Yielding the right of way means letting other drivers, bicyclists or pedestrians go first. The manual lists many situations where you must do this, for example after stopping at a stop sign, when turning right on red, when emerging from an alley or driveway, and even after the light turns green if vehicles are still in the intersection."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r1-1",
+  "topic": "ch09-signs",
+  "signId": "R1-1",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "СТОП (Stop)",
+    "en": "Stop"
+  },
+  "meaning": {
+    "ru": "Полностью остановитесь у стоп-линии. Если линии нет, остановитесь перед пешеходным переходом, а если нет и его, перед перекрёстком; уступите дорогу пешеходам и встречному транспорту.",
+    "en": "Always make a full stop at the stop line. If there is no stop line, stop before the crosswalk; if there is no crosswalk, stop before the intersection. Yield the right of way to pedestrians and approaching traffic."
+  }
+}

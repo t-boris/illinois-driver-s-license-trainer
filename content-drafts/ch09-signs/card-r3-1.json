@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r3-1",
+  "topic": "ch09-signs",
+  "signId": "R3-1",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Поворот запрещён: направо/налево (No Right/Left Turn)",
+    "en": "No Right/Left Turn"
+  },
+  "meaning": {
+    "ru": "Повороты запрещены в том направлении, которое показывает стрелка. Красный круг с красной чертой означает, что показанное внутри действие запрещено.",
+    "en": "These signs indicate that turns are not allowed in the direction shown by the arrow. A red circle with a red slash means the action shown inside is not allowed."
+  }
+}

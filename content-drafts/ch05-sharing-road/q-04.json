@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q04",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 41",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Можно ли делить полосу с мотоциклистом, если места в ней хватает для автомобиля и мотоцикла?",
+    "en": "May a driver share a lane with a motorcyclist if the lane seems wide enough for both a car and a motorcycle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Да, если ехать медленно",
+        "en": "Yes, if driving slowly"
+      },
+      "explanation": {
+        "ru": "Скорость тут не решает. Мотоциклисту нужно место для безопасного манёвра, и он вправе занимать полосу целиком.",
+        "en": "Speed does not decide this. The motorcyclist needs room to maneuver safely and is entitled to the entire lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Да, если подать сигнал",
+        "en": "Yes, if signaling first"
+      },
+      "explanation": {
+        "ru": "Сигнал полезен, но не отменяет правило: полосу с мотоциклистом делить нельзя.",
+        "en": "A signal is useful, but it does not change the rule: do not share a lane with a motorcyclist."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Нет, мотоциклист вправе занимать всю полосу (entire lane)",
+        "en": "No, the motorcyclist is entitled to the entire lane"
+      },
+      "explanation": {
+        "ru": "Верно. Даже если места кажется достаточно, не делите полосу: мотоциклисту нужно пространство для безопасного манёвра.",
+        "en": "Correct. Even if there seems to be enough room, do not share the lane: the motorcyclist needs space to maneuver safely."
+      }
+    }
+  ]
+}

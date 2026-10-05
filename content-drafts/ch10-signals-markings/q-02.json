@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q02",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно делать, подъезжая к перекрёстку, где светофор не работает?",
+    "en": "What should you do when you approach an intersection where the traffic signals are not working?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать быстрее, чтобы освободить перекрёсток",
+        "en": "Speed up to clear the intersection quickly"
+      },
+      "explanation": {
+        "ru": "Спешка тут не помощник. Светофор не работает, значит перекрёсток считается перекрёстком с остановкой на всех сторонах.",
+        "en": "Rushing does not help here. With the signals out, the intersection is treated as an all-way stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать, если вокруг нет других машин",
+        "en": "Go through if no other vehicles are around"
+      },
+      "explanation": {
+        "ru": "Не совсем: нужно остановиться в любом случае, даже когда дорога кажется пустой.",
+        "en": "Not quite: you must stop either way, even if the road looks empty."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Полностью остановиться как на перекрёстке с остановкой на всех сторонах (all-way stop) и уступить дорогу",
+        "en": "Come to a complete stop as at an all-way stop, then yield before entering"
+      },
+      "explanation": {
+        "ru": "Верно. Полная остановка, взгляд по сторонам и уступка дороги, если только полицейский не показывает иначе.",
+        "en": "Correct. Come to a complete stop, look, and yield the right of way, unless law enforcement directs otherwise."
+      }
+    }
+  ]
+}

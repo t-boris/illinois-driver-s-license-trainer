@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q23",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На каком расстоянии от железнодорожного переезда нужно остановиться, если сигнал мигает или шлагбаум опущен?",
+    "en": "How far from a railroad crossing must you stop if the electric signal is flashing or the crossing gate is lowered?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "В 5–10 футах от переезда",
+        "en": "Within 5-10 feet"
+      },
+      "explanation": {
+        "ru": "Это слишком близко к путям. Нужно остановиться в 15–50 футах.",
+        "en": "That is too close to the tracks. Stop within 15-50 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В 15–50 футах от переезда",
+        "en": "Within 15-50 feet"
+      },
+      "explanation": {
+        "ru": "Верно! Трогаться можно только когда шлагбаум полностью поднят и огни погасли, а перед этим нужно посмотреть, нет ли второго поезда.",
+        "en": "Correct! Proceed only after the gate is all the way up and the lights stop flashing, and look for a second train first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В 100–200 футах от переезда",
+        "en": "Within 100-200 feet"
+      },
+      "explanation": {
+        "ru": "Это слишком далеко. Руководство называет 15–50 футов.",
+        "en": "That is farther than needed. The manual says 15-50 feet."
+      }
+    }
+  ]
+}

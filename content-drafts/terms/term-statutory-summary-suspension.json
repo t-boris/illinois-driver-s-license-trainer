@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-statutory-summary-suspension",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "автоматическое приостановление прав (statutory summary suspension)",
+    "en": "Statutory summary suspension"
+  },
+  "definition": {
+    "ru": "Автоматическое приостановление прав после химического теста с BAC .08% и выше или после отказа от теста: шесть месяцев за непройденный тест и один год за отказ, а для повторных нарушителей сроки дольше. При аресте офицер забирает права и выдаёт временную квитанцию на 45 дней; приостановление начинается на 46-й день.",
+    "en": "An automatic suspension of driving privileges after a chemical test shows a BAC of .08% or more, or after a refusal to be tested: six months for a failed test and one year for a refusal, with longer periods for second offenders. At arrest the officer takes your license and gives a temporary receipt valid for 45 days; the suspension begins on the 46th day."
+  }
+}

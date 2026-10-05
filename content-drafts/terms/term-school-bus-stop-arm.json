@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-school-bus-stop-arm",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "стоп-сигнал школьного автобуса (stop arm)",
+    "en": "School bus stop signal arm"
+  },
+  "definition": {
+    "ru": "Если школьный автобус остановился с мигающими огнями и выдвинутым stop-знаком, нужно остановиться, не доезжая до него, и стоять, пока знак не уберут и огни не погаснут или пока водитель автобуса не разрешит ехать. Единственное исключение: четырёхполосная дорога, где автобус стоит на встречной стороне.",
+    "en": "When a school bus is stopped with flashing lights and the stop arm extended, you must stop before meeting or passing it and stay stopped until the arm is retracted and the lights are off, or the driver signals you to pass. The only exception is a four-lane roadway where the bus is stopped in the opposite direction."
+  }
+}

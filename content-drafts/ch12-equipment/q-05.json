@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q05",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого расстояния должен быть слышен звуковой сигнал (horn) автомобиля?",
+    "en": "From what distance must a vehicle's horn be heard?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 50 футов",
+        "en": "50 feet"
+      },
+      "explanation": {
+        "ru": "Слишком мало: сигнал должен предупреждать заранее.",
+        "en": "Too short; the horn needs to warn others earlier."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "С 200 футов",
+        "en": "200 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Сирены, свистки и звонки разрешены только на специальных экстренных машинах.",
+        "en": "Correct. Sirens, whistles and bells are allowed only on authorized emergency vehicles."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 500 футов",
+        "en": "500 feet"
+      },
+      "explanation": {
+        "ru": "Это расстояние для задних фонарей, а для сигнала требуется меньше.",
+        "en": "That is the distance for taillights; the horn requirement is shorter."
+      }
+    }
+  ]
+}

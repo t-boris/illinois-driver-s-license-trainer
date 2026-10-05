@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-crosswalk",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "пешеходный переход",
+    "en": "Crosswalk"
+  },
+  "definition": {
+    "ru": "Место, где переходят дорогу пешеходы; оно может быть обозначено белыми линиями через всю ширину проезжей части и иногда находится посередине квартала. У пешеходов на переходе преимущество перед автомобилями.",
+    "en": "A place where pedestrians cross; it can be marked with white lines painted across the entire width of the pavement, and it is sometimes in the middle of the block. Pedestrians in a crosswalk have the right of way over vehicles."
+  }
+}

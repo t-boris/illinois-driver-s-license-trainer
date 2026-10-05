@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q05",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 64",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W14-3",
+    "alt": {
+      "ru": "Жёлтый треугольный знак с чёрной надписью",
+      "en": "Yellow triangular sign with black lettering"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот жёлтый трёхсторонний знак на левой стороне дороги?",
+    "en": "What does this yellow three-sided sign on the left side of the road mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Начало зоны запрета обгона (No Passing Zone)",
+        "en": "The beginning of a no passing zone"
+      },
+      "explanation": {
+        "ru": "Верно! Знак стоит слева на двухполосной двусторонней дороге там, где начинается и разметка запрета обгона.",
+        "en": "Correct! It appears on the left side of a two-lane, two-way road where \"no passing\" markings also begin."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Школьная зона",
+        "en": "A school zone"
+      },
+      "explanation": {
+        "ru": "Школьную зону показывает пятиугольный знак, а не трёхсторонний.",
+        "en": "A school zone is shown by a five-sided sign, not a three-sided one."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Железнодорожный переезд",
+        "en": "A railroad crossing"
+      },
+      "explanation": {
+        "ru": "Переезд обозначается круглым жёлтым знаком с крестом X и буквами RR.",
+        "en": "A railroad crossing is shown by a round yellow sign with an X and the letters RR."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Уступите дорогу",
+        "en": "Yield the right of way"
+      },
+      "explanation": {
+        "ru": "Yield это красно-белый треугольник, направленный вершиной вниз. Этот знак жёлтый.",
+        "en": "YIELD is a red and white triangle pointing downward. This sign is yellow."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q10",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что руководство называет Zero Tolerance Violation (нулевая терпимость)?",
+    "en": "What does the manual call a Zero Tolerance Violation?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Концентрация алкоголя 0.08 и выше у водителя старше 21 года",
+        "en": "An alcohol concentration of 0.08 or more by a driver over 21"
+      },
+      "explanation": {
+        "ru": "Эта ситуация относится к другому основанию (результат теста при аресте за DUI). Zero Tolerance — про водителей младше 21 года.",
+        "en": "That falls under a different reason (a failed chemical test after a DUI arrest). Zero Tolerance concerns drivers under 21."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Концентрация алкоголя выше 0.00, но ниже 0.08 у человека младше 21 года",
+        "en": "An alcohol concentration of greater than 0.00 but less than 0.08 by a person under age 21"
+      },
+      "explanation": {
+        "ru": "Верно. Для водителей младше 21 года практически любое присутствие алкоголя может стать причиной приостановки прав.",
+        "en": "Correct. For drivers under 21, any measurable alcohol (above 0.00) can be a reason for suspension."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любое нарушение правил движения водителем младше 21 года",
+        "en": "Any traffic violation by a driver under 21"
+      },
+      "explanation": {
+        "ru": "Zero Tolerance касается именно алкоголя: концентрация выше 0.00, но ниже 0.08.",
+        "en": "Zero Tolerance is specifically about alcohol: a concentration above 0.00 but below 0.08."
+      }
+    }
+  ]
+}

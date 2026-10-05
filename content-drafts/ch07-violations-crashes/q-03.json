@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q03",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько времени есть у водителя, чтобы сообщить о ДТП?",
+    "en": "How much time does a driver have to report a crash after it occurs?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "10 минут",
+        "en": "10 minutes"
+      },
+      "explanation": {
+        "ru": "Времени немного больше: на сообщение о ДТП даётся 30 минут.",
+        "en": "There is a little more time: a driver has 30 minutes to report a crash."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "30 минут",
+        "en": "30 minutes"
+      },
+      "explanation": {
+        "ru": "Верно! Если полицейского на месте нет, сообщите в ближайший участок полиции как можно скорее, а в сельской местности — в офис шерифа округа или полиции штата.",
+        "en": "Correct! If no officer is at the scene, report at the nearest police station as soon as possible; in a rural area, notify the county sheriff or Illinois State Police."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "1 час",
+        "en": "1 hour"
+      },
+      "explanation": {
+        "ru": "Срок короче: 30 минут. Лучше сообщить в полицию сразу.",
+        "en": "The time is shorter: 30 minutes. It is best to notify the police immediately."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "24 часа",
+        "en": "24 hours"
+      },
+      "explanation": {
+        "ru": "Срок гораздо короче: 30 минут. Лучше сообщить в полицию сразу.",
+        "en": "The time is much shorter: 30 minutes. It is best to notify the police immediately."
+      }
+    }
+  ]
+}

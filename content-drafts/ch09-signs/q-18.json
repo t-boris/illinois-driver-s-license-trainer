@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q18",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W11-2",
+    "alt": {
+      "ru": "Жёлтый ромбовидный знак с чёрным рисунком",
+      "en": "Yellow diamond-shaped sign with a black picture"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди пешеходный переход",
+        "en": "A pedestrian crosswalk is ahead"
+      },
+      "explanation": {
+        "ru": "Верно! Переходы бывают не только на перекрёстках, поэтому следите за пешеходами по обеим сторонам улицы.",
+        "en": "Correct! Crosswalks are not always at intersections, so watch both sides of the street for pedestrians."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Рядом школа",
+        "en": "A school is nearby"
+      },
+      "explanation": {
+        "ru": "Школу показывает пятиугольный знак с двумя детьми.",
+        "en": "A school is shown by a five-sided sign with two children."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди работают дорожные рабочие",
+        "en": "Workers are ahead"
+      },
+      "explanation": {
+        "ru": "Знаки о дорожных работах оранжевые, а этот знак жёлтый или жёлто-зелёный.",
+        "en": "Work zone signs are orange; this sign is yellow or yellow-green."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди регулировщик",
+        "en": "A flagger is ahead"
+      },
+      "explanation": {
+        "ru": "Регулировщик показывается оранжевым знаком в зоне работ.",
+        "en": "A flagger is shown on an orange work zone sign."
+      }
+    }
+  ]
+}

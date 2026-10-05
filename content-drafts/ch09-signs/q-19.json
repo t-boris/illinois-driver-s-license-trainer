@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q19",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 71",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W7-1",
+    "alt": {
+      "ru": "Жёлтый ромбовидный знак с чёрным рисунком",
+      "en": "Yellow diamond-shaped sign with a black picture"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди опасный спуск: сбавьте скорость до начала",
+        "en": "A dangerous downgrade is ahead: slow down before starting down"
+      },
+      "explanation": {
+        "ru": "Верно! Спуск (downgrade) может быть длинным, крутым или с резкими поворотами.",
+        "en": "Correct! A downgrade may be very long or steep, or have sharp curves."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Скользкая дорога",
+        "en": "Slippery pavement"
+      },
+      "explanation": {
+        "ru": "Скользкую дорогу показывает знак с машиной и следами заноса.",
+        "en": "Slippery pavement is shown by a sign with a car and skid marks."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди узкий мост",
+        "en": "A narrow bridge is ahead"
+      },
+      "explanation": {
+        "ru": "Узкий мост (narrow bridge) обозначается знаком с надписью NARROW BRIDGE.",
+        "en": "A narrow bridge has its own sign with the words NARROW BRIDGE."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Слияние полос",
+        "en": "Merging lanes"
+      },
+      "explanation": {
+        "ru": "Слияние показывает знак со стрелками, а этот знак об уклоне дороги.",
+        "en": "Merging is shown by a sign with arrows; this sign is about a downward slope."
+      }
+    }
+  ]
+}

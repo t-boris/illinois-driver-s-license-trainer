@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-regulatory-signs",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "регулирующие знаки (regulatory signs)",
+    "en": "Regulatory signs"
+  },
+  "definition": {
+    "ru": "Знаки, которые указывают, что нужно делать, и которые обязательно выполнять. Красные знаки, такие как STOP, YIELD, DO NOT ENTER и WRONG WAY, относятся к регулирующим, как и некоторые чёрно-белые.",
+    "en": "Signs that instruct you on what to do and must be obeyed. Red signs, such as STOP, YIELD, DO NOT ENTER and WRONG WAY, are regulatory, as are some black and white signs."
+  }
+}

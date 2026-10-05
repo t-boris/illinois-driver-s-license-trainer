@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q07",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На какой срок вводится отказ (denial) за серьёзное нарушение правил движения (serious moving violation) для человека младше 18 лет?",
+    "en": "For a person under age 18, how long does a denial for a serious moving violation last?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "До 21 года",
+        "en": "Until age 21"
+      },
+      "explanation": {
+        "ru": "Срок короче: девять месяцев или до 18-летия, смотря что короче.",
+        "en": "It is shorter: nine months or until the 18th birthday, whichever is shorter."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Девять месяцев или до 18-летия, смотря что короче",
+        "en": "Nine months or until the 18th birthday, whichever is shorter"
+      },
+      "explanation": {
+        "ru": "Верно. Такой отказ запрещает только подачу заявления на права; на учебное разрешение подавать заявление всё ещё можно.",
+        "en": "Correct. This denial only forbids an application for a driver’s license; instruction permit applications are still allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ровно один год",
+        "en": "Exactly one year"
+      },
+      "explanation": {
+        "ru": "Год — минимальный срок для повторной подачи после отзыва. Для этого вида отказа срок: девять месяцев или до 18-летия, что короче.",
+        "en": "One year is the minimum wait after a revocation. For this denial it is nine months or until the 18th birthday, whichever is shorter."
+      }
+    }
+  ]
+}

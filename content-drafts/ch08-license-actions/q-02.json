@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q02",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 58",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что управление автомобилем во время приостановки или отзыва прав может привести к продлению срока и к тюремному заключению?",
+    "en": "True or false: Driving while a license is suspended or revoked can extend the suspension or revocation period and may lead to incarceration."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Такое вождение продлевает срок приостановки или отзыва и может привести к периоду заключения (incarceration).",
+        "en": "True. It extends the suspension or revocation period and may subject the driver to a period of incarceration."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Лучше не рисковать: по руководству вождение при приостановленных или отозванных правах продлевает срок и может привести к заключению.",
+        "en": "Better not to risk it: per the manual, driving while suspended or revoked extends the period and may result in incarceration."
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q01",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R1-1",
+    "alt": {
+      "ru": "Красный восьмиугольный знак с белой надписью",
+      "en": "Red octagonal sign with white lettering"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Полностью остановиться у стоп-линии",
+        "en": "Come to a complete stop at the stop line"
+      },
+      "explanation": {
+        "ru": "Верно! Красный восьмиугольник (octagon) это СТОП (STOP): остановка у линии, а если её нет, то перед пешеходным переходом или перекрёстком.",
+        "en": "Correct! The red octagon is STOP: stop at the stop line, or before the crosswalk or intersection if there is no line."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Уступить дорогу, но можно не останавливаться",
+        "en": "Yield, but you do not have to stop"
+      },
+      "explanation": {
+        "ru": "Почти, но нет. Знак «уступить дорогу» (Yield) имеет форму треугольника. Восьмиугольник требует полной остановки.",
+        "en": "Close, but not quite. The YIELD sign is a triangle. The octagon requires a complete stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди школьная зона",
+        "en": "A school zone is ahead"
+      },
+      "explanation": {
+        "ru": "Школьную зону (school zone) показывает пятиугольный жёлтый знак, а не красный восьмиугольник.",
+        "en": "A school zone is shown by a yellow five-sided sign, not a red octagon."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Въезд на эту дорогу запрещён",
+        "en": "You may not enter this road"
+      },
+      "explanation": {
+        "ru": "Запрет въезда (Do Not Enter) показывает другой знак. Красный восьмиугольник означает СТОП.",
+        "en": "Do Not Enter is a different sign. The red octagon means STOP."
+      }
+    }
+  ]
+}

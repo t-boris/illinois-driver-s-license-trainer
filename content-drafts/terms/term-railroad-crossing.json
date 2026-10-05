@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-railroad-crossing",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "железнодорожный переезд",
+    "en": "Railroad crossing"
+  },
+  "definition": {
+    "ru": "Нужно уступать дорогу любому приближающемуся поезду. Остановитесь в 15-50 футах от путей, если есть знак STOP, мигающий сигнал или опущенный шлагбаум, и поезжайте только после того, как шлагбаум поднят полностью и огни больше не мигают.",
+    "en": "You must yield to any approaching train. Stop within 15-50 feet of the tracks if there is a stop sign, flashing signal or lowered gate, and proceed only when the gate is all the way up and the lights have stopped flashing."
+  }
+}

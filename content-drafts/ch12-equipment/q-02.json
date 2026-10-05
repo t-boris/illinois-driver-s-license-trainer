@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q02",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Фары должны быть включены от заката до рассвета.",
+    "en": "Headlights must be on from sunset to sunrise."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Кроме того, их включают, когда дождь, снег или туман требуют дворников (wipers).",
+        "en": "Correct. They are also used whenever rain, snow, or fog require windshield wipers."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не переживайте, это правило легко запомнить. Фары нужны от заката до рассвета (sunset to sunrise).",
+        "en": "No worries, this one is easy to remember. Headlights are required from sunset to sunrise."
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q07",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "S1-1",
+    "alt": {
+      "ru": "Жёлтый пятиугольный знак с чёрным рисунком",
+      "en": "Yellow five-sided sign with a black picture"
+    }
+  },
+  "text": {
+    "ru": "Что означает пятиугольный жёлтый знак с двумя идущими детьми?",
+    "en": "What does a five-sided yellow sign with two walking children mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Рядом школа: будьте внимательны",
+        "en": "A school is nearby: stay alert"
+      },
+      "explanation": {
+        "ru": "Верно! Такой знак (school zone) предупреждает о школьных зданиях или территории рядом с дорогой. Следите за детьми.",
+        "en": "Correct! This sign warns of school buildings or grounds next to the road. Watch for children."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Детская площадка закрыта",
+        "en": "The playground is closed"
+      },
+      "explanation": {
+        "ru": "Такого значения у знака нет. Он говорит о близости школы (school), а не о площадке.",
+        "en": "The sign has no such meaning. It tells you a school is nearby, not about a playground."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановка автобуса запрещена",
+        "en": "No bus stopping"
+      },
+      "explanation": {
+        "ru": "Нет, знак предупреждает о детях и школе, он не запрещает остановку.",
+        "en": "No, the sign warns about children and a school; it does not prohibit stopping."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Зона запрета обгона",
+        "en": "A no passing zone"
+      },
+      "explanation": {
+        "ru": "Зону запрета обгона показывает жёлтый трёхсторонний знак, а не пятиугольник.",
+        "en": "A no passing zone is shown by a three-sided yellow sign, not a five-sided one."
+      }
+    }
+  ]
+}

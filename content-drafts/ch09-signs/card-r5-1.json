@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r5-1",
+  "topic": "ch09-signs",
+  "signId": "R5-1",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Въезд запрещён (Do Not Enter)",
+    "en": "Do Not Enter"
+  },
+  "meaning": {
+    "ru": "Знак стоит на улицах с односторонним движением и на других дорогах, куда въезжать нельзя. Его можно встретить, если вы пытаетесь заехать на съезд с магистрали не с той стороны.",
+    "en": "This sign is posted on one-way streets and other roadways where you are not allowed to enter. You may see it if attempting to enter an expressway ramp in the wrong direction."
+  }
+}

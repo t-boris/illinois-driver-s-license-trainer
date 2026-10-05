@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q04",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы повредили припаркованный автомобиль, рядом с которым никого нет, и владельца найти не удаётся. Что нужно сделать?",
+    "en": "You damaged an unattended parked vehicle and cannot find its owner. What must you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Уехать, если повреждения небольшие",
+        "en": "Drive away if the damage is minor"
+      },
+      "explanation": {
+        "ru": "Нужно остановиться и оставить свои данные: размер ущерба не отменяет этого правила.",
+        "en": "You must stop and leave your information; a small amount of damage does not cancel the rule."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Оставить записку только с извинением",
+        "en": "Leave a note with only an apology"
+      },
+      "explanation": {
+        "ru": "Записка должна содержать имя, адрес, телефон и номер номерного знака, а ещё нужно сообщить в полицию.",
+        "en": "The note must include your name, address, phone number, and license plate number, and you must notify police."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Оставить на машине своё имя, адрес, телефон и номер номерного знака, а также сообщить в полицию",
+        "en": "Leave your name, address, phone number, and license plate number on the vehicle, and notify police"
+      },
+      "explanation": {
+        "ru": "Верно! Также остановитесь вдали от движения и заполните все необходимые отчёты о ДТП.",
+        "en": "Correct! Also stop away from traffic and complete all required crash reports."
+      }
+    }
+  ]
+}

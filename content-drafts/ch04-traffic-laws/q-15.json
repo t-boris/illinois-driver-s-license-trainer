@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q15",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Установленное в зоне дорожных работ (construction zone) ограничение скорости нужно соблюдать круглосуточно, даже если рабочих на месте нет.",
+    "en": "You must obey the posted construction zone speed limit 24 hours a day, seven days a week, even when no workers are present."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Лимит действует 24 часа в сутки, 7 дней в неделю, независимо от того, есть ли рабочие. Там бывают узкие полосы, перепады высот и техника.",
+        "en": "Correct! The limit applies 24/7 regardless of workers. There may be narrow lanes, drop-offs, and equipment."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Нет, дело не в рабочих. Знак действует всегда, ведь в зоне строительства могут быть узкие полосы, перепады между полосами и закрытия.",
+        "en": "Not quite: it does not depend on workers. The posted limit always applies, because there may be narrow lanes, drop-offs between lanes, and lane closures."
+      }
+    }
+  ]
+}

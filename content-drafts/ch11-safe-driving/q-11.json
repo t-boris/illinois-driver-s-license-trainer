@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q11",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Мосты, затенённые места и путепроводы зимой могут оставаться покрытыми льдом, когда остальная дорога уже чистая и сухая.",
+    "en": "Bridges, shaded spots, and overpasses may remain icy after the rest of the roadway is clear and dry."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Подъезжайте к ним медленно (approach slowly).",
+        "en": "Correct. Approach them slowly."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Загляните в раздел о зиме: именно такие места могут оставаться обледеневшими, когда остальная дорога уже чистая, поэтому к ним подъезжают медленно.",
+        "en": "Take another look at the winter section: these are exactly the spots that may stay icy after the rest of the road is clear, so approach them slowly."
+      }
+    }
+  ]
+}

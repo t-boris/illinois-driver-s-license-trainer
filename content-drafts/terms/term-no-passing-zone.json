@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-no-passing-zone",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "зона запрета обгона",
+    "en": "No passing zone"
+  },
+  "definition": {
+    "ru": "Участок двухполосной дороги с двусторонним движением, где обгон запрещён; он обозначен сплошной жёлтой линией или знаком DO NOT PASS либо NO PASSING ZONE. Обгонять нельзя и на подъёмах и поворотах, где не видно встречных машин, в пределах 100 футов от перекрёстка или железнодорожного переезда, а также во всех зонах дорожных работ Иллинойса.",
+    "en": "A stretch of a two-lane, two-way road where passing is not allowed, marked by a solid yellow line or by a DO NOT PASS or NO PASSING ZONE sign. Passing is also not allowed on hills and curves where oncoming vehicles cannot be seen, within 100 feet of an intersection or railroad crossing, and in all Illinois construction zones."
+  }
+}

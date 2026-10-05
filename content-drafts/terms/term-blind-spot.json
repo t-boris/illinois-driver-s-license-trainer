@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-blind-spot",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "слепая зона",
+    "en": "Blind spot"
+  },
+  "definition": {
+    "ru": "Зона вокруг автомобиля, которую не видно в зеркале заднего вида и боковых зеркалах. Рядом с грузовиками, автобусами и другими крупными машинами не находитесь в их слепых зонах: водитель большой машины должен видеть вас в боковых зеркалах.",
+    "en": "An area around a vehicle that cannot be seen in the rearview or side mirrors. Around trucks, buses and other large vehicles, stay out of their blind spots so that the large vehicle's driver can see you in the side mirrors."
+  }
+}

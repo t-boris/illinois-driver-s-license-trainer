@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-cancellation",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver's License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "аннулирование прав (cancellation)",
+    "en": "Cancellation"
+  },
+  "definition": {
+    "ru": "Прекращение водительских прав официальным решением Secretary of State из-за ошибки или дефекта в правах либо потому, что владелец больше не вправе их иметь. Подать заявление заново можно только после выполнения условий аннулирования.",
+    "en": "The termination of driving privileges by formal action of the Secretary of State's office, because of an error or defect in the license or because the licensee is no longer entitled to it. You can reapply only after the terms of the cancellation have been met."
+  }
+}

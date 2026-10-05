@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q21",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W21-1a",
+    "alt": {
+      "ru": "Оранжевый ромбовидный знак с чёрным рисунком",
+      "en": "Orange diamond-shaped sign with a black picture"
+    }
+  },
+  "text": {
+    "ru": "Оранжевый ромб с фигурой человека. Что он означает?",
+    "en": "An orange diamond with a figure of a person. What does it mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди дорожные рабочие: скорректируйте скорость и держите дистанцию",
+        "en": "Workers are ahead: adjust your speed and keep a safe distance"
+      },
+      "explanation": {
+        "ru": "Верно! Оранжевый (orange) используется в зонах строительства и ремонта. Рабочие могут быть близко к вашей полосе.",
+        "en": "Correct! Orange is used in construction and maintenance zones. Workers may be close to your lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди пешеходный переход",
+        "en": "A pedestrian crosswalk is ahead"
+      },
+      "explanation": {
+        "ru": "Переход показывает жёлтый или жёлто-зелёный знак. Оранжевый цвет это зоны работ.",
+        "en": "A crosswalk is shown by a yellow or yellow-green sign. Orange means work zones."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Рядом детская площадка",
+        "en": "A playground is nearby"
+      },
+      "explanation": {
+        "ru": "Площадки обозначаются жёлто-зелёными знаками, а оранжевые знаки относятся к строительству и ремонту.",
+        "en": "Playground areas use yellow-green signs; orange signs relate to construction and maintenance."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Справочная информация об услугах",
+        "en": "Information about services"
+      },
+      "explanation": {
+        "ru": "Услуги показывают синие знаки (blue), а не оранжевые.",
+        "en": "Services are shown by blue signs, not orange ones."
+      }
+    }
+  ]
+}

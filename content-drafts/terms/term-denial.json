@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-denial",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver's License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "отказ в выдаче прав (denial)",
+    "en": "Denial"
+  },
+  "definition": {
+    "ru": "Временный отказ в праве подавать заявление на водительские права, а в некоторых случаях и на instruction permit. Он может быть внесён в запись лица младше 18 лет за определённые нарушения, например за серьёзное нарушение правил движения или вождение без действующих прав или permit.",
+    "en": "The temporary refusal of the privilege of applying for a driver's license and, in certain cases, an instruction permit. It can be entered on the record of a person under age 18 for certain offenses, such as a serious moving violation or driving without a valid license or permit."
+  }
+}

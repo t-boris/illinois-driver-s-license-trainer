@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q05",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 90",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ваша машина сломалась на дороге высокой пропускной способности (high-capacity roadway). Что в руководстве рекомендуется делать?",
+    "en": "Your vehicle breaks down on a high-capacity roadway. What does the manual say to do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выйти из машины и идти вдоль дороги за помощью",
+        "en": "Get out and walk along the road to find help"
+      },
+      "explanation": {
+        "ru": "Это небезопасно рядом с потоком машин. На такой дороге рекомендуется оставаться в автомобиле.",
+        "en": "This is unsafe next to passing traffic. On such roads the manual says to stay in your vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить аварийку и ждать, не вызывая никого",
+        "en": "Turn on the hazard lights and wait without calling anyone"
+      },
+      "explanation": {
+        "ru": "Аварийка нужна, но к ней добавляется звонок на 911.",
+        "en": "Hazard lights are part of it, but you should also call 911."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Съехать к правой обочине, остаться в машине с пристёгнутым ремнём, включить аварийку (hazard lights), позвонить 911 и ждать экстренную службу",
+        "en": "Pull over to the right shoulder, remain in your vehicle with your seatbelt on, activate hazard lights, call 911, and wait for an emergency responder"
+      },
+      "explanation": {
+        "ru": "Верно. В машине вы защищены лучше, чем рядом с движущимся потоком.",
+        "en": "Correct. You are safer in your vehicle than next to moving traffic."
+      }
+    }
+  ]
+}

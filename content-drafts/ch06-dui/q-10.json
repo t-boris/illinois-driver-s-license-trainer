@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q10",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "DUI в Иллинойсе классифицируется как насильственное преступление (violent crime), а осуждение остаётся в записи о вождении навсегда.",
+    "en": "DUI is classified in Illinois as a violent crime, and a conviction permanently remains on your driving record."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Возможны также потеря прав и регистрации автомобиля, штраф и лишение свободы.",
+        "en": "Correct. You may also lose driving privileges and vehicle registration and be fined and/or imprisoned."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Руководство говорит именно так: DUI классифицируется как насильственное преступление, а осуждение остаётся в записи навсегда.",
+        "en": "The manual says exactly this: DUI is classified as a violent crime, and a conviction remains on your record permanently."
+      }
+    }
+  ]
+}

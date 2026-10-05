@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q04",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что должен пройти человек в возрасте 18-20 лет, который раньше не имел прав и не заканчивал одобренные курсы вождения?",
+    "en": "What must a person age 18, 19, or 20 complete if they have not previously been licensed or completed an approved driver education program?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Двадцатичасовой курс в любой автошколе",
+        "en": "A 20-hour course at any driving school"
+      },
+      "explanation": {
+        "ru": "Курс для взрослых (Adult Driver Education Course) занимает шесть часов, и принимается только у провайдера, сертифицированного Secretary of State.",
+        "en": "The Adult Driver Education Course is six hours long and only counts if taught by a provider certified by the Secretary of State."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего: достаточно сдать экзамены",
+        "en": "Nothing, just pass the exams"
+      },
+      "explanation": {
+        "ru": "Для впервые получающих права в 18-20 лет обязателен шестичасовой Adult Driver Education Course.",
+        "en": "First-time drivers age 18-20 must complete a six-hour Adult Driver Education Course."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Шестичасовой курс у любого провайдера, в том числе несертифицированного",
+        "en": "A six-hour course from any provider, even an uncertified one"
+      },
+      "explanation": {
+        "ru": "Продолжительность верна, но курс у несертифицированного провайдера не принимается. Нужен провайдер, сертифицированный Secretary of State.",
+        "en": "The length is right, but a course from a provider not certified by the Secretary of State will not be accepted."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Шестичасовой Adult Driver Education Course у провайдера, сертифицированного Secretary of State",
+        "en": "A six-hour Adult Driver Education Course from a provider certified by the Secretary of State"
+      },
+      "explanation": {
+        "ru": "Верно. Курс может проходить в классе или онлайн, но только у сертифицированного провайдера.",
+        "en": "Correct. The course may be classroom-based or online, but only with a certified provider."
+      }
+    }
+  ]
+}

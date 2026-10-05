@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-controlled-access-roadway",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 35",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "дорога с ограниченным доступом (controlled-access roadway)",
+    "en": "Controlled-access roadway"
+  },
+  "definition": {
+    "ru": "Дорога, на которую можно въехать и с которой можно съехать только в определённых местах. Останавливаться, стоять и парковаться на ней запрещено.",
+    "en": "A roadway where a vehicle may enter or exit only at certain points. Stopping, standing or parking is prohibited on it."
+  }
+}

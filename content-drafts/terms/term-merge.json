@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-merge",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "слияние потоков (merge)",
+    "en": "Merge (merging lanes)"
+  },
+  "definition": {
+    "ru": "Знак MERGING LANES сообщает, что две полосы одного направления скоро сольются в одну, поэтому будьте готовы перестроиться или пропустить других в свою полосу. На скоростной дороге водитель, уже едущий по ней, должен сбавить скорость, чтобы пропустить машину, въезжающую с рампы.",
+    "en": "A MERGING LANES sign tells you that two lanes going the same direction will soon become one, so be ready to change lanes or let other traffic merge into your lane. On an expressway, the driver already on it should slow down to let a driver on the ramp merge."
+  }
+}

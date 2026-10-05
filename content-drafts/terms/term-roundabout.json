@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-roundabout",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "круговой перекрёсток (кольцо)",
+    "en": "Roundabout (rotary)"
+  },
+  "definition": {
+    "ru": "Перекрёсток, где движение идёт вокруг центрального острова против часовой стрелки. Сбавьте скорость, въезжайте направо, когда это безопасно, держитесь своей полосы и уступайте всем, включая пешеходов и велосипедистов.",
+    "en": "An intersection where traffic travels around a central island in a counter-clockwise direction. Slow down, enter by turning right when it is safe, stay in your lane, and yield to all traffic, including pedestrians and bicycles."
+  }
+}

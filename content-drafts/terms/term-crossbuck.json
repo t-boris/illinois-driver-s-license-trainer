@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-crossbuck",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "знак «Андреевский крест» (crossbuck)",
+    "en": "Crossbuck (railroad crossbuck sign)"
+  },
+  "definition": {
+    "ru": "Знак железнодорожного переезда в форме «X»; если путей несколько, их число указано под ним. Он приравнивается к знаку YIELD, поэтому нужно уступать дорогу приближающимся поездам и железнодорожной технике.",
+    "en": "A railroad sign shaped like an \"X\"; if the crossing has more than one track, the number of tracks is shown below it. It is considered a yield sign, so you must yield the right of way to oncoming trains and railroad equipment."
+  }
+}

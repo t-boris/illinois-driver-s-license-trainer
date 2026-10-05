@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-divided-highway",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "дорога с разделительной полосой",
+    "en": "Divided highway"
+  },
+  "definition": {
+    "ru": "Дорога с центральной полосой, разделяющей встречные потоки. Один знак ставят перед началом такой дороги, другой — перед её концом; будьте внимательны вблизи её конца.",
+    "en": "A road with a center strip that separates traffic going in opposite directions. One sign is posted before a divided highway begins and another just before it ends; be careful near the end of it."
+  }
+}

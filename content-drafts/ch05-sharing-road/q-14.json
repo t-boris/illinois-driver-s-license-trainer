@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q14",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Малоскоростное транспортное средство (low-speed vehicle) может ездить по любой улице с разрешённой скоростью 30 миль/ч или меньше, если местные власти этого не запрещают.",
+    "en": "A low-speed vehicle may operate on any street with a posted speed limit of 30 mph or less unless prohibited by the local municipality."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Такое транспортное средство четырёхколёсное, имеет VIN, максимальная скорость 25 миль/ч.",
+        "en": "Correct. It is a four-wheeled vehicle with a VIN and a maximum speed of 25 mph."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Именно так сказано в руководстве, и местные власти могут вводить запреты.",
+        "en": "This is exactly what the manual says, and local municipalities may prohibit it."
+      }
+    }
+  ]
+}

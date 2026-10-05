@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q06",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно делать, когда на железнодорожном переезде начали мигать огни?",
+    "en": "What should you do when the lights at a railroad crossing begin to flash?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проскочить, если поезда не видно",
+        "en": "Cross quickly if you cannot see a train"
+      },
+      "explanation": {
+        "ru": "Поезд может быть ближе, чем кажется. Правило простое: при мигающих огнях всегда останавливайтесь.",
+        "en": "A train can be closer than it looks. The rule is simple: always stop when the lights flash."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Замедлиться и ехать осторожно",
+        "en": "Slow down and cross with caution"
+      },
+      "explanation": {
+        "ru": "Замедления мало. Нужна полная остановка.",
+        "en": "Slowing down is not enough. A full stop is needed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Остановиться и стоять, пока поезд не пройдёт и огни не перестанут мигать",
+        "en": "Stop and stay stopped until the train has passed and the lights have stopped flashing"
+      },
+      "explanation": {
+        "ru": "Верно. Это правило без исключений: ждите, пока огни погаснут.",
+        "en": "Correct. This rule has no exceptions: wait until the lights have stopped flashing."
+      }
+    }
+  ]
+}

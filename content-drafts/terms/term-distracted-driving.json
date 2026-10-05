@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-distracted-driving",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "отвлечение за рулём (distracted driving)",
+    "en": "Distracted driving"
+  },
+  "definition": {
+    "ru": "Закон Иллинойса запрещает пользоваться телефоном в руках, писать сообщения и другие электронные средства связи за рулём. Hands-free и Bluetooth разрешены только водителям от 19 лет, а разговор по громкой связи с телефоном в руке hands-free не считается.",
+    "en": "Illinois law prohibits handheld cellphones, texting and other electronic communications while driving. Hands-free devices or Bluetooth are allowed only for persons age 19 and older, and holding the phone while using the speaker phone is not hands-free."
+  }
+}

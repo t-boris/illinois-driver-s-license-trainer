@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r10-11",
+  "topic": "ch09-signs",
+  "signId": "R10-11",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Поворот на красный запрещён (No Turn on Red)",
+    "en": "No Turn on Red"
+  },
+  "meaning": {
+    "ru": "Знак стоит на некоторых перекрёстках: правый поворот на красный свет запрещён, как и левый поворот на красный на пересечении односторонних улиц. Вместо слова RED может быть красный круг.",
+    "en": "Used at some intersections. A right turn on a red light, or a left turn on a red light at intersecting one-way streets, is prohibited. It may also show a red circle instead of the word red."
+  }
+}

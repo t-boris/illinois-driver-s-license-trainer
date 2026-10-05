@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q13",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, pp. 25-26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы подъезжаете к размеченной школьной зоне (school zone) в учебное время, когда рядом дети. Что вы должны сделать для людей на пешеходном переходе?",
+    "en": "You approach a marked school zone while children are present on a school day. What must you do for people in the crosswalk area?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Остановиться и уступить дорогу (yield) детям и взрослым на переходе",
+        "en": "Stop and yield the right of way to any children or adults in the crosswalk area"
+      },
+      "explanation": {
+        "ru": "Верно! Также нужно снизить скорость до 20 миль/ч и прекратить пользоваться телефоном (если он не hands-free).",
+        "en": "Correct! You must also reduce speed to 20 mph and stop using a cellphone unless it is hands-free."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посигналить и проехать, если переход свободен с вашей стороны",
+        "en": "Honk and keep going if the crosswalk is clear on your side"
+      },
+      "explanation": {
+        "ru": "В школьной зоне нужно остановиться и пропустить всех, кто находится на переходе. Сигнал и проезд не заменяют остановку.",
+        "en": "In a school zone you must stop and yield to anyone in the crosswalk area. Honking and continuing is not a substitute."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Просто немного сбавить скорость",
+        "en": "Just slow down a little"
+      },
+      "explanation": {
+        "ru": "Снижение скорости до 20 миль/ч обязательно, но этого мало: нужно ещё остановиться и уступить дорогу людям на переходе.",
+        "en": "Slowing to 20 mph is required, but it is not enough: you must also stop and yield to people in the crosswalk area."
+      }
+    }
+  ]
+}

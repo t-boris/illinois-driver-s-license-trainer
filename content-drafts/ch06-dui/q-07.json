@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q07",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как разрешено перевозить каннабис в автомобиле?",
+    "en": "How may cannabis be transported in a vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "В бардачке, в любой упаковке",
+        "en": "In the glove box, in any packaging"
+      },
+      "explanation": {
+        "ru": "Бардачок сам по себе не подходит. Нужен специальный контейнер.",
+        "en": "The glove box alone is not enough. A specific kind of container is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В открытом контейнере, если никто его не употребляет",
+        "en": "In an open container, if nobody uses it"
+      },
+      "explanation": {
+        "ru": "Открытый контейнер не подходит. Требуется запечатанный, не пропускающий запах и защищённый от детей.",
+        "en": "An open container does not qualify. It must be sealed, odor-proof, and child-resistant."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Перевозка в автомобиле запрещена полностью",
+        "en": "Transport in a vehicle is completely banned"
+      },
+      "explanation": {
+        "ru": "Перевозка разрешена, но только в определённом контейнере.",
+        "en": "Transport is allowed, but only in a certain kind of container."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В запечатанном, не пропускающем запах и защищённом от детей контейнере (sealed, odor-proof, child-resistant)",
+        "en": "In a sealed, odor-proof, and child-resistant container"
+      },
+      "explanation": {
+        "ru": "Верно. Также ни водитель, ни пассажир не могут употреблять каннабис в автомобиле.",
+        "en": "Correct. Also, no driver or passenger may use cannabis in a motor vehicle."
+      }
+    }
+  ]
+}

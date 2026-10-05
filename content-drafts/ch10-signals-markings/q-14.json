@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q14",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как размечена полоса для поворота налево в обе стороны (two-way left turn lane)?",
+    "en": "How is a two-way left turn lane marked?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Двойной сплошной белой линией",
+        "en": "With a double solid white line"
+      },
+      "explanation": {
+        "ru": "Двойная сплошная белая разделяет попутные полосы. Полоса для поворота налево размечена иначе.",
+        "en": "A double solid white line separates same-direction lanes. A left turn lane is marked differently."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Белыми диагональными полосами",
+        "en": "With white diagonal stripes"
+      },
+      "explanation": {
+        "ru": "Диагональные полосы отмечают неподвижные препятствия или повышают видимость перехода.",
+        "en": "Diagonal stripes mark fixed obstructions or make crosswalks easier to see."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Жёлтыми линиями и белыми стрелками",
+        "en": "With yellow lines and white arrows"
+      },
+      "explanation": {
+        "ru": "Верно. Ехать по ней можно только при подготовке к левому повороту, самом повороте или развороте, где он разрешён.",
+        "en": "Correct. The lane may be used only when preparing for or making a left turn, or a permitted U-turn."
+      }
+    }
+  ]
+}

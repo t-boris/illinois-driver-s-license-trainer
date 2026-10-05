@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r4-7",
+  "topic": "ch09-signs",
+  "signId": "R4-7",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Держитесь правее (Keep Right)",
+    "en": "Keep Right"
+  },
+  "meaning": {
+    "ru": "Показывает, где ехать у островков безопасности, разделителей и других препятствий посреди дороги. Нужно ехать с той стороны, куда указывает стрелка.",
+    "en": "Tells you where to drive when approaching traffic islands, medians, or other obstructions in the middle of the roadway. You must drive to the side indicated by the arrow."
+  }
+}

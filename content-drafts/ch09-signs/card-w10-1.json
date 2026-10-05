@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w10-1",
+  "topic": "ch09-signs",
+  "signId": "W10-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 63",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Железнодорожный переезд (Railroad Crossing)",
+    "en": "Railroad Crossing"
+  },
+  "meaning": {
+    "ru": "Круглый жёлтый знак с чёрным крестом X и буквами RR: впереди переезд. Сбавьте скорость, посмотрите и при необходимости остановитесь. Если приближается поезд, остановитесь и ждите, никогда не соревнуйтесь с поездом.",
+    "en": "A round yellow sign with a black crossbuck \"X\" and the letters \"RR\": a railroad track crosses the road ahead. Slow down, look, and stop if necessary. If a train is approaching, stop and wait. Never race the train to the crossing."
+  }
+}

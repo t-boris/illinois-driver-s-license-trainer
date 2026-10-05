@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q04",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Каково минимальное наказание в виде лишения прав (revocation) за первое осуждение за DUI?",
+    "en": "What is the minimum revocation of driving privileges for a first DUI conviction?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три месяца",
+        "en": "Three months"
+      },
+      "explanation": {
+        "ru": "Три месяца значительно меньше. Минимум за первое осуждение составляет один год.",
+        "en": "Three months is much shorter. The minimum for a first conviction is one year."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пять лет",
+        "en": "Five years"
+      },
+      "explanation": {
+        "ru": "Пять лет предусмотрены минимум за второе осуждение в течение 20 лет.",
+        "en": "Five years is the minimum for a second conviction within 20 years."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Один год",
+        "en": "One year"
+      },
+      "explanation": {
+        "ru": "Верно. Минимум один год лишения прав за первое осуждение.",
+        "en": "Correct. A first conviction results in a minimum one-year revocation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-financial-responsibility",
+  "topic": "ch07-violations-crashes",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 56",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "подтверждение финансовой ответственности (SR-22)",
+    "en": "Proof of financial responsibility (SR-22)"
+  },
+  "definition": {
+    "ru": "Подтверждение того, что вы можете оплатить ущерб; его требуют в некоторых случаях, например при невыплаченном решении суда по аварии или трёх и более нарушениях обязательного страхования. Это может быть страховой сертификат (SR-22), поручительство или залог ценных бумаг; SR-22 подаёт в Secretary of State страховая компания.",
+    "en": "Proof that you can pay for damages, required in certain cases such as an unsatisfied court judgment after a crash or three or more mandatory insurance violations. It may be a certificate of insurance (SR-22), a bond or a deposit of securities; the insurance company files the SR-22 with the Secretary of State."
+  }
+}

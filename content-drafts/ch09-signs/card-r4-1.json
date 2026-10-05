@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r4-1",
+  "topic": "ch09-signs",
+  "signId": "R4-1",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Обгон запрещён (Do Not Pass)",
+    "en": "Do Not Pass"
+  },
+  "meaning": {
+    "ru": "Обгонять другие машины нельзя. Знак стоит на некоторых двухполосных дорогах с движением в обе стороны; на дороге при этом нанесены жёлтые линии запрета обгона.",
+    "en": "You may not pass other vehicles. It is posted on some two-lane roads where traffic goes in both directions, and there will also be yellow \"no passing\" lines on the road."
+  }
+}

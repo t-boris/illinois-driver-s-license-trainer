@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q12",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R3-4",
+    "alt": {
+      "ru": "Белый квадратный знак с красным кругом, красной чертой и чёрной стрелкой",
+      "en": "White square sign with a red circle, a red slash, and a black arrow"
+    }
+  },
+  "text": {
+    "ru": "Что запрещает этот знак?",
+    "en": "What does this sign prohibit?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Разворот",
+        "en": "Making a U-turn"
+      },
+      "explanation": {
+        "ru": "Верно! Его ставят на дорогах с разделительной полосой у проёма на другую сторону. Проёмы только для уполномоченных машин, например полиции или скорой помощи.",
+        "en": "Correct! It is posted at openings in divided highways. Those openings are only for authorized vehicles such as police cars or ambulances."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поворот направо",
+        "en": "Turning right"
+      },
+      "explanation": {
+        "ru": "Запрет поворота направо показывает стрелка поворота внутри круга, а здесь изображён разворот (U-turn).",
+        "en": "A right turn prohibition shows a turn arrow in the circle; here the picture is a U-turn."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Обгон других машин",
+        "en": "Passing other vehicles"
+      },
+      "explanation": {
+        "ru": "Запрет обгона показывает знак Do Not Pass с надписью. Красный круг с чертой запрещает то, что нарисовано внутри.",
+        "en": "No passing is shown by the Do Not Pass sign with lettering. A red circle with a slash forbids what is pictured inside."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Парковку на проезжей части",
+        "en": "Parking on the roadway"
+      },
+      "explanation": {
+        "ru": "Парковка здесь не изображена. Картинка внутри круга показывает, что именно запрещено.",
+        "en": "Parking is not pictured. The picture inside the circle shows what is not allowed."
+      }
+    }
+  ]
+}

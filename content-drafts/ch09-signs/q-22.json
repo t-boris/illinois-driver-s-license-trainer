@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q22",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 64",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Для чего используются зелёные знаки?",
+    "en": "What are green signs used for?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Это указательные знаки: где вы, куда ехать и сколько до пункта назначения",
+        "en": "They are guide signs: where you are, which way to go, and distances to destinations"
+      },
+      "explanation": {
+        "ru": "Верно! Зелёный (green) цвет у указательных знаков (guide signs).",
+        "en": "Correct! Green is used for guide signs."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Это предупреждения об опасностях впереди",
+        "en": "They warn about dangers ahead"
+      },
+      "explanation": {
+        "ru": "Предупреждения (warning signs) обычно жёлтые, а в зонах работ оранжевые.",
+        "en": "Warning signs are usually yellow, and orange in work zones."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Это регулирующие знаки, которые надо выполнять",
+        "en": "They are regulatory signs that must be obeyed"
+      },
+      "explanation": {
+        "ru": "Красный (red) цвет у регулирующих знаков, таких как STOP и YIELD.",
+        "en": "Red is the color of regulatory signs such as STOP and YIELD."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Это знаки о парках и местах отдыха",
+        "en": "They mark parks and recreation areas"
+      },
+      "explanation": {
+        "ru": "Парки и места отдыха показывает коричневый (brown) цвет.",
+        "en": "Parks and recreation are shown in brown."
+      }
+    }
+  ]
+}

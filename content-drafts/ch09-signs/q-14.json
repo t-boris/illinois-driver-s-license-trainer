@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q14",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R4-1",
+    "alt": {
+      "ru": "Белый вертикальный прямоугольный знак с чёрной рамкой и надписью",
+      "en": "White vertical rectangular sign with a black border and lettering"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Обгонять нельзя",
+        "en": "You may not pass other vehicles"
+      },
+      "explanation": {
+        "ru": "Верно! Знак стоит на некоторых двухполосных дорогах с движением в обе стороны, и на дороге есть жёлтые линии запрета обгона.",
+        "en": "Correct! It is posted on some two-lane roads with traffic in both directions, and the road has yellow \"no passing\" lines."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Обгон разрешён, если это безопасно",
+        "en": "You may pass when it is safe"
+      },
+      "explanation": {
+        "ru": "Это значение знака Pass with Care. Он отмечает конец зоны запрета обгона.",
+        "en": "That is the meaning of the Pass with Care sign, which marks the end of the no-passing zone."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Держитесь правее",
+        "en": "Keep right"
+      },
+      "explanation": {
+        "ru": "Для этого есть знаки Keep Right и Slower Traffic Keep Right со стрелками или надписью про правую полосу.",
+        "en": "There are Keep Right and Slower Traffic Keep Right signs for that, with arrows or lettering about the right."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дорога закрыта",
+        "en": "The road is closed"
+      },
+      "explanation": {
+        "ru": "Закрытую дорогу показывает знак Road Closed.",
+        "en": "A closed road is shown by the Road Closed sign."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q11",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 20",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Человек младше 21 года получил судебный надзор (court supervision) за хранение или употребление алкоголя, находясь в автомобиле. Какое последствие для прав указано в руководстве?",
+    "en": "A person under 21 receives court supervision for possession or consumption of alcohol while an occupant of a motor vehicle. What is the license consequence in the manual?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Приостановка на 30 дней",
+        "en": "A 30-day suspension"
+      },
+      "explanation": {
+        "ru": "30 дней — минимальный срок при двух нарушениях за 24 месяца. За алкоголь срок другой: три месяца при надзоре.",
+        "en": "30 days is the minimum for two moving violations in 24 months. For alcohol the period is different: three months with court supervision."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приостановка на три месяца",
+        "en": "A three-month suspension"
+      },
+      "explanation": {
+        "ru": "Верно. При судебном надзоре — три месяца; при осуждении (conviction) — минимум шесть месяцев.",
+        "en": "Correct. Court supervision brings a three-month suspension; a conviction brings a minimum of six months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Приостановка минимум на шесть месяцев",
+        "en": "A suspension of at least six months"
+      },
+      "explanation": {
+        "ru": "Шесть месяцев — для случая осуждения (conviction). При судебном надзоре срок — три месяца.",
+        "en": "Six months applies to a conviction. With court supervision the suspension is three months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никаких последствий для прав",
+        "en": "No effect on the license"
+      },
+      "explanation": {
+        "ru": "Последствия есть: если нарушение произошло, пока человек находился в автомобиле, права приостанавливаются.",
+        "en": "There is an effect: if the offense occurred while the person was in a motor vehicle, the license is suspended."
+      }
+    }
+  ]
+}

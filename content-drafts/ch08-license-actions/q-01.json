@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q01",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 58",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "После отзыва водительских прав (revocation) человек может подать заявление на новые права не раньше чем через какое время, если не указано иное?",
+    "en": "After a revocation, you may be eligible to reapply for a license after a minimum of how long, unless otherwise noted?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "30 дней",
+        "en": "30 days"
+      },
+      "explanation": {
+        "ru": "Срок дольше. 30 дней — это минимум для приостановки (suspension) в случае водителей младше 21 года, а не для отзыва.",
+        "en": "The period is longer. 30 days relates to the minimum suspension for drivers under 21, not to revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три месяца",
+        "en": "Three months"
+      },
+      "explanation": {
+        "ru": "Для revocation срок длиннее: минимум один год, если не указано иное.",
+        "en": "For a revocation the wait is longer: a minimum of one year, unless otherwise noted."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Один год",
+        "en": "One year"
+      },
+      "explanation": {
+        "ru": "Верно. Revocation — это бессрочное лишение прав, и подать заявление на новые права можно минимум через год, если не указано иное.",
+        "en": "Correct. A revocation is an indefinite withdrawal of driving privileges, and you may reapply after a minimum of one year, unless otherwise noted."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w4-2",
+  "topic": "ch09-signs",
+  "signId": "W4-2",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 71",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Сужение числа полос (Reduction in Lanes)",
+    "en": "Reduction in Lanes"
+  },
+  "meaning": {
+    "ru": "Число полос в вашем направлении уменьшается, временно из-за работ или навсегда. Будьте готовы перестроиться или пропустить других. Когда дорога свободна, перестраивайтесь как можно раньше.",
+    "en": "The number of traffic lanes in your direction of travel is being reduced, temporarily for construction or maintenance or permanently. Be prepared to change lanes or let others merge. When the road is not congested, merge into the open lane as early as possible."
+  }
+}

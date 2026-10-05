@@ -1,0 +1,178 @@
+{
+ "signs": [
+  {
+   "designation": "R1-1",
+   "file": "Regulatory.pdf",
+   "page": 1,
+   "title": "R1-1 STOP"
+  },
+  {
+   "designation": "R1-2",
+   "file": "Regulatory.pdf",
+   "page": 2,
+   "title": "R1-2 YIELD"
+  },
+  {
+   "designation": "R10-11",
+   "file": "Regulatory.pdf",
+   "page": 141,
+   "title": "R10-11 NO TURN ON RED"
+  },
+  {
+   "designation": "R11-2",
+   "file": "Regulatory.pdf",
+   "page": 155,
+   "title": "R11-2 ROAD CLOSED"
+  },
+  {
+   "designation": "R2-1",
+   "file": "Regulatory.pdf",
+   "page": 12,
+   "title": "R2-1 SPEED LIMIT (ENGLISH)"
+  },
+  {
+   "designation": "R3-1",
+   "file": "Regulatory.pdf",
+   "page": 23,
+   "title": "R3-1 RIGHT TURN PROHIBITION"
+  },
+  {
+   "designation": "R3-4",
+   "file": "Regulatory.pdf",
+   "page": 28,
+   "title": "R3-4 U-TURN PROHIBITED"
+  },
+  {
+   "designation": "R4-1",
+   "file": "Regulatory.pdf",
+   "page": 63,
+   "title": "R4-1 DO NOT PASS"
+  },
+  {
+   "designation": "R4-2",
+   "file": "Regulatory.pdf",
+   "page": 64,
+   "title": "R4-2 PASS WITH CARE"
+  },
+  {
+   "designation": "R4-3",
+   "file": "Regulatory.pdf",
+   "page": 65,
+   "title": "R4-3 SLOWER TRAFFIC KEEP RIGHT"
+  },
+  {
+   "designation": "R4-7",
+   "file": "Regulatory.pdf",
+   "page": 69,
+   "title": "R4-7 KEEP RIGHT"
+  },
+  {
+   "designation": "R5-1",
+   "file": "Regulatory.pdf",
+   "page": 75,
+   "title": "R5-1 DO NOT ENTER"
+  },
+  {
+   "designation": "R5-1a",
+   "file": "Regulatory.pdf",
+   "page": 76,
+   "title": "R5-1a WRONG WAY"
+  },
+  {
+   "designation": "R6-1",
+   "file": "Regulatory.pdf",
+   "page": 88,
+   "title": "R6-1 ONE WAY"
+  },
+  {
+   "designation": "S1-1",
+   "file": "School.pdf",
+   "page": 1,
+   "title": "S1-1 SCHOOL"
+  },
+  {
+   "designation": "W10-1",
+   "file": "Warning.pdf",
+   "page": 76,
+   "title": "W10-1 HIGHWAY-RAIL GRADE CROSSING ADVANCE WARNING"
+  },
+  {
+   "designation": "W11-2",
+   "file": "Warning.pdf",
+   "page": 92,
+   "title": "W11-2 PEDESTRIAN TRAFFIC"
+  },
+  {
+   "designation": "W14-3",
+   "file": "Warning.pdf",
+   "page": 119,
+   "title": "W14-3 NO PASSING ZONE"
+  },
+  {
+   "designation": "W2-1",
+   "file": "Warning.pdf",
+   "page": 14,
+   "title": "W2-1 CROSS ROAD"
+  },
+  {
+   "designation": "W2-4",
+   "file": "Warning.pdf",
+   "page": 17,
+   "title": "W2-4 T-SYMBOL"
+  },
+  {
+   "designation": "W20-7a",
+   "file": "Warning.pdf",
+   "page": 150,
+   "title": "W20-7a FLAGGER"
+  },
+  {
+   "designation": "W21-1a",
+   "file": "Warning.pdf",
+   "page": 152,
+   "title": "W21-1a WORKERS"
+  },
+  {
+   "designation": "W3-1",
+   "file": "Warning.pdf",
+   "page": 20,
+   "title": "W3-1 STOP AHEAD"
+  },
+  {
+   "designation": "W3-2",
+   "file": "Warning.pdf",
+   "page": 22,
+   "title": "W3-2 YIELD AHEAD"
+  },
+  {
+   "designation": "W3-3",
+   "file": "Warning.pdf",
+   "page": 24,
+   "title": "W3-3 SIGNAL AHEAD"
+  },
+  {
+   "designation": "W4-1",
+   "file": "Warning.pdf",
+   "page": 30,
+   "title": "W4-1R MERGE"
+  },
+  {
+   "designation": "W4-2",
+   "file": "Warning.pdf",
+   "page": 31,
+   "title": "W4-2L LANE ENDS"
+  },
+  {
+   "designation": "W7-1",
+   "file": "Warning.pdf",
+   "page": 48,
+   "title": "W7-1 HILL"
+  },
+  {
+   "designation": "W8-5",
+   "file": "Warning.pdf",
+   "page": 63,
+   "title": "W8-5 SLIPPERY WHEN WET"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-speed-change-lane",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "полоса разгона и торможения",
+    "en": "Speed-change lane"
+  },
+  "definition": {
+    "ru": "Полоса при въезде на скоростную дорогу или съезде с неё. При въезде она позволяет набрать нужную скорость перед слиянием с потоком, а при съезде вы снижаете скорость на ней.",
+    "en": "A lane on an expressway entrance or exit. When entering, it lets you gain the speed you need before merging with traffic; when exiting, you slow down in this lane."
+  }
+}

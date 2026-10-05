@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q15",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы остановились перед белой стоп-линией так, что передние колёса чуть заехали за неё. Это допустимо.",
+    "en": "You stopped so that your front wheels are slightly over the white stop line. This is acceptable."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: правило строже. Ни одна часть машины не должна пересекать стоп-линию.",
+        "en": "Not quite: the rule is stricter. No part of your vehicle may cross the stop line."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Неверно. Остановиться нужно так, чтобы ни одна часть машины не пересекала линию. Немного сдайте назад, и всё в порядке!",
+        "en": "False. You must stop before any part of your vehicle crosses the line. Just roll back a little and you are all set!"
+      }
+    }
+  ]
+}

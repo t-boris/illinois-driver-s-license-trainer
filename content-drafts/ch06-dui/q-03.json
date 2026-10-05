@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q03",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На какой срок приостанавливаются водительские права, если водитель (без предыдущих нарушений) при аресте отказывается от химического теста (chemical testing)?",
+    "en": "For how long are driving privileges suspended if a driver refuses to submit to chemical testing (first-time offender)?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "На один год",
+        "en": "One year"
+      },
+      "explanation": {
+        "ru": "Верно. Для повторного нарушителя срок за отказ составляет три года.",
+        "en": "Correct. For a second offender, the suspension for refusal is three years."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На три месяца",
+        "en": "Three months"
+      },
+      "explanation": {
+        "ru": "Три месяца упоминаются в руководстве для водителей до 21 года со следами алкоголя. За отказ от теста срок другой, один год.",
+        "en": "Three months applies to drivers under 21 with any trace of alcohol. For refusing a test the period is one year."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На шесть месяцев",
+        "en": "Six months"
+      },
+      "explanation": {
+        "ru": "Шесть месяцев относится к результату теста .08% и выше. За отказ срок длиннее: один год.",
+        "en": "Six months applies to a test result of .08% or more. Refusal carries a longer period: one year."
+      }
+    }
+  ]
+}

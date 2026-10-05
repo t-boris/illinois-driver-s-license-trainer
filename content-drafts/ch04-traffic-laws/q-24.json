@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q24",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 34",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы припарковались лицом под уклон на улице с бордюром. Как повернуть передние колёса?",
+    "en": "You are parked facing downhill on a street with a curb. How should you turn your front wheels?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "К бордюру",
+        "en": "Toward the curb"
+      },
+      "explanation": {
+        "ru": "Верно! Тогда машина при откате упрётся в бордюр. Не забудьте поставить селектор в положение park и при необходимости включить стояночный тормоз.",
+        "en": "Correct! Then the vehicle will roll toward the curb. Also put the gear selector in park and set the parking brake if necessary."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "От бордюра",
+        "en": "Away from the curb"
+      },
+      "explanation": {
+        "ru": "Так колёса поворачивают при парковке в гору с бордюром. При спуске нужно к бордюру.",
+        "en": "That is for parking uphill with a curb. Facing downhill, turn the wheels toward the curb."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прямо",
+        "en": "Straight ahead"
+      },
+      "explanation": {
+        "ru": "Колёса нужно повернуть: при спуске с бордюром — к бордюру, чтобы машина при откате упёрлась в него.",
+        "en": "The wheels must be turned: facing downhill with a curb, turn them toward the curb so the vehicle rolls into it."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q06",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Пешеход переходит дорогу не по пешеходному переходу (размеченному или неразмеченному). Кто должен уступить дорогу?",
+    "en": "A pedestrian crosses at a place other than a marked or unmarked crosswalk. Who must yield the right of way?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Водитель",
+        "en": "The driver"
+      },
+      "explanation": {
+        "ru": "Обычно водитель уступает пешеходам, но в этом случае правило другое: уступать должен пешеход.",
+        "en": "Drivers usually yield to pedestrians, but in this case the rule is different: the pedestrian must yield."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пешеход",
+        "en": "The pedestrian"
+      },
+      "explanation": {
+        "ru": "Верно. Вне пешеходного перехода пешеходы должны уступать дорогу водителям. Это касается и участков между близко расположенными перекрёстками со светофорами.",
+        "en": "Correct. Away from a crosswalk, pedestrians must give the right of way to drivers. This includes areas between closely spaced intersections where signals operate."
+      }
+    }
+  ]
+}

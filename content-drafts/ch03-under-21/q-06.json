@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q06",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как долго нужно держать учебное разрешение (instruction permit) в возрасте 15-17 лет, прежде чем получить водительские права?",
+    "en": "At age 15-17, how long must an instruction permit be held before obtaining a driver’s license?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три месяца подряд",
+        "en": "Three consecutive months"
+      },
+      "explanation": {
+        "ru": "Нужно дольше: не менее девяти месяцев подряд.",
+        "en": "It has to be longer: at least nine consecutive months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Шесть месяцев подряд",
+        "en": "Six consecutive months"
+      },
+      "explanation": {
+        "ru": "Шесть месяцев встречаются в других правилах, но срок удержания разрешения — минимум девять месяцев подряд.",
+        "en": "Six months appears in other rules, but the permit must be held for at least nine consecutive months."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не менее девяти месяцев подряд",
+        "en": "At least nine consecutive months"
+      },
+      "explanation": {
+        "ru": "Верно. Само разрешение действует 24 месяца, но получить права можно только после минимум девяти месяцев подряд.",
+        "en": "Correct. The permit is valid for 24 months, but it must be held for at least nine consecutive months before a license."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Все 24 месяца",
+        "en": "The full 24 months"
+      },
+      "explanation": {
+        "ru": "24 месяца — это срок действия разрешения (valid for 24 months), а не обязательный срок удержания. Минимум — девять месяцев подряд.",
+        "en": "24 months is how long the permit stays valid, not the required holding period. The minimum is nine consecutive months."
+      }
+    }
+  ]
+}

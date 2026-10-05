@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q04",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R5-1",
+    "alt": {
+      "ru": "Квадратный знак с красным кругом, белой горизонтальной полосой и надписью",
+      "en": "Square sign with a red circle, a white horizontal bar, and lettering"
+    }
+  },
+  "text": {
+    "ru": "Что означает знак с красным кругом и белой горизонтальной полосой?",
+    "en": "What does a sign with a red circle and a white horizontal bar mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Въезд запрещён (Do Not Enter)",
+        "en": "Do Not Enter"
+      },
+      "explanation": {
+        "ru": "Верно! Знак стоит на улицах с односторонним движением и там, куда въезжать нельзя, например на съезде с магистрали не с той стороны.",
+        "en": "Correct! It is posted on one-way streets and other roads you may not enter, such as an expressway ramp from the wrong direction."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Одностороннее движение (One-Way)",
+        "en": "One-Way"
+      },
+      "explanation": {
+        "ru": "Знак One-Way чёрно-белый со стрелкой. Он показывает, куда ехать, а красный круг запрещает въезд.",
+        "en": "The One-Way sign is black and white with an arrow. It shows the way to go, while the red circle forbids entry."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Уступите дорогу (Yield)",
+        "en": "Yield"
+      },
+      "explanation": {
+        "ru": "Yield это красно-белый треугольник. Здесь красный круг, и он означает «въезд запрещён».",
+        "en": "YIELD is a red and white triangle. This red circle means \"do not enter\"."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановка запрещена",
+        "en": "No stopping"
+      },
+      "explanation": {
+        "ru": "В этой главе такого значения нет. Красный круг с белой полосой означает запрет въезда (Do Not Enter).",
+        "en": "This meaning is not in this chapter. The red circle with a white bar means Do Not Enter."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q02",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что водителю младше 19 лет запрещено пользоваться мобильным телефоном за рулём, даже с устройством громкой связи (hands-free), кроме экстренных случаев?",
+    "en": "True or false: A driver under age 19 is prohibited from using a cellphone while driving, even with a hands-free device, except in an emergency."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Для водителей младше 19 лет запрещено любое использование беспроводных устройств за рулём, включая hands-free. Исключение: экстренный вызов правоохранителям, медикам или экстренным службам.",
+        "en": "True. Any wireless/cellphone use while driving, including a hands-free device, is prohibited for a driver under 19, except to contact law enforcement, a health care provider, or emergency services in an emergency."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Тут есть нюанс: громкая связь (hands-free) для водителей младше 19 лет тоже запрещена. Разрешён только экстренный вызов правоохранителям, медикам или экстренным службам.",
+        "en": "There is a catch: hands-free devices are also prohibited for drivers under 19. The only exception is an emergency call to law enforcement, a health care provider, or emergency services."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-all-way-stop",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "перекрёсток со знаками STOP со всех сторон (all-way stop)",
+    "en": "All-way stop"
+  },
+  "definition": {
+    "ru": "Перекрёсток, где знаки STOP стоят на каждом подъезде, поэтому останавливаются все направления. Кто первым остановился, тот первым и едет, остальные ждут своей очереди.",
+    "en": "An intersection with STOP signs at each approach, so traffic from all directions must stop. The first driver to stop is the first driver to go, and the others wait for their turn."
+  }
+}

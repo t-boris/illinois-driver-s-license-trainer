@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q06",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 58",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что Secretary of State немедленно отзывает права у человека, осуждённого за нарушение правил движения, которое привело к ДТП со смертельным исходом для другого человека?",
+    "en": "True or false: The Secretary of State will immediately revoke the driving privileges of anyone convicted of a moving violation that caused a crash and resulted in the death of another person."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. В таком случае отзыв прав (revocation) происходит немедленно.",
+        "en": "True. In that case the revocation is immediate."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Здесь руководство однозначно: если нарушение привело к ДТП и гибели другого человека, права отзываются немедленно.",
+        "en": "The manual is clear here: when a moving violation causes a crash that kills another person, the privileges are revoked immediately."
+      }
+    }
+  ]
+}

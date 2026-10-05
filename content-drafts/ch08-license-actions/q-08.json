@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q08",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Для кого предназначено разрешение MDDP (Monitoring Device Driving Permit)?",
+    "en": "Who is the Monitoring Device Driving Permit (MDDP) designed for?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Для впервые осуждённого за DUI, который отбывает установленную законом приостановку (statutory summary suspension) и ездит на машине с BAIID",
+        "en": "A first-time DUI offender serving a statutory summary suspension who drives a vehicle equipped with a BAIID"
+      },
+      "explanation": {
+        "ru": "Верно. BAIID — это алкозамок (Breath Alcohol Ignition Interlock Device). С MDDP можно ездить в любое время, если не употреблять алкоголь перед поездкой и не вмешиваться в работу устройства. Младше 18 лет MDDP не выдают.",
+        "en": "Correct. A BAIID is a Breath Alcohol Ignition Interlock Device. With an MDDP you may drive at any time as long as you do not drink before driving or tamper with the unit. It cannot be issued under age 18."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Для водителей, у которых приостановлены права за неуплату алиментов",
+        "en": "For drivers whose license was suspended for nonpayment of child support"
+      },
+      "explanation": {
+        "ru": "Для этой ситуации есть Family Financial Responsibility Driving Permit (FRP). MDDP связан с DUI и алкозамком.",
+        "en": "That situation has its own permit, the Family Financial Responsibility Driving Permit (FRP). The MDDP is about DUI and an ignition interlock."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Для любого водителя, который хочет ездить только в светлое время суток",
+        "en": "For any driver who wants to drive only during daylight"
+      },
+      "explanation": {
+        "ru": "MDDP не про время суток: он позволяет ездить в любое время, но при условии установленного алкозамка.",
+        "en": "The MDDP is not about daylight: it allows driving at any time, but with an interlock installed."
+      }
+    }
+  ]
+}

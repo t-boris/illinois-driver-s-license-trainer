@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q22",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как нужно вести себя при въезде и выезде с кругового перекрёстка (roundabout)?",
+    "en": "What must vehicles do when entering or exiting a roundabout?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ускориться, чтобы встроиться в поток",
+        "en": "Speed up to merge with the flow"
+      },
+      "explanation": {
+        "ru": "Перед круговым перекрёстком нужно сбавить скорость (slow down) и уступить дорогу.",
+        "en": "Slow down when approaching a roundabout and yield."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Уступать только другим автомобилям",
+        "en": "Yield only to other cars"
+      },
+      "explanation": {
+        "ru": "Нужно уступать всем, включая пешеходов и велосипедистов.",
+        "en": "You must yield to everyone, including pedestrians and bicycles."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Уступать дорогу всем участникам движения, включая пешеходов и велосипедистов",
+        "en": "Yield to all traffic, including pedestrians and bicycles"
+      },
+      "explanation": {
+        "ru": "Верно! Движение идёт по кругу против часовой стрелки; въезжайте направо, когда безопасно, оставайтесь в своей полосе и включите правый поворотник перед выездом.",
+        "en": "Correct! Traffic circulates counter-clockwise; enter by turning right when safe, stay in your lane, and use your right turn signal to exit."
+      }
+    }
+  ]
+}

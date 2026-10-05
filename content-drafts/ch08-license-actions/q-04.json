@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q04",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Человеку какого возраста нельзя выдать ограниченное разрешение на вождение (Restricted Driving Permit, RDP)?",
+    "en": "An RDP (Restricted Driving Permit) cannot be issued to a person under what age?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Младше 18 лет",
+        "en": "Under age 18"
+      },
+      "explanation": {
+        "ru": "18 лет — граница для другого разрешения, MDDP. Для RDP граница ниже.",
+        "en": "18 is the limit for a different permit, the MDDP. For the RDP the limit is lower."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Младше 16 лет",
+        "en": "Under age 16"
+      },
+      "explanation": {
+        "ru": "Верно. RDP не выдают младше 16 лет. Он позволяет ездить только в определённое время и по заданным маршрутам: на работу, учёбу, к врачу и в других случаях из руководства.",
+        "en": "Correct. An RDP cannot be issued under age 16. It allows driving only at certain times and along specified routes, such as for work, school, medical care, and the other purposes in the manual."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Младше 21 года",
+        "en": "Under age 21"
+      },
+      "explanation": {
+        "ru": "Граница ниже: RDP нельзя выдавать только человеку младше 16 лет.",
+        "en": "The limit is lower: an RDP just cannot be issued to someone under 16."
+      }
+    }
+  ]
+}

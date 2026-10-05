@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q19",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 28",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое минимальное расстояние нужно держать до велосипедиста при обгоне, в том числе когда он едет по обочине или по велосипедной полосе?",
+    "en": "What is the minimum distance you must keep when passing a bicyclist, including one on the shoulder or in a bicycle lane?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "3 фута",
+        "en": "3 feet"
+      },
+      "explanation": {
+        "ru": "Верно! Те же 3 фута нужно оставлять и до пешехода, идущего по дороге или обочине.",
+        "en": "Correct! Keep the same 3 feet from a pedestrian walking on the road or shoulder."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "1 фут",
+        "en": "1 foot"
+      },
+      "explanation": {
+        "ru": "Этого мало: нужно не менее 3 футов.",
+        "en": "That is too close: you need at least 3 feet."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "5 футов",
+        "en": "5 feet"
+      },
+      "explanation": {
+        "ru": "5 футов — запас больше требуемого, но закон называет минимум: 3 фута.",
+        "en": "5 feet is more than required, but the law states the minimum: 3 feet."
+      }
+    }
+  ]
+}

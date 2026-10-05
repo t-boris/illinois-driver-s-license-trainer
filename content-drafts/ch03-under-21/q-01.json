@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q01",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто может сидеть рядом с водителем, у которого учебное разрешение (instruction permit), во время практики?",
+    "en": "Who may supervise a driver who holds an instruction permit during practice driving?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Родитель, опекун или ответственный взрослый от 21 года, с действующими правами и водительским стажем не менее года, на переднем пассажирском сиденье",
+        "en": "A parent, legal guardian, or responsible adult age 21 or older with a valid license and at least one year of driving experience, in the front passenger seat"
+      },
+      "explanation": {
+        "ru": "Именно так. Супервайзер (supervising adult) должен быть старше 21 года, иметь действующие права, минимум год стажа и сидеть на переднем пассажирском месте.",
+        "en": "Exactly. The supervising adult must be 21 or older, hold a valid license, have at least one year of driving experience, and sit in the front passenger seat."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любой взрослый от 18 лет, у которого есть права",
+        "en": "Any adult age 18 or older who has a license"
+      },
+      "explanation": {
+        "ru": "Близко, но планка выше: по правилам штата ответственному взрослому должно быть не меньше 21 года, и нужен минимум год водительского опыта.",
+        "en": "Close, but the bar is higher: the responsible adult must be at least 21 and have at least one year of driving experience."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Взрослый от 21 года, который сам ездит по учебному разрешению",
+        "en": "An adult age 21 or older who also holds only an instruction permit"
+      },
+      "explanation": {
+        "ru": "Супервайзеру нужны действующие водительские права (valid license) и стаж не менее года, а не такое же разрешение.",
+        "en": "The supervisor needs a valid license and at least one year of driving experience, not another permit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Взрослый от 21 года, который сидит на заднем сиденье",
+        "en": "An adult age 21 or older sitting in the back seat"
+      },
+      "explanation": {
+        "ru": "Место тоже имеет значение: ответственный взрослый сидит на переднем пассажирском сиденье рядом с водителем.",
+        "en": "The seat matters too: the responsible adult must sit in the front passenger seat next to the driver."
+      }
+    }
+  ]
+}

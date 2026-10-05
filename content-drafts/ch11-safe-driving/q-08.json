@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q08",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если машину занесло на воде (hydroplaning), нужно стараться вернуть контроль; если это невозможно, отпустить педаль газа и дать машине «доехать» занос.",
+    "en": "If your vehicle skids while hydroplaning, try to regain control; if that is not possible, release the accelerator and ride out the skid."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Чтобы не попасть в такую ситуацию, снижайте скорость (slow down) в дождь.",
+        "en": "Correct. To avoid it in the first place, slow down in the rain."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Хорошо, что вы проверяете: в руководстве советуют сначала попытаться вернуть контроль, а если не получается, отпустить газ и дать машине «доехать» занос.",
+        "en": "Good to check: the manual says to try to regain control first and, if that is not possible, release the accelerator and ride out the skid."
+      }
+    }
+  ]
+}

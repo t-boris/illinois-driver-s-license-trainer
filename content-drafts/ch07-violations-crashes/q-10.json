@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q10",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что требует Safety Responsibility Law от водителя, виновного в ДТП со смертью, травмой или ущербом имуществу, если у него нет страховки ответственности (liability insurance)?",
+    "en": "If you are at fault in a crash with death, injury, or property damage and have no liability insurance, what does the Safety Responsibility Law require?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Внести залог (security), гарантию оплаты ущерба пострадавшей стороне",
+        "en": "Post security, a guarantee of payment to cover damages suffered by the injured party"
+      },
+      "explanation": {
+        "ru": "Верно! Размер залога определяет Illinois Department of Transportation. Без залога права могут быть приостановлены до урегулирования иска.",
+        "en": "Correct! The Illinois Department of Transportation determines the amount. Without it, the license may be suspended until the lawsuit is settled."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, достаточно обменяться данными с другим водителем",
+        "en": "Nothing, just exchange information with the other driver"
+      },
+      "explanation": {
+        "ru": "Обмен данными нужен, но здесь требуется ещё и залог (security) на покрытие ущерба.",
+        "en": "Exchanging information is needed, but this law also requires posting security to cover damages."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только подать отчёт о ДТП",
+        "en": "Only file the crash report"
+      },
+      "explanation": {
+        "ru": "Отчёт нужен, но закон требует ещё и внести залог (security).",
+        "en": "The report is needed, but the law also requires you to post security."
+      }
+    }
+  ]
+}

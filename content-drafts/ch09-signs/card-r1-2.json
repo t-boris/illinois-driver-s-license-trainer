@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r1-2",
+  "topic": "ch09-signs",
+  "signId": "R1-2",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 65",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Уступите дорогу (Yield)",
+    "en": "Yield"
+  },
+  "meaning": {
+    "ru": "Уступите дорогу всем машинам и пешеходам, прежде чем ехать дальше. Снизьте скорость до безопасной и остановитесь, если нужно.",
+    "en": "Give the right of way to all vehicles and pedestrians before proceeding. Slow down to a safe speed and stop if necessary."
+  }
+}

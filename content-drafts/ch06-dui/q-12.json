@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q12",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что руководство говорит об алкоголе в салоне автомобиля (open container)?",
+    "en": "What does the manual say about alcohol in a vehicle (open container)?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пассажирам пить можно, если водитель трезв",
+        "en": "Passengers may drink if the driver is sober"
+      },
+      "explanation": {
+        "ru": "Руководство говорит иначе: пить алкоголь в автомобиле незаконно, и штраф может получить и водитель, и пассажиры.",
+        "en": "The manual says otherwise: it is illegal to drink alcoholic beverages in a vehicle, and both driver and passengers may be cited."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Незаконно иметь алкоголь в пассажирском салоне, если ёмкость открыта (opened container)",
+        "en": "It is illegal to have alcohol in the passenger area if the container has been opened"
+      },
+      "explanation": {
+        "ru": "Верно. Исключения: пассажиры чартерных автобусов не для школьных целей, автодомов и лимузинов.",
+        "en": "Correct. Exempt are passengers on chartered buses used for nonschool purposes, motor homes, mini motor homes, and limousines."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Это разрешено, если ёмкость на заднем сиденье",
+        "en": "It is allowed if the container is on the back seat"
+      },
+      "explanation": {
+        "ru": "Руководство говорит о пассажирском салоне в целом, а не о конкретном месте.",
+        "en": "The manual refers to the passenger area as a whole, not a specific seat."
+      }
+    }
+  ]
+}

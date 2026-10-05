@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q07",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что допускается в отношении тонировки переднего лобового стекла (front windshield)?",
+    "en": "What is allowed regarding tinting on the front windshield?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любая тонировка, если видимость хорошая",
+        "en": "Any tint, if visibility is good"
+      },
+      "explanation": {
+        "ru": "Тонировка на переднем лобовом стекле не допускается, есть лишь одно исключение.",
+        "en": "Tinted windows are not allowed on the front windshield, with one exception."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полностью тонированная верхняя половина",
+        "en": "The whole upper half tinted"
+      },
+      "explanation": {
+        "ru": "Разрешена более узкая полоса.",
+        "en": "A narrower strip is what is allowed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только полоса тонировки шириной 6 дюймов по всей верхней кромке",
+        "en": "Only a 6-inch strip of tinting along the entire top"
+      },
+      "explanation": {
+        "ru": "Верно. Всё остальное стекло должно быть прозрачным.",
+        "en": "Correct. The rest of the glass must stay clear."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w11-2",
+  "topic": "ch09-signs",
+  "signId": "W11-2",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Пешеходный переход (Pedestrian Crosswalk)",
+    "en": "Pedestrian Crosswalk"
+  },
+  "meaning": {
+    "ru": "Впереди пешеходный переход. Переходы бывают не только на перекрёстках, поэтому следите за пешеходами по обеим сторонам улицы. На знаке может мигать жёлтый маячок.",
+    "en": "There is a crosswalk ahead. Crosswalks are not always located at intersections, so watch both sides of the street for pedestrians. The sign may have a yellow flashing beacon."
+  }
+}

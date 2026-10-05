@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q12",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "До какого возраста ребёнка по закону Иллинойса нужно перевозить в детском удерживающем устройстве, обращённом назад (rear-facing), если он не тяжелее 40 фунтов и не выше 40 дюймов?",
+    "en": "Illinois law requires children to be properly secured in a rear-facing child restraint system until what age, unless they weigh more than 40 pounds or are more than 40 inches tall?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "До 1 года",
+        "en": "Until age 1"
+      },
+      "explanation": {
+        "ru": "Срок дольше: по закону — до 2 лет, если не действует исключение по весу или росту.",
+        "en": "The period is longer: the law says until age 2, unless the weight or height exception applies."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "До 4 лет",
+        "en": "Until age 4"
+      },
+      "explanation": {
+        "ru": "Срок короче: в законе указано 2 года. (А вот в детском кресле или бустере должны ехать все дети младше 8 лет.)",
+        "en": "The period is shorter: the law says age 2. (All children under age 8, however, must be in an appropriate child restraint.)"
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "До 2 лет",
+        "en": "Until age 2"
+      },
+      "explanation": {
+        "ru": "Верно! С 1 января 2019 года дети едут спиной вперёд до 2 лет, если не тяжелее 40 фунтов и не выше 40 дюймов.",
+        "en": "Correct! Effective Jan. 1, 2019, children ride rear-facing until age 2 unless they weigh more than 40 pounds or are more than 40 inches tall."
+      }
+    }
+  ]
+}

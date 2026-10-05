@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-crash-report",
+  "topic": "ch07-violations-crashes",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "отчёт об аварии (crash report)",
+    "en": "Crash report"
+  },
+  "definition": {
+    "ru": "Водитель обязан подать его независимо от вины, если в аварии есть погибшие, телесные повреждения или ущерб имуществу более 1500 долларов (более 500 долларов, если один из автомобилей не застрахован). На сообщение об аварии у водителя 30 минут.",
+    "en": "A driver must file one regardless of fault if a crash involves death, bodily injury or property damage of more than $1,500 (more than $500 if a vehicle is uninsured). The driver has 30 minutes to report the crash."
+  }
+}

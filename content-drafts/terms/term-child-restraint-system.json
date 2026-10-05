@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-child-restraint-system",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "детское автокресло (child restraint system)",
+    "en": "Child restraint system"
+  },
+  "definition": {
+    "ru": "По закону Child Passenger Protection Act все дети младше 8 лет должны быть правильно закреплены в подходящем детском удерживающем устройстве. Детям до 12 лет рекомендуется ездить на заднем сиденье, правильно закреплёнными.",
+    "en": "Under the Child Passenger Protection Act, all children under age 8 must be properly secured in an appropriate child safety restraint system. It is recommended that children age 12 and younger ride properly secured in the back seat."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q16",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В аварии на вашу машину упали провода (power lines). Что делать, если нет непосредственной опасности пожара?",
+    "en": "Power lines fall on your vehicle in a crash. What should you do if fire is not an immediate danger?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сразу выпрыгнуть и бежать",
+        "en": "Jump out and run right away"
+      },
+      "explanation": {
+        "ru": "Выпрыгивать нужно только при непосредственной опасности пожара.",
+        "en": "Jumping clear is only for when fire is an immediate danger."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выйти и открыть капот",
+        "en": "Get out and open the hood"
+      },
+      "explanation": {
+        "ru": "Риск удара током остаётся: из машины лучше не выходить.",
+        "en": "The danger of electrical shock remains; it is best not to leave the vehicle."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Оставаться в машине вместе с пассажирами до прихода помощи",
+        "en": "You and your passengers remain in the vehicle until help arrives"
+      },
+      "explanation": {
+        "ru": "Верно. Если всё же приходится выпрыгивать из-за огня, не касайтесь телом одновременно машины и земли.",
+        "en": "Correct. If fire forces you to jump, do not let any part of your body touch the vehicle and the ground at once."
+      }
+    }
+  ]
+}

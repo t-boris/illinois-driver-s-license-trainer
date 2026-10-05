@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-aggressive-driving",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "агрессивное вождение",
+    "en": "Aggressive driving"
+  },
+  "definition": {
+    "ru": "Управление машиной так, что это угрожает или может угрожать людям или имуществу. Примеры: превышение скорости, проезд на красный свет и мимо знаков STOP, «сидение на хвосте», обгон по обочине, подрезание, многократные сигналы клаксоном или морганием фар.",
+    "en": "Operating a motor vehicle in a way that endangers or is likely to endanger persons or property. Examples include speeding, running red lights and stop signs, tailgating, passing on the shoulder, cutting off another vehicle and repeatedly honking or flashing the headlights."
+  }
+}

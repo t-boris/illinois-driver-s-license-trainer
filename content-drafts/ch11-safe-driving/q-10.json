@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q10",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Туман настолько густой, что почти ничего не видно. Что рекомендует руководство?",
+    "en": "The fog is so dense you can barely see. What does the manual recommend?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить дальний свет, чтобы лучше видеть",
+        "en": "Switch to high beams to see farther"
+      },
+      "explanation": {
+        "ru": "В тумане фары держат на ближнем свете (dim) или используют противотуманные.",
+        "en": "In fog, set headlights on dim or use fog lights."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Съехать с дороги и остановиться",
+        "en": "Pull off the roadway and stop"
+      },
+      "explanation": {
+        "ru": "Верно. Нельзя «перегонять» свои фары (overdrive your headlights): оставайтесь в пределах видимости.",
+        "en": "Correct. Do not overdrive your headlights: stay within the limits of your vision."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать 5-10 миль в час, пока не станет лучше",
+        "en": "Drive at 5-10 mph until it clears"
+      },
+      "explanation": {
+        "ru": "В руководстве прямо сказано не ехать на скорости 5-10 миль в час, а остановиться, если туман слишком плотный.",
+        "en": "The manual says not to drive at 5-10 mph; if the fog is too dense, stop off the roadway."
+      }
+    }
+  ]
+}

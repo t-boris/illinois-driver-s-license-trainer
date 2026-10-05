@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q04",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто в Иллинойсе обязан пристёгиваться ремнём безопасности (safety belt)?",
+    "en": "Who must wear a safety belt in Illinois?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Все водители и пассажиры от 8 лет, на передних и задних сиденьях, даже при наличии подушек безопасности",
+        "en": "All drivers and passengers age 8 and older, in front and back seats, even if the vehicle has air bags"
+      },
+      "explanation": {
+        "ru": "Верно! Закон касается всех сидений, а подушки безопасности ремень не заменяют. Дети младше 8 лет едут в детском удерживающем устройстве.",
+        "en": "Correct! The law covers every seat, and air bags do not replace the belt. Passengers under age 8 must use an appropriate child restraint system."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только водитель и пассажир спереди",
+        "en": "Only the driver and front-seat passengers"
+      },
+      "explanation": {
+        "ru": "Задние сиденья тоже входят в закон: пристёгиваться должны все от 8 лет, и водитель отвечает за то, чтобы пассажиры соблюдали правило.",
+        "en": "Back seats are covered too: everyone age 8 and older must buckle up, and the driver is responsible for making sure passengers obey the law."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только те, у кого в машине нет подушек безопасности",
+        "en": "Only people in vehicles without air bags"
+      },
+      "explanation": {
+        "ru": "Подушки безопасности лишь дополняют ремень (supplemental protection), но не заменяют его. Ремень нужен даже в машине с подушками.",
+        "en": "Air bags provide supplemental protection with safety belts, not instead of them. Belts are required even in vehicles with air bags."
+      }
+    }
+  ]
+}

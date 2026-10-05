@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q08",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что происходит с правами водителя, осуждённого за то, что он скрылся с места ДТП, где были погибшие или пострадавшие?",
+    "en": "What happens to the license of a driver convicted of leaving the scene of a crash in which a death or personal injury occurred?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Водитель получает только предупреждение",
+        "en": "The driver receives only a warning"
+      },
+      "explanation": {
+        "ru": "Последствия серьёзнее: уголовное преследование и обязательный отзыв прав при гибели или травме.",
+        "en": "The consequences are more serious: criminal charges and a required revocation when a death or injury occurred."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Secretary of State обязан отозвать (revoke) водительские права",
+        "en": "The Secretary of State is required to revoke the driver’s license"
+      },
+      "explanation": {
+        "ru": "Верно! Кроме того, водителю грозит уголовное преследование. Если ущерб больше 1 000 долларов, права приостанавливают.",
+        "en": "Correct! The driver is also subject to criminal charges. If damage is more than $1,000, driving privileges are suspended."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, если позже он сообщит о ДТП",
+        "en": "Nothing, if the driver reports the crash later"
+      },
+      "explanation": {
+        "ru": "Позднее сообщение не отменяет последствий. Лучше остаться на месте и сразу позвонить 911.",
+        "en": "Reporting later does not cancel the consequences. It is best to stay at the scene and call 911 right away."
+      }
+    }
+  ]
+}

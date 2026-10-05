@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q01",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что означает мигающий красный сигнал светофора?",
+    "en": "What does a flashing red signal mean?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Можно проезжать без остановки, если нет машин",
+        "en": "You may go through without stopping if no cars are coming"
+      },
+      "explanation": {
+        "ru": "Почти: но мигающий красный требует именно остановки. Остановитесь, уступите и поезжайте, когда безопасно.",
+        "en": "Close, but a flashing red calls for a stop every time. Stop, yield, and proceed when it is safe."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Остановиться, уступить дорогу и ехать, когда безопасно",
+        "en": "Stop, yield the right of way, and proceed when safe"
+      },
+      "explanation": {
+        "ru": "Верно. Мигающий красный работает как знак «стоп» (stop sign). Его используют и на железнодорожных переездах, чтобы предупредить о приближении поезда.",
+        "en": "Correct. A flashing red works like a stop sign. It is also used at railroad crossings to warn of approaching trains."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проезжать осторожно, не останавливаясь",
+        "en": "Proceed with caution without stopping"
+      },
+      "explanation": {
+        "ru": "Так работает мигающий жёлтый (flashing yellow). У мигающего красного правило строже: сначала остановка.",
+        "en": "That describes a flashing yellow. A flashing red has a firmer rule: stop first."
+      }
+    }
+  ]
+}

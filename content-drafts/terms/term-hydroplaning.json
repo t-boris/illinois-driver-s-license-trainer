@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-hydroplaning",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "аквапланирование (hydroplaning)",
+    "en": "Hydroplaning"
+  },
+  "definition": {
+    "ru": "Скольжение машины по воде на мокрой дороге. Снижайте скорость, чтобы избежать этого; если машину занесло, постарайтесь восстановить управление, а если не получается — отпустите педаль газа и дождитесь окончания заноса.",
+    "en": "Skidding on water on a wet road. Slow down to avoid it; if your vehicle skids, try to regain control, and if that is not possible, release the accelerator and ride out the skid."
+  }
+}

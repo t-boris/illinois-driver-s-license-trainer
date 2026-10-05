@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q09",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы подъехали к участку дороги или путепровода, затопленному после сильного дождя. Что делать?",
+    "en": "You come to a roadway or viaduct flooded by heavy rain. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Медленно проехать, если другие машины уже едут",
+        "en": "Drive through slowly if other vehicles are doing it"
+      },
+      "explanation": {
+        "ru": "Невозможно определить глубину и течение воды, даже если кто-то проехал.",
+        "en": "It is impossible to determine the depth or current of the water, even if others have driven through."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проехать на повышенной скорости, чтобы быстрее выбраться",
+        "en": "Drive through quickly to get out sooner"
+      },
+      "explanation": {
+        "ru": "Скорость не защитит от неизвестной глубины и течения.",
+        "en": "Speed does not protect you from unknown depth or current."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Развернуться и найти другой маршрут",
+        "en": "Turn around and find another route"
+      },
+      "explanation": {
+        "ru": "Верно. Не въезжайте в затопленный участок (do not drive through the flooded area): глубину и течение определить нельзя.",
+        "en": "Correct. Do not drive through the flooded area: you cannot determine the depth or current."
+      }
+    }
+  ]
+}

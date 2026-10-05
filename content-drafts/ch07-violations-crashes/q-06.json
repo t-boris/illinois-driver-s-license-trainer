@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q06",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если вы не заплатили штраф и не явились в суд в назначенный день, когда может быть назначена вторая дата заседания?",
+    "en": "If you do not pay the ticket or appear in court on the date indicated, a second court date may be set at least how long later?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не ранее чем через 30 дней",
+        "en": "At least 30 days later"
+      },
+      "explanation": {
+        "ru": "Верно! Неявка на вторую дату приводит к заочному обвинительному решению (ex-parte), о котором сообщают в Secretary of State.",
+        "en": "Correct! Failure to appear on the second date results in an ex-parte conviction, which is reported to the Secretary of State."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не ранее чем через 10 дней",
+        "en": "At least 10 days later"
+      },
+      "explanation": {
+        "ru": "Минимальный срок длиннее: 30 дней.",
+        "en": "The minimum is longer: 30 days."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не ранее чем через 90 дней",
+        "en": "At least 90 days later"
+      },
+      "explanation": {
+        "ru": "Минимальный срок короче: 30 дней.",
+        "en": "The minimum is shorter: 30 days."
+      }
+    }
+  ]
+}

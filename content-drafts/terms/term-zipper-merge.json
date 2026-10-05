@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-zipper-merge",
+  "topic": "ch09-signs",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 71",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "слияние «молнией» (zipper merge)",
+    "en": "Zipper merge"
+  },
+  "definition": {
+    "ru": "Когда на дороге затор и одна полоса заканчивается, нужно ехать по обеим полосам до места сужения и перестраиваться там, чередуясь. Он называется «молнией», потому что две стороны сходятся в одну, как застёжка-молния.",
+    "en": "When traffic is congested and a lane is ending, use both lanes to advance to the lane reduction point and merge there, taking turns. It is called a \"zipper merge\" because two sides merge into one like a zipper."
+  }
+}
