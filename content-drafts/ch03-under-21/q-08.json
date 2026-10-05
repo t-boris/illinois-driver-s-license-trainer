@@ -44,5 +44,12 @@
         "en": "Correct: Fri.-Sat. 11 p.m.-6 a.m.; Sun.-Thurs. 10 p.m.-6 a.m. Local curfews may differ."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q08.webp",
+    "alt": {
+      "ru": "Тихая пригородная улица поздним вечером, у дома стоит машина, в окнах тёплый свет, молодой человек смотрит на часы.",
+      "en": "A quiet suburban street at night with a parked car and a young person checking a wristwatch."
+    }
+  }
 }

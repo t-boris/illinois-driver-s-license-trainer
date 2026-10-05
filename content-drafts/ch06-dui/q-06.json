@@ -44,5 +44,12 @@
         "en": "The threshold is lower: 5 nanograms or more per milliliter of whole blood."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q06.webp",
+    "alt": {
+      "ru": "Нейтральная сцена в клинике: человек у стойки, рядом доброжелательный сотрудник, светлое чистое помещение.",
+      "en": "A person at a bright clinic desk with a friendly staff member in a clean room."
+    }
+  }
 }

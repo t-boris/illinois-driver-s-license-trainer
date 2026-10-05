@@ -55,5 +55,12 @@
         "en": "Correct. Time is the only way to remove the effects of alcohol. Do not drive until you are sure they have passed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q02.webp",
+    "alt": {
+      "ru": "Песочные часы и чашка кофе на столе рядом с ключом от машины, рядом спокойно ждёт друг, уютное кафе.",
+      "en": "An hourglass and a coffee cup beside a car key in a cosy cafe with a friend waiting."
+    }
+  }
 }

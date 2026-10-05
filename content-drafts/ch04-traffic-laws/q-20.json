@@ -33,5 +33,12 @@
         "en": "No exceptions: all construction zones in Illinois are no passing zones."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q20.webp",
+    "alt": {
+      "ru": "Участок дорожных работ с оранжевыми бочками, колонна машин медленно едет по одной полосе, ровный горизонт.",
+      "en": "A road-work corridor with orange barrels and cars moving slowly in a single line."
+    }
+  }
 }

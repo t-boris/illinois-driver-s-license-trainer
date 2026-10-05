@@ -33,5 +33,12 @@
         "en": "Correct. Away from a crosswalk, pedestrians must give the right of way to drivers. This includes areas between closely spaced intersections where signals operate."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q06.webp",
+    "alt": {
+      "ru": "Пешеход в куртке идёт через тихую улицу вдали от перехода, машина спокойно ждёт на дороге.",
+      "en": "A pedestrian walks across a quiet street away from a crossing while a car waits on the road."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Joining a procession to secure the right of way is prohibited. The procession has priority, and you simply yield."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q17.webp",
+    "alt": {
+      "ru": "Неспешная траурная колонна машин с включёнными фарами на тихой улице, другие водители ждут в стороне.",
+      "en": "A slow procession of cars with headlights on along a quiet street while other drivers wait."
+    }
+  }
 }

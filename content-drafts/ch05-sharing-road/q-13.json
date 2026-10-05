@@ -44,5 +44,12 @@
         "en": "Turning headlights off is unsafe. Simply dim them."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q13.webp",
+    "alt": {
+      "ru": "Большой грузовик едет ночью по тёмному шоссе, позади машина с мягко светящимися фарами, над ними звёзды.",
+      "en": "A truck on a dark night highway with a car behind it and stars overhead."
+    }
+  }
 }

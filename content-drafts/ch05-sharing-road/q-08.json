@@ -44,5 +44,12 @@
         "en": "The manual does not say this. Pay attention to turn signals and leave plenty of room."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q08.webp",
+    "alt": {
+      "ru": "Большой грузовик выполняет широкий поворот на городском углу, маленькая машина ждёт позади на расстоянии.",
+      "en": "A large truck makes a wide turn at a city corner while a small car waits behind."
+    }
+  }
 }

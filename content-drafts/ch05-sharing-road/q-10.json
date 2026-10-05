@@ -55,5 +55,12 @@
         "en": "Better the other way round: check for bicyclists first, then open the door."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q10.webp",
+    "alt": {
+      "ru": "Водитель в припаркованной машине тянется открыть дверь дальней рукой и оглядывается назад, мимо медленно едет велосипедист.",
+      "en": "A driver in a parked car opens the door with the far hand, looking back as a cyclist passes."
+    }
+  }
 }

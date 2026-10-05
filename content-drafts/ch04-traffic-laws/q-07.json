@@ -44,5 +44,12 @@
         "en": "You must stop whether you are behind the bus or approaching from the opposite direction, except on a four-lane roadway."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q07.webp",
+    "alt": {
+      "ru": "Жёлтый школьный автобус остановился на тихой дороге с мигающими огнями, позади терпеливо ждёт машина, осень.",
+      "en": "A stopped yellow school bus with flashing lights and a car waiting patiently behind it, autumn trees."
+    }
+  }
 }

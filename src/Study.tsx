@@ -3,6 +3,7 @@ import { topics, terms, signCards, signAssets } from './lib/content'
 import { strings, type Key } from './lib/i18n'
 import { topicStats, type Progress } from './lib/progress'
 import { SIGN_CATEGORY_LABEL } from './lib/study-strings'
+import { IconCheck, IconChevron, IconSearch } from './Icons'
 import type { Lang, SignCategory } from './lib/types'
 
 const CATEGORY_ORDER: SignCategory[] = ['regulatory', 'warning', 'guide', 'construction', 'signal', 'marking', 'other']
@@ -14,15 +15,18 @@ export function LearnPage({ lang, go }: { lang: Lang; go: (h: string) => void })
     <section>
       <h2>{t('learn')}</h2>
       <p className="muted">{t('learnHint')}</p>
-      {withLessons.length === 0 && <p>{t('noContent')}</p>}
-      <ul className="topics">
-        {withLessons.map((tp) => (
-          <li key={tp.id}>
-            <strong>{tp.title[lang]}</strong>
-            <div className="row"><button onClick={() => go(`/lesson/${encodeURIComponent(tp.id)}`)}>{t('lesson')}</button></div>
-          </li>
-        ))}
-      </ul>
+      {withLessons.length === 0 ? <p className="empty">{t('noContent')}</p> : (
+        <ul className="rows">
+          {withLessons.map((tp) => (
+            <li key={tp.id}>
+              <button className="row-btn" onClick={() => go(`/lesson/${encodeURIComponent(tp.id)}`)}>
+                <span className="row-main"><strong>{tp.title[lang]}</strong></span>
+                <span className="chev"><IconChevron /></span>
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
     </section>
   )
 }
@@ -33,18 +37,24 @@ export function PracticePage({ lang, go, progress }: { lang: Lang; go: (h: strin
     <section>
       <h2>{t('practice')}</h2>
       <p className="muted">{t('practiceHint')}</p>
-      {topics.length === 0 && <p>{t('noContent')}</p>}
-      <ul className="topics">
-        {topics.map((tp) => {
-          const s = topicStats(progress, tp)
-          return (
-            <li key={tp.id}>
-              <strong>{tp.title[lang]}</strong> <span className="muted">{s.correct}/{s.answered} {s.met ? '✓' : ''}</span>
-              <div className="row"><button onClick={() => go(`/quiz/${encodeURIComponent(tp.id)}`)}>{t('quiz')}</button></div>
-            </li>
-          )
-        })}
-      </ul>
+      {topics.length === 0 ? <p className="empty">{t('noContent')}</p> : (
+        <ul className="rows">
+          {topics.map((tp) => {
+            const s = topicStats(progress, tp)
+            return (
+              <li key={tp.id}>
+                <button className="row-btn" onClick={() => go(`/quiz/${encodeURIComponent(tp.id)}`)}>
+                  <span className="row-main">
+                    <strong>{tp.title[lang]} {s.met && <span className="tick"><IconCheck /></span>}</strong>
+                    <span className="muted">{s.correct}/{s.answered}</span>
+                  </span>
+                  <span className="chev"><IconChevron /></span>
+                </button>
+              </li>
+            )
+          })}
+        </ul>
+      )}
     </section>
   )
 }
@@ -60,10 +70,10 @@ export function SignsPage({ lang }: { lang: Lang }) {
     <section>
       <h2>{t('signs')}</h2>
       <p className="muted">{t('signsHint')}</p>
-      {groups.length === 0 && <p>{t('noContent')}</p>}
+      {groups.length === 0 && <p className="empty">{t('noContent')}</p>}
       {groups.map(([cat, cards]) => (
         <div key={cat}>
-          <h3>{SIGN_CATEGORY_LABEL[cat][lang]}</h3>
+          <h3 className="section-title">{SIGN_CATEGORY_LABEL[cat][lang]}</h3>
           <ul className="signs">
             {cards.map((c) => {
               const a = signAssets[c.signId]
@@ -71,7 +81,7 @@ export function SignsPage({ lang }: { lang: Lang }) {
                 <li key={c.id}>
                   <details>
                     <summary>
-                      {a && <img className="sign" src={a.url} alt={a.alt[lang]} loading="lazy" />}
+                      {a && <span className="plate"><img className="sign" src={a.url} alt={a.alt[lang]} loading="lazy" /></span>}
                       <span>{c.name[lang]}</span>
                     </summary>
                     <p>{c.meaning[lang]}</p>
@@ -96,19 +106,23 @@ export function TermsPage({ lang }: { lang: Lang }) {
       .sort((a, b) => a.term.en.localeCompare(b.term.en))
   }, [q, lang])
   return (
-    <section>
+    <section className="reading">
       <h2>{t('terms')}</h2>
       <p className="muted">{t('termsHint')}</p>
-      <input className="search" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('search')} aria-label={t('search')} />
-      {list.length === 0 && <p>{terms.length === 0 ? t('noContent') : t('noResults')}</p>}
-      <dl className="terms">
-        {list.map((x) => (
-          <div key={x.id}>
-            <dt lang="en">{x.term.en}{lang === 'ru' && <span className="ru"> — {x.term.ru}</span>}</dt>
-            <dd>{x.definition[lang]}</dd>
-          </div>
-        ))}
-      </dl>
+      <div className="search-wrap">
+        <IconSearch />
+        <input className="search" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('search')} aria-label={t('search')} />
+      </div>
+      {list.length === 0 ? <p className="empty">{terms.length === 0 ? t('noContent') : t('noResults')}</p> : (
+        <dl className="terms">
+          {list.map((x) => (
+            <div key={x.id}>
+              <dt lang="en">{x.term.en}{lang === 'ru' && <span className="ru"> — {x.term.ru}</span>}</dt>
+              <dd>{x.definition[lang]}</dd>
+            </div>
+          ))}
+        </dl>
+      )}
     </section>
   )
 }

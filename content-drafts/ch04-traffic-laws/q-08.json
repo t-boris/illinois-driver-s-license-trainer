@@ -55,5 +55,12 @@
         "en": "30 feet applies to a STOP sign, YIELD sign, or traffic control signal. For a hydrant it is 15 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q08.webp",
+    "alt": {
+      "ru": "Красный пожарный гидрант на тротуаре у бордюра, вдали вдоль улицы припаркованы машины, солнечно.",
+      "en": "A red fire hydrant on a sidewalk beside the curb, with parked cars farther along the street."
+    }
+  }
 }

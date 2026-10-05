@@ -33,5 +33,12 @@
         "en": "Not quite: it does not depend on workers. The posted limit always applies, because there may be narrow lanes, drop-offs between lanes, and lane closures."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q15.webp",
+    "alt": {
+      "ru": "Дорожные работы: оранжевые конусы, экскаватор за ограждением, машины осторожно проезжают, яркий день.",
+      "en": "A road work zone with orange cones, an excavator behind a barrier and cars passing carefully."
+    }
+  }
 }

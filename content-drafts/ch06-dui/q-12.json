@@ -44,5 +44,12 @@
         "en": "The manual refers to the passenger area as a whole, not a specific seat."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q12.webp",
+    "alt": {
+      "ru": "Салон машины: чистая подставка для стаканов, закрытая бутылка воды и небольшой термос, мягкий свет.",
+      "en": "The inside of a car with a clean cup holder, a sealed water bottle and a small thermos."
+    }
+  }
 }

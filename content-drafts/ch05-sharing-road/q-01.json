@@ -44,5 +44,12 @@
         "en": "Checking the road is a good habit, but the rule decides here: the person using an assistive device has the right of way, so let them go first."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q01.webp",
+    "alt": {
+      "ru": "Пешеход с белой тростью и собакой-поводырём на краю тротуара, вдали медленно подъезжает машина.",
+      "en": "A pedestrian with a white cane and guide dog at a curb as a car approaches slowly."
+    }
+  }
 }

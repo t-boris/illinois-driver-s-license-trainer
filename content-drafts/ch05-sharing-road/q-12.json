@@ -44,5 +44,12 @@
         "en": "That is too fast for these vehicles. Normal speeds are 5-20 mph."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q12.webp",
+    "alt": {
+      "ru": "Медленный трактор на ровной сельской дороге, за ним терпеливо едет вереница машин, по сторонам кукурузные поля.",
+      "en": "A slow farm tractor on a flat county road with cars patiently following it between cornfields."
+    }
+  }
 }

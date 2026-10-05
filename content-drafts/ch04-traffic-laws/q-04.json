@@ -44,5 +44,12 @@
         "en": "Air bags provide supplemental protection with safety belts, not instead of them. Belts are required even in vehicles with air bags."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q04.webp",
+    "alt": {
+      "ru": "Разные взрослые пристёгивают ремни в машине: водитель, пассажир спереди и сзади, весёлое настроение.",
+      "en": "Adults fasten seat belts in a car, front and back seats, with a cheerful mood."
+    }
+  }
 }

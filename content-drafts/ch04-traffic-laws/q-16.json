@@ -44,5 +44,12 @@
         "en": "You do not need to stop in your lane. Yield, move over if possible, and pass at a reduced speed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q16.webp",
+    "alt": {
+      "ru": "Эвакуатор и полицейская машина с мигалками на обочине рядом с автомобилем, другие машины проезжают подальше.",
+      "en": "A police car with flashing lights and a tow truck on the shoulder beside a car, traffic passing."
+    }
+  }
 }

@@ -81,3 +81,7 @@ Images: the owner supplies the generator and key (DEC-023). Commit and deploy to
 ### Answers during implementation (8) · 2026-10-04
 
 DATABASE_URL: the assistant sets it (DEC-025). Push main to GitHub approved (DEC-026). Image generator: OpenAI image API (DEC-027).
+
+### Answers during implementation (9) · 2026-10-04
+
+Owner: make the app more attractive and modern; then "terrible UI" (screenshot of an unbroken lesson text). Recorded as DEC-028.

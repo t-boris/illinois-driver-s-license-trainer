@@ -33,5 +33,12 @@
         "en": "Right. For the first 12 months of licensing, or until the driver turns 18, whichever occurs first, only one passenger under 20 is allowed, unless the passenger is a sibling, stepsibling, child, or stepchild."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q09.webp",
+    "alt": {
+      "ru": "Молодой водитель с двумя друзьями на заднем сиденье смеются в машине на солнечной пригородной дороге.",
+      "en": "A young driver with two friends laughing in the back seat on a sunny suburban road."
+    }
+  }
 }

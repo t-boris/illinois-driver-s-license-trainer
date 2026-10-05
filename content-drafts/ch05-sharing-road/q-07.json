@@ -44,5 +44,12 @@
         "en": "Correct. Motorcycles are small and drivers tend to underestimate their speed, so look carefully before turning."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q07.webp",
+    "alt": {
+      "ru": "Мотоциклист едет по правой полосе городской улицы, на боковой улице машина ждёт выезда на главную дорогу.",
+      "en": "A motorcyclist on a city street while a car waits at a side street to enter."
+    }
+  }
 }

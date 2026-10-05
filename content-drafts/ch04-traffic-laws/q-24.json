@@ -44,5 +44,12 @@
         "en": "The wheels must be turned: facing downhill with a curb, turn them toward the curb so the vehicle rolls into it."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q24.webp",
+    "alt": {
+      "ru": "Машина припаркована у бордюра на уклоне вниз, переднее колесо повёрнуто, солнечный жилой квартал.",
+      "en": "A car parked at the curb on a gentle downhill residential street with the front wheel angled."
+    }
+  }
 }

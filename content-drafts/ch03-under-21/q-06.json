@@ -55,5 +55,12 @@
         "en": "24 months is how long the permit stays valid, not the required holding period. The minimum is nine consecutive months."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q06.webp",
+    "alt": {
+      "ru": "Молодой человек с карточкой разрешения в руке и песочными часами стоит у машины на подъездной дорожке.",
+      "en": "A young person holds a permit card and an hourglass beside a parked car in a driveway."
+    }
+  }
 }

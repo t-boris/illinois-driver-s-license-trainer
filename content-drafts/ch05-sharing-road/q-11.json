@@ -44,5 +44,12 @@
         "en": "This is exactly what to avoid: the sound may frighten the horse and cause a crash."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q11.webp",
+    "alt": {
+      "ru": "Спокойная лошадь со всадником на краю сельской дороги у пастбища, машина тихо стоит вдали, золотой свет.",
+      "en": "A horse and rider at a country roadside beside a pasture, a car waiting quietly far away."
+    }
+  }
 }

@@ -33,5 +33,12 @@
         "en": "Quite the opposite: the parent or legal guardian who gave consent may cancel the license at any time, for any reason, until age 18."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q12.webp",
+    "alt": {
+      "ru": "Родитель и молодой человек за кухонным столом вместе читают документ, рядом ключ от машины.",
+      "en": "A parent and a young adult at a kitchen table review a document next to a car key."
+    }
+  }
 }

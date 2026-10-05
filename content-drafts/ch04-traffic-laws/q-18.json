@@ -44,5 +44,12 @@
         "en": "Correct! A pedestrian in a marked crosswalk has the right of way. Also do not enter a crosswalk unless there is enough space for others to pass."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q18.webp",
+    "alt": {
+      "ru": "Пешеход с рюкзаком выходит на переход через городскую улицу, вдали медленно подъезжает машина.",
+      "en": "A pedestrian with a backpack steps onto a crossing as a car approaches slowly in the distance."
+    }
+  }
 }

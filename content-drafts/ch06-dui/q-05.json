@@ -44,5 +44,12 @@
         "en": "Five years applies to a second DUI conviction. For any trace of alcohol under 21 the minimum is three months."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q05.webp",
+    "alt": {
+      "ru": "Молодой человек держит ключ и телефон с приложением такси на ночной улице, подъезжает машина с мягким светом фар.",
+      "en": "A young adult holds a car key and a ride-app phone on a quiet night street."
+    }
+  }
 }

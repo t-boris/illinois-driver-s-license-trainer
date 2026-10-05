@@ -44,5 +44,12 @@
         "en": "The numbers are swapped: 30 hours of classroom study and six hours of driving."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q05.webp",
+    "alt": {
+      "ru": "Группа взрослых в классе слушает инструктора рядом с учебной схемой машины и дороги, в углу тренажёр.",
+      "en": "Adults in a classroom listen to an instructor beside an illustrated car diagram with a driving simulator nearby."
+    }
+  }
 }

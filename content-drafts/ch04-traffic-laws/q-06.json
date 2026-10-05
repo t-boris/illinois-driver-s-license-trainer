@@ -55,5 +55,12 @@
         "en": "That is not the distance for this rule. Remember the pair: 100 feet in business or residential areas, 200 feet in other areas."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q06.webp",
+    "alt": {
+      "ru": "Машина на городской улице включила жёлтый поворотник, справа виден боковой проезд, солнечный день.",
+      "en": "A car with a softly glowing amber turn light on a city street with a side street ahead."
+    }
+  }
 }

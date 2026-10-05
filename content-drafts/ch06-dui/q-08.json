@@ -33,5 +33,12 @@
         "en": "This is exactly how the law works: consent is automatic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q08.webp",
+    "alt": {
+      "ru": "Водитель за рулём, снаружи у окна дружелюбный офицер с небольшим прибором в руке, дневная дорога.",
+      "en": "A driver at the wheel while a friendly officer stands by the window holding a small device."
+    }
+  }
 }

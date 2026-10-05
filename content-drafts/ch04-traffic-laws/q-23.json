@@ -44,5 +44,12 @@
         "en": "That is farther than needed. The manual says 15-50 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q23.webp",
+    "alt": {
+      "ru": "Железнодорожный переезд на сельской дороге, вдали размытый поезд, машина остановилась на спокойном расстоянии, закат.",
+      "en": "A rural railroad crossing with a freight train in the distance and a car stopped at a safe distance."
+    }
+  }
 }

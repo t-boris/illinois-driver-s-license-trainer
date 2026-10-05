@@ -33,5 +33,12 @@
         "en": "This is exactly what the manual says, and local municipalities may prohibit it."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q14.webp",
+    "alt": {
+      "ru": "Небольшой электрический low-speed автомобиль едет по тихой улице, за рулём улыбающийся пожилой водитель.",
+      "en": "A small electric low-speed vehicle with a smiling older driver on a quiet residential street."
+    }
+  }
 }

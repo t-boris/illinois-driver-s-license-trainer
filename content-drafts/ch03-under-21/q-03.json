@@ -44,5 +44,12 @@
         "en": "Correct. The minimum is 30 days; the exact length depends on how serious the offenses are, and a remedial education course may be required for reinstatement."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q03.webp",
+    "alt": {
+      "ru": "Молодой человек за столом задумчиво смотрит на планер и ключ от машины, за окном панорама Чикаго.",
+      "en": "A young person at a desk looks at a planner and a car key with a Chicago skyline outside."
+    }
+  }
 }

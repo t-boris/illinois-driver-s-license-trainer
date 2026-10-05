@@ -44,5 +44,12 @@
         "en": "Six months applies to a test result of .08% or more. Refusal carries a longer period: one year."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q03.webp",
+    "alt": {
+      "ru": "Взрослый спокойно сидит в припаркованной машине, рядом офицер, на капоте бумаги, позади ровная дорога.",
+      "en": "An adult sits calmly in a parked car with the engine off while an officer stands nearby."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "It is the opposite: slow vehicles must use the right-hand lane except when passing or turning left."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q21.webp",
+    "alt": {
+      "ru": "Многополосная магистраль, несколько машин едут справа, слева сзади приближается быстрая машина, вокруг прерия.",
+      "en": "A multi-lane interstate with cars in the right lane and one faster car approaching in the left lane."
+    }
+  }
 }

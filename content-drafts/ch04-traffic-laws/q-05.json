@@ -33,5 +33,12 @@
         "en": "Correct, it is a violation! Hands-free means you do not hold the device. Keep your hands on the wheel and use Bluetooth or voice controls."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q05.webp",
+    "alt": {
+      "ru": "Водитель держит руль, телефон закреплён в подставке на панели, спокойная дорога в пригороде.",
+      "en": "A driver with a phone in a dash stand holds the steering wheel on a calm suburban road."
+    }
+  }
 }

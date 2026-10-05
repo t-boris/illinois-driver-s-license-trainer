@@ -44,5 +44,12 @@
         "en": "Correct. Even if there seems to be enough room, do not share the lane: the motorcyclist needs space to maneuver safely."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q04.webp",
+    "alt": {
+      "ru": "Мотоцикл и автомобиль на широкой полосе пригородной дороги, вид сзади, солнце и деревья вдоль дороги.",
+      "en": "A motorcycle and a car on a wide suburban road seen from behind under tall trees."
+    }
+  }
 }

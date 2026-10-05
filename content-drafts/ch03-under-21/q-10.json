@@ -44,5 +44,12 @@
         "en": "The limit is lower: just one for serious traffic offenses."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q10.webp",
+    "alt": {
+      "ru": "Молодой человек в светлом коридоре здания суда читает бумаги, на заднем плане силуэт статуи правосудия.",
+      "en": "A young person reads papers in a bright courthouse hallway with a justice statue silhouette behind."
+    }
+  }
 }

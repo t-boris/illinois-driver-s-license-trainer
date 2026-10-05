@@ -55,5 +55,12 @@
         "en": "15 mph is the limit in alleys. For city/town areas, remember 30 mph."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q01.webp",
+    "alt": {
+      "ru": "Дружелюбная городская улица с магазинами и неспешно едущими машинами, по тротуарам гуляют люди.",
+      "en": "A friendly town street with shops, slow cars and pedestrians strolling on sidewalks."
+    }
+  }
 }

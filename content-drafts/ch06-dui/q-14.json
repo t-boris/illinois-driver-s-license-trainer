@@ -44,5 +44,12 @@
         "en": "The manual notes that nonprescription drugs can impair safe driving too."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q14.webp",
+    "alt": {
+      "ru": "Человек в аптеке держит коробочку с таблетками, приветливый фармацевт улыбается, на полках цветные коробки.",
+      "en": "A person at a pharmacy counter holds a small box of tablets while a pharmacist smiles."
+    }
+  }
 }

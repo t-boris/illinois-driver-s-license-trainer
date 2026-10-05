@@ -44,5 +44,12 @@
         "en": "Correct! 70 mph on interstates and tollways. You may drive at the maximum allowable speed only under safe conditions."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q14.webp",
+    "alt": {
+      "ru": "Прямая широкая магистраль среди ровных полей Иллинойса, машины и грузовик плавно едут под голубым небом.",
+      "en": "A wide straight interstate through flat farmland with cars and a truck moving smoothly."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Correct. The statutory summary suspension begins on the 46th day."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q09.webp",
+    "alt": {
+      "ru": "На столе стопка бумаг, конверт и небольшой бумажный листок рядом с ключом от машины, тёплый свет.",
+      "en": "Papers, an envelope and a small paper slip on a table beside a car key."
+    }
+  }
 }

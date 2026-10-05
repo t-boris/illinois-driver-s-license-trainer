@@ -44,5 +44,12 @@
         "en": "Correct! When two vehicles arrive at the same time, the one on the left yields to the one on the right."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q02.webp",
+    "alt": {
+      "ru": "Вид сверху на перекрёсток в чикагском районе, к нему одновременно подъезжают несколько машин с разных сторон.",
+      "en": "Aerial view of a neighbourhood intersection with several cars arriving from different directions at once."
+    }
+  }
 }

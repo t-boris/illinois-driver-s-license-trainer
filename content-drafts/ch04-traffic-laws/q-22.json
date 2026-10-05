@@ -44,5 +44,12 @@
         "en": "Correct! Traffic circulates counter-clockwise; enter by turning right when safe, stay in your lane, and use your right turn signal to exit."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q22.webp",
+    "alt": {
+      "ru": "Круговой перекрёсток с зелёным островком, машины разных цветов плавно въезжают и объезжают его, вид сверху.",
+      "en": "A roundabout with a green centre island and colourful cars moving around it, seen from above."
+    }
+  }
 }

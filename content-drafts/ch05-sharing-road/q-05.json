@@ -55,5 +55,12 @@
         "en": "High beams are not part of this rule. Change lanes if it is safe, or reduce speed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q05.webp",
+    "alt": {
+      "ru": "Четырёхполосное шоссе, на обочине машина с аварийными огнями, водитель стоит рядом, другие машины едут в дальних полосах.",
+      "en": "A broken-down car on a highway shoulder with hazard lights and a driver beside it, traffic passing."
+    }
+  }
 }

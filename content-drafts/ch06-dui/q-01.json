@@ -44,5 +44,12 @@
         "en": "Correct. Remember, though: you can be convicted of DUI with a BAC below .08% if your driving ability is impaired."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q01.webp",
+    "alt": {
+      "ru": "Спокойный взрослый в ресторане с безалкогольным напитком, на столе ключ от машины, вечерний свет.",
+      "en": "A calm adult at a restaurant table with a soft drink and a car key in front."
+    }
+  }
 }

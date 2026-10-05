@@ -33,5 +33,12 @@
         "en": "There is a catch: hands-free devices are also prohibited for drivers under 19. The only exception is an emergency call to law enforcement, a health care provider, or emergency services."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q02.webp",
+    "alt": {
+      "ru": "Молодой водитель держит руль, смартфон лежит в держателе на панели, дневная городская улица.",
+      "en": "A young driver holds the steering wheel while a smartphone rests in a dashboard holder on a city street."
+    }
+  }
 }

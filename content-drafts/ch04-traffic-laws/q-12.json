@@ -44,5 +44,12 @@
         "en": "Correct! Effective Jan. 1, 2019, children ride rear-facing until age 2 unless they weigh more than 40 pounds or are more than 40 inches tall."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q12.webp",
+    "alt": {
+      "ru": "Родитель пристёгивает малыша в детском кресле лицом назад на заднем сиденье, тёплое утро у дома.",
+      "en": "A parent secures a toddler in a rear-facing car seat in the back of a car in a driveway."
+    }
+  }
 }

@@ -55,5 +55,12 @@
         "en": "500 feet is the visibility needed for a U-turn on a curve or hill. When passing, return to your lane before 200 feet from the oncoming vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q03.webp",
+    "alt": {
+      "ru": "Одна машина обгоняет другую на двухполосной сельской дороге среди ровных полей, утро.",
+      "en": "One car overtakes another on a rural two-lane road across flat farmland in the morning."
+    }
+  }
 }

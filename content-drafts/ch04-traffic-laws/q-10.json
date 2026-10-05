@@ -33,5 +33,12 @@
         "en": "Correct! Signing is only an acknowledgment of receiving the ticket. Do not refuse to sign, and if you believe the ticket is unfair, you can present your case in traffic court."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q10.webp",
+    "alt": {
+      "ru": "Водитель у окна машины получает бумагу от вежливого полицейского, оба спокойны, на фоне ровная дорога.",
+      "en": "A driver at a car window receives a paper from a polite police officer on a flat road."
+    }
+  }
 }

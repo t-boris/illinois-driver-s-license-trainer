@@ -44,5 +44,12 @@
         "en": "The age is lower than that: hands-free is allowed from age 19."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q11.webp",
+    "alt": {
+      "ru": "Двое водителей разного возраста улыбаются в отдельных машинах на солнечной дороге, у каждого гарнитура.",
+      "en": "Two drivers of different ages smile in separate cars with earpieces and phones on the dashboards."
+    }
+  }
 }

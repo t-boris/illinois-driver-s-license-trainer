@@ -44,5 +44,12 @@
         "en": "5 feet is more than required, but the law states the minimum: 3 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q19.webp",
+    "alt": {
+      "ru": "Велосипедист в шлеме едет по краю дороги, позади на расстоянии движется машина, улица с деревьями.",
+      "en": "A cyclist in a helmet rides at the edge of a road with a car driving behind."
+    }
+  }
 }

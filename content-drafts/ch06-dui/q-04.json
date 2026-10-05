@@ -44,5 +44,12 @@
         "en": "Correct. A first conviction results in a minimum one-year revocation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q04.webp",
+    "alt": {
+      "ru": "Человек за столом читает документ, на заднем плане дверь зала суда, серьёзная, но спокойная атмосфера.",
+      "en": "A person reads a document at a desk with a courtroom door in the background."
+    }
+  }
 }

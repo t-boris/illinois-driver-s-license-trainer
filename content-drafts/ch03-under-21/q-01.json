@@ -55,5 +55,12 @@
         "en": "The seat matters too: the responsible adult must sit in the front passenger seat next to the driver."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q01.webp",
+    "alt": {
+      "ru": "Взрослый наставник на переднем сиденье объясняет что-то новичку за рулём на пустой парковке.",
+      "en": "An adult coach in the passenger seat talks to a new driver in an empty parking lot."
+    }
+  }
 }

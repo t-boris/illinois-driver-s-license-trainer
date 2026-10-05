@@ -55,5 +55,12 @@
         "en": "Correct. The course may be classroom-based or online, but only with a certified provider."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q04.webp",
+    "alt": {
+      "ru": "Взрослый ученик с ноутбуком и тетрадью в светлом классе, рядом улыбается преподаватель.",
+      "en": "An adult learner with a laptop and notebook in a bright classroom while an instructor smiles nearby."
+    }
+  }
 }

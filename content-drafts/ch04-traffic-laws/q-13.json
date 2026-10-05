@@ -44,5 +44,12 @@
         "en": "Slowing to 20 mph is required, but it is not enough: you must also stop and yield to people in the crosswalk area."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q13.webp",
+    "alt": {
+      "ru": "Улица у школы солнечным утром, регулировщик в яркой жилетке помогает пешеходам, машины ждут, на фоне здание школы.",
+      "en": "A school-area street where a crossing guard in a bright vest helps walkers while cars wait."
+    }
+  }
 }

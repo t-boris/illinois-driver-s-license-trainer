@@ -44,5 +44,12 @@
         "en": "That is more than required: the manual asks for 10 nighttime hours out of the 50."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q07.webp",
+    "alt": {
+      "ru": "Взрослый и ученик в машине в сумерках на тихой дороге, фары горят, над полями полумесяц.",
+      "en": "A supervisor and a learner drive at dusk on a quiet road with headlights on and a crescent moon above."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "For motorcycles the manual gives a specific guideline: at least three to four seconds."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q03.webp",
+    "alt": {
+      "ru": "Мотоциклист в шлеме едет по открытой дороге, позади в той же полосе машина, голубое небо и поля.",
+      "en": "A helmeted motorcyclist on an open road with a car behind in the same lane."
+    }
+  }
 }

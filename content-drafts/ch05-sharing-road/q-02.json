@@ -55,5 +55,12 @@
         "en": "Correct. Pass slowly and leave at least 3 feet from the edge of the side mirror. If there is no room, wait until you can pass safely."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q02.webp",
+    "alt": {
+      "ru": "Велосипедист в яркой каске едет по велодорожке на зелёной улице Чикаго, неподалёку проезжает машина.",
+      "en": "A helmeted cyclist rides in a city bike lane on a leafy street while a car passes nearby."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "This is not on the manual's list. Aggravated DUI relates to DUI with aggravating circumstances."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q11.webp",
+    "alt": {
+      "ru": "Две машины спокойно едут по пригородной дороге в сумерках, над прерией поднимается полная луна.",
+      "en": "Two cars on a calm suburban road at dusk with a full moon rising over the prairie."
+    }
+  }
 }

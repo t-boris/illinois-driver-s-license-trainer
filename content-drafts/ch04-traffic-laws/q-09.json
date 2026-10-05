@@ -44,5 +44,12 @@
         "en": "Correct! Do not exit unless asked, and keep your hands on the steering wheel until the officer instructs you otherwise or the stop is complete."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q09.webp",
+    "alt": {
+      "ru": "Полицейская машина позади остановленного автомобиля на обочине, офицер спокойно идёт к окну водителя.",
+      "en": "A police car stopped behind a civilian car on the shoulder, an officer walking calmly to the driver."
+    }
+  }
 }

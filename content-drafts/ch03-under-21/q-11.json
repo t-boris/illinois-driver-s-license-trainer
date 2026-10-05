@@ -55,5 +55,12 @@
         "en": "There is an effect: if the offense occurred while the person was in a motor vehicle, the license is suspended."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q11.webp",
+    "alt": {
+      "ru": "Друзья за столиком с безалкогольными напитками, на телефоне вызов такси, вдалеке припаркованная машина.",
+      "en": "Friends at an outdoor table with soft drinks and a rideshare app on a phone, a car parked nearby."
+    }
+  }
 }

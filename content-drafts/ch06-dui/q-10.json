@@ -33,5 +33,12 @@
         "en": "The manual says exactly this: DUI is classified as a violent crime, and a conviction remains on your record permanently."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q10.webp",
+    "alt": {
+      "ru": "Человек сидит на скамейке на остановке в сумерках, смотрит в телефон, подъезжает автобус, позади стоит машина.",
+      "en": "A person on a bench at a transit stop at dusk looks at a phone as a bus approaches."
+    }
+  }
 }

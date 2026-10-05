@@ -55,5 +55,12 @@
         "en": "Correct. Also, no driver or passenger may use cannabis in a motor vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q07.webp",
+    "alt": {
+      "ru": "Человек аккуратно кладёт закрытую коробку и сумку в багажник седана на солнечной подъездной дорожке.",
+      "en": "A person carefully loads a closed box and a bag into an open sedan trunk in a driveway."
+    }
+  }
 }

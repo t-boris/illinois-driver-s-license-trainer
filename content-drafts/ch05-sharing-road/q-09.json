@@ -33,5 +33,12 @@
         "en": "A fair question, but the manual is clear: the ban applies even when bicyclists are not present."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q09.webp",
+    "alt": {
+      "ru": "Пустая зелёная велодорожка вдоль улицы с деревьями, водитель машины остановился у бордюра в стороне от неё.",
+      "en": "An empty green bike lane along a tree-lined street, with a driver pulling over at the curb outside it."
+    }
+  }
 }
