@@ -23,3 +23,14 @@ export function Logo() {
     </svg>
   )
 }
+
+export function CarIcon() {
+  return (
+    <svg width="64" height="30" viewBox="0 0 64 30" aria-hidden="true">
+      <path d="M4 20c0-3 1.5-4 4-4.5l6-6c1-1 2.3-1.5 3.7-1.5h17c1.6 0 3 .7 4 1.9l5 5.6c5 .4 8.3 1 9.3 2.6.7 1.1.9 2.2.9 3.9v1H4z" fill="#ffc20e" />
+      <path d="M20 10h8v5h-13zM31 10h6c.9 0 1.7.4 2.3 1l3.2 4H31z" fill="#fff" opacity=".85" />
+      <circle cx="18" cy="23" r="5" fill="#13212c" /><circle cx="18" cy="23" r="2" fill="#fff" />
+      <circle cx="48" cy="23" r="5" fill="#13212c" /><circle cx="48" cy="23" r="2" fill="#fff" />
+    </svg>
+  )
+}

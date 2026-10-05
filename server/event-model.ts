@@ -1,7 +1,7 @@
 // Pure mapping from a client event to an aggregate counter key. Anything unexpected is rejected.
 export interface CounterKey { kind: string; topic: string; item: string }
 const ID = /^[a-z0-9][a-z0-9._-]{0,63}$/i
-const PAGES = new Set(['home', 'lesson', 'quiz', 'exam', 'privacy', 'book', 'learn', 'practice', 'signs', 'terms'])
+const PAGES = new Set(['home', 'lesson', 'quiz', 'exam', 'privacy', 'book', 'learn', 'practice', 'signs', 'terms', 'flashcards'])
 
 export function toCounter(body: unknown): CounterKey | null {
   if (typeof body !== 'object' || body === null) return null

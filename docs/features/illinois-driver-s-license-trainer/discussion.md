@@ -105,3 +105,7 @@ Owner: "You have not solved the dangerous tag." The assistant submitted the Safe
 ### Answers during implementation (14) · 2026-10-04
 
 Owner: asked for the URL of the Vercel deployment, asked to deploy the new version immediately, reported that /#/learn showed no content, and asked for an explanation (in Russian) of the remaining Chrome "Dangerous site" tag. Handled without new decisions: the labelled beta (DEC-031) was deployed to https://illinois-license-trainer.vercel.app and verified live (10 topics, 29 signs, 77 terms, quiz and 35-question exam, images, analytics endpoint); the explanation was given (probable Safe Browsing heuristic false positive, report submitted to Google per DEC-030, custom domain declined, Search Console review offered).
+
+### Answers during implementation (15) · 2026-10-04
+
+Owner: re-check that all necessary information, all signs and all exam topics are on the site and well described, and make the site more dynamic. Recorded as DEC-032 (coverage audit, dynamic interface) and REQ-011 (flashcards).

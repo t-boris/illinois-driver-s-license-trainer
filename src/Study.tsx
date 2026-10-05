@@ -59,7 +59,7 @@ export function PracticePage({ lang, go, progress }: { lang: Lang; go: (h: strin
   )
 }
 
-export function SignsPage({ lang }: { lang: Lang }) {
+export function SignsPage({ lang, go }: { lang: Lang; go: (h: string) => void }) {
   const t = (k: Key) => strings[k][lang]
   const groups = useMemo(() => {
     const m = new Map<SignCategory, typeof signCards>()
@@ -70,6 +70,7 @@ export function SignsPage({ lang }: { lang: Lang }) {
     <section>
       <h2>{t('signs')}</h2>
       <p className="muted">{t('signsHint')}</p>
+      {groups.length > 0 && <button className="primary" onClick={() => go('/flashcards/signs')}>{t('flashcards')}</button>}
       {groups.length === 0 && <p className="empty">{t('noContent')}</p>}
       {groups.map(([cat, cards]) => (
         <div key={cat}>
@@ -96,7 +97,7 @@ export function SignsPage({ lang }: { lang: Lang }) {
   )
 }
 
-export function TermsPage({ lang }: { lang: Lang }) {
+export function TermsPage({ lang, go }: { lang: Lang; go: (h: string) => void }) {
   const t = (k: Key) => strings[k][lang]
   const [q, setQ] = useState('')
   const list = useMemo(() => {
@@ -109,6 +110,7 @@ export function TermsPage({ lang }: { lang: Lang }) {
     <section className="reading">
       <h2>{t('terms')}</h2>
       <p className="muted">{t('termsHint')}</p>
+      {terms.length > 0 && <button className="primary" onClick={() => go('/flashcards/terms')}>{t('flashcards')}</button>}
       <div className="search-wrap">
         <IconSearch />
         <input className="search" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('search')} aria-label={t('search')} />

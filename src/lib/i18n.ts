@@ -57,6 +57,10 @@ export const strings = {
     ru: 'Неофициальное учебное приложение, не связано с Секретарём штата Иллинойс. Официальный источник — Illinois Rules of the Road на ilsos.gov.',
     en: 'Unofficial study app, not affiliated with the Illinois Secretary of State. The official source is the Illinois Rules of the Road at ilsos.gov.',
   },
+  flashcards: { ru: 'Карточки', en: 'Flashcards' },
+  flipHint: { ru: 'Нажмите на карточку, чтобы перевернуть. Стрелки ← → — следующая и предыдущая.', en: 'Tap the card to flip it. Use ← → for previous and next.' },
+  prev: { ru: 'Назад', en: 'Previous' },
+  shuffle: { ru: 'Перемешать', en: 'Shuffle' },
   betaBanner: {
     ru: 'Бета: материалы ещё не проверены проверяющим по Rules of the Road. Главный источник — официальное руководство Иллинойса (ilsos.gov).',
     en: 'Beta: these materials have not yet been reviewed against the Rules of the Road by a reviewer. The official Illinois manual (ilsos.gov) is the authority.',

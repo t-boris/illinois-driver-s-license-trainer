@@ -10,3 +10,4 @@ test('unknown page rejected', () => assert.equal(toCounter({ type: 'view', page:
 test('extra identifying fields are ignored, bad ids rejected', () => assert.equal(toCounter({ type: 'answer', topic: 'a b', question: 'q', correct: true, userId: 'x' }), null))
 test('garbage rejected', () => assert.equal(toCounter('x'), null))
 test('book page view', () => assert.equal(toCounter({ type: 'view', page: 'book' }).item, 'book'))
+test('flashcards page view', () => assert.equal(toCounter({ type: 'view', page: 'flashcards' }).item, 'flashcards'))

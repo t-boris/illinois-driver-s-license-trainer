@@ -7,14 +7,18 @@ import { track } from './lib/analytics'
 import { BOOKING } from './lib/booking'
 import { LearnPage, PracticePage, SignsPage, TermsPage } from './Study'
 import { Rich } from './Rich'
-import { IconBook, IconBulb, IconCalendar, IconCheck, IconExternal, IconFlag, IconInfo, IconPencil, IconSign, IconTerms, Logo } from './Icons'
+import { CountUp, ReadProgress } from './Motion'
+import { useReveal } from './useReveal'
+import { Flashcards } from './Flashcards'
+import { IconBook, IconBulb, IconCalendar, IconCheck, IconExternal, IconFlag, IconInfo, IconPencil, IconSign, IconTerms, Logo, CarIcon } from './Icons'
 import type { Lang, Question, Img } from './lib/types'
 
-type Route = { page: 'home' } | { page: 'lesson' | 'quiz'; topic: string } | { page: 'exam' } | { page: 'privacy' } | { page: 'book' } | { page: 'learn' | 'practice' | 'signs' | 'terms' }
+type Route = { page: 'home' } | { page: 'lesson' | 'quiz'; topic: string } | { page: 'exam' } | { page: 'privacy' } | { page: 'book' } | { page: 'learn' | 'practice' | 'signs' | 'terms' } | { page: 'flashcards'; kind: 'signs' | 'terms' }
 
 function parse(hash: string): Route {
   const [p, id] = hash.replace(/^#\/?/, '').split('/')
   if ((p === 'lesson' || p === 'quiz') && id) return { page: p, topic: decodeURIComponent(id) }
+  if (p === 'flashcards' && (id === 'signs' || id === 'terms')) return { page: 'flashcards', kind: id }
   if (['exam', 'privacy', 'book', 'learn', 'practice', 'signs', 'terms'].includes(p)) return { page: p } as Route
   return { page: 'home' }
 }
@@ -51,6 +55,7 @@ function QuestionRun({ questions: given, lang, onAnswer, onDone, doneLabel, shuf
         <span>{i + 1} {t('questionOf')} {questions.length}</span>
       </div>
       {q.draft && <span className="tag-draft">{t('draftTag')}</span>}
+      <div key={i} className="qcard">
       <h2 className="q-text">{q.text[lang]}</h2>
       <Picture img={q.image} lang={lang} />
       {lang === 'ru' && (
@@ -68,12 +73,13 @@ function QuestionRun({ questions: given, lang, onAnswer, onDone, doneLabel, shuf
         {q.options.map((o, k) => {
           const cls = checked ? (o.correct ? ' good' : pick === k ? ' miss' : '') : pick === k ? ' sel' : ''
           return (
-            <button key={k} className={`opt${cls}`} disabled={checked} onClick={() => setPick(k)}>
+            <button key={k} style={{ ['--i' as string]: k }} className={`opt${cls}`} disabled={checked} onClick={() => setPick(k)}>
               <span className="badge">{checked && o.correct ? <IconCheck /> : LETTERS[k]}</span>
               <span>{o.text[lang]}</span>
             </button>
           )
         })}
+      </div>
       </div>
       {checked && (
         <div ref={feedback} className={`fb ${ok ? 'good' : 'hint'}`} role="status">
@@ -152,10 +158,11 @@ export default function App() {
           <p className="muted">{BOOKING.disclaimer[lang]}</p>
         </section>
       )
+    if (route.page === 'flashcards') return <Flashcards lang={lang} kind={route.kind} go={go} />
     if (route.page === 'learn') return <LearnPage lang={lang} go={go} />
     if (route.page === 'practice') return <PracticePage lang={lang} go={go} progress={progress} />
-    if (route.page === 'signs') return <SignsPage lang={lang} />
-    if (route.page === 'terms') return <TermsPage lang={lang} />
+    if (route.page === 'signs') return <SignsPage lang={lang} go={go} />
+    if (route.page === 'terms') return <TermsPage lang={lang} go={go} />
     if (route.page === 'privacy') return <section className="reading"><h2>{t('privacy')}</h2><p>{strings.privacyBody[lang]}</p></section>
     if (route.page === 'lesson' || route.page === 'quiz') {
       const topic = topics.find((x) => x.id === route.topic)
@@ -166,7 +173,8 @@ export default function App() {
             {topic.lesson?.draft && <span className="tag-draft">{t('draftTag')}</span>}
             <h2>{topic.title[lang]}</h2>
             <Picture img={topic.lesson?.image} lang={lang} />
-            <Rich text={topic.lesson?.body[lang] ?? ''} />
+            <ReadProgress />
+            <Revealed><Rich text={topic.lesson?.body[lang] ?? ''} /></Revealed>
             <div className="actions"><button className="primary" onClick={() => go(`/quiz/${encodeURIComponent(topic.id)}`)}>{t('takeQuiz')}</button></div>
           </section>
         )
@@ -208,12 +216,13 @@ export default function App() {
           {topics.length > 0 ? (
             <>
               <div className="seg" role="img" aria-label={t('readiness')}>
-                {topics.map((tp) => <i key={tp.id} className={topicStats(progress, tp).met ? 'on' : ''} />)}
-                <i className={`sim${r.simPassed ? ' on' : ''}`} />
+                {topics.map((tp, k) => <i key={tp.id} style={{ ['--i' as string]: k }} className={topicStats(progress, tp).met ? 'on' : ''} />)}
+                <i style={{ ['--i' as string]: topics.length }} className={`sim${r.simPassed ? ' on' : ''}`} />
               </div>
               <div className="seg-legend">{r.ready ? t('ready') : `${t('remaining')} ${remaining}`}</div>
             </>
           ) : <p>{t('noContent')}</p>}
+          <div className="road" aria-hidden="true"><span className="car"><CarIcon /></span></div>
         </div>
         <ul className="hub">
           {tiles.map((x) => (
@@ -257,7 +266,7 @@ export default function App() {
         </div>
       </header>
       {hasDrafts && <div className="beta" role="note"><IconInfo /><span>{t('betaBanner')}</span></div>}
-      <main>{body}</main>
+      <main key={`${route.page}-${'topic' in route ? route.topic : 'kind' in route ? route.kind : ''}`} className="page">{body}</main>
       <footer><p>{t('unofficial')}</p><a href="#/privacy">{t('privacy')}</a></footer>
       {toast && <Celebration message={toast} />}
     </div>
@@ -273,7 +282,7 @@ function Exam({ lang, onFinish }: { lang: Lang; onFinish: (s: Sim) => void }) {
     return (
       <section className="reading">
         <p className="muted">{t('score')}</p>
-        <div className="score">{summary.correct}<span className="muted"> / {summary.total}</span></div>
+        <div className="score"><CountUp to={summary.correct} /><span className="muted"> / {summary.total}</span></div>
         <p className={`fb ${summary.passed ? 'good' : 'hint'}`} style={{ marginTop: 16 }}>{summary.passed ? <IconCheck /> : <IconBulb />}<span>{summary.passed ? t('passed') : t('notPassed')}</span></p>
         <ul className="breakdown">
           {Object.entries(summary.perTopic).map(([id, [c, n]]) => (
@@ -296,4 +305,9 @@ function Exam({ lang, onFinish }: { lang: Lang; onFinish: (s: Sim) => void }) {
         setSummary({ date: new Date().toISOString().slice(0, 10), correct, total: qs.length, passed: qs.length > 0 && correct >= need, perTopic })
       }} />
   )
+}
+
+function Revealed({ children }: { children: React.ReactNode }) {
+  const ref = useReveal<HTMLDivElement>()
+  return <div ref={ref}>{children}</div>
 }
