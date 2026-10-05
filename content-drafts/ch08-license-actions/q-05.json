@@ -44,5 +44,12 @@
         "en": "Correct. After the suspension ends you pay a reinstatement fee. In some cases the license is not returned until other requirements are met."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q05.webp",
+    "alt": {
+      "ru": "Женщина у стойки офиса с папкой бумаг и ручкой, сотрудник улыбается и показывает на бланк.",
+      "en": "A woman at an office counter holding a folder and pen while a clerk smiles and points to a form."
+    }
+  }
 }

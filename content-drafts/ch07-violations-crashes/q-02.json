@@ -44,5 +44,12 @@
         "en": "Correct! A report is required for death, bodily injury, or property damage of more than $1,500. If any vehicle is uninsured, the limit is lower: $500 or more."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q02.webp",
+    "alt": {
+      "ru": "Спокойный взрослый за столом с ноутбуком и бланком, на столе небольшая игрушечная машина, светлый домашний кабинет.",
+      "en": "A calm adult at a home desk with a laptop, a form and a toy car."
+    }
+  }
 }

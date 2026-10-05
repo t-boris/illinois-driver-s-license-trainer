@@ -33,5 +33,12 @@
         "en": "It is possible: the manual says you may receive a reduction after the course. Ask your insurance agent about the amount."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q12.webp",
+    "alt": {
+      "ru": "Улыбающийся пожилой человек в классе с инструктором и другими взрослыми, на столе модель машины, светлое помещение.",
+      "en": "A smiling older adult in a bright classroom with an instructor and other adult learners."
+    }
+  }
 }

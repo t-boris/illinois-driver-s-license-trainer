@@ -33,5 +33,12 @@
         "en": "Better not to risk it: per the manual, driving while suspended or revoked extends the period and may result in incarceration."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q02.webp",
+    "alt": {
+      "ru": "Седан у дома в пригороде и ключи от машины на деревянной тумбочке в прихожей.",
+      "en": "A parked sedan in a suburban driveway and car keys on a wooden table by the front door."
+    }
+  }
 }

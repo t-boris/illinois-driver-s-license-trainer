@@ -44,5 +44,12 @@
         "en": "Correct! That is why it is best to notify police right away. If the driver cannot report and there is a passenger, the passenger must make the report."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q07.webp",
+    "alt": {
+      "ru": "Человек за столом смотрит на стопку бумаг и небольшой мешочек с монетами, задумчивое лицо, офис с растениями.",
+      "en": "A person at a desk looks at a stack of papers and a small bag of coins."
+    }
+  }
 }

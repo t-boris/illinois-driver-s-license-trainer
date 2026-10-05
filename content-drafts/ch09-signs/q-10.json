@@ -33,5 +33,12 @@
         "en": "Good thinking, but the statement is true. The diamond does warn of hazards, while regulatory signs have other shapes."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch09-signs-q10.webp",
+    "alt": {
+      "ru": "Мужчина средних лет ведёт машину по загородной дороге среди зелёных полей, внимательно смотрит вперёд.",
+      "en": "A middle-aged man driving on a country road past green fields and a barn, looking ahead alertly."
+    }
+  }
 }

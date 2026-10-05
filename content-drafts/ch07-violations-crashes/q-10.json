@@ -44,5 +44,12 @@
         "en": "The report is needed, but the law also requires you to post security."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q10.webp",
+    "alt": {
+      "ru": "Взрослый за кухонным столом спокойно изучает страховые бумаги, рядом ключ от машины, ноутбук и чашка чая.",
+      "en": "An adult at a kitchen table reviews insurance papers beside a laptop, car key and tea."
+    }
+  }
 }

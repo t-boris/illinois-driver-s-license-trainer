@@ -44,5 +44,12 @@
         "en": "Reporting later does not cancel the consequences. It is best to stay at the scene and call 911 right away."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q08.webp",
+    "alt": {
+      "ru": "Человек за столом смотрит на водительскую карточку, рядом ручка и закрытая папка, светлый офис.",
+      "en": "A person at a desk looks at a license card with a pen and a closed folder beside it."
+    }
+  }
 }

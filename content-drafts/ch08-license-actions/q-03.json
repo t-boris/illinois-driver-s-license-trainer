@@ -55,5 +55,12 @@
         "en": "That is a denial. A cancellation is different: termination because of an error, a defect, or loss of entitlement."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q03.webp",
+    "alt": {
+      "ru": "Сотрудник за столом спокойно просматривает папку с документами, напротив сидит посетитель.",
+      "en": "A clerk calmly reviewing a folder of paperwork at a desk while an applicant sits opposite."
+    }
+  }
 }

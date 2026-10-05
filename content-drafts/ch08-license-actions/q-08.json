@@ -44,5 +44,12 @@
         "en": "The MDDP is not about daylight: it allows driving at any time, but with an interlock installed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q08.webp",
+    "alt": {
+      "ru": "Мужчина за домашним столом с ноутбуком, небольшим устройством и ключами от машины.",
+      "en": "A man at a home desk with a laptop, a small gadget and car keys beside him."
+    }
+  }
 }

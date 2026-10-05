@@ -33,5 +33,12 @@
         "en": "It is best to pay such tickets on time: five or more unpaid automated red-light or speeding violations, or a combination, can lead to suspension."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q11.webp",
+    "alt": {
+      "ru": "Мужчина за кухонным столом разбирает стопку конвертов и счетов с калькулятором.",
+      "en": "A man at a kitchen table sorting envelopes and bills with a calculator."
+    }
+  }
 }

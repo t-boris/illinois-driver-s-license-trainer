@@ -55,5 +55,12 @@
         "en": "Parks and recreation are shown in brown."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch09-signs-q22.webp",
+    "alt": {
+      "ru": "Пара в машине на многополосной трассе, вдали силуэт города, женщина держит бумажную карту.",
+      "en": "A couple in a car on a multi-lane highway with a distant city skyline, the woman holding a paper map."
+    }
+  }
 }

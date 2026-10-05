@@ -44,5 +44,12 @@
         "en": "Correct. A revocation is an indefinite withdrawal of driving privileges, and you may reapply after a minimum of one year, unless otherwise noted."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q01.webp",
+    "alt": {
+      "ru": "Мужчина за кухонным столом с листком календаря и кружкой кофе задумчиво что-то планирует.",
+      "en": "A man at a kitchen table with a calendar page and a coffee mug, thoughtfully planning."
+    }
+  }
 }

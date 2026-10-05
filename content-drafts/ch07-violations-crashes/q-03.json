@@ -55,5 +55,12 @@
         "en": "The time is much shorter: 30 minutes. It is best to notify the police immediately."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q03.webp",
+    "alt": {
+      "ru": "Настенные часы и страница календаря позади человека, заполняющего бланк за столом, дневной свет из окна.",
+      "en": "A wall clock behind a person filling out a form at a desk in daylight."
+    }
+  }
 }

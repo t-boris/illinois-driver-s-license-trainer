@@ -44,5 +44,12 @@
         "en": "No: the insurance company, not the court, files the SR-22 with the Secretary of State."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q05.webp",
+    "alt": {
+      "ru": "Взрослый подаёт бумаги сотруднику у окна государственной службы, светлый зал ожидания со стульями.",
+      "en": "An adult hands papers to a clerk at a service window in a bright waiting room."
+    }
+  }
 }

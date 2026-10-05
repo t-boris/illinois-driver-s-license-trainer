@@ -44,5 +44,12 @@
         "en": "Correct! Also stop away from traffic and complete all required crash reports."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q04.webp",
+    "alt": {
+      "ru": "Человек на парковке пишет записку и кладёт её под дворник припаркованной машины, повреждений не видно, солнечно.",
+      "en": "A person writes a note and tucks it under a parked car wiper in a sunny parking lot."
+    }
+  }
 }

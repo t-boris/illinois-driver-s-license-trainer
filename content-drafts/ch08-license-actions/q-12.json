@@ -44,5 +44,12 @@
         "en": "Other permits (RDP, ODP) cover work trips. The FRP is issued only in connection with child support or child visitation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q12.webp",
+    "alt": {
+      "ru": "Мама и папа сидят на крыльце дома и вместе просматривают папку с бумагами, рядом семейный минивэн.",
+      "en": "A mother and father on the front steps reviewing a folder of papers next to a family minivan."
+    }
+  }
 }

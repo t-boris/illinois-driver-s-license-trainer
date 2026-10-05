@@ -44,5 +44,12 @@
         "en": "The minimum is shorter: 30 days."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q06.webp",
+    "alt": {
+      "ru": "Зал ожидания суда, на скамьях сидят взрослые с бумажными повестками, спокойно и организованно, высокие окна.",
+      "en": "Adults sit on benches in a court waiting room holding paper notices in warm light."
+    }
+  }
 }

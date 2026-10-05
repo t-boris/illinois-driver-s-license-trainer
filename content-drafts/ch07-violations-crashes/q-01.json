@@ -44,5 +44,12 @@
         "en": "Do not wait: call 911 immediately yourself."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q01.webp",
+    "alt": {
+      "ru": "Взрослый водитель остановился в безопасном освещённом месте, аварийка включена, держит телефон, вечерние фонари.",
+      "en": "A driver safely parked in a well-lit spot with hazard lights on, holding a phone calmly."
+    }
+  }
 }

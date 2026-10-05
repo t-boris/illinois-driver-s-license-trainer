@@ -44,5 +44,12 @@
         "en": "The limit is lower: an RDP just cannot be issued to someone under 16."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q04.webp",
+    "alt": {
+      "ru": "Молодой человек с рюкзаком идёт по тихой улице к автобусной остановке в лучах утреннего солнца.",
+      "en": "A young man with a backpack walking along a quiet suburban street toward a bus stop shelter."
+    }
+  }
 }

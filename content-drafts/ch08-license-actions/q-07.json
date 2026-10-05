@@ -44,5 +44,12 @@
         "en": "One year is the minimum wait after a revocation. For this denial it is nine months or until the 18th birthday, whichever is shorter."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q07.webp",
+    "alt": {
+      "ru": "Двое взрослых сидят за столом и вместе рассматривают папку с бумагами в светлом офисе.",
+      "en": "Two adults sitting at a desk together looking at a paper folder in a bright office."
+    }
+  }
 }

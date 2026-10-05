@@ -44,5 +44,12 @@
         "en": "Correct! This lets the driver continue the journey. The other options are to stay and argue the case or pay the fine. Failing to keep the promise may result in suspension of the Illinois license."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q09.webp",
+    "alt": {
+      "ru": "Поездка на машине по длинной магистрали на закате, на пассажирском сиденье бумажная папка, вдали город другого штата.",
+      "en": "A car on a long interstate at golden hour with a paper folder on the passenger seat."
+    }
+  }
 }

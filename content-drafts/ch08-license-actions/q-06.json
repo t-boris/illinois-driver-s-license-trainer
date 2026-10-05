@@ -33,5 +33,12 @@
         "en": "The manual is clear here: when a moving violation causes a crash that kills another person, the privileges are revoked immediately."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q06.webp",
+    "alt": {
+      "ru": "Тихая жилая улица на закате, у дома стоит машина, мужчина задумчиво стоит на крыльце.",
+      "en": "A quiet residential street at dusk with a parked car and a man standing thoughtfully on his porch."
+    }
+  }
 }

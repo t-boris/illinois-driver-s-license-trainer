@@ -44,5 +44,12 @@
         "en": "Zero Tolerance is specifically about alcohol: a concentration above 0.00 but below 0.08."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q10.webp",
+    "alt": {
+      "ru": "Пара за столиком кафе, на столе стакан воды и в стороне ключи от машины, за окном солнечная улица.",
+      "en": "A couple at a cafe table with a glass of water and car keys set aside, sunny street outside."
+    }
+  }
 }

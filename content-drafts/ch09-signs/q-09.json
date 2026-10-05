@@ -55,5 +55,12 @@
         "en": "Blue signs tell you about services along the roadway."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch09-signs-q09.webp",
+    "alt": {
+      "ru": "Женщина за рулём на солнечной пригородной улице, внимательно смотрит вперёд.",
+      "en": "A woman driving on a sunny suburban road, calm and attentive, looking ahead."
+    }
+  }
 }

@@ -33,5 +33,12 @@
         "en": "The manual is clear: this is not allowed and is a separate offense."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q13.webp",
+    "alt": {
+      "ru": "Хозяин на домашнем ужине убирает ключ от машины в ящик, на столе телефон с вызовом такси, друзья улыбаются.",
+      "en": "A host puts a friend car key in a drawer at a home dinner, ride-app phone on the table."
+    }
+  }
 }

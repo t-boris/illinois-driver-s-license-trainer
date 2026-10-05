@@ -44,5 +44,12 @@
         "en": "The manual lists different numbers: a minimum of three months and a $100 fee."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q11.webp",
+    "alt": {
+      "ru": "Человек у стола в страховом офисе беседует с консультантом, на столе бумаги и копилка, светлый кабинет.",
+      "en": "A person talks with an advisor at an insurance office desk with papers and a piggy bank."
+    }
+  }
 }
