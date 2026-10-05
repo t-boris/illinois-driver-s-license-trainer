@@ -44,5 +44,12 @@
         "en": "The manual does not suggest this. The rule is simple: go to the next exit."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q12.webp",
+    "alt": {
+      "ru": "Водитель на скоростной магистрали спокойно смотрит на съезд, уходящий вправо, на горизонте город.",
+      "en": "A driver on an expressway calmly looking ahead at an exit ramp curving to the right."
+    }
+  }
 }

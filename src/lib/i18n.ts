@@ -53,6 +53,10 @@ export const strings = {
     ru: 'Мы собираем только анонимную статистику: просмотры страниц и тем, количество верных и неверных ответов по вопросам и темам, итоги симуляций. Без cookie, аккаунтов, имён и идентификаторов. Прогресс остаётся в вашем браузере.',
     en: 'We collect only anonymous statistics: page and topic views, correct/incorrect answer counts per question and topic, and simulation outcomes. No cookies, accounts, names or identifiers. Your progress stays in your browser.',
   },
+  unofficial: {
+    ru: 'Неофициальное учебное приложение, не связано с Секретарём штата Иллинойс. Официальный источник — Illinois Rules of the Road на ilsos.gov.',
+    en: 'Unofficial study app, not affiliated with the Illinois Secretary of State. The official source is the Illinois Rules of the Road at ilsos.gov.',
+  },
   progress: { ru: 'Прогресс', en: 'Progress' },
   noQuestions: { ru: 'Вопросов пока нет.', en: 'No questions yet.' },
 } satisfies Record<string, Record<Lang, string>>

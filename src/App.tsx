@@ -255,7 +255,7 @@ export default function App() {
         </div>
       </header>
       <main>{body}</main>
-      <footer><a href="#/privacy">{t('privacy')}</a></footer>
+      <footer><p>{t('unofficial')}</p><a href="#/privacy">{t('privacy')}</a></footer>
       {toast && <Celebration message={toast} />}
     </div>
   )

@@ -44,5 +44,12 @@
         "en": "The manual does not list this step. Start by freeing the pedal with your toe."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q14.webp",
+    "alt": {
+      "ru": "Крупный план: нога водителя у педалей и рука на рычаге коробки передач, спокойная сосредоточенная поза.",
+      "en": "Close view of a driver foot near the pedals and a hand on the gear shift, calm and focused."
+    }
+  }
 }

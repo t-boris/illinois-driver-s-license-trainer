@@ -33,5 +33,12 @@
         "en": "Take another look at the winter section: these are exactly the spots that may stay icy after the rest of the road is clear, so approach them slowly."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q11.webp",
+    "alt": {
+      "ru": "Машина едет по эстакаде морозным зимним утром, на обочине иней, водитель осторожен.",
+      "en": "A car crossing an overpass on a frosty winter morning, with frost along the roadside and a cautious driver."
+    }
+  }
 }

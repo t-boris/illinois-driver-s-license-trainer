@@ -44,5 +44,12 @@
         "en": "Correct. Everything smoothly and without jerking."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q13.webp",
+    "alt": {
+      "ru": "Машина правыми колёсами на гравийной обочине загородной дороги, водитель спокоен, обе руки на руле.",
+      "en": "A car with right wheels on a gravel shoulder, the driver calm with both hands on the wheel."
+    }
+  }
 }

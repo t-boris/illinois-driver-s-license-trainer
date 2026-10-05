@@ -44,5 +44,12 @@
         "en": "Speeding is dangerous in itself. It is better to let the vehicle pass calmly."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q07.webp",
+    "alt": {
+      "ru": "Водитель смотрит в зеркало заднего вида на пикап, едущий вплотную сзади, лицо спокойное.",
+      "en": "A driver glancing in the rearview mirror at a pickup truck following closely behind."
+    }
+  }
 }

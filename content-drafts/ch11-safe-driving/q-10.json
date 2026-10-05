@@ -44,5 +44,12 @@
         "en": "The manual says not to drive at 5-10 mph; if the fog is too dense, stop off the roadway."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q10.webp",
+    "alt": {
+      "ru": "Машина медленно едет по дороге в густом тумане, водитель подался вперёд и вглядывается вперёд.",
+      "en": "A car moving slowly through dense fog, the driver leaning forward and peering ahead."
+    }
+  }
 }

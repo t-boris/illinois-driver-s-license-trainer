@@ -44,5 +44,12 @@
         "en": "Correct. If fire forces you to jump, do not let any part of your body touch the vehicle and the ground at once."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q16.webp",
+    "alt": {
+      "ru": "Машина стоит у тихой дороги, внутри спокойно сидит женщина, рядом столбы с провисшими проводами.",
+      "en": "A parked car beside a quiet road with a woman sitting calmly inside and utility poles with sagging wires nearby."
+    }
+  }
 }

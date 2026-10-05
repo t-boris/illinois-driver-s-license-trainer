@@ -44,5 +44,12 @@
         "en": "Correct. Do not drive through the flooded area: you cannot determine the depth or current."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q09.webp",
+    "alt": {
+      "ru": "Водитель остановился у края дороги, залитой водой после сильного дождя, и смотрит на воду из машины.",
+      "en": "A driver stopped at the edge of a road flooded after heavy rain, looking at the water."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Do not engage the other driver in any way."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q15.webp",
+    "alt": {
+      "ru": "Водитель в седане сохраняет спокойствие и делает глубокий вдох, впереди другая машина резко перестраивается.",
+      "en": "A driver staying calm and taking a deep breath while another car ahead changes lanes quickly."
+    }
+  }
 }

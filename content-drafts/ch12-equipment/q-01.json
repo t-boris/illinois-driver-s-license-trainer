@@ -44,5 +44,12 @@
         "en": "That is too far; the foot brake must stop the vehicle much sooner."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q01.webp",
+    "alt": {
+      "ru": "Женщина в водительском кресле стоящей машины мягко нажимает ногой на педаль тормоза, на улице солнечно.",
+      "en": "A woman in a parked car driver seat gently pressing the brake pedal on a sunny street."
+    }
+  }
 }

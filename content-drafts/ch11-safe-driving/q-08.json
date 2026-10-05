@@ -33,5 +33,12 @@
         "en": "Good to check: the manual says to try to regain control first and, if that is not possible, release the accelerator and ride out the skid."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q08.webp",
+    "alt": {
+      "ru": "Машина едет по мокрой дороге под ливнем, из-под колёс брызги, водитель спокоен и внимателен.",
+      "en": "A car driving through heavy rain with spray from the tires and a calm, attentive driver."
+    }
+  }
 }

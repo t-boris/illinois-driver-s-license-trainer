@@ -89,3 +89,7 @@ Owner: make the app more attractive and modern; then "terrible UI" (screenshot o
 ### Answers during implementation (10) · 2026-10-04
 
 Owner: "Where are the images?", "The key is in my clipboard", "I hope that you'll cache images" — recorded as DEC-029 (images generated once and cached; key kept in a git-ignored file). Owner asked for the new version to be deployed now and for the Vercel URL: deployed to https://illinois-license-trainer.vercel.app (DEC-024). Owner reported the quiz as not working: a defect (questions were reshuffled on every re-render), fixed and covered by an end-to-end check; no specification change.
+
+### Answers during implementation (11) · 2026-10-04
+
+Owner: cannot open the site; Chrome shows a "Dangerous site" warning (screenshot). Google's public Safe Browsing report lists no flags; treated as a probable false positive. Recorded as DEC-030 (unofficial-app notice); the owner reports the false positive to Google; a custom domain needs the owner's approval.
