@@ -50,7 +50,8 @@ Q-001..Q-007 (all answered), DEC-001..DEC-010 (all accepted), F-001..F-006 (all 
 ## Open
 - [ ] REQ-005: most questions/lessons still have no image — needs an AI image generator (not chosen in the spec: overview 'Dependencies') — ask owner
 - [ ] Owner review + promote (content/ is empty, production bank empty until then)
-- [ ] I-9: real-device QA on Safari iOS, Firefox, Android (needs devices)
+- [x] Safari engine: WebKit (iPhone 13 emulation + desktop) via Playwright, 12 flows each (hub, RU/EN, signs, terms search, quiz with Show in English, sign quiz image, exam 35 q, book links, privacy, progress persistence) all pass, no console errors
+- [ ] Firefox: headless launch fails in this sandbox, so Firefox is unverified; real iOS/Android devices not tested
 
 ## Deployment (DEC-024)
 - [x] Vercel project illinois-license-trainer linked; production deployed: https://illinois-license-trainer.vercel.app (HTTPS, 200; empty bank, gate working)
