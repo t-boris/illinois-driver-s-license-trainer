@@ -60,3 +60,8 @@ Q-001..Q-007 (all answered), DEC-001..DEC-010 (all accepted), F-001..F-006 (all 
 - [ ] Owner: choose/provide AI image generator (DEC-023)
 - [ ] Owner: review drafts and run scripts/promote-draft.mjs, then PR
 - Not pushed to GitHub; Vercel is connected to t-boris/illinois-driver-s-license-trainer (pushes will auto-deploy)
+
+## Images (DEC-027) — pipeline ready, generation waits for the owner's OPENAI_API_KEY
+- [x] images/manifest-a.json (81) + manifest-b.json (64): scene prompts + bilingual alt for every lesson and every question without an official sign image; no signs/signals as subject (lint-enforced); spoiler-prone prompts neutralised
+- [x] scripts/generate-images.mjs (OpenAI image API, WebP, patches content items), --dry-run verified (145 would generate)
+- [ ] Owner: export OPENAI_API_KEY and run `node scripts/generate-images.mjs --limit 5` (cost check), then without --limit; review images (esp. ch04 school zone/railroad, ch10) for stray signs

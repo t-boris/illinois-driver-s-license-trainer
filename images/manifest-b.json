@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "id": "ch08-license-actions-lesson",
+      "file": "content-drafts/ch08-license-actions/lesson.json",
+      "prompt": "A smiling adult woman at a Secretary of State office counter handing documents to a friendly clerk, a few other adults waiting on chairs in a bright, tidy office. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Женщина у стойки офиса Secretary of State отдаёт документы приветливому сотруднику, рядом на стульях ждут другие посетители.",
+        "en": "A woman at a Secretary of State office counter handing documents to a friendly clerk while other visitors wait nearby."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q01",
+      "file": "content-drafts/ch08-license-actions/q-01.json",
+      "prompt": "A calm adult man sitting at a kitchen table with a calendar page and a coffee mug, thoughtfully planning ahead, sunny window behind him. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Мужчина за кухонным столом с листком календаря и кружкой кофе задумчиво что-то планирует.",
+        "en": "A man at a kitchen table with a calendar page and a coffee mug, thoughtfully planning."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q02",
+      "file": "content-drafts/ch08-license-actions/q-02.json",
+      "prompt": "A parked sedan in a suburban driveway with car keys resting on a wooden hallway table beside an unlocked front door, evening glow. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Седан у дома в пригороде и ключи от машины на деревянной тумбочке в прихожей.",
+        "en": "A parked sedan in a suburban driveway and car keys on a wooden table by the front door."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q03",
+      "file": "content-drafts/ch08-license-actions/q-03.json",
+      "prompt": "A friendly clerk at an office desk calmly reviewing a folder of paperwork while an adult applicant sits opposite, tidy desk with a stamp and pen. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Сотрудник за столом спокойно просматривает папку с документами, напротив сидит посетитель.",
+        "en": "A clerk calmly reviewing a folder of paperwork at a desk while an applicant sits opposite."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q04",
+      "file": "content-drafts/ch08-license-actions/q-04.json",
+      "prompt": "A young adult man in a hoodie walking along a tree-lined suburban sidewalk toward a bus stop shelter, morning sunshine, backpack on his shoulder. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Молодой человек с рюкзаком идёт по тихой улице к автобусной остановке в лучах утреннего солнца.",
+        "en": "A young man with a backpack walking along a quiet suburban street toward a bus stop shelter."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q05",
+      "file": "content-drafts/ch08-license-actions/q-05.json",
+      "prompt": "An adult Black woman at a Secretary of State office counter holding a folder of papers and a pen, a clerk smiling and pointing to a form. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Женщина у стойки офиса с папкой бумаг и ручкой, сотрудник улыбается и показывает на бланк.",
+        "en": "A woman at an office counter holding a folder and pen while a clerk smiles and points to a form."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q06",
+      "file": "content-drafts/ch08-license-actions/q-06.json",
+      "prompt": "A quiet residential street at dusk with a single parked car and a thoughtful adult man standing on the porch of his house, soft warm lighting. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Тихая жилая улица на закате, у дома стоит машина, мужчина задумчиво стоит на крыльце.",
+        "en": "A quiet residential street at dusk with a parked car and a man standing thoughtfully on his porch."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q07",
+      "file": "content-drafts/ch08-license-actions/q-07.json",
+      "prompt": "An adult mentor and a young adult in their twenties sitting at a desk looking at a paper folder together in a bright office. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Двое взрослых сидят за столом и вместе рассматривают папку с бумагами в светлом офисе.",
+        "en": "Two adults sitting at a desk together looking at a paper folder in a bright office."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q08",
+      "file": "content-drafts/ch08-license-actions/q-08.json",
+      "prompt": "An adult Hispanic man seated at a home desk with a laptop, a small plug-in gadget box and car keys beside him, relaxed evening atmosphere. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Мужчина за домашним столом с ноутбуком, небольшим устройством и ключами от машины.",
+        "en": "A man at a home desk with a laptop, a small gadget and car keys beside him."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q09",
+      "file": "content-drafts/ch08-license-actions/q-09.json",
+      "prompt": "An adult woman in work clothes leaving an apartment building with a lunch bag and a work badge lanyard, heading toward a small hatchback in morning light. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Женщина в рабочей одежде выходит из дома с сумкой для обеда и идёт к небольшой машине утром.",
+        "en": "A woman in work clothes leaving her apartment building with a lunch bag, walking toward a small car."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q10",
+      "file": "content-drafts/ch08-license-actions/q-10.json",
+      "prompt": "A friendly adult couple at a cafe table, a glass of water on the table and car keys set aside, a sunny street seen through the window. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Пара за столиком кафе, на столе стакан воды и в стороне ключи от машины, за окном солнечная улица.",
+        "en": "A couple at a cafe table with a glass of water and car keys set aside, sunny street outside."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q11",
+      "file": "content-drafts/ch08-license-actions/q-11.json",
+      "prompt": "An adult man at his kitchen table sorting a stack of paper envelopes and bills with a calculator, calm expression, morning light. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Мужчина за кухонным столом разбирает стопку конвертов и счетов с калькулятором.",
+        "en": "A man at a kitchen table sorting envelopes and bills with a calculator."
+      }
+    },
+    {
+      "id": "ch08-license-actions-q12",
+      "file": "content-drafts/ch08-license-actions/q-12.json",
+      "prompt": "An adult mother and father with a small family-sized minivan parked outside a home, reviewing a folder of papers together on the front steps. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Мама и папа сидят на крыльце дома и вместе просматривают папку с бумагами, рядом семейный минивэн.",
+        "en": "A mother and father on the front steps reviewing a folder of papers next to a family minivan."
+      }
+    },
+    {
+      "id": "ch09-signs-lesson",
+      "file": "content-drafts/ch09-signs/lesson.json",
+      "prompt": "A friendly adult driving instructor and a diverse adult student sitting in a parked car on a sunny suburban street, pointing ahead through the windshield, trees and houses blurred behind. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Инструктор и ученик-взрослый сидят в припаркованной машине на солнечной улице и показывают вперёд сквозь лобовое стекло.",
+        "en": "A driving instructor and an adult student sitting in a parked car on a sunny street, pointing ahead."
+      }
+    },
+    {
+      "id": "ch09-signs-q09",
+      "file": "content-drafts/ch09-signs/q-09.json",
+      "prompt": "An adult Asian woman driver at the wheel on a sunny suburban road, calm and attentive, looking ahead, colourful trees and houses softly blurred outside. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Женщина за рулём на солнечной пригородной улице, внимательно смотрит вперёд.",
+        "en": "A woman driving on a sunny suburban road, calm and attentive, looking ahead."
+      }
+    },
+    {
+      "id": "ch09-signs-q10",
+      "file": "content-drafts/ch09-signs/q-10.json",
+      "prompt": "A middle-aged man driving a car on a country road with green fields and a barn, glancing ahead alertly, golden afternoon light. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Мужчина средних лет ведёт машину по загородной дороге среди зелёных полей, внимательно смотрит вперёд.",
+        "en": "A middle-aged man driving on a country road past green fields and a barn, looking ahead alertly."
+      }
+    },
+    {
+      "id": "ch09-signs-q22",
+      "file": "content-drafts/ch09-signs/q-22.json",
+      "prompt": "A family-aged adult couple in a car on a multi-lane highway with distant city skyline and rolling prairie, the woman holding a paper map, relaxed travel mood. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Пара в машине на многополосной трассе, вдали силуэт города, женщина держит бумажную карту.",
+        "en": "A couple in a car on a multi-lane highway with a distant city skyline, the woman holding a paper map."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-lesson",
+      "file": "content-drafts/ch10-signals-markings/lesson.json",
+      "prompt": "A calm suburban intersection seen from the driver seat through the windshield, hands on the steering wheel, a crossing pedestrian couple and cars waiting, signals out of frame above. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Спокойный перекрёсток глазами водителя: руки на руле, пешеходы переходят дорогу, машины ждут.",
+        "en": "A calm intersection seen from the driver seat, hands on the wheel, pedestrians crossing, cars waiting."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q01",
+      "file": "content-drafts/ch10-signals-markings/q-01.json",
+      "prompt": "A driver approaching a quiet suburban crossroads at dusk, slowing down and looking carefully left and right, warm glowing street lamps, no signals visible. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель подъезжает к тихому перекрёстку на закате, замедляется и смотрит по сторонам.",
+        "en": "A driver approaching a quiet crossroads at dusk, slowing down and looking left and right."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q02",
+      "file": "content-drafts/ch10-signals-markings/q-02.json",
+      "prompt": "A busy city intersection during a power outage, dark shop windows, an adult driver slowing cautiously and looking around while other cars approach slowly, upper area out of frame. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Городской перекрёсток при отключении электричества, водитель осторожно замедляется и смотрит по сторонам.",
+        "en": "A city intersection during a power outage, a driver slowing cautiously and looking around."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q03",
+      "file": "content-drafts/ch10-signals-markings/q-03.json",
+      "prompt": "A two-lane country road seen from the driver seat, an oncoming pickup truck in the distance and a slow tractor ahead, green fields, road surface plain and unmarked. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Двухполосная загородная дорога из машины: впереди медленный трактор, вдали встречный пикап.",
+        "en": "A two-lane country road from the driver seat with a slow tractor ahead and an oncoming pickup in the distance."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q04",
+      "file": "content-drafts/ch10-signals-markings/q-04.json",
+      "prompt": "A railroad crossing area seen from a distance on a sunny afternoon, a stopped car waiting patiently, grassy embankment and utility poles, no signs in the frame. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Железнодорожный переезд издалека в солнечный день, машина терпеливо ждёт, рядом травяная насыпь.",
+        "en": "A railroad crossing seen from a distance on a sunny day with a car waiting patiently."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q05",
+      "file": "content-drafts/ch10-signals-markings/q-05.json",
+      "prompt": "A wide multi-lane urban avenue seen from the driver seat in light traffic, an adult driver checking the mirror and thinking about which lane to use, nothing overhead visible. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Широкий городской проспект глазами водителя, водитель смотрит в зеркало, раздумывая о выборе полосы.",
+        "en": "A wide urban avenue from the driver seat in light traffic, the driver checking the mirror."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q06",
+      "file": "content-drafts/ch10-signals-markings/q-06.json",
+      "prompt": "A long freight train silhouette crossing a prairie landscape at golden hour while a car waits at a safe distance on a country road, no signs or lights shown. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Силуэт длинного товарного поезда на фоне прерии на закате, машина ждёт на безопасном расстоянии.",
+        "en": "A freight train silhouette crossing prairie at sunset while a car waits at a safe distance."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q07",
+      "file": "content-drafts/ch10-signals-markings/q-07.json",
+      "prompt": "An adult driver approaching a quiet intersection in a sedan, easing off the accelerator with a thoughtful expression, tree-lined street, warm light, nothing hanging above the road. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель приближается к тихому перекрёстку, плавно сбрасывает скорость и задумчиво смотрит вперёд.",
+        "en": "A driver approaching a quiet intersection, easing off the accelerator with a thoughtful expression."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q08",
+      "file": "content-drafts/ch10-signals-markings/q-08.json",
+      "prompt": "A driver in a small car waiting at a suburban corner, turning head to look over the right shoulder for pedestrians and cross traffic, sunny day, houses in background. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель в небольшой машине на углу пригородной улицы оглядывается через правое плечо, проверяя пешеходов.",
+        "en": "A driver in a small car at a suburban corner looking over the right shoulder for pedestrians."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q09",
+      "file": "content-drafts/ch10-signals-markings/q-09.json",
+      "prompt": "A driver slowing down at a quiet small-town crossroads, hands on the wheel and eyes scanning left and right, soft evening light, no signals visible. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель замедляется на тихом перекрёстке маленького городка, оглядывая дорогу в обе стороны.",
+        "en": "A driver slowing at a quiet small-town crossroads, scanning left and right."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q10",
+      "file": "content-drafts/ch10-signals-markings/q-10.json",
+      "prompt": "A driver in a minivan waiting to turn left at a suburban intersection, looking carefully at oncoming cars approaching in the distance, sunny afternoon, overhead area out of frame. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель минивэна готовится повернуть налево на перекрёстке и смотрит на приближающиеся встречные машины.",
+        "en": "A minivan driver preparing to turn left, watching oncoming cars in the distance."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q11",
+      "file": "content-drafts/ch10-signals-markings/q-11.json",
+      "prompt": "An adult driver steering gently into a left curve at a suburban crossroads, pedestrians waiting on the sidewalk, sunny and cheerful. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель плавно поворачивает налево на пригородном перекрёстке, на тротуаре ждут пешеходы.",
+        "en": "A driver gently turning left at a suburban crossroads while pedestrians wait on the sidewalk."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q12",
+      "file": "content-drafts/ch10-signals-markings/q-12.json",
+      "prompt": "A four-lane road seen from a driver seat, two cars travelling side by side in the same direction on smooth plain asphalt, driver checking the mirror, calm sunny day. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Четырёхполосная дорога из машины, два автомобиля едут рядом в одном направлении, водитель смотрит в зеркало.",
+        "en": "A four-lane road with two cars travelling side by side in the same direction, driver checking the mirror."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q13",
+      "file": "content-drafts/ch10-signals-markings/q-13.json",
+      "prompt": "A winding two-lane rural road over rolling hills seen from a driver seat, a slow truck ahead and an oncoming car far away, plain asphalt, golden light. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Извилистая сельская дорога по холмам, впереди медленный грузовик, вдали встречная машина.",
+        "en": "A winding rural road over hills with a slow truck ahead and an oncoming car far away."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q14",
+      "file": "content-drafts/ch10-signals-markings/q-14.json",
+      "prompt": "A wide suburban street with shops on both sides, a driver in a hatchback carefully slowing down and checking mirrors before pulling toward the middle of the road, smooth plain asphalt. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Широкая улица с магазинами, водитель хэтчбека осторожно замедляется и смотрит в зеркала.",
+        "en": "A wide shop-lined street with a hatchback driver slowing carefully and checking the mirrors."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q15",
+      "file": "content-drafts/ch10-signals-markings/q-15.json",
+      "prompt": "A driver stopped at the edge of a suburban intersection with crossing pedestrians in front of the car, driver looking out the window attentively, sunny day, ground detail plain. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель остановился на краю перекрёстка, перед машиной идут пешеходы, он внимательно смотрит в окно.",
+        "en": "A driver stopped at an intersection edge with pedestrians crossing in front, looking out attentively."
+      }
+    },
+    {
+      "id": "ch10-signals-markings-q16",
+      "file": "content-drafts/ch10-signals-markings/q-16.json",
+      "prompt": "A railroad crossing area seen from a safe distance, a patient adult driver waiting in a car with a long train silhouette passing in the background, calm countryside evening. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Железнодорожный переезд издалека: водитель терпеливо ждёт в машине, на фоне проходит длинный поезд.",
+        "en": "A railroad crossing from a distance with a patient driver waiting while a long train passes."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-lesson",
+      "file": "content-drafts/ch11-safe-driving/lesson.json",
+      "prompt": "A confident adult woman driver on a sunny suburban road checking the rearview mirror, keeping a comfortable distance behind another car, trees and houses along the road. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Уверенная женщина за рулём на солнечной улице смотрит в зеркало заднего вида и держит дистанцию до машины впереди.",
+        "en": "A confident woman driver checking the rearview mirror while keeping a comfortable distance behind another car."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q01",
+      "file": "content-drafts/ch11-safe-driving/q-01.json",
+      "prompt": "Two cars driving on a sunny road with a comfortable gap between them, an adult driver counting calmly on fingers while looking ahead, a tree trunk by the roadside. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Две машины едут по солнечной дороге с комфортной дистанцией, водитель спокойно считает на пальцах, глядя вперёд.",
+        "en": "Two cars with a comfortable gap on a sunny road, the driver counting on fingers while looking ahead."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q02",
+      "file": "content-drafts/ch11-safe-driving/q-02.json",
+      "prompt": "A car driving on a rain-wet suburban road, the adult driver gripping the steering wheel calmly with focused eyes, raindrops on windshield, soft grey-blue and warm tones. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Машина на мокрой от дождя дороге, водитель спокойно и сосредоточенно держит руль, на стекле капли дождя.",
+        "en": "A car on a rain-wet road, the driver gripping the wheel calmly and focused, raindrops on the windshield."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q03",
+      "file": "content-drafts/ch11-safe-driving/q-03.json",
+      "prompt": "A car driving on a rainy afternoon road with glowing lights and wipers sweeping the windshield, adult driver visible and relaxed, puddles reflecting warm lights. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Машина едет по дождливой дороге, дворники смахивают воду с лобового стекла, водитель спокоен.",
+        "en": "A car driving on a rainy road with wipers sweeping the windshield and a relaxed driver."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q04",
+      "file": "content-drafts/ch11-safe-driving/q-04.json",
+      "prompt": "A calm adult man driver on a suburban road gripping the steering wheel firmly with both hands, hazy sunny background, car stable and straight, focused expression. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Спокойный мужчина крепко держит руль обеими руками, машина едет ровно по пригородной дороге.",
+        "en": "A calm man firmly gripping the steering wheel with both hands as the car drives straight."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q05",
+      "file": "content-drafts/ch11-safe-driving/q-05.json",
+      "prompt": "A sedan pulled over on the wide shoulder of a multi-lane highway at daytime, an adult woman standing safely beside it near the guardrail checking her phone, other cars passing far away. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Седан остановился на широкой обочине трассы, женщина стоит рядом у ограждения и смотрит в телефон.",
+        "en": "A sedan on the wide highway shoulder with a woman standing safely near the guardrail checking her phone."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q06",
+      "file": "content-drafts/ch11-safe-driving/q-06.json",
+      "prompt": "A car driving fast down a long straight road, side by side with a second car moving slowly, giving a sense of speed difference, open sunny landscape, flat colourful style. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Две машины едут по прямой дороге, одна быстро, другая медленно, вокруг открытый солнечный пейзаж.",
+        "en": "Two cars on a long straight road, one fast and one slow, in an open sunny landscape."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q07",
+      "file": "content-drafts/ch11-safe-driving/q-07.json",
+      "prompt": "A driver glancing in the rearview mirror at a pickup truck following closely behind on a suburban road, calm expression, sunny afternoon, trees lining the street. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель смотрит в зеркало заднего вида на пикап, едущий вплотную сзади, лицо спокойное.",
+        "en": "A driver glancing in the rearview mirror at a pickup truck following closely behind."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q08",
+      "file": "content-drafts/ch11-safe-driving/q-08.json",
+      "prompt": "A car driving on a wet road through a heavy rain shower with spray rising from the tires, adult driver calm and attentive with hands steady on the wheel, soft light. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Машина едет по мокрой дороге под ливнем, из-под колёс брызги, водитель спокоен и внимателен.",
+        "en": "A car driving through heavy rain with spray from the tires and a calm, attentive driver."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q09",
+      "file": "content-drafts/ch11-safe-driving/q-09.json",
+      "prompt": "A cautious adult driver stopped at the edge of a road covered with a wide shallow flood after heavy rain, looking at the water from the car, cloudy sky with a bit of sunshine. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель остановился у края дороги, залитой водой после сильного дождя, и смотрит на воду из машины.",
+        "en": "A driver stopped at the edge of a road flooded after heavy rain, looking at the water."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q10",
+      "file": "content-drafts/ch11-safe-driving/q-10.json",
+      "prompt": "A car moving slowly on a road shrouded in dense soft fog, an adult driver leaning slightly forward and peering ahead, pale grey-white atmosphere with warm car glow. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Машина медленно едет по дороге в густом тумане, водитель подался вперёд и вглядывается вперёд.",
+        "en": "A car moving slowly through dense fog, the driver leaning forward and peering ahead."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q11",
+      "file": "content-drafts/ch11-safe-driving/q-11.json",
+      "prompt": "A car crossing an overpass on a frosty winter morning, shaded areas with a sparkle of frost along the roadside, adult driver cautious, long blue shadows and warm sunrise. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Машина едет по эстакаде морозным зимним утром, на обочине иней, водитель осторожен.",
+        "en": "A car crossing an overpass on a frosty winter morning, with frost along the roadside and a cautious driver."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q12",
+      "file": "content-drafts/ch11-safe-driving/q-12.json",
+      "prompt": "An adult driver in a car on a multi-lane expressway, calmly looking ahead at an exit ramp curving away to the right while keeping in the lane, city skyline in the distance. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель на скоростной магистрали спокойно смотрит на съезд, уходящий вправо, на горизонте город.",
+        "en": "A driver on an expressway calmly looking ahead at an exit ramp curving to the right."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q13",
+      "file": "content-drafts/ch11-safe-driving/q-13.json",
+      "prompt": "A car with its right wheels on a gravel shoulder beside a straight country road, the adult driver calm with both hands on the wheel, green fields and warm sunlight. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Машина правыми колёсами на гравийной обочине загородной дороги, водитель спокоен, обе руки на руле.",
+        "en": "A car with right wheels on a gravel shoulder, the driver calm with both hands on the wheel."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q14",
+      "file": "content-drafts/ch11-safe-driving/q-14.json",
+      "prompt": "Close view of an adult driver foot near the pedals of a car footwell and a hand on the gear shift, focused calm posture, warm dashboard light, no text on dashboard. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Крупный план: нога водителя у педалей и рука на рычаге коробки передач, спокойная сосредоточенная поза.",
+        "en": "Close view of a driver foot near the pedals and a hand on the gear shift, calm and focused."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q15",
+      "file": "content-drafts/ch11-safe-driving/q-15.json",
+      "prompt": "An adult driver keeping calm in a sedan, taking a slow deep breath with hands on the wheel, another car ahead visible through the windshield changing lanes quickly, sunny suburban road. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Водитель в седане сохраняет спокойствие и делает глубокий вдох, впереди другая машина резко перестраивается.",
+        "en": "A driver staying calm and taking a deep breath while another car ahead changes lanes quickly."
+      }
+    },
+    {
+      "id": "ch11-safe-driving-q16",
+      "file": "content-drafts/ch11-safe-driving/q-16.json",
+      "prompt": "A parked car at the side of a quiet suburban road after a minor mishap, an adult woman seated calmly inside with hands in her lap, tall utility poles with sagging wires nearby, soft light. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Машина стоит у тихой дороги, внутри спокойно сидит женщина, рядом столбы с провисшими проводами.",
+        "en": "A parked car beside a quiet road with a woman sitting calmly inside and utility poles with sagging wires nearby."
+      }
+    },
+    {
+      "id": "ch12-equipment-lesson",
+      "file": "content-drafts/ch12-equipment/lesson.json",
+      "prompt": "A friendly adult mechanic and a customer standing beside an open-hood sedan in a bright garage, pointing at the headlights, tools tidy on a wall board. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Дружелюбный механик и клиент у седана с поднятым капотом в светлом гараже показывают на фары.",
+        "en": "A friendly mechanic and a customer beside a sedan with the hood open, pointing at the headlights."
+      }
+    },
+    {
+      "id": "ch12-equipment-q01",
+      "file": "content-drafts/ch12-equipment/q-01.json",
+      "prompt": "An adult woman sitting in a driver seat of a parked car with her foot gently pressing the brake pedal, close cropped view, sunny street outside. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Женщина в водительском кресле стоящей машины мягко нажимает ногой на педаль тормоза, на улице солнечно.",
+        "en": "A woman in a parked car driver seat gently pressing the brake pedal on a sunny street."
+      }
+    },
+    {
+      "id": "ch12-equipment-q02",
+      "file": "content-drafts/ch12-equipment/q-02.json",
+      "prompt": "A sedan driving on a suburban street at twilight with warm glowing headlights on, golden sunset sky behind rooftops, adult driver visible and relaxed. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Седан едет по пригородной улице в сумерках с включёнными фарами, небо золотое от заката, водитель расслаблен.",
+        "en": "A sedan driving at twilight with headlights on under a golden sunset sky and a relaxed driver."
+      }
+    },
+    {
+      "id": "ch12-equipment-q03",
+      "file": "content-drafts/ch12-equipment/q-03.json",
+      "prompt": "Two cars passing each other on a dark two-lane country road at night, the nearer car with softly lowered beams lighting the road, stars above, friendly colours. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Две машины встречаются на ночной загородной дороге, ближняя едет с мягким ближним светом, вверху звёзды.",
+        "en": "Two cars passing on a dark country road at night, one with softly lowered beams, stars above."
+      }
+    },
+    {
+      "id": "ch12-equipment-q04",
+      "file": "content-drafts/ch12-equipment/q-04.json",
+      "prompt": "The interior of a car seen from the back seat, an adult driver looking forward at the road with hands on the wheel, a phone mount and a small dash screen showing only abstract shapes. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Салон машины со стороны заднего сиденья: водитель смотрит на дорогу, руки на руле, на приборной панели небольшой экран.",
+        "en": "The inside of a car from the back seat, the driver looking at the road with hands on the wheel."
+      }
+    },
+    {
+      "id": "ch12-equipment-q05",
+      "file": "content-drafts/ch12-equipment/q-05.json",
+      "prompt": "A smiling adult man in a car pressing the centre of the steering wheel, sound waves drawn as soft colourful arcs radiating from the car toward a distant pedestrian, quiet street. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Улыбающийся мужчина в машине нажимает на центр руля, от машины к далёкому пешеходу расходятся цветные дуги звука.",
+        "en": "A smiling man pressing the steering wheel centre, colourful sound arcs radiating toward a distant pedestrian."
+      }
+    },
+    {
+      "id": "ch12-equipment-q06",
+      "file": "content-drafts/ch12-equipment/q-06.json",
+      "prompt": "The rear of a passenger car parked at dusk in a driveway with soft red glowing lamps on the back, an adult couple loading groceries into the trunk, no licence plate text. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Задняя часть легкового автомобиля в сумерках с мягко светящимися красными огнями, пара загружает продукты в багажник.",
+        "en": "The rear of a car at dusk with softly glowing red lamps while a couple loads groceries into the trunk."
+      }
+    },
+    {
+      "id": "ch12-equipment-q07",
+      "file": "content-drafts/ch12-equipment/q-07.json",
+      "prompt": "A close view of a car windshield with a soft light-tinted band at the very top edge and sunny road beyond, an adult driver seen through it wearing sunglasses, relaxed. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Лобовое стекло машины с лёгкой тонировкой у верхнего края, за ним солнечная дорога и водитель в солнцезащитных очках.",
+        "en": "A car windshield with a light tinted band at the top edge and a driver in sunglasses behind it."
+      }
+    },
+    {
+      "id": "ch12-equipment-q08",
+      "file": "content-drafts/ch12-equipment/q-08.json",
+      "prompt": "A pickup truck driving on a sunny road with a long wooden plank load extending backward from the truck bed, adult driver glancing in the side mirror, rolling green hills. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Пикап едет по солнечной дороге, из кузова далеко назад выступают длинные доски, водитель смотрит в боковое зеркало.",
+        "en": "A pickup truck on a sunny road with long planks sticking out behind, driver glancing in the mirror."
+      }
+    },
+    {
+      "id": "ch12-equipment-q09",
+      "file": "content-drafts/ch12-equipment/q-09.json",
+      "prompt": "A neat family car parked in a driveway on a bright morning with an adult man wiping the clean hood with a cloth, simple unadorned roof and bumper, friendly neighbourhood. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Аккуратная семейная машина у дома ярким утром, мужчина протирает капот тряпкой, крыша и бампер без украшений.",
+        "en": "A neat family car in a driveway on a bright morning while a man wipes the hood with a cloth."
+      }
+    },
+    {
+      "id": "ch12-equipment-q10",
+      "file": "content-drafts/ch12-equipment/q-10.json",
+      "prompt": "The rear of a hatchback at night parked on a suburban street with a soft white glow behind it illuminating the asphalt, an adult woman carefully reversing, warm tones. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Задняя часть хэтчбека ночью на улице, позади мягкий белый свет освещает асфальт, женщина осторожно сдаёт назад.",
+        "en": "The rear of a hatchback at night with a soft white glow behind it as a woman reverses carefully."
+      }
+    },
+    {
+      "id": "ch12-equipment-q11",
+      "file": "content-drafts/ch12-equipment/q-11.json",
+      "prompt": "A pickup truck parked on a quiet road at dusk with one small side-mounted spotlight shining softly onto a nearby field, an adult man standing beside it with a thermos. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Пикап стоит на тихой дороге в сумерках, небольшой боковой прожектор освещает поле, рядом стоит мужчина с термосом.",
+        "en": "A pickup truck at dusk with a small spotlight lighting a field and a man holding a thermos."
+      }
+    },
+    {
+      "id": "ch12-equipment-q12",
+      "file": "content-drafts/ch12-equipment/q-12.json",
+      "prompt": "A diverse adult couple sitting calmly in a sedan on a sunny open highway, small radio-wave arcs in the sky, relaxed expressions. Flat friendly colourful vector illustration, warm light, no text, no letters, no numbers.",
+      "alt": {
+        "ru": "Пара спокойно едет в седане по открытой трассе, в небе мягкие радиоволны, оба расслаблены.",
+        "en": "A couple riding calmly in a sedan on an open highway with soft radio waves in the sky."
+      }
+    }
+  ]
+}

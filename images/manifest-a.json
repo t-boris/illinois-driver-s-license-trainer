@@ -1,0 +1,733 @@
+{
+  "items": [
+    {
+      "id": "ch03-under-21-lesson",
+      "file": "content-drafts/ch03-under-21/lesson.json",
+      "prompt": "A young adult driver in a compact car beside a smiling experienced adult supervisor in the passenger seat, quiet suburban street with maple trees and flat Midwestern horizon. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Молодой водитель за рулём, рядом улыбающийся опытный взрослый на пассажирском сиденье, тихая пригородная улица.",
+        "en": "A young adult driver at the wheel, a smiling experienced adult beside them, on a quiet suburban street."
+      }
+    },
+    {
+      "id": "ch03-under-21-q01",
+      "file": "content-drafts/ch03-under-21/q-01.json",
+      "prompt": "Adult supervisor sitting in the front passenger seat of a parked sedan, calmly coaching a new driver behind the wheel in an empty parking lot. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Взрослый наставник на переднем сиденье объясняет что-то новичку за рулём на пустой парковке.",
+        "en": "An adult coach in the passenger seat talks to a new driver in an empty parking lot."
+      }
+    },
+    {
+      "id": "ch03-under-21-q02",
+      "file": "content-drafts/ch03-under-21/q-02.json",
+      "prompt": "Young adult driver at the wheel of a parked car, a smartphone resting in a dashboard holder out of use, hands on steering wheel, daytime city street. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Молодой водитель держит руль, смартфон лежит в держателе на панели, дневная городская улица.",
+        "en": "A young driver holds the steering wheel while a smartphone rests in a dashboard holder on a city street."
+      }
+    },
+    {
+      "id": "ch03-under-21-q03",
+      "file": "content-drafts/ch03-under-21/q-03.json",
+      "prompt": "Young adult at a desk looking thoughtfully at a calendar-style planner and a car key, bright apartment with a Chicago skyline view through the window. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Молодой человек за столом задумчиво смотрит на планер и ключ от машины, за окном панорама Чикаго.",
+        "en": "A young person at a desk looks at a planner and a car key with a Chicago skyline outside."
+      }
+    },
+    {
+      "id": "ch03-under-21-q04",
+      "file": "content-drafts/ch03-under-21/q-04.json",
+      "prompt": "Adult learner sitting at a table with a laptop and notebook in a bright classroom, an instructor smiling nearby, a toy-sized car model on the desk. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Взрослый ученик с ноутбуком и тетрадью в светлом классе, рядом улыбается преподаватель.",
+        "en": "An adult learner with a laptop and notebook in a bright classroom while an instructor smiles nearby."
+      }
+    },
+    {
+      "id": "ch03-under-21-q05",
+      "file": "content-drafts/ch03-under-21/q-05.json",
+      "prompt": "Diverse group of adults in a classroom listening to an instructor next to a large illustrated car-and-road diagram without any writing, plus a driving simulator. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Группа взрослых в классе слушает инструктора рядом с учебной схемой машины и дороги, в углу тренажёр.",
+        "en": "Adults in a classroom listen to an instructor beside an illustrated car diagram with a driving simulator nearby."
+      }
+    },
+    {
+      "id": "ch03-under-21-q06",
+      "file": "content-drafts/ch03-under-21/q-06.json",
+      "prompt": "A young driver holding an instruction permit card, turning an hourglass in one hand, standing beside a parked car in a driveway. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Молодой человек с карточкой разрешения в руке и песочными часами стоит у машины на подъездной дорожке.",
+        "en": "A young person holds a permit card and an hourglass beside a parked car in a driveway."
+      }
+    },
+    {
+      "id": "ch03-under-21-q07",
+      "file": "content-drafts/ch03-under-21/q-07.json",
+      "prompt": "A supervising adult and a learner driver in a car at dusk on a quiet road, headlights glowing, deep blue evening sky with a crescent moon over cornfields. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Взрослый и ученик в машине в сумерках на тихой дороге, фары горят, над полями полумесяц.",
+        "en": "A supervisor and a learner drive at dusk on a quiet road with headlights on and a crescent moon above."
+      }
+    },
+    {
+      "id": "ch03-under-21-q08",
+      "file": "content-drafts/ch03-under-21/q-08.json",
+      "prompt": "A quiet suburban street late on a weekend night, a car parked at a house, moon high above, warm glow in the windows, a young adult looking at a wristwatch. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Тихая пригородная улица поздним вечером, у дома стоит машина, в окнах тёплый свет, молодой человек смотрит на часы.",
+        "en": "A quiet suburban street at night with a parked car and a young person checking a wristwatch."
+      }
+    },
+    {
+      "id": "ch03-under-21-q09",
+      "file": "content-drafts/ch03-under-21/q-09.json",
+      "prompt": "Young adult driver in a small car with two friends of different ethnicities in the back seat, laughing, sunny suburban road with green lawns. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Молодой водитель с двумя друзьями на заднем сиденье смеются в машине на солнечной пригородной дороге.",
+        "en": "A young driver with two friends laughing in the back seat on a sunny suburban road."
+      }
+    },
+    {
+      "id": "ch03-under-21-q10",
+      "file": "content-drafts/ch03-under-21/q-10.json",
+      "prompt": "A young adult sitting at a courthouse-style bench reading a paper folder, a calm hallway with large windows and a scale-of-justice statue silhouette. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Молодой человек в светлом коридоре здания суда читает бумаги, на заднем плане силуэт статуи правосудия.",
+        "en": "A young person reads papers in a bright courthouse hallway with a justice statue silhouette behind."
+      }
+    },
+    {
+      "id": "ch03-under-21-q11",
+      "file": "content-drafts/ch03-under-21/q-11.json",
+      "prompt": "Friends at an outdoor table with soft drinks and a rideshare phone app glowing, a parked car keyed off in the background, summer evening. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Друзья за столиком с безалкогольными напитками, на телефоне вызов такси, вдалеке припаркованная машина.",
+        "en": "Friends at an outdoor table with soft drinks and a rideshare app on a phone, a car parked nearby."
+      }
+    },
+    {
+      "id": "ch03-under-21-q12",
+      "file": "content-drafts/ch03-under-21/q-12.json",
+      "prompt": "A parent and a teenager-aged young adult at a kitchen table together reviewing a document and a car key, warm home interior, friendly conversation. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Родитель и молодой человек за кухонным столом вместе читают документ, рядом ключ от машины.",
+        "en": "A parent and a young adult at a kitchen table review a document next to a car key."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-lesson",
+      "file": "content-drafts/ch04-traffic-laws/lesson.json",
+      "prompt": "Wide Chicago-style street scene with cars flowing calmly, a pedestrian on the sidewalk, a cyclist at the edge and a yellow school bus in the distance, sunny and orderly. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Спокойное движение на чикагской улице: машины, пешеход на тротуаре, велосипедист и жёлтый школьный автобус вдали.",
+        "en": "A calm Chicago street with cars, a pedestrian, a cyclist and a yellow school bus in the distance."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q01",
+      "file": "content-drafts/ch04-traffic-laws/q-01.json",
+      "prompt": "Friendly downtown Illinois neighbourhood street with shops, parked cars and a few cars driving slowly, pedestrians strolling on sidewalks, sunny afternoon. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Дружелюбная городская улица с магазинами и неспешно едущими машинами, по тротуарам гуляют люди.",
+        "en": "A friendly town street with shops, slow cars and pedestrians strolling on sidewalks."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q02",
+      "file": "content-drafts/ch04-traffic-laws/q-02.json",
+      "prompt": "Aerial view of a quiet four-way intersection in a Chicago neighbourhood, with several cars of different colours arriving from different directions at the same moment. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Вид сверху на перекрёсток в чикагском районе, к нему одновременно подъезжают несколько машин с разных сторон.",
+        "en": "Aerial view of a neighbourhood intersection with several cars arriving from different directions at once."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q03",
+      "file": "content-drafts/ch04-traffic-laws/q-03.json",
+      "prompt": "Two cars on a rural two-lane Illinois road, one overtaking the other with the straight flat farmland road ahead stretching to the horizon, bright morning. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Одна машина обгоняет другую на двухполосной сельской дороге среди ровных полей, утро.",
+        "en": "One car overtakes another on a rural two-lane road across flat farmland in the morning."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q04",
+      "file": "content-drafts/ch04-traffic-laws/q-04.json",
+      "prompt": "Diverse adults fastening seat belts inside a car, one in the driver seat and another in the passenger seat, a person buckling in the back seat, cheerful mood. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Разные взрослые пристёгивают ремни в машине: водитель, пассажир спереди и сзади, весёлое настроение.",
+        "en": "Adults fasten seat belts in a car, front and back seats, with a cheerful mood."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q05",
+      "file": "content-drafts/ch04-traffic-laws/q-05.json",
+      "prompt": "Driver in a car with a smartphone resting in a stand and one hand on the steering wheel, glancing at a calm road, daytime suburban setting. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Водитель держит руль, телефон закреплён в подставке на панели, спокойная дорога в пригороде.",
+        "en": "A driver with a phone in a dash stand holds the steering wheel on a calm suburban road."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q06",
+      "file": "content-drafts/ch04-traffic-laws/q-06.json",
+      "prompt": "Close-up of a car turning on a city street with its amber blinker glowing softly, road ahead with a side street opening to the right, sunny day. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Машина на городской улице включила жёлтый поворотник, справа виден боковой проезд, солнечный день.",
+        "en": "A car with a softly glowing amber turn light on a city street with a side street ahead."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q07",
+      "file": "content-drafts/ch04-traffic-laws/q-07.json",
+      "prompt": "A yellow school bus stopped on a quiet road with its flashing lights glowing and a folded side arm, a car waiting patiently a short distance behind, autumn trees. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Жёлтый школьный автобус остановился на тихой дороге с мигающими огнями, позади терпеливо ждёт машина, осень.",
+        "en": "A stopped yellow school bus with flashing lights and a car waiting patiently behind it, autumn trees."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q08",
+      "file": "content-drafts/ch04-traffic-laws/q-08.json",
+      "prompt": "A red fire hydrant on a city sidewalk beside a curb with a few parked cars along the street at a distance, sunny afternoon, neat Chicago block. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Красный пожарный гидрант на тротуаре у бордюра, вдали вдоль улицы припаркованы машины, солнечно.",
+        "en": "A red fire hydrant on a sidewalk beside the curb, with parked cars farther along the street."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q09",
+      "file": "content-drafts/ch04-traffic-laws/q-09.json",
+      "prompt": "A police car parked behind a stopped civilian car on a roadside shoulder, calm officer walking toward the driver window, driver with hands visible on the steering wheel. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Полицейская машина позади остановленного автомобиля на обочине, офицер спокойно идёт к окну водителя.",
+        "en": "A police car stopped behind a civilian car on the shoulder, an officer walking calmly to the driver."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q10",
+      "file": "content-drafts/ch04-traffic-laws/q-10.json",
+      "prompt": "A driver at the roadside window receiving a paper ticket folder from a polite police officer, both calm, a blank paper and a pen, flat Illinois road in the background. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Водитель у окна машины получает бумагу от вежливого полицейского, оба спокойны, на фоне ровная дорога.",
+        "en": "A driver at a car window receives a paper from a polite police officer on a flat road."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q11",
+      "file": "content-drafts/ch04-traffic-laws/q-11.json",
+      "prompt": "A mature adult driver and a young adult driver both smiling in separate cars on a sunny road, each with a small earbud and a phone on the dashboard. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Двое водителей разного возраста улыбаются в отдельных машинах на солнечной дороге, у каждого гарнитура.",
+        "en": "Two drivers of different ages smile in separate cars with earpieces and phones on the dashboards."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q12",
+      "file": "content-drafts/ch04-traffic-laws/q-12.json",
+      "prompt": "A parent buckling a toddler into a rear-facing car seat in the back of a car, warm morning in a driveway, a calm adult caregiver is the focus. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Родитель пристёгивает малыша в детском кресле лицом назад на заднем сиденье, тёплое утро у дома.",
+        "en": "A parent secures a toddler in a rear-facing car seat in the back of a car in a driveway."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q13",
+      "file": "content-drafts/ch04-traffic-laws/q-13.json",
+      "prompt": "A school zone street on a sunny morning with a crossing guard in a bright vest guiding diverse adult pedestrians, cars driving along the street, school building in background. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Улица у школы солнечным утром, регулировщик в яркой жилетке помогает пешеходам, машины ждут, на фоне здание школы.",
+        "en": "A school-area street where a crossing guard in a bright vest helps walkers while cars wait."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q14",
+      "file": "content-drafts/ch04-traffic-laws/q-14.json",
+      "prompt": "A long straight interstate in flat Illinois with several cars and a truck moving smoothly under a wide blue sky, farmland on both sides, blurred distance. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Прямая широкая магистраль среди ровных полей Иллинойса, машины и грузовик плавно едут под голубым небом.",
+        "en": "A wide straight interstate through flat farmland with cars and a truck moving smoothly."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q15",
+      "file": "content-drafts/ch04-traffic-laws/q-15.json",
+      "prompt": "A highway work zone with orange cones, a yellow excavator parked behind a barrier, and cars driving carefully past, bright afternoon, workers absent from view. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Дорожные работы: оранжевые конусы, экскаватор за ограждением, машины осторожно проезжают, яркий день.",
+        "en": "A road work zone with orange cones, an excavator behind a barrier and cars passing carefully."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q16",
+      "file": "content-drafts/ch04-traffic-laws/q-16.json",
+      "prompt": "A tow truck driver and a police car with flashing lights stopped on the roadside shoulder beside a car, other cars moving past farther out in the lane. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Эвакуатор и полицейская машина с мигалками на обочине рядом с автомобилем, другие машины проезжают подальше.",
+        "en": "A police car with flashing lights and a tow truck on the shoulder beside a car, traffic passing."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q17",
+      "file": "content-drafts/ch04-traffic-laws/q-17.json",
+      "prompt": "A slow funeral procession of cars with soft headlights on a quiet street under a grey-gold sky, a respectful mood, other drivers waiting at the side. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Неспешная траурная колонна машин с включёнными фарами на тихой улице, другие водители ждут в стороне.",
+        "en": "A slow procession of cars with headlights on along a quiet street while other drivers wait."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q18",
+      "file": "content-drafts/ch04-traffic-laws/q-18.json",
+      "prompt": "A pedestrian with a backpack stepping onto a crossing between two sides of a city street while a car drives along the street in the distance, sunny day. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Пешеход с рюкзаком выходит на переход через городскую улицу, вдали медленно подъезжает машина.",
+        "en": "A pedestrian with a backpack steps onto a crossing as a car approaches slowly in the distance."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q19",
+      "file": "content-drafts/ch04-traffic-laws/q-19.json",
+      "prompt": "A cyclist in a helmet riding along the edge of a city road next to a car driving a short distance behind, tree-lined Chicago street, bright afternoon. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Велосипедист в шлеме едет по краю дороги, позади на расстоянии движется машина, улица с деревьями.",
+        "en": "A cyclist in a helmet rides at the edge of a road with a car driving behind."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q20",
+      "file": "content-drafts/ch04-traffic-laws/q-20.json",
+      "prompt": "A road-work corridor on a county highway with orange barrels lining the lane, a line of cars moving slowly in single file, flat horizon, afternoon light. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Участок дорожных работ с оранжевыми бочками, колонна машин медленно едет по одной полосе, ровный горизонт.",
+        "en": "A road-work corridor with orange barrels and cars moving slowly in a single line."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q21",
+      "file": "content-drafts/ch04-traffic-laws/q-21.json",
+      "prompt": "A four-lane interstate with a few cars in the right lane and a single faster car approaching from behind in the left lane, flat prairie around, sunny day. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Многополосная магистраль, несколько машин едут справа, слева сзади приближается быстрая машина, вокруг прерия.",
+        "en": "A multi-lane interstate with cars in the right lane and one faster car approaching in the left lane."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q22",
+      "file": "content-drafts/ch04-traffic-laws/q-22.json",
+      "prompt": "A circular roundabout with a green centre island, cars of different colours entering and moving around it smoothly, viewed from above in suburban Illinois. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Круговой перекрёсток с зелёным островком, машины разных цветов плавно въезжают и объезжают его, вид сверху.",
+        "en": "A roundabout with a green centre island and colourful cars moving around it, seen from above."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q23",
+      "file": "content-drafts/ch04-traffic-laws/q-23.json",
+      "prompt": "A railroad crossing at a quiet rural road with an approaching freight train blurred in the distance, a car driving toward the crossing, golden sunset prairie. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Железнодорожный переезд на сельской дороге, вдали размытый поезд, машина остановилась на спокойном расстоянии, закат.",
+        "en": "A rural railroad crossing with a freight train in the distance and a car stopped at a safe distance."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q24",
+      "file": "content-drafts/ch04-traffic-laws/q-24.json",
+      "prompt": "A car parked on a steep downhill residential street by the curb, the front wheel angled toward the kerb, sunny Midwestern neighbourhood with a gentle slope. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Машина припаркована у бордюра на уклоне вниз, переднее колесо повёрнуто, солнечный жилой квартал.",
+        "en": "A car parked at the curb on a gentle downhill residential street with the front wheel angled."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-lesson",
+      "file": "content-drafts/ch05-sharing-road/lesson.json",
+      "prompt": "A busy but friendly city street where a car, a cyclist, a motorcyclist, a pedestrian with a guide dog, and a large truck all share the road calmly in sunshine. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Дружелюбная улица, где машина, велосипедист, мотоциклист, пешеход с собакой-поводырём и грузовик спокойно делят дорогу.",
+        "en": "A friendly street where a car, cyclist, motorcyclist, pedestrian with a guide dog and a truck share the road."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q01",
+      "file": "content-drafts/ch05-sharing-road/q-01.json",
+      "prompt": "A pedestrian with a white cane and a guide dog standing at a curb on a city sidewalk, a car approaching slowly in the distance, soft morning light. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Пешеход с белой тростью и собакой-поводырём на краю тротуара, вдали медленно подъезжает машина.",
+        "en": "A pedestrian with a white cane and guide dog at a curb as a car approaches slowly."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q02",
+      "file": "content-drafts/ch05-sharing-road/q-02.json",
+      "prompt": "A cyclist in a bright helmet riding in a city bike lane on a leafy Chicago street, a parked sedan and a passing car some metres away. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Велосипедист в яркой каске едет по велодорожке на зелёной улице Чикаго, неподалёку проезжает машина.",
+        "en": "A helmeted cyclist rides in a city bike lane on a leafy street while a car passes nearby."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q03",
+      "file": "content-drafts/ch05-sharing-road/q-03.json",
+      "prompt": "A motorcyclist with a helmet riding on an open flat road, a car in the lane behind at a comfortable gap, big blue sky over farmland. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Мотоциклист в шлеме едет по открытой дороге, позади в той же полосе машина, голубое небо и поля.",
+        "en": "A helmeted motorcyclist on an open road with a car behind in the same lane."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q04",
+      "file": "content-drafts/ch05-sharing-road/q-04.json",
+      "prompt": "A motorcycle and a car in the same wide lane on a quiet suburban road seen from behind, sunshine and tall trees along the roadside. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Мотоцикл и автомобиль на широкой полосе пригородной дороги, вид сзади, солнце и деревья вдоль дороги.",
+        "en": "A motorcycle and a car on a wide suburban road seen from behind under tall trees."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q05",
+      "file": "content-drafts/ch05-sharing-road/q-05.json",
+      "prompt": "A four-lane highway with a car parked on the shoulder using glowing hazard lights, a driver standing safely beside it, other cars passing in the far lanes. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Четырёхполосное шоссе, на обочине машина с аварийными огнями, водитель стоит рядом, другие машины едут в дальних полосах.",
+        "en": "A broken-down car on a highway shoulder with hazard lights and a driver beside it, traffic passing."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q06",
+      "file": "content-drafts/ch05-sharing-road/q-06.json",
+      "prompt": "A pedestrian in a casual jacket walking across a quiet city street away from any crossing, a car stopped patiently on the road, calm mood. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Пешеход в куртке идёт через тихую улицу вдали от перехода, машина спокойно ждёт на дороге.",
+        "en": "A pedestrian walks across a quiet street away from a crossing while a car waits on the road."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q07",
+      "file": "content-drafts/ch05-sharing-road/q-07.json",
+      "prompt": "A motorcyclist riding in the right lane of a city street at a junction, a car at a side street waiting to enter the main road, bright afternoon. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Мотоциклист едет по правой полосе городской улицы, на боковой улице машина ждёт выезда на главную дорогу.",
+        "en": "A motorcyclist on a city street while a car waits at a side street to enter."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q08",
+      "file": "content-drafts/ch05-sharing-road/q-08.json",
+      "prompt": "A large delivery truck making a wide turn at a city corner, a small car waiting at a safe distance behind it, the truck cab shown large, sunny day. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Большой грузовик выполняет широкий поворот на городском углу, маленькая машина ждёт позади на расстоянии.",
+        "en": "A large truck makes a wide turn at a city corner while a small car waits behind."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q09",
+      "file": "content-drafts/ch05-sharing-road/q-09.json",
+      "prompt": "An empty painted-bright green bike lane along a tree-lined urban street, a driver in a car pulling over to the curb well outside it, calm morning. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Пустая зелёная велодорожка вдоль улицы с деревьями, водитель машины остановился у бордюра в стороне от неё.",
+        "en": "An empty green bike lane along a tree-lined street, with a driver pulling over at the curb outside it."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q10",
+      "file": "content-drafts/ch05-sharing-road/q-10.json",
+      "prompt": "A driver sitting in a parked car, reaching to open the door with the far hand while glancing back over the shoulder, a cyclist passing slowly outside. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Водитель в припаркованной машине тянется открыть дверь дальней рукой и оглядывается назад, мимо медленно едет велосипедист.",
+        "en": "A driver in a parked car opens the door with the far hand, looking back as a cyclist passes."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q11",
+      "file": "content-drafts/ch05-sharing-road/q-11.json",
+      "prompt": "A calm brown horse and a rider on a country road edge beside a wide pasture, a car stopped quietly at a distance with the engine off, golden light. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Спокойная лошадь со всадником на краю сельской дороги у пастбища, машина тихо стоит вдали, золотой свет.",
+        "en": "A horse and rider at a country roadside beside a pasture, a car waiting quietly far away."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q12",
+      "file": "content-drafts/ch05-sharing-road/q-12.json",
+      "prompt": "A slow-moving farm tractor on a flat county road with a line of cars patiently following behind it, golden cornfields on both sides. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Медленный трактор на ровной сельской дороге, за ним терпеливо едет вереница машин, по сторонам кукурузные поля.",
+        "en": "A slow farm tractor on a flat county road with cars patiently following it between cornfields."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q13",
+      "file": "content-drafts/ch05-sharing-road/q-13.json",
+      "prompt": "A large truck driving at night on a dark highway, the car behind it with softly glowing headlights, stars above and distant city glow. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Большой грузовик едет ночью по тёмному шоссе, позади машина с мягко светящимися фарами, над ними звёзды.",
+        "en": "A truck on a dark night highway with a car behind it and stars overhead."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q14",
+      "file": "content-drafts/ch05-sharing-road/q-14.json",
+      "prompt": "A small golf-cart-style electric low-speed vehicle driving on a quiet neighbourhood street with a smiling senior driver, sunny residential block. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Небольшой электрический low-speed автомобиль едет по тихой улице, за рулём улыбающийся пожилой водитель.",
+        "en": "A small electric low-speed vehicle with a smiling older driver on a quiet residential street."
+      }
+    },
+    {
+      "id": "ch06-dui-lesson",
+      "file": "content-drafts/ch06-dui/lesson.json",
+      "prompt": "A friendly evening scene: a car key lying on a table next to a phone showing a ride-hailing app, a smiling adult stepping into a rideshare car, a warm city glow outside. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Ключ от машины на столе рядом с телефоном с приложением такси, улыбающийся взрослый садится в такси, за окном огни города.",
+        "en": "A car key on a table beside a phone with a ride app, an adult stepping into a rideshare car."
+      }
+    },
+    {
+      "id": "ch06-dui-q01",
+      "file": "content-drafts/ch06-dui/q-01.json",
+      "prompt": "A calm adult at a restaurant table with a soft drink and a car key on the table, looking relaxed and responsible, evening light. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Спокойный взрослый в ресторане с безалкогольным напитком, на столе ключ от машины, вечерний свет.",
+        "en": "A calm adult at a restaurant table with a soft drink and a car key in front."
+      }
+    },
+    {
+      "id": "ch06-dui-q02",
+      "file": "content-drafts/ch06-dui/q-02.json",
+      "prompt": "A clock-style hourglass and a cup of coffee on a table beside a car key, a friend nearby calmly waiting, cosy cafe with warm light. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Песочные часы и чашка кофе на столе рядом с ключом от машины, рядом спокойно ждёт друг, уютное кафе.",
+        "en": "An hourglass and a coffee cup beside a car key in a cosy cafe with a friend waiting."
+      }
+    },
+    {
+      "id": "ch06-dui-q03",
+      "file": "content-drafts/ch06-dui/q-03.json",
+      "prompt": "An adult at a roadside sitting calmly in a parked car with the engine off while an officer stands by, paperwork on the hood, a flat road behind. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Взрослый спокойно сидит в припаркованной машине, рядом офицер, на капоте бумаги, позади ровная дорога.",
+        "en": "An adult sits calmly in a parked car with the engine off while an officer stands nearby."
+      }
+    },
+    {
+      "id": "ch06-dui-q04",
+      "file": "content-drafts/ch06-dui/q-04.json",
+      "prompt": "A person reads a document at an office desk with a courtroom door in the background, calm and serious atmosphere. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек за столом читает документ, на заднем плане дверь зала суда, серьёзная, но спокойная атмосфера.",
+        "en": "A person reads a document at a desk with a courtroom door in the background."
+      }
+    },
+    {
+      "id": "ch06-dui-q05",
+      "file": "content-drafts/ch06-dui/q-05.json",
+      "prompt": "A young adult holding a car key and a phone with a ride-hailing app on a quiet street at night, a rideshare car approaching with soft headlights. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Молодой человек держит ключ и телефон с приложением такси на ночной улице, подъезжает машина с мягким светом фар.",
+        "en": "A young adult holds a car key and a ride-app phone on a quiet night street."
+      }
+    },
+    {
+      "id": "ch06-dui-q06",
+      "file": "content-drafts/ch06-dui/q-06.json",
+      "prompt": "A neutral medical-style scene: a person at a clinic desk with a nurse-like attendant and a small blood-pressure cuff, bright clean room, friendly. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Нейтральная сцена в клинике: человек у стойки, рядом доброжелательный сотрудник, светлое чистое помещение.",
+        "en": "A person at a bright clinic desk with a friendly staff member in a clean room."
+      }
+    },
+    {
+      "id": "ch06-dui-q07",
+      "file": "content-drafts/ch06-dui/q-07.json",
+      "prompt": "A neatly closed cardboard box and a bag in the car trunk, a person loading it carefully into an open sedan trunk, sunny driveway. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек аккуратно кладёт закрытую коробку и сумку в багажник седана на солнечной подъездной дорожке.",
+        "en": "A person carefully loads a closed box and a bag into an open sedan trunk in a driveway."
+      }
+    },
+    {
+      "id": "ch06-dui-q08",
+      "file": "content-drafts/ch06-dui/q-08.json",
+      "prompt": "A driver sitting in a car at the wheel while a friendly officer stands outside the window, a small handheld device in the officer hand, daytime road. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Водитель за рулём, снаружи у окна дружелюбный офицер с небольшим прибором в руке, дневная дорога.",
+        "en": "A driver at the wheel while a friendly officer stands by the window holding a small device."
+      }
+    },
+    {
+      "id": "ch06-dui-q09",
+      "file": "content-drafts/ch06-dui/q-09.json",
+      "prompt": "A stack of papers with an envelope and a small paper slip on a table next to a car key and a wall calendar, warm light, calm tone. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "На столе стопка бумаг, конверт и небольшой бумажный листок рядом с ключом от машины, тёплый свет.",
+        "en": "Papers, an envelope and a small paper slip on a table beside a car key."
+      }
+    },
+    {
+      "id": "ch06-dui-q10",
+      "file": "content-drafts/ch06-dui/q-10.json",
+      "prompt": "A person sitting on a bench at a transit stop at dusk looking at a phone with a bus approaching, a parked car in the lot behind. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек сидит на скамейке на остановке в сумерках, смотрит в телефон, подъезжает автобус, позади стоит машина.",
+        "en": "A person on a bench at a transit stop at dusk looks at a phone as a bus approaches."
+      }
+    },
+    {
+      "id": "ch06-dui-q11",
+      "file": "content-drafts/ch06-dui/q-11.json",
+      "prompt": "Two cars on a calm suburban road at dusk, one carefully following the lanes, a quiet mood, a full moon rising above the prairie. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Две машины спокойно едут по пригородной дороге в сумерках, над прерией поднимается полная луна.",
+        "en": "Two cars on a calm suburban road at dusk with a full moon rising over the prairie."
+      }
+    },
+    {
+      "id": "ch06-dui-q12",
+      "file": "content-drafts/ch06-dui/q-12.json",
+      "prompt": "The inside of a car with a clean empty cup holder and a sealed water bottle and a small thermos, cosy interior light, no people. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Салон машины: чистая подставка для стаканов, закрытая бутылка воды и небольшой термос, мягкий свет.",
+        "en": "The inside of a car with a clean cup holder, a sealed water bottle and a small thermos."
+      }
+    },
+    {
+      "id": "ch06-dui-q13",
+      "file": "content-drafts/ch06-dui/q-13.json",
+      "prompt": "An adult hosting friends at a home dinner, handing a car key to a friend who smiles and puts it in a drawer, a rideshare phone on the table. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Хозяин на домашнем ужине убирает ключ от машины в ящик, на столе телефон с вызовом такси, друзья улыбаются.",
+        "en": "A host puts a friend car key in a drawer at a home dinner, ride-app phone on the table."
+      }
+    },
+    {
+      "id": "ch06-dui-q14",
+      "file": "content-drafts/ch06-dui/q-14.json",
+      "prompt": "A person at a pharmacy counter holding a small box of tablets, a friendly pharmacist smiling, bright pharmacy shelves with neutral colourful boxes. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек в аптеке держит коробочку с таблетками, приветливый фармацевт улыбается, на полках цветные коробки.",
+        "en": "A person at a pharmacy counter holds a small box of tablets while a pharmacist smiles."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-lesson",
+      "file": "content-drafts/ch07-violations-crashes/lesson.json",
+      "prompt": "Two adult drivers calmly standing beside their parked cars on a quiet roadside, one making a phone call, exchanging paper documents, warning triangle on the ground, no damage shown. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Два взрослых водителя спокойно стоят у своих машин на обочине, один звонит по телефону, они обмениваются документами.",
+        "en": "Two adult drivers stand calmly by their cars on a roadside, one on the phone, exchanging papers."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q01",
+      "file": "content-drafts/ch07-violations-crashes/q-01.json",
+      "prompt": "An adult driver safely parked at a well-lit roadside, hazard lights glowing, holding a phone and looking calm, evening street lamps in the background. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Взрослый водитель остановился в безопасном освещённом месте, аварийка включена, держит телефон, вечерние фонари.",
+        "en": "A driver safely parked in a well-lit spot with hazard lights on, holding a phone calmly."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q02",
+      "file": "content-drafts/ch07-violations-crashes/q-02.json",
+      "prompt": "A calm adult sitting at a desk with a laptop and a form in front of them, a small toy car on the desk, bright home office. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Спокойный взрослый за столом с ноутбуком и бланком, на столе небольшая игрушечная машина, светлый домашний кабинет.",
+        "en": "A calm adult at a home desk with a laptop, a form and a toy car."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q03",
+      "file": "content-drafts/ch07-violations-crashes/q-03.json",
+      "prompt": "A wall clock and a wall calendar-style page behind a person filling a form at a desk, daylight window, neutral friendly mood. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Настенные часы и страница календаря позади человека, заполняющего бланк за столом, дневной свет из окна.",
+        "en": "A wall clock behind a person filling out a form at a desk in daylight."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q04",
+      "file": "content-drafts/ch07-violations-crashes/q-04.json",
+      "prompt": "A person standing in a parking lot next to a parked sedan, writing a note on paper and tucking it under a windshield wiper, no damage shown, sunny day. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек на парковке пишет записку и кладёт её под дворник припаркованной машины, повреждений не видно, солнечно.",
+        "en": "A person writes a note and tucks it under a parked car wiper in a sunny parking lot."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q05",
+      "file": "content-drafts/ch07-violations-crashes/q-05.json",
+      "prompt": "A calm adult at an office counter handing papers to a clerk at a government-style service window, friendly clerk, bright waiting room with chairs. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Взрослый подаёт бумаги сотруднику у окна государственной службы, светлый зал ожидания со стульями.",
+        "en": "An adult hands papers to a clerk at a service window in a bright waiting room."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q06",
+      "file": "content-drafts/ch07-violations-crashes/q-06.json",
+      "prompt": "A court-style waiting room with adult people sitting on benches holding paper notices, calm and orderly, tall windows and warm light. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Зал ожидания суда, на скамьях сидят взрослые с бумажными повестками, спокойно и организованно, высокие окна.",
+        "en": "Adults sit on benches in a court waiting room holding paper notices in warm light."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q07",
+      "file": "content-drafts/ch07-violations-crashes/q-07.json",
+      "prompt": "A person at a desk looking at a stack of papers and a small bag of coins, a thoughtful expression, calm office with plants. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек за столом смотрит на стопку бумаг и небольшой мешочек с монетами, задумчивое лицо, офис с растениями.",
+        "en": "A person at a desk looks at a stack of papers and a small bag of coins."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q08",
+      "file": "content-drafts/ch07-violations-crashes/q-08.json",
+      "prompt": "A person at a desk looking at a driver license card and a pen next to a closed folder, bright office with a window, serious but calm. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек за столом смотрит на водительскую карточку, рядом ручка и закрытая папка, светлый офис.",
+        "en": "A person at a desk looks at a license card with a pen and a closed folder beside it."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q09",
+      "file": "content-drafts/ch07-violations-crashes/q-09.json",
+      "prompt": "A road trip scene with a car on a long interstate at golden hour, a map-like paper folder on the passenger seat, a distant state skyline. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Поездка на машине по длинной магистрали на закате, на пассажирском сиденье бумажная папка, вдали город другого штата.",
+        "en": "A car on a long interstate at golden hour with a paper folder on the passenger seat."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q10",
+      "file": "content-drafts/ch07-violations-crashes/q-10.json",
+      "prompt": "An adult at a kitchen table calmly reviewing insurance papers and a car key beside a laptop, a cup of tea, cosy light. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Взрослый за кухонным столом спокойно изучает страховые бумаги, рядом ключ от машины, ноутбук и чашка чая.",
+        "en": "An adult at a kitchen table reviews insurance papers beside a laptop, car key and tea."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q11",
+      "file": "content-drafts/ch07-violations-crashes/q-11.json",
+      "prompt": "A person at an insurance-office desk with an advisor, papers and a small piggy bank on the desk, welcoming bright office. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Человек у стола в страховом офисе беседует с консультантом, на столе бумаги и копилка, светлый кабинет.",
+        "en": "A person talks with an advisor at an insurance office desk with papers and a piggy bank."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q12",
+      "file": "content-drafts/ch07-violations-crashes/q-12.json",
+      "prompt": "A smiling older adult in a classroom with an instructor and other adult learners, a small car model on the table, bright cheerful learning space. Flat friendly colourful vector illustration, warm light, adult characters of varied ethnicity, Illinois setting, no text, letters, numbers or signs.",
+      "alt": {
+        "ru": "Улыбающийся пожилой человек в классе с инструктором и другими взрослыми, на столе модель машины, светлое помещение.",
+        "en": "A smiling older adult in a bright classroom with an instructor and other adult learners."
+      }
+    }
+  ]
+}
