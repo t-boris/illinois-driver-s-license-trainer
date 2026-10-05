@@ -1,6 +1,6 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { toCounter } from './event-model.ts'
+import { toCounter } from '../server/event-model.ts'
 
 test('answer maps to counter', () => assert.deepEqual(toCounter({ type: 'answer', topic: 'signs', question: 'q-1', correct: true }), { kind: 'answer_correct', topic: 'signs', item: 'q-1' }))
 test('wrong answer', () => assert.equal(toCounter({ type: 'answer', topic: 't', question: 'q', correct: false }).kind, 'answer_wrong'))

@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { neon } from '@neondatabase/serverless'
-import { toCounter } from './event-model'
+import { toCounter } from '../server/event-model.js'
 
 // Receives anonymous events and bumps an aggregate counter. Nothing about the caller is read or stored.
 export default async function handler(req: VercelRequest, res: VercelResponse) {

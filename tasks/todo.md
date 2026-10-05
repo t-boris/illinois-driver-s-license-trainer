@@ -51,3 +51,11 @@ Q-001..Q-007 (all answered), DEC-001..DEC-010 (all accepted), F-001..F-006 (all 
 - [ ] REQ-005: most questions/lessons still have no image — needs an AI image generator (not chosen in the spec: overview 'Dependencies') — ask owner
 - [ ] Owner review + promote (content/ is empty, production bank empty until then)
 - [ ] I-9 copy review + real-device QA; Vercel project link/first deploy; commit
+
+## Deployment (DEC-024)
+- [x] Vercel project illinois-license-trainer linked; production deployed: https://illinois-license-trainer.vercel.app (HTTPS, 200; empty bank, gate working)
+- [x] api/event verified live: 204 good event, 400 bad, 405 GET (no DATABASE_URL yet => counters not stored)
+- [ ] Owner: add DATABASE_URL (Neon project steep-sea-81061069) in Vercel; preview env var VITE_ANALYTICS_URL not set (only production)
+- [ ] Owner: choose/provide AI image generator (DEC-023)
+- [ ] Owner: review drafts and run scripts/promote-draft.mjs, then PR
+- Not pushed to GitHub; Vercel is connected to t-boris/illinois-driver-s-license-trainer (pushes will auto-deploy)
