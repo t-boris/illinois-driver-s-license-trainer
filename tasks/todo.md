@@ -70,3 +70,9 @@ Q-001..Q-007 (all answered), DEC-001..DEC-010 (all accepted), F-001..F-006 (all 
 - [x] Labelled beta live (DEC-031); drafts, 145 illustrations, 29 official signs, 77 terms published behind the Draft tag
 - [x] Safe Browsing false-positive report submitted (DEC-030); custom domain declined
 - [ ] Owner: review drafts and promote them (removes the Draft tag); look at the illustrations; Firefox and real-device checks; optional Search Console review; delete test counters (topic "test") in Neon
+
+## Status 2026-10-05
+- [x] Coverage audit (DEC-032): all examined chapters, 467 questions, 112 terms, 71 official sign/signal/marking assets, extended lessons, fact-checked
+- [x] 443 illustrations generated, cached and reviewed; flashcards and motion shipped; quiz sessions of 10 (DEC-033)
+- [ ] Owner: review drafts and promote; look at illustrations; Firefox/real devices; Search Console review for the Chrome warning
+- [ ] Possible improvement: split content into lazily loaded chunks (bundle is 380 KB gzip)

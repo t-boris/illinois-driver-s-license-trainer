@@ -55,5 +55,12 @@
         "en": "Mirrors may not show a child. Extreme watchfulness and looking all around is needed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q20.webp",
+    "alt": {
+      "ru": "Отец в машине у дома оглядывается через плечо, а на газоне в стороне ребёнок играет с мячом.",
+      "en": "A father in a parked minivan looks over his shoulder as a child plays on the lawn."
+    }
+  }
 }

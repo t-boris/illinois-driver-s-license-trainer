@@ -55,5 +55,12 @@
         "en": "That is more than required: six conviction-free months before turning 18 is enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q17.webp",
+    "alt": {
+      "ru": "Семнадцатилетний и родитель рассматривают календарь на столе рядом с вазой фруктов.",
+      "en": "A 17-year-old and a parent look at a calendar on a table with a fruit bowl."
+    }
+  }
 }

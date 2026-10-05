@@ -55,5 +55,12 @@
         "en": "The rule applies any time there is no sidewalk or shoulder, and you should not walk in the road unless you must."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q16.webp",
+    "alt": {
+      "ru": "Мужчина и женщина идут по краю тихой загородной дороги навстречу, позади поле и амбар.",
+      "en": "A man and a woman walk along a quiet country road edge, a field behind."
+    }
+  }
 }

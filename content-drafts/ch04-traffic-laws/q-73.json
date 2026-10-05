@@ -44,5 +44,12 @@
         "en": "That is too short. The minimum is 100 feet in town and 200 feet elsewhere."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q73.webp",
+    "alt": {
+      "ru": "Пикап приближается к повороту на ферму среди кукурузных полей.",
+      "en": "A pickup approaches a turn onto a farm lane between cornfields."
+    }
+  }
 }

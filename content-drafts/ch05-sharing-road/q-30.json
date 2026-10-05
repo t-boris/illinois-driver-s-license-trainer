@@ -33,5 +33,12 @@
         "en": "You should let the bicyclist approaching on the right go through first and turn afterward."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q30.webp",
+    "alt": {
+      "ru": "Автомобиль с включённым правым поворотником ждёт, пока справа проезжает велосипедист.",
+      "en": "A car with its right blinker on waits while a bicyclist rides straight past on its right."
+    }
+  }
 }

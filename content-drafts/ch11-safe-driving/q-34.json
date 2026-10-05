@@ -44,5 +44,12 @@
         "en": "The lane is not for parking."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q34.webp",
+    "alt": {
+      "ru": "Седан по длинной полосе разгона вливается в скоростное шоссе, водитель смотрит в зеркало.",
+      "en": "A sedan on an entrance lane merges toward an expressway."
+    }
+  }
 }

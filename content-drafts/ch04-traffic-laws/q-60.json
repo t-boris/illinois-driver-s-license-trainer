@@ -44,5 +44,12 @@
         "en": "Correct! Then yield to those with the right of way."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q60.webp",
+    "alt": {
+      "ru": "Машина останавливается на углу городка, мимо едет велосипедист.",
+      "en": "A car stops at a small-town corner as a cyclist rides past."
+    }
+  }
 }

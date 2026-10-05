@@ -44,5 +44,12 @@
         "en": "Too short. The prohibition starts at 75 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q102.webp",
+    "alt": {
+      "ru": "Водитель тихо подпевает в седане на пригородной улице.",
+      "en": "A driver sings quietly in a sedan on a suburban street."
+    }
+  }
 }

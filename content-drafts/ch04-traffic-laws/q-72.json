@@ -33,5 +33,12 @@
         "en": "Not quite. Before changing lanes, turn your head to check behind and beside you, signal, then move over smoothly."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q72.webp",
+    "alt": {
+      "ru": "Водитель оглядывается через плечо перед перестроением на шоссе.",
+      "en": "A driver checks over a shoulder before moving to the next highway lane."
+    }
+  }
 }

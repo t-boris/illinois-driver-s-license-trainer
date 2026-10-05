@@ -33,5 +33,12 @@
         "en": "A report is required: a crash within 50 feet of a school bus injuring or killing someone waiting to board or just exited."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q18.webp",
+    "alt": {
+      "ru": "Жёлтый школьный автобус стоит у обочины, регулировщик в жилете держит за руку ребёнка на траве.",
+      "en": "A school bus stopped at a rural curb with a crossing guard in a vest holding a child’s hand."
+    }
+  }
 }

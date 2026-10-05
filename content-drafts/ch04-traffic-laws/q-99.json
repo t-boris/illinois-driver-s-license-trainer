@@ -44,5 +44,12 @@
         "en": "Too far. The rule is 20 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q99.webp",
+    "alt": {
+      "ru": "Кирпичная пожарная станция с открытыми воротами, у бордюра дальше стоят машины.",
+      "en": "A brick fire station with open doors, cars parked farther along the curb."
+    }
+  }
 }

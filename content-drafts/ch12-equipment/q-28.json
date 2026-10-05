@@ -44,5 +44,12 @@
         "en": "The manual gives no such exemption; the special rules concern lamps, brakes, lights and turn signals."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q28.webp",
+    "alt": {
+      "ru": "Отполированный старинный седан у фермерского дома, владелец протирает капот, солнечный день.",
+      "en": "A polished vintage sedan with its owner wiping the hood."
+    }
+  }
 }

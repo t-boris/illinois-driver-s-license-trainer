@@ -33,5 +33,12 @@
         "en": "Not quite. Stop on any roadway, highway, private road, or school parking lot. The bus warns with flashing lights 100 feet (200 rural) ahead."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q81.webp",
+    "alt": {
+      "ru": "Школьный автобус на парковке у школы, дети садятся.",
+      "en": "A school bus in a school parking lot as children board."
+    }
+  }
 }

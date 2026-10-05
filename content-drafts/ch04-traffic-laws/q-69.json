@@ -33,5 +33,12 @@
         "en": "Not quite. Frequent lane changes raise crash risk. Stay in your lane and move with the flow."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q69.webp",
+    "alt": {
+      "ru": "Машины едут ровно по полосам на многополосном шоссе.",
+      "en": "Cars move steadily in their lanes on a multi-lane highway."
+    }
+  }
 }

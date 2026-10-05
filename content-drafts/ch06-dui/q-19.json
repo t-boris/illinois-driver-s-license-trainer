@@ -33,5 +33,12 @@
         "en": "For controlled drugs and intoxicating compounds, any trace in the blood is illegal."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q19.webp",
+    "alt": {
+      "ru": "Врач беседует со взрослым пациентом в светлом кабинете клиники, на столе стетоскоп.",
+      "en": "A doctor talks with an adult patient in a bright clinic office with a stethoscope on the desk."
+    }
+  }
 }

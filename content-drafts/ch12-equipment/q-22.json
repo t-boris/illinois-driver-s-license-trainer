@@ -44,5 +44,12 @@
         "en": "There is a limit: 3 inches."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q22.webp",
+    "alt": {
+      "ru": "Высокий пикап стоит во дворе фермы у красного амбара, владелец присел и смотрит на подвеску.",
+      "en": "A tall pickup in a farmyard with its owner looking at the suspension."
+    }
+  }
 }

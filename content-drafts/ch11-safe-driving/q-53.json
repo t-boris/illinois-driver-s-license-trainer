@@ -44,5 +44,12 @@
         "en": "Pull off the road instead of staying in the lane."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q53.webp",
+    "alt": {
+      "ru": "Седан в сумерках остановился на сельской дороге, горят габариты, взрослый спокойно выходит.",
+      "en": "A sedan pulled over at dusk with side lights glowing."
+    }
+  }
 }

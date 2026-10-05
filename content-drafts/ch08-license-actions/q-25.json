@@ -44,5 +44,12 @@
         "en": "A denial concerns people under 18 and is not the action for this violation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q25.webp",
+    "alt": {
+      "ru": "Двое водителей обмениваются контактами рядом с двумя припаркованными машинами на тихой улице.",
+      "en": "Two drivers exchange details beside two parked cars on a quiet road."
+    }
+  }
 }

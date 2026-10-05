@@ -55,5 +55,12 @@
         "en": "Action is taken as if it happened in Illinois, without waiting for renewal."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q37.webp",
+    "alt": {
+      "ru": "Путешественник стоит у машины на площадке отдыха возле шоссе, смотрит карту в телефоне.",
+      "en": "A traveler stands beside a car at a highway rest area looking at a phone map."
+    }
+  }
 }

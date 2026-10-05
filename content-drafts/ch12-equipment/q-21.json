@@ -44,5 +44,12 @@
         "en": "Age is not the criterion: it is weight and type (RVs)."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q21.webp",
+    "alt": {
+      "ru": "Белый дом на колёсах и небольшой хэтчбек рядом на тихом кемпинге у озера, взрослые беседуют.",
+      "en": "An RV and a hatchback parked side by side at a campsite."
+    }
+  }
 }

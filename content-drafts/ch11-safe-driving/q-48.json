@@ -44,5 +44,12 @@
         "en": "Correct. Carbon monoxide is deadly."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q48.webp",
+    "alt": {
+      "ru": "Механик и клиент осматривают выхлопную трубу поднятого седана в чистой мастерской.",
+      "en": "A mechanic and a customer inspect the exhaust of a raised sedan."
+    }
+  }
 }

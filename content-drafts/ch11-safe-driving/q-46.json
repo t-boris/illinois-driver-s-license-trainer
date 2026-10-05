@@ -44,5 +44,12 @@
         "en": "The doors may not open because of water pressure."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q46.webp",
+    "alt": {
+      "ru": "Взрослый на причале возле тихого озера читает памятку, мягкий вечерний свет.",
+      "en": "An adult at a lakeside dock reads a card."
+    }
+  }
 }

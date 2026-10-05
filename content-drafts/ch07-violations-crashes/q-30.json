@@ -55,5 +55,12 @@
         "en": "The license is suspended."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q30.webp",
+    "alt": {
+      "ru": "Мужчина достаёт письмо из почтового ящика у подъезда, позади стоит машина.",
+      "en": "A man pulls a letter from a mailbox at a driveway with a car parked behind him."
+    }
+  }
 }

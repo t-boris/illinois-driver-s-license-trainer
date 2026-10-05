@@ -55,5 +55,12 @@
         "en": "Family relationship is not required here; seats matter: one in front and one per safety belt in back."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q16.webp",
+    "alt": {
+      "ru": "Родитель улыбается молодому водителю, двое друзей пристёгиваются на заднем сиденье.",
+      "en": "A parent smiles at a young driver while two friends buckle up in the back seat."
+    }
+  }
 }

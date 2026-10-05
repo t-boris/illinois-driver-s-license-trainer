@@ -44,5 +44,12 @@
         "en": "No tinted or smoked lenses are allowed on any vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q29.webp",
+    "alt": {
+      "ru": "Мотоциклист в шлеме и куртке стоит на обочине тихой дороги, мотоцикл блестит, вокруг поля.",
+      "en": "A helmeted motorcyclist parked on a quiet road shoulder."
+    }
+  }
 }

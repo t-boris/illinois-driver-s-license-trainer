@@ -55,5 +55,12 @@
         "en": "There are restrictions: age 18, a posted limit of 45 mph or less, and daylight hours."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q18.webp",
+    "alt": {
+      "ru": "Улыбающийся взрослый в шлеме катится на роликах по краю тихой пригородной улицы в солнечный день.",
+      "en": "A smiling adult in a helmet rolls on in-line skates beside a quiet suburban lane on a sunny day."
+    }
+  }
 }

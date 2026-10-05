@@ -55,5 +55,12 @@
         "en": "Correct. It is also required after court supervision for a mandatory insurance violation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q27.webp",
+    "alt": {
+      "ru": "Страховой агент передаёт клиенту папку документов за аккуратным столом в светлом офисе.",
+      "en": "An insurance agent hands a folder of documents to a client across a tidy desk."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "The rule is different: a pedestrian already in the roadway may continue to safety."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q24.webp",
+    "alt": {
+      "ru": "Двое пешеходов с сумками переходят тихий городской перекрёсток, машина терпеливо ждёт.",
+      "en": "Two pedestrians with shopping bags cross a quiet intersection while a car waits."
+    }
+  }
 }

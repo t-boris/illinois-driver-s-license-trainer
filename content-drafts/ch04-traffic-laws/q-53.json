@@ -33,5 +33,12 @@
         "en": "Not quite. This is allowed after a complete stop and yielding to anyone in or near the intersection."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q53.webp",
+    "alt": {
+      "ru": "Угол двух односторонних улиц, машина у перекрёстка, пешеходы на тротуаре.",
+      "en": "A corner where two one-way streets meet, a car waits and pedestrians stand by."
+    }
+  }
 }

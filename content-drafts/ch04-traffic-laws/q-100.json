@@ -44,5 +44,12 @@
         "en": "Correct! Headlights on parked vehicles must be dimmed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q100.webp",
+    "alt": {
+      "ru": "Пикап на обочине в сумерках, мягкий свет габаритов.",
+      "en": "A pickup is parked at dusk with a soft glow from its small lights."
+    }
+  }
 }

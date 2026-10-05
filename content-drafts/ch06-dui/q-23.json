@@ -55,5 +55,12 @@
         "en": "Correct. This right is part of the implied consent law."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q23.webp",
+    "alt": {
+      "ru": "Взрослый пациент спокойно сидит, пока лаборант в форме готовит чистый поднос в светлом кабинете.",
+      "en": "An adult patient sits calmly while a technician in scrubs prepares a tray in a bright clinic room."
+    }
+  }
 }

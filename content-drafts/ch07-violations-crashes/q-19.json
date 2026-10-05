@@ -33,5 +33,12 @@
         "en": "Fault does not matter: a report is required for death, injury, or damage above the threshold ($1,500, or $500 when uninsured)."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q19.webp",
+    "alt": {
+      "ru": "Водитель сидит на бордюре рядом с машиной и записывает данные в блокнот.",
+      "en": "A driver sits on a curb beside a car writing details in a notepad."
+    }
+  }
 }

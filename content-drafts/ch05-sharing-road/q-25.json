@@ -33,5 +33,12 @@
         "en": "That is not the rule: dim your headlights when following all vehicles, including motorcycles."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q25.webp",
+    "alt": {
+      "ru": "Седан держит большую дистанцию за мотоциклом на прямой дороге среди кукурузных полей.",
+      "en": "A sedan keeps a generous gap behind a motorcycle on a straight road between cornfields."
+    }
+  }
 }

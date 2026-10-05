@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. When a turn lane is provided, a left turn may not be made from any other lane. The lane may be driven only when preparing for or making a left turn or a permitted U-turn."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q31.webp",
+    "alt": {
+      "ru": "Водитель ждёт посередине тихой городской улицы с включённым левым поворотником, вид через лобовое стекло.",
+      "en": "A driver waits mid-street with the left blinker on."
+    }
+  }
 }

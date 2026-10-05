@@ -33,5 +33,12 @@
         "en": "Proof of financial responsibility must be filed before privileges are restored."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q28.webp",
+    "alt": {
+      "ru": "Взрослый передаёт папку сотруднику у окна обслуживания в государственном офисе.",
+      "en": "An adult hands a folder to a clerk at a government office service window."
+    }
+  }
 }

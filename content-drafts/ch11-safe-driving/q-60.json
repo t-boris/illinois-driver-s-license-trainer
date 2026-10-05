@@ -44,5 +44,12 @@
         "en": "Speed does not help: you may still react too late."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q60.webp",
+    "alt": {
+      "ru": "Взрослый разминается у припаркованного седана на тихой стоянке с пикниковым столом и деревьями.",
+      "en": "An adult stretches beside a parked sedan at a quiet rest area."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Correct! Be prepared to stop when behind such vehicles."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q87.webp",
+    "alt": {
+      "ru": "Автобус и цистерна замедляются перед переездом, седан ждёт сзади.",
+      "en": "A bus and a tanker truck slow before a track as a sedan waits."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "The manual's rule applies to vehicles in general: one spotlight."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q25.webp",
+    "alt": {
+      "ru": "Взрослый у пикапа на воротах фермы в сумерках светит небольшим фонарём в сторону амбара.",
+      "en": "An adult at a parked pickup shines a small lamp toward a barn."
+    }
+  }
 }

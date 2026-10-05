@@ -33,5 +33,12 @@
         "en": "You should stop in a safe, well-lit public place where you do not obstruct traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q20.webp",
+    "alt": {
+      "ru": "Водитель аккуратно паркует седан на широкой пустой площадке у освещённой заправки с включённой аварийкой.",
+      "en": "A driver carefully parks a sedan in a wide empty lot beside a lit gas station canopy."
+    }
+  }
 }

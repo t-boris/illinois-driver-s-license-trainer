@@ -44,5 +44,12 @@
         "en": "Correct. By day such a load is marked with a red flag."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q23.webp",
+    "alt": {
+      "ru": "Пикап с длинной деревянной лестницей, выступающей сзади, на ферме, взрослый закрепляет груз.",
+      "en": "A pickup carries a long ladder extending behind it, an adult ties it down."
+    }
+  }
 }

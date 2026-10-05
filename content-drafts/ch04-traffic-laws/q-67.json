@@ -44,5 +44,12 @@
         "en": "On a one-way street passing on the right is allowed when there is enough room."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q67.webp",
+    "alt": {
+      "ru": "Машина остановилась, двое взрослых с коляской переходят улицу.",
+      "en": "A car stops as two adults with a stroller cross the street."
+    }
+  }
 }

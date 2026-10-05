@@ -55,5 +55,12 @@
         "en": "Correct, this is not an option: you may stay and argue, pay the fine, or give a promise to comply. Failing to comply may suspend your Illinois license."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q15.webp",
+    "alt": {
+      "ru": "Путешественник с чемоданом стоит у машины на заправке и смотрит на бумагу в руке.",
+      "en": "A traveler with a rolling suitcase stands beside a car at a gas station looking at a paper."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "It does matter: 12 inches is the rule."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q92.webp",
+    "alt": {
+      "ru": "Женщина паркуется параллельно на улице с кирпичными домами.",
+      "en": "A woman parallel parks along a street of brick townhouses."
+    }
+  }
 }

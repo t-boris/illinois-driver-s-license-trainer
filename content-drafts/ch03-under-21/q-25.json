@@ -55,5 +55,12 @@
         "en": "The delay is shorter: nine months."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q25.webp",
+    "alt": {
+      "ru": "Подросток за обеденным столом спокойно беседует с родителем, рядом стакан сока и тетрадь.",
+      "en": "A teenager sits at a dining table talking calmly with a parent beside orange juice and a notebook."
+    }
+  }
 }

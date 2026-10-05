@@ -44,5 +44,12 @@
         "en": "Not quite: during a revocation your vehicle registration may be suspended too."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q19.webp",
+    "alt": {
+      "ru": "Взрослый стоит на подъездной дорожке у хэтчбека и читает письмо из конверта, позади осенние деревья.",
+      "en": "An adult in a driveway beside a parked car reads a letter."
+    }
+  }
 }

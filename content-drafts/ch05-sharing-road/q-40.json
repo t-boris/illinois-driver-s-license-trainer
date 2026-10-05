@@ -55,5 +55,12 @@
         "en": "High beams blind the driver in the side mirrors. A blink of the headlights is enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q40.webp",
+    "alt": {
+      "ru": "Легковой автомобиль с фарами обгоняет большой грузовик на двухполосной дороге в сумерках.",
+      "en": "A passenger car with headlights on passes a large truck on a two-lane highway at dusk."
+    }
+  }
 }

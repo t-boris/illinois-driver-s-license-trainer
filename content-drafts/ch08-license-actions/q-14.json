@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. The manual calls this perjury, and it is on the list of reasons for revocation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q14.webp",
+    "alt": {
+      "ru": "Взрослый за домашним столом аккуратно заполняет бумажную форму ручкой рядом с ноутбуком.",
+      "en": "An adult at a home desk carefully fills in a paper form."
+    }
+  }
 }

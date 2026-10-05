@@ -44,5 +44,12 @@
         "en": "Arm down means slow down or stop."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q74.webp",
+    "alt": {
+      "ru": "Рука водителя поднята из окна машины на тихом углу.",
+      "en": "A driver's arm rises from a car window at a quiet corner."
+    }
+  }
 }

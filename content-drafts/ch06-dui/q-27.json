@@ -55,5 +55,12 @@
         "en": "Correct. A second offender has had a prior suspension, DUI court supervision, or DUI conviction within the last five years."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q27.webp",
+    "alt": {
+      "ru": "На деревянном столе аккуратные стопки календарных листов, рядом ключи и блокнот.",
+      "en": "Neat stacks of calendar pages on a wooden desk beside car keys and a notebook."
+    }
+  }
 }

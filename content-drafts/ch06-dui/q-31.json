@@ -55,5 +55,12 @@
         "en": "Correct. Each conviction brings a longer period, and a fourth brings a lifetime revocation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q31.webp",
+    "alt": {
+      "ru": "На пустом деревянном столе лежат ключи от машины, ручка и раскрытый блокнот.",
+      "en": "On an empty wooden desk lie car keys, a pen, and an open notebook."
+    }
+  }
 }

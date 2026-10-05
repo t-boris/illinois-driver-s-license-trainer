@@ -55,5 +55,12 @@
         "en": "Enhanced penalties exist: for a BAC of .16% or more or a child under 16 aboard."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q32.webp",
+    "alt": {
+      "ru": "Родитель пристёгивает ребёнка в детском кресле на заднем сиденье припаркованной машины.",
+      "en": "A parent buckles a young child into a booster seat in the back of a parked family car."
+    }
+  }
 }

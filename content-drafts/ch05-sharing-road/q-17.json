@@ -33,5 +33,12 @@
         "en": "It is prohibited: standing on the roadway to ask for a ride is illegal."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q17.webp",
+    "alt": {
+      "ru": "Мужчина с рюкзаком ждёт на гравийной тропе у загородной дороги, вдали виднеется машина.",
+      "en": "A man with a backpack waits on a gravel path beside a country lane as a car approaches."
+    }
+  }
 }

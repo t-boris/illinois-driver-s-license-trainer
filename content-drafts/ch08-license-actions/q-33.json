@@ -44,5 +44,12 @@
         "en": "Nine months applies to a serious moving violation denial (whichever is shorter)."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q33.webp",
+    "alt": {
+      "ru": "Молодой человек на скамейке остановки в небольшом городке читает книгу, осенние деревья.",
+      "en": "A young adult reads a book on a bench at a small-town bus stop."
+    }
+  }
 }

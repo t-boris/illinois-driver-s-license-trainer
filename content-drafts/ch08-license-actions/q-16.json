@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. An RDP is issued only in certain cases and allows driving only at certain times and along specified routes, such as for work, school, day care or medical care. It cannot be issued under age 16."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q16.webp",
+    "alt": {
+      "ru": "Человек в солнечное утро идёт от припаркованной машины к входу в офисное здание с пакетом обеда.",
+      "en": "A commuter walks from a parked car toward an office entrance."
+    }
+  }
 }

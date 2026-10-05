@@ -44,5 +44,12 @@
         "en": "The system records violations and can lead to fines."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q38.webp",
+    "alt": {
+      "ru": "Седан спокойно остановился далеко от железнодорожного пути на сельской дороге, деревья вдоль неё.",
+      "en": "A sedan stopped calmly far before a distant rail line."
+    }
+  }
 }

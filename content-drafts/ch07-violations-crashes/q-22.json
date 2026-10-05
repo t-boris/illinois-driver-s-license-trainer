@@ -55,5 +55,12 @@
         "en": "The duty falls on the passenger if the driver cannot report."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q22.webp",
+    "alt": {
+      "ru": "Пассажир припаркованной машины говорит по телефону, водитель стоит рядом у двери.",
+      "en": "A passenger in a parked car talks on the phone while the driver stands by the door."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Do not stop: keep moving with the flow and merge in turns."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q38.webp",
+    "alt": {
+      "ru": "Две колонны машин по очереди вливаются в одну полосу на медленном участке шоссе, оранжевые конусы.",
+      "en": "Two lines of cars alternately merge into one lane."
+    }
+  }
 }

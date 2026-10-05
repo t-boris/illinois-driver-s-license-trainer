@@ -44,5 +44,12 @@
         "en": "Not quite: speed does not give priority. In a crosswalk, pedestrians have the right of way over vehicles."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q37.webp",
+    "alt": {
+      "ru": "Водитель терпеливо ждёт в седане на гравийной дороге у полей, вид через боковое окно.",
+      "en": "A driver waits patiently in a sedan near open farmland."
+    }
+  }
 }

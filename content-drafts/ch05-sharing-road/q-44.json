@@ -55,5 +55,12 @@
         "en": "Equipment is required: belts, windshield, parking brake, lights, and mirrors."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q44.webp",
+    "alt": {
+      "ru": "Механик и владелец стоят у небольшого электромобиля в подъезде, один показывает на лобовое стекло.",
+      "en": "A mechanic and an owner stand by a small electric vehicle in a driveway, one pointing at the windshield."
+    }
+  }
 }

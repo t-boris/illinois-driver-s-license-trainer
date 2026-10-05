@@ -55,5 +55,12 @@
         "en": "A crash is not required: impaired driving ability is enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q16.webp",
+    "alt": {
+      "ru": "Мужчина за кухонным столом смотрит на смартфон с картой и значком машины, ключи отложены в сторону.",
+      "en": "A man at a kitchen table looks at a phone map with a car icon, car keys set aside."
+    }
+  }
 }

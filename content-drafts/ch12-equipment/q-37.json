@@ -44,5 +44,12 @@
         "en": "Too many: no more than four."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q37.webp",
+    "alt": {
+      "ru": "Пикап с огнями вдоль крыши на дворе фермы в сумерках, взрослый смотрит на них.",
+      "en": "A pickup with lights along its roof in a farm yard at dusk."
+    }
+  }
 }

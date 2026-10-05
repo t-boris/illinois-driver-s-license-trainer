@@ -44,5 +44,12 @@
         "en": "Correct. At intersections it is used when a stop sign alone is hard to see or needs more emphasis."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q40.webp",
+    "alt": {
+      "ru": "Железнодорожная насыпь, вдали поезд, пара в пикапе наблюдает издали.",
+      "en": "A rail embankment with a distant train, a couple watching from a pickup."
+    }
+  }
 }

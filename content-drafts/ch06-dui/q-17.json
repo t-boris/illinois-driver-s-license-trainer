@@ -33,5 +33,12 @@
         "en": "A good conclusion: do not count on coffee or a shower. Food, coffee, and showers do not speed up elimination; only time does."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q17.webp",
+    "alt": {
+      "ru": "Дружелюбная женщина подаёт кружку кофе мужчине на диване, на столе стоит стакан воды.",
+      "en": "A friendly woman hands a coffee mug to a man on a sofa, a glass of water on the table."
+    }
+  }
 }

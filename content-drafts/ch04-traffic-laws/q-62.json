@@ -33,5 +33,12 @@
         "en": "Not quite. That way you will not cut off the passed vehicle. Remember the 200-foot rule for oncoming vehicles too."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q62.webp",
+    "alt": {
+      "ru": "Хэтчбэк едет за сельским трактором по прямой дороге среди полей.",
+      "en": "A hatchback passes a farm tractor on a straight country road."
+    }
+  }
 }

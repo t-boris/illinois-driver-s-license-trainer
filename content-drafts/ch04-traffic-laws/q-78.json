@@ -44,5 +44,12 @@
         "en": "No. It is not a passing signal, and courtesy signals are not allowed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q78.webp",
+    "alt": {
+      "ru": "Машина стоит на обочине у поля, женщина отошла от дороги.",
+      "en": "A car stands on a shoulder beside a field, its driver stands safely away."
+    }
+  }
 }

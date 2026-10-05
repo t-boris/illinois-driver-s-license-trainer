@@ -44,5 +44,12 @@
         "en": "Correct. All of these are on the list of reasons for revocation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q18.webp",
+    "alt": {
+      "ru": "Водитель эвакуатора и автомобилист спокойно беседуют у припаркованной машины на широкой обочине.",
+      "en": "A tow truck driver and a motorist talk calmly beside a parked car."
+    }
+  }
 }

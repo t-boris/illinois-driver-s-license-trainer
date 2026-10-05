@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. Following too closely, or tailgating, is the cause of most rear-end crashes. The three-second rule helps you keep a safe distance."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q18.webp",
+    "alt": {
+      "ru": "Две машины едут друг за другом по тихой дороге с комфортной дистанцией, по сторонам осенние поля.",
+      "en": "Two cars drive one behind the other with a comfortable gap."
+    }
+  }
 }

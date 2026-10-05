@@ -44,5 +44,12 @@
         "en": "That is a reason for suspension, not revocation."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q30.webp",
+    "alt": {
+      "ru": "Компания приветливых взрослых беседует у припаркованной машины на поле возле сельской ярмарки.",
+      "en": "Friendly adults chat beside a parked car at a country fairground."
+    }
+  }
 }

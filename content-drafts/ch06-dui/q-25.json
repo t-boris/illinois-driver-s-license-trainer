@@ -33,5 +33,12 @@
         "en": "Exactly six months: that is the manual’s answer. Refusing a test is penalized more strictly: one year."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q25.webp",
+    "alt": {
+      "ru": "На стене календарь с зачёркнутыми днями, рядом на крючке висят ключи от машины.",
+      "en": "A wall calendar with crossed-out days and car keys hanging on a hook beside it."
+    }
+  }
 }

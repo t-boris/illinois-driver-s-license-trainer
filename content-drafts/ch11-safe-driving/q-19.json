@@ -44,5 +44,12 @@
         "en": "That is the distance for 70 mph. At 55 mph it is 243 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q19.webp",
+    "alt": {
+      "ru": "Три машины на открытом ровном шоссе едут на большом расстоянии друг от друга, по сторонам поля.",
+      "en": "Three cars spaced well apart on an open highway."
+    }
+  }
 }

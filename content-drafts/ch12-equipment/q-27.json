@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. There are exceptions: rural mail carriers and vehicles with Persons with Disabilities or Disabled Veteran plates (both November 15 to April 1), agricultural machinery, and road-building machinery operated below 10 mph."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q27.webp",
+    "alt": {
+      "ru": "Зимняя шина пикапа на заснеженной ферме, рядом стоит взрослый, позади белые поля и ели.",
+      "en": "A winter tire on a pickup in a snowy farm lane."
+    }
+  }
 }

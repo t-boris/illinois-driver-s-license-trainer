@@ -44,5 +44,12 @@
         "en": "No. It is better to shift down early and not change gears on the tracks."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q89.webp",
+    "alt": {
+      "ru": "Водитель в хэтчбэке подъезжает к переезду на сельской дороге.",
+      "en": "A driver in a hatchback approaches a rural railroad crossing."
+    }
+  }
 }

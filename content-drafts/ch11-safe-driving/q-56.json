@@ -44,5 +44,12 @@
         "en": "Correct. Speeding, running red lights and stop signs, cutting off, gestures and yelling also count."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q56.webp",
+    "alt": {
+      "ru": "Взрослый водитель спокойно ведёт седан по тихой пригородной улице, слегка улыбается.",
+      "en": "An adult driver calmly drives a sedan on a quiet suburban street."
+    }
+  }
 }

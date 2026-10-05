@@ -55,5 +55,12 @@
         "en": "The reason is different: a rider moves because of hazards, not to hold anyone up."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q33.webp",
+    "alt": {
+      "ru": "Водитель припаркованного седана тянется правой рукой к дверце и оглядывается назад на тихой улице.",
+      "en": "A driver of a parked sedan reaches across with the right hand and looks back."
+    }
+  }
 }

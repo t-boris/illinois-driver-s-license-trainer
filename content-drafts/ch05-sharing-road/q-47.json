@@ -55,5 +55,12 @@
         "en": "Correct. Reflectors and rotating or oscillating amber lights may also be used."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q47.webp",
+    "alt": {
+      "ru": "Трактор с янтарным маячком на задней мачте едет по сельской дороге в сумерках.",
+      "en": "A tractor with an amber beacon on a high rear mount drives along a rural road at dusk."
+    }
+  }
 }

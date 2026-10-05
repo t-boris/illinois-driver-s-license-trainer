@@ -55,5 +55,12 @@
         "en": "There is no work exception: no driving permit is available."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q26.webp",
+    "alt": {
+      "ru": "Женщина на кухне прикрепляет страховую карточку на доску рядом с календарём.",
+      "en": "A woman in a kitchen pins an insurance card on a bulletin board beside a calendar."
+    }
+  }
 }

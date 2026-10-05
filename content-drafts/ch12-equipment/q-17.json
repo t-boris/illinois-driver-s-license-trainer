@@ -44,5 +44,12 @@
         "en": "That is the taillight distance. For the license plate it is 50 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q17.webp",
+    "alt": {
+      "ru": "Задняя часть припаркованного хэтчбека в сумерках с мягким светом фонарей на подъездной дорожке.",
+      "en": "The rear of a parked hatchback at dusk with softly lit lights."
+    }
+  }
 }

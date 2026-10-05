@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. Wind direction and speed are among the factors to consider when choosing your speed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q25.webp",
+    "alt": {
+      "ru": "Седан едет по дороге в прерии, трава и деревья гнутся от ветра, облачное небо.",
+      "en": "A sedan drives along a prairie road with grass bending in the wind."
+    }
+  }
 }

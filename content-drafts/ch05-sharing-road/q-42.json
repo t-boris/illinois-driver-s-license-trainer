@@ -55,5 +55,12 @@
         "en": "There is still a period: two hours on interstates."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q42.webp",
+    "alt": {
+      "ru": "Водитель эвакуатора в жилете цепляет седан, оставленный на широкой обочине шоссе.",
+      "en": "A tow truck driver in a vest hooks a sedan left on a wide highway shoulder."
+    }
+  }
 }

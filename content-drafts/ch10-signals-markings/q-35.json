@@ -44,5 +44,12 @@
         "en": "Correct. The sign tells you a highway-railway crossing is ahead."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q35.webp",
+    "alt": {
+      "ru": "Товарный поезд медленно идёт через прерию вдали, пикап ждёт далеко на гравийной дороге.",
+      "en": "A freight train crosses open prairie while a pickup waits far away."
+    }
+  }
 }

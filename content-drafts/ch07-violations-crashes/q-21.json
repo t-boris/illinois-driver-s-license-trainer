@@ -55,5 +55,12 @@
         "en": "If damage exceeds the threshold, a report is needed whether or not anyone was hurt."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q21.webp",
+    "alt": {
+      "ru": "Водитель вежливо разговаривает с сотрудником за стойкой небольшого полицейского участка.",
+      "en": "A driver speaks politely with an officer at the front desk of a small police station."
+    }
+  }
 }

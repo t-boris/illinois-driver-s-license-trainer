@@ -55,5 +55,12 @@
         "en": "Correct. Large-vehicle drivers should be able to see surrounding vehicles in their side mirrors."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q39.webp",
+    "alt": {
+      "ru": "Небольшой хэтчбек на безопасной дистанции едет за большим фургоном на прямом шоссе.",
+      "en": "A small hatchback follows a large semi truck at a safe distance on a straight highway."
+    }
+  }
 }

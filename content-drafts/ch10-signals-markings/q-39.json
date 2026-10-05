@@ -44,5 +44,12 @@
         "en": "It has no schedule: only contact information and the crossing identity."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q39.webp",
+    "alt": {
+      "ru": "Взрослый стоит у седана на гравийной дороге у полей и говорит по телефону, спокойно.",
+      "en": "An adult stands beside a sedan on a gravel lane speaking on a phone."
+    }
+  }
 }

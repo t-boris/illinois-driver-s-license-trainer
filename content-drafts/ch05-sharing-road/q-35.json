@@ -55,5 +55,12 @@
         "en": "Correct. Class 3: assistance only while pedaling, up to 28 mph."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q35.webp",
+    "alt": {
+      "ru": "Взрослый велосипедист в шлеме едет на электровелосипеде по ровной дорожке рядом с кукурузным полем.",
+      "en": "An adult cyclist in a helmet pedals an electric bicycle on a smooth path beside a cornfield."
+    }
+  }
 }

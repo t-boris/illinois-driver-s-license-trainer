@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. That is why it is important to know the reasons for losing a license and avoid them."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q20.webp",
+    "alt": {
+      "ru": "Женщина за библиотечным столом листает толстую папку с документами, позади книжные полки.",
+      "en": "A woman at a library table pages through a folder of documents."
+    }
+  }
 }

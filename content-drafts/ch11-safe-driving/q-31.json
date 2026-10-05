@@ -44,5 +44,12 @@
         "en": "Do not start driving until the windshield is defrosted and clear."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q31.webp",
+    "alt": {
+      "ru": "Взрослый в зимней куртке сметает снег с крыши хэтчбека на подъездной дорожке.",
+      "en": "An adult in a winter coat brushes snow off a parked hatchback."
+    }
+  }
 }

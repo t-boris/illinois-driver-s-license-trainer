@@ -44,5 +44,12 @@
         "en": "The manual bans hauling house trailers, not bus travel."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q30.webp",
+    "alt": {
+      "ru": "Пикап тянет небольшой кемпер по широкому ровному шоссе, вдали раскачиваются деревья.",
+      "en": "A pickup pulls a small camper along a wide highway on a breezy day."
+    }
+  }
 }

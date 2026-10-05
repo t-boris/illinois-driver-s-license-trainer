@@ -44,5 +44,12 @@
         "en": "The manual lists no such purpose."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q31.webp",
+    "alt": {
+      "ru": "Родитель пристёгивает малыша в детском кресле припаркованного минивэна у скромного дома, утренний свет.",
+      "en": "A parent buckles a toddler into a child seat of a minivan."
+    }
+  }
 }

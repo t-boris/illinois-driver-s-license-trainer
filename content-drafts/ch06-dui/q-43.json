@@ -55,5 +55,12 @@
         "en": "Correct. For drivers under 21 the period is longer than for adults (at least one year)."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q43.webp",
+    "alt": {
+      "ru": "Молодой человек идёт по газону кампуса с велосипедным шлемом и рюкзаком, позади кирпичные здания.",
+      "en": "A young adult walks across a campus lawn with a bicycle helmet and a backpack."
+    }
+  }
 }

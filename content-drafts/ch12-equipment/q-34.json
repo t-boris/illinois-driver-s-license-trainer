@@ -44,5 +44,12 @@
         "en": "Two non-glare white or amber lamps are allowed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q34.webp",
+    "alt": {
+      "ru": "Старый фермерский пикап у амбара вечером, на крыльях горят мягкие жёлтые лампы, рядом взрослый.",
+      "en": "A classic farm pickup with soft yellow fender lamps in the evening."
+    }
+  }
 }

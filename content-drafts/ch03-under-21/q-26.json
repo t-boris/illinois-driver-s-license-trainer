@@ -33,5 +33,12 @@
         "en": "Alcohol is not required for this denial: a driver under 18 may be denied a license after a charge from a serious crash."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q26.webp",
+    "alt": {
+      "ru": "Задумчивый подросток стоит у припаркованной семейной машины, рядом родитель, тихий вечер.",
+      "en": "A thoughtful teenager stands beside a parked family car with a parent nearby on a quiet evening."
+    }
+  }
 }

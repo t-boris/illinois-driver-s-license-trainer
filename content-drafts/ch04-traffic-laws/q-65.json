@@ -33,5 +33,12 @@
         "en": "Not quite. Speeding up makes it harder for the passing driver to finish the maneuver safely."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q65.webp",
+    "alt": {
+      "ru": "Седан обгоняет пикап на прямом шоссе в прерии.",
+      "en": "A sedan overtakes a pickup on a straight prairie highway."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "The number is on a plate below the sign."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q42.webp",
+    "alt": {
+      "ru": "Железная дорога с двумя параллельными путями через широкую прерию, высокая трава и деревья вдали.",
+      "en": "Two parallel railway tracks crossing a wide prairie."
+    }
+  }
 }

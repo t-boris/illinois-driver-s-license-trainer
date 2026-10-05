@@ -55,5 +55,12 @@
         "en": "That is more than required: 50 hours, 10 of them at night."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q21.webp",
+    "alt": {
+      "ru": "Родитель на пассажирском сиденье отдаёт планшет с бумагами молодому водителю у поля.",
+      "en": "A parent in the passenger seat hands a clipboard to a young driver near a field."
+    }
+  }
 }

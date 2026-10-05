@@ -44,5 +44,12 @@
         "en": "Correct. Also use dim lights, increase following distance and signal turns well in advance."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q27.webp",
+    "alt": {
+      "ru": "Машина медленно едет в густом тумане по сельской дороге, впереди вдали задние огни другой машины.",
+      "en": "A car slowly follows distant red taillights through thick mist."
+    }
+  }
 }

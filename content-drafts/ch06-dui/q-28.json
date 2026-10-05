@@ -55,5 +55,12 @@
         "en": "There is no wait for court: the suspension begins on the 46th day after notice."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q28.webp",
+    "alt": {
+      "ru": "На стене календарь с одним обведённым днём, рядом на крючке ключи от машины.",
+      "en": "A wall calendar with one day circled and car keys on a hook beside it."
+    }
+  }
 }

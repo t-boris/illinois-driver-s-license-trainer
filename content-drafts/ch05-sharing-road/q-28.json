@@ -33,5 +33,12 @@
         "en": "Bicyclists have the same rights as other road users, including the right of way."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q28.webp",
+    "alt": {
+      "ru": "Велосипедист в шлеме и автомобиль едут в одном направлении по широкой пригородной дороге.",
+      "en": "A bicyclist in a helmet and a car travel the same direction on a wide suburban road."
+    }
+  }
 }

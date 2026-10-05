@@ -44,5 +44,12 @@
         "en": "Front tinting is not allowed except a 6-inch strip at the top."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q31.webp",
+    "alt": {
+      "ru": "Взрослый протирает изнутри лобовое стекло припаркованного седана на солнечной подъездной дорожке.",
+      "en": "An adult cleans a windshield of a parked sedan in a driveway."
+    }
+  }
 }

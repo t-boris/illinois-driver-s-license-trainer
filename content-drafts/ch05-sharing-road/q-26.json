@@ -55,5 +55,12 @@
         "en": "A steady flow is not a problem. Wind gusts can push the motorcycle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q26.webp",
+    "alt": {
+      "ru": "Мотоциклист слегка наклоняется навстречу ветру, в соседней полосе обгоняет большой фургон на открытом шоссе.",
+      "en": "A motorcyclist leans into a crosswind as a big delivery truck passes in the next lane on an open highway."
+    }
+  }
 }

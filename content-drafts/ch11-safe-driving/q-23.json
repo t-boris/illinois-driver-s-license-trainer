@@ -44,5 +44,12 @@
         "en": "That is not enough: a red warning light is recommended so you are noticed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q23.webp",
+    "alt": {
+      "ru": "Компактная машина осторожно едет по тихой дороге с лёгким снегом, вдоль неё голые деревья.",
+      "en": "A compact car drives cautiously on a snow-dusted country road."
+    }
+  }
 }

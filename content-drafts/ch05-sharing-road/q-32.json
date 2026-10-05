@@ -55,5 +55,12 @@
         "en": "Turning off all lights is dangerous. Just do not use high beams."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q32.webp",
+    "alt": {
+      "ru": "Автомобиль с ближним светом приближается к велосипедисту в светоотражающем жилете на сельской дороге в сумерках.",
+      "en": "A car with low beams approaches a bicyclist in a reflective vest on a country road at dusk."
+    }
+  }
 }

@@ -55,5 +55,12 @@
         "en": "Better to warn ahead: flashers and flares help avoid another crash."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q32.webp",
+    "alt": {
+      "ru": "Водитель включил аварийку на припаркованном седане и ставит красный треугольник позади на обочине.",
+      "en": "A driver turns on a parked sedan’s hazards and sets a red warning triangle behind it on the shoulder."
+    }
+  }
 }

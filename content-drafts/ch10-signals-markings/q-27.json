@@ -44,5 +44,12 @@
         "en": "In the manual a flashing yellow arrow means approaching and making a left turn."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q27.webp",
+    "alt": {
+      "ru": "Широкая многополосная магистраль среди полей, видно водителя за лобовым стеклом.",
+      "en": "A wide multi-lane expressway with an adult driver visible through the windshield."
+    }
+  }
 }

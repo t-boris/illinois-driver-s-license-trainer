@@ -33,5 +33,12 @@
         "en": "Correct! Yield first to vehicles and pedestrians still in the intersection, then proceed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q55.webp",
+    "alt": {
+      "ru": "Очередь машин на перекрёстке, фургон ещё пересекает его.",
+      "en": "Cars wait at an intersection as a delivery van still crosses."
+    }
+  }
 }

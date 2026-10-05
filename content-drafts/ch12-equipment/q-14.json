@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. Only a 6-inch strip of tinting along the entire length at the top of the windshield is allowed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q14.webp",
+    "alt": {
+      "ru": "Припаркованный седан с чистым лобовым стеклом у дома, взрослый протирает стекло тряпкой.",
+      "en": "An adult wipes a clear windshield of a parked sedan."
+    }
+  }
 }

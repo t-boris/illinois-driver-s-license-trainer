@@ -55,5 +55,12 @@
         "en": "A license is required: any valid Illinois driver’s license works."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q37.webp",
+    "alt": {
+      "ru": "Взрослый в шлеме едет на небольшом мопеде по тихой улице городка утром.",
+      "en": "An adult in a helmet rides a small moped on a quiet small-town street in the morning."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "The manual gives no such exception."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q30.webp",
+    "alt": {
+      "ru": "Водитель включил сигнал поворота налево к въезду во двор кирпичного дома, вид сзади.",
+      "en": "A driver signals a left turn toward a driveway, seen from behind."
+    }
+  }
 }

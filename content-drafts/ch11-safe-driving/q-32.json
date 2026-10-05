@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. Neither snow tires nor chains allow you to drive on bad roads at normal speeds. They only add traction."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q32.webp",
+    "alt": {
+      "ru": "Пикап на зимних шинах медленно едет по заснеженной сельской дороге среди белых полей.",
+      "en": "A pickup on winter tires drives slowly on a snowy country road."
+    }
+  }
 }

@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. No tinted or smoked lenses are allowed on any vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q36.webp",
+    "alt": {
+      "ru": "Передняя часть чистого седана с прозрачными фарами на солнечной подъездной дорожке, рядом взрослый.",
+      "en": "The front of a clean sedan with clear headlights in a driveway."
+    }
+  }
 }

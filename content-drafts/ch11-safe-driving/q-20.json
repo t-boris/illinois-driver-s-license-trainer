@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. In rain, turn off the cruise control, slow down and increase your following distance. Take special care on curves, turns and while braking."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q20.webp",
+    "alt": {
+      "ru": "Седан осторожно едет по мокрой сельской дороге после дождя, лужи отражают серое небо.",
+      "en": "A sedan drives carefully on a wet rural road after rain."
+    }
+  }
 }

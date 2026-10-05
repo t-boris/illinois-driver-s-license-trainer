@@ -44,5 +44,12 @@
         "en": "That is how a green arrow works. A red arrow prohibits the movement."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q22.webp",
+    "alt": {
+      "ru": "Вид из салона на пустой перекрёсток, руки водителя на руле.",
+      "en": "From inside a car, a driver’s hands on the wheel at an empty crossroads."
+    }
+  }
 }

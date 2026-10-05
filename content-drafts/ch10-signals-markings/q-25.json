@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. A constantly lit orange upraised hand (Don’t Walk) means do not enter the roadway. You may cross at the Walk (walking person) signal."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q25.webp",
+    "alt": {
+      "ru": "Пешеход терпеливо ждёт на тихом углу с чашкой кофе, осенние деревья вокруг.",
+      "en": "A pedestrian waits patiently at a quiet corner with a coffee cup."
+    }
+  }
 }

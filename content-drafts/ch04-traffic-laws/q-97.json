@@ -55,5 +55,12 @@
         "en": "Too small. It is 30 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q97.webp",
+    "alt": {
+      "ru": "Угол жилой улицы, машины припаркованы поодаль от перекрёстка.",
+      "en": "A residential corner with cars parked well back from the intersection."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "The manual lists no such limit: it names sunset-sunrise, wipers and 1,000-foot visibility."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q16.webp",
+    "alt": {
+      "ru": "Седан с включёнными фарами едет под лёгким дождём по тихой сельской дороге.",
+      "en": "A sedan with headlights on drives in light drizzle on a country road."
+    }
+  }
 }

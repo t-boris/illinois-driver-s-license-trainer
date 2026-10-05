@@ -55,5 +55,12 @@
         "en": "Controlled-access highways and most expressways are an exception: riders are not allowed there."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q49.webp",
+    "alt": {
+      "ru": "Всадник на спокойной лошади идёт по правому краю грунтовой дороги, сзади притормаживает пикап.",
+      "en": "A rider on a calm horse walks along the right edge of a gravel road as a pickup slows behind."
+    }
+  }
 }

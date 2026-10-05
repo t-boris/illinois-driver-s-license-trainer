@@ -44,5 +44,12 @@
         "en": "Do not stay in the path: move to the right and sound the horn."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q43.webp",
+    "alt": {
+      "ru": "Взрослый водитель держит руль и спокойно смотрит вперёд на длинной прямой сельской дороге.",
+      "en": "An adult driver grips the wheel and looks ahead along a rural road."
+    }
+  }
 }

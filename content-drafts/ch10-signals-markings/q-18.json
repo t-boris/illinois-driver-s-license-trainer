@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. A green arrow lets you go in the direction it points after you yield to traffic and pedestrians in the intersection or crosswalk. You do not have to wait for the red to change."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q18.webp",
+    "alt": {
+      "ru": "Вид из салона: водитель ждёт на тихом перекрёстке среди полей, руки на руле.",
+      "en": "View from inside a car: a driver waits at a quiet rural crossroads."
+    }
+  }
 }

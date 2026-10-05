@@ -44,5 +44,12 @@
         "en": "The right number is *999 (or 911)."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q57.webp",
+    "alt": {
+      "ru": "Взрослый сидит в припаркованном седане на обочине с телефоном, аварийка горит, позади поля.",
+      "en": "An adult in a parked sedan on a shoulder holds a phone."
+    }
+  }
 }

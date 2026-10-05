@@ -44,5 +44,12 @@
         "en": "Correct! Also prohibited: sidewalks, crosswalks, intersections, bridges, tunnels, marked bike lanes, and controlled-access roadways."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q95.webp",
+    "alt": {
+      "ru": "Две машины у бордюра, третья стоит рядом на проезжей части.",
+      "en": "Two cars at a curb, a third stands beside them in the street."
+    }
+  }
 }

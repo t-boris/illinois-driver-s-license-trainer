@@ -33,5 +33,12 @@
         "en": "Privileges are lost even without driving: for persons under 21 a conviction or court supervision for such an offense is enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q45.webp",
+    "alt": {
+      "ru": "Молодой человек идёт к автобусной остановке с банкой лимонада и телефоном в руках, днём.",
+      "en": "A young adult walks toward a bus stop holding a soda can and a phone in daylight."
+    }
+  }
 }

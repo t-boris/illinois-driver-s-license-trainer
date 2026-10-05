@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. A driver may never leave the roadway to avoid a signal. Signals and markings must be obeyed unless a police or traffic control officer directs otherwise."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q17.webp",
+    "alt": {
+      "ru": "Вид из салона: руки водителя на руле у тихого перекрёстка среди кукурузных полей.",
+      "en": "View from inside a car: a driver's hands on the wheel at a quiet crossroads."
+    }
+  }
 }

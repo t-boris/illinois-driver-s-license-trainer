@@ -33,5 +33,12 @@
         "en": "Exactly, it is a tricky wording: the ban applies to drivers under 19 (even hands-free), so at 19 it no longer applies."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q18.webp",
+    "alt": {
+      "ru": "Молодой водитель держит руль обеими руками, телефон лежит в держателе на панели.",
+      "en": "A young driver holds the wheel with both hands, a phone resting in a dashboard holder."
+    }
+  }
 }

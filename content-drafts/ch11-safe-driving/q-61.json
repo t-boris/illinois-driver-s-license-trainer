@@ -44,5 +44,12 @@
         "en": "This is not the least dangerous option."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q61.webp",
+    "alt": {
+      "ru": "Водитель сидит за рулём седана с сосредоточенным спокойным лицом, перед ним тихая улица.",
+      "en": "A driver sits at the wheel with a calm, focused expression."
+    }
+  }
 }

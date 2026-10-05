@@ -33,5 +33,12 @@
         "en": "Correct! Driving off the main traveled part of the road to pass is not allowed. Only authorized vehicles may pass on the shoulder."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q63.webp",
+    "alt": {
+      "ru": "Медленный самосвал на двухполосной дороге, за ним ждут две машины.",
+      "en": "A slow truck on a two-lane road with two cars waiting behind."
+    }
+  }
 }

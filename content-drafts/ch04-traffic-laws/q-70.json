@@ -33,5 +33,12 @@
         "en": "Not quite. The door may stay open only long enough to load or unload. The Dutch Reach, opening with the far hand, makes you turn and check for traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q70.webp",
+    "alt": {
+      "ru": "Водитель у бордюра собирается открыть дверь, вдали едет велосипедист.",
+      "en": "A driver parked at a curb is about to open the door, a cyclist far down the street."
+    }
+  }
 }

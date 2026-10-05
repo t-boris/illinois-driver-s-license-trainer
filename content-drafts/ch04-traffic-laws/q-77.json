@@ -44,5 +44,12 @@
         "en": "Not enough. You need at least 500 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q77.webp",
+    "alt": {
+      "ru": "Машина на сельской дороге на пологом холме с широким обзором.",
+      "en": "A car pauses on a gentle rural hill with a wide view of fields."
+    }
+  }
 }

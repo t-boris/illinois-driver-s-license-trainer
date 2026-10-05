@@ -44,5 +44,12 @@
         "en": "Correct. First you may try hooking your toe under the pedal."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q54.webp",
+    "alt": {
+      "ru": "Механик показывает педали владельцу, сидящему в припаркованном седане в мастерской.",
+      "en": "A mechanic shows the pedals to a customer seated in a sedan."
+    }
+  }
 }

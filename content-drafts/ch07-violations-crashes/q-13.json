@@ -55,5 +55,12 @@
         "en": "A note is not needed: a parent or guardian must attend."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q13.webp",
+    "alt": {
+      "ru": "Подросток в рубашке поднимается по кирпичным ступеням здания суда рядом с родителем.",
+      "en": "A teenager in a button-up shirt climbs brick courthouse steps beside a parent."
+    }
+  }
 }

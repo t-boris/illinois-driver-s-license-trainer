@@ -55,5 +55,12 @@
         "en": "Correct. Write them down calmly, without arguing about fault."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q31.webp",
+    "alt": {
+      "ru": "Двое водителей спокойно обмениваются записями рядом с двумя машинами на тихой улице.",
+      "en": "Two drivers calmly exchange notes beside two parked cars on a quiet street."
+    }
+  }
 }

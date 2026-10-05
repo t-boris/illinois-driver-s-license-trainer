@@ -44,5 +44,12 @@
         "en": "Correct. This is a reason for suspension. For drivers under 21, a single illegal transportation offense is enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q13.webp",
+    "alt": {
+      "ru": "Задумчивый водитель сидит в припаркованной машине на тихой заправке и держится за руль.",
+      "en": "A thoughtful driver sits in a parked car at a quiet gas station."
+    }
+  }
 }

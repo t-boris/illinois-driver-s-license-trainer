@@ -44,5 +44,12 @@
         "en": "No. At a flashing yellow arrow you must yield."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q58.webp",
+    "alt": {
+      "ru": "Машина готовится повернуть налево, навстречу автобус и велосипедист.",
+      "en": "A car prepares to turn left as a bus and a cyclist approach."
+    }
+  }
 }

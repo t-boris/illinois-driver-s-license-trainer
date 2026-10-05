@@ -44,5 +44,12 @@
         "en": "Correct. A blanket, food and a shovel in the vehicle help you wait it out."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q21.webp",
+    "alt": {
+      "ru": "Седан стоит на заснеженной сельской дороге, внутри взрослый в одеяле с термосом, вокруг белые поля.",
+      "en": "A sedan on a snowy lane with an adult wrapped in a blanket inside."
+    }
+  }
 }

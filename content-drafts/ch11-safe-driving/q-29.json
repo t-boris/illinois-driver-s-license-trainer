@@ -44,5 +44,12 @@
         "en": "The wind pushes the vehicle: steering corrections are needed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q29.webp",
+    "alt": {
+      "ru": "Седан выезжает на открытый участок шоссе с деревьями, гнущимися от ветра, впереди вдали грузовик.",
+      "en": "A sedan enters an open windy highway stretch, a truck far ahead."
+    }
+  }
 }

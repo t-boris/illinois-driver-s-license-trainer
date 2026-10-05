@@ -44,5 +44,12 @@
         "en": "Correct. A broken white line may be crossed when changing lanes or turning."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q29.webp",
+    "alt": {
+      "ru": "Две машины едут рядом в соседних полосах широкого шоссе, виден водитель, ровные поля.",
+      "en": "Two cars drive side by side in neighbouring highway lanes."
+    }
+  }
 }

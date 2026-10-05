@@ -55,5 +55,12 @@
         "en": "Correct. The program is voluntary for schools, and the certificate is signed by the instructor and a parent."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q23.webp",
+    "alt": {
+      "ru": "Учитель в классе вручает папку улыбающемуся подростку, на столе стоит модель машины.",
+      "en": "A teacher hands a folder to a smiling teenager in a classroom with a model car on the desk."
+    }
+  }
 }

@@ -55,5 +55,12 @@
         "en": "Correct. The definition is broad: on in-line skates or a skateboard you are a pedestrian too, as is a person with a physical, hearing, or visual disability."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q15.webp",
+    "alt": {
+      "ru": "Человек на роликах и прохожая с коляской идут по широкому тротуару городка в солнечный день.",
+      "en": "A person on in-line skates and a walker with a stroller share a wide sidewalk on a sunny day."
+    }
+  }
 }

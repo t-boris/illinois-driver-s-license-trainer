@@ -44,5 +44,12 @@
         "en": "Correct! Do not overload a vehicle with passengers or freight so that the driver's view is obstructed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q101.webp",
+    "alt": {
+      "ru": "Семья из пяти человек садится в минивэн на подъездной дорожке.",
+      "en": "A family of five gets into a minivan in a driveway."
+    }
+  }
 }

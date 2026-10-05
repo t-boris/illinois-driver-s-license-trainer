@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. Televisions or video monitors that can be seen from the driver’s seat are also prohibited while the vehicle is in motion."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q24.webp",
+    "alt": {
+      "ru": "Телефон в держателе на панели выключен, руки водителя на руле, впереди тихая дорога с деревьями.",
+      "en": "An unused phone on the dashboard, a driver's hands on the wheel."
+    }
+  }
 }

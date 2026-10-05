@@ -44,5 +44,12 @@
         "en": "Correct. If property damage or injury results, the license may be suspended."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q32.webp",
+    "alt": {
+      "ru": "Машина скорой помощи с мигалками стоит на широкой обочине, двое фельдшеров у оборудования.",
+      "en": "An ambulance parked on a wide shoulder with two paramedics nearby."
+    }
+  }
 }

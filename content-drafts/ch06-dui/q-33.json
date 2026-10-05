@@ -33,5 +33,12 @@
         "en": "There are several requirements: an evaluation, a rehabilitation or education program, a hearing with the Secretary of State, and a reinstatement fee."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q33.webp",
+    "alt": {
+      "ru": "Взрослый сидит напротив консультанта в спокойном кабинете, между ними раскрытый блокнот.",
+      "en": "An adult sits across a desk from a counselor in a calm office with a notebook open between them."
+    }
+  }
 }

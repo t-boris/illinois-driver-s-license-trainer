@@ -55,5 +55,12 @@
         "en": "It is needed: with an uninsured vehicle the threshold is just $500."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q16.webp",
+    "alt": {
+      "ru": "Двое водителей спокойно стоят у двух машин с небольшими царапинами на тихой улице, один записывает данные.",
+      "en": "Two drivers stand calmly beside two scratched cars on a quiet street, one taking notes on a phone."
+    }
+  }
 }

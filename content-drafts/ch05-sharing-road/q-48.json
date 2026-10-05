@@ -55,5 +55,12 @@
         "en": "Driving on the center line is not allowed: slower traffic uses the right lane."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q48.webp",
+    "alt": {
+      "ru": "Пикап едет по правой полосе четырёхполосного шоссе, слева его обгоняет более быстрый автомобиль.",
+      "en": "A pickup cruises in the right lane of a four-lane highway as a faster car passes on the left."
+    }
+  }
 }

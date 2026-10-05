@@ -55,5 +55,12 @@
         "en": "Refusal after a serious crash leads to revocation for at least one year."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q29.webp",
+    "alt": {
+      "ru": "На столе лежит календарный лист с длинным рядом зачёркнутых месяцев и пустое кольцо для ключей.",
+      "en": "A calendar page with many crossed-out months lies on a desk beside an empty key ring."
+    }
+  }
 }

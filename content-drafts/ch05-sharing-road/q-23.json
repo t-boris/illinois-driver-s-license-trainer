@@ -55,5 +55,12 @@
         "en": "Correct. Do not speed up or drift, so the rider can return to a proper lane position quickly."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q23.webp",
+    "alt": {
+      "ru": "Седан держит скорость на прямой загородной дороге, слева его обгоняет мотоциклист в шлеме.",
+      "en": "A sedan holds steady on a straight country road as a helmeted motorcyclist passes on the left."
+    }
+  }
 }

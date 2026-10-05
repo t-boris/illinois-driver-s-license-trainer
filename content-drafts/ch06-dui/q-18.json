@@ -55,5 +55,12 @@
         "en": "There is a limit: 5 nanograms in whole blood or 10 in other substances."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q18.webp",
+    "alt": {
+      "ru": "Фармацевт в белом халате спокойно что-то объясняет покупателю за стойкой аптеки.",
+      "en": "A pharmacist in a white coat kindly explains something to an adult customer at a pharmacy counter."
+    }
+  }
 }

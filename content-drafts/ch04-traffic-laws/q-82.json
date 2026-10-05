@@ -44,5 +44,12 @@
         "en": "No. The penalty is serious because the offense is very dangerous."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q82.webp",
+    "alt": {
+      "ru": "Водитель в минивэне ждёт за школьным автобусом, пока дети переходят.",
+      "en": "A driver in a minivan waits behind a school bus while children cross."
+    }
+  }
 }

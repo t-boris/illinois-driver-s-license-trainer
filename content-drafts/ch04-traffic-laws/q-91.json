@@ -44,5 +44,12 @@
         "en": "Correct! Without a curb, turn the wheels toward the road edge both uphill and downhill."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q91.webp",
+    "alt": {
+      "ru": "Пикап стоит на гравийной обочине холма на сельской дороге.",
+      "en": "A pickup is parked on a gravel shoulder of a hill on a country road."
+    }
+  }
 }

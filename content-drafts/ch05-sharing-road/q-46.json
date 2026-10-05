@@ -55,5 +55,12 @@
         "en": "What matters to you: they may turn right or left into an unmarked entrance."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q46.webp",
+    "alt": {
+      "ru": "Комбайн медленно сворачивает с сельской дороги в поле, пикап ждёт на безопасной дистанции.",
+      "en": "A combine turns slowly off a country road into a field as a pickup waits at a safe distance."
+    }
+  }
 }

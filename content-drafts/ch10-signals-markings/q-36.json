@@ -44,5 +44,12 @@
         "en": "The line means no passing."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q36.webp",
+    "alt": {
+      "ru": "Тихая двухполосная дорога ведёт к далёким путям через поле, на обочине велосипедист в шлеме.",
+      "en": "A quiet country road toward distant tracks, a cyclist on the shoulder."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Cancellation relates to an error or loss of entitlement. Here the action is suspension."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q34.webp",
+    "alt": {
+      "ru": "Двое водителей спокойно разговаривают на тихой улице рядом с двумя машинами, один держит телефон.",
+      "en": "Two drivers talk calmly by two parked cars, one holding a phone."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Red lights visible from the front are prohibited."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q33.webp",
+    "alt": {
+      "ru": "Высокий пикап на ферме в сумерках, вдоль нижнего края мягко горят янтарные огни, рядом взрослый.",
+      "en": "A pickup with soft amber lights along its side at dusk."
+    }
+  }
 }

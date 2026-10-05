@@ -33,5 +33,12 @@
         "en": "Correct! You must come to a complete stop before the sidewalk, then yield to pedestrians and all vehicles."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q56.webp",
+    "alt": {
+      "ru": "Машина собирается выехать из проезда, мимо идёт женщина с коляской.",
+      "en": "A car is about to leave a driveway as a woman with a stroller walks by."
+    }
+  }
 }

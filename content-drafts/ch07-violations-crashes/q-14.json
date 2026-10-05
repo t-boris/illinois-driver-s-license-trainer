@@ -55,5 +55,12 @@
         "en": "The ticket is not cancelled: a conviction is entered like any other."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q14.webp",
+    "alt": {
+      "ru": "Женщина за кухонным столом рассматривает бумагу и календарь с чашкой чая, утренний свет.",
+      "en": "A woman at a kitchen table reviews a paper and a calendar with a cup of tea in morning light."
+    }
+  }
 }

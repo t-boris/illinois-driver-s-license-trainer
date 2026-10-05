@@ -55,5 +55,12 @@
         "en": "The Illinois Department of Transportation sets it, not the officer."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q24.webp",
+    "alt": {
+      "ru": "Сотрудник офиса с папкой разговаривает с клиентом за светлым столом, рядом калькулятор.",
+      "en": "An office worker with a folder talks with a client across a bright desk with a calculator."
+    }
+  }
 }

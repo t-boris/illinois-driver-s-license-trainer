@@ -55,5 +55,12 @@
         "en": "An orange emblem is required so other drivers notice the slow vehicle from far away."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q45.webp",
+    "alt": {
+      "ru": "Трактор с прицепом едет по правому краю сельской дороги, сзади на безопасной дистанции пикап.",
+      "en": "A tractor with a wagon drives on the right edge of a country road, a pickup behind."
+    }
+  }
 }

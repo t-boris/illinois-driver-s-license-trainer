@@ -33,5 +33,12 @@
         "en": "The manual answers “true”: alcohol is the number one killer on roads, since it affects vision and slows reaction time."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q15.webp",
+    "alt": {
+      "ru": "Спокойная женщина берёт ключи от машины со столика в прихожей, рядом телефон и стакан воды.",
+      "en": "A calm woman picks up car keys from a hallway table with a phone and a glass of water nearby."
+    }
+  }
 }

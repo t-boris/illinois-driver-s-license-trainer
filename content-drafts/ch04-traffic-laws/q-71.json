@@ -33,5 +33,12 @@
         "en": "Not quite. Stunts and speed exhibitions that block traffic are illegal because they endanger everyone."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q71.webp",
+    "alt": {
+      "ru": "Пустая парковка с несколькими машинами, вдали встревоженный прохожий.",
+      "en": "An empty parking lot with a few cars and a distant onlooker."
+    }
+  }
 }

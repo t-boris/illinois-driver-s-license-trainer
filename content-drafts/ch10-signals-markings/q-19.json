@@ -44,5 +44,12 @@
         "en": "Not quite: edge lines show the edge of the pavement, while yellow center lines separate opposing traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q19.webp",
+    "alt": {
+      "ru": "Водитель терпеливо едет за медленным трактором по тихой двухполосной сельской дороге, вид сзади.",
+      "en": "A driver patiently follows a slow tractor on a country road."
+    }
+  }
 }

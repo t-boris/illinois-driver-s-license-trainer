@@ -33,5 +33,12 @@
         "en": "Correct! Slow vehicles must use the right-hand lane except when passing or turning left."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q68.webp",
+    "alt": {
+      "ru": "Многополосное шоссе, гружёный грузовик едет, другие машины его обгоняют.",
+      "en": "A multi-lane highway where a loaded truck is overtaken by cars."
+    }
+  }
 }

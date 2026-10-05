@@ -33,5 +33,12 @@
         "en": "Correct! Never stop on the tracks. Enter a crossing only if there is room for your vehicle on the other side."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q85.webp",
+    "alt": {
+      "ru": "Колонна машин медленно едет к переезду в деревне.",
+      "en": "A line of cars drives slowly toward a village rail crossing."
+    }
+  }
 }

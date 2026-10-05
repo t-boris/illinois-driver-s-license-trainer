@@ -44,5 +44,12 @@
         "en": "Correct. Safety matters more than the vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q44.webp",
+    "alt": {
+      "ru": "Взрослый стоит на безопасном расстоянии от припаркованного хэтчбека и говорит по телефону.",
+      "en": "An adult stands a safe distance from a parked hatchback, on the phone."
+    }
+  }
 }

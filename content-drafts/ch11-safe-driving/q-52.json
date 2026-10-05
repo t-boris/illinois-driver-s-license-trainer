@@ -44,5 +44,12 @@
         "en": "You need to slow down, not accelerate."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q52.webp",
+    "alt": {
+      "ru": "Механик и владелец беседуют у машины со снятым колесом в аккуратной мастерской.",
+      "en": "A mechanic and a car owner talk beside a car in a workshop."
+    }
+  }
 }

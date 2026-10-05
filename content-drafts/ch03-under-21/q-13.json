@@ -55,5 +55,12 @@
         "en": "The term is not tied to age 21: the permit is valid for 24 months."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q13.webp",
+    "alt": {
+      "ru": "Улыбающаяся девушка держит карточку, рядом отец, на кухонном столе стоит календарь.",
+      "en": "A smiling young woman holds a card beside her father at a kitchen table with a calendar."
+    }
+  }
 }

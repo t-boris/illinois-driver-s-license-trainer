@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. Taillights must be red and visible for 500 feet from behind."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q35.webp",
+    "alt": {
+      "ru": "Мотоцикл рядом с седаном на краю тихой гравийной площадки в сумерках, горят задние огни.",
+      "en": "A motorcycle beside a sedan at dusk with soft rear lights on."
+    }
+  }
 }

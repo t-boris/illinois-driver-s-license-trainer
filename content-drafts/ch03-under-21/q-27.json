@@ -55,5 +55,12 @@
         "en": "Correct. You may also be required to take a complete driver’s license examination."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q27.webp",
+    "alt": {
+      "ru": "Молодой взрослый на занятии в небольшом классе с дружелюбным инструктором и другими студентами.",
+      "en": "A young adult in a small classroom with a friendly instructor and other adult students."
+    }
+  }
 }

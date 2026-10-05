@@ -44,5 +44,12 @@
         "en": "Correct! If you entered on green, you may finish the turn after the light turns red, yielding to oncoming vehicles."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q54.webp",
+    "alt": {
+      "ru": "Седан с поворотником ждёт посреди перекрёстка, навстречу идёт пикап.",
+      "en": "A sedan waits mid-intersection to turn left as a pickup approaches."
+    }
+  }
 }

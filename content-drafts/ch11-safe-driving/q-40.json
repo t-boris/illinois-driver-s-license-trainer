@@ -44,5 +44,12 @@
         "en": "The manual gives no such advice: reduce light inside the vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q40.webp",
+    "alt": {
+      "ru": "Взрослый водитель ночью, лицо слабо освещено приборной панелью, впереди тёмная сельская дорога.",
+      "en": "An adult driver at night, face softly lit by the dashboard."
+    }
+  }
 }

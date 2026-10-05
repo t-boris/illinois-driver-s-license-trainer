@@ -55,5 +55,12 @@
         "en": "It is required: a DUI conviction requires filing financial responsibility insurance for three years."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q34.webp",
+    "alt": {
+      "ru": "Взрослый в светлом офисе вместе со страховым агентом просматривает пачку документов.",
+      "en": "An adult reviews a stack of insurance paperwork with an agent in a bright office."
+    }
+  }
 }

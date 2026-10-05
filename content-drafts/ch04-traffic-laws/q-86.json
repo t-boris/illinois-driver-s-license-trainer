@@ -33,5 +33,12 @@
         "en": "Not quite. Always look for a second train on another track. Proceed only when the gate is up and lights are off."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q86.webp",
+    "alt": {
+      "ru": "Водитель в седане ждёт у переезда, товарный поезд уходит вдаль.",
+      "en": "A driver waits in a sedan as a freight train rolls away."
+    }
+  }
 }

@@ -55,5 +55,12 @@
         "en": "The manual names the specific consequence: suspension of the driver’s license."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q21.webp",
+    "alt": {
+      "ru": "Полицейский вежливо разговаривает с водителем через открытое окно машины на обочине.",
+      "en": "A police officer politely talks with a driver through the open window of a car on a road shoulder."
+    }
+  }
 }

@@ -55,5 +55,12 @@
         "en": "Not allowed: no more than one person may ride."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q38.webp",
+    "alt": {
+      "ru": "Взрослый стоит на электросамокате на широкой парковой дорожке среди осенних деревьев.",
+      "en": "An adult stands on an electric scooter on a wide park trail among autumn trees."
+    }
+  }
 }

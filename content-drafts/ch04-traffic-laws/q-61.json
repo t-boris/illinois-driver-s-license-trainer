@@ -33,5 +33,12 @@
         "en": "Not quite. Do not block an intersection or crosswalk, even on green: make sure there is room beyond first."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q61.webp",
+    "alt": {
+      "ru": "Машины стоят в пробке, одна остановилась перед перекрёстком, пешеходы идут.",
+      "en": "Cars queue in traffic, one stops short of the intersection as pedestrians walk."
+    }
+  }
 }

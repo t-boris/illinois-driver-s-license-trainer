@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. A muffler is required to prevent excessive noise and smoke."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q20.webp",
+    "alt": {
+      "ru": "Механик и клиент смотрят под поднятый седан на выхлопную трубу в гараже.",
+      "en": "A mechanic and a customer look at a sedan exhaust in a garage."
+    }
+  }
 }

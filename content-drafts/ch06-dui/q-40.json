@@ -33,5 +33,12 @@
         "en": "It is prohibited: the DUI rules extend to motorboats too."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q40.webp",
+    "alt": {
+      "ru": "Моторная лодка у деревянного причала на тихом озере, на причале сидит человек в спасательном жилете.",
+      "en": "A small motorboat tied at a wooden dock on a calm lake, a person in a life jacket nearby."
+    }
+  }
 }

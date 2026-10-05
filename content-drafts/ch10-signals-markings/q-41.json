@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. On green you must yield to any pedestrians and vehicles in the intersection or crosswalk before going."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q41.webp",
+    "alt": {
+      "ru": "Водитель в седане на тихой городской улице, вид через боковое окно.",
+      "en": "A driver in a sedan on a quiet town street, seen through the side window."
+    }
+  }
 }

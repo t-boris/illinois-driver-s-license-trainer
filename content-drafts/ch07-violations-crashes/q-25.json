@@ -55,5 +55,12 @@
         "en": "There is no automatic end: proof and three years of insurance are required."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q25.webp",
+    "alt": {
+      "ru": "Взрослый за кухонным столом просматривает страховые бумаги рядом с ноутбуком, за окном машина.",
+      "en": "An adult at a kitchen table reviews insurance papers beside a laptop, a car in the driveway outside."
+    }
+  }
 }

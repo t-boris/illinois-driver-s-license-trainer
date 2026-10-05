@@ -44,5 +44,12 @@
         "en": "A denial applies specifically to people under age 18."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q21.webp",
+    "alt": {
+      "ru": "Взрослый наставник и молодой человек вместе читают бумажную брошюру на скамейке в парке.",
+      "en": "An adult mentor and a young learner read a booklet on a park bench."
+    }
+  }
 }

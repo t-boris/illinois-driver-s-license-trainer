@@ -44,5 +44,12 @@
         "en": "Both a foot brake and an emergency/parking brake are required."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q32.webp",
+    "alt": {
+      "ru": "Механик и водитель осматривают тормозной диск с фонариком в чистой мастерской.",
+      "en": "A mechanic and a driver inspect a brake disc in a workshop."
+    }
+  }
 }

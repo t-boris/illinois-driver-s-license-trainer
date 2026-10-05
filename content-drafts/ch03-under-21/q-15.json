@@ -55,5 +55,12 @@
         "en": "Exactly. On weeknights it runs from 10 p.m. to 6 a.m., and on Friday and Saturday from 11 p.m."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q15.webp",
+    "alt": {
+      "ru": "Молодой человек вешает ключи от машины у двери, на часах поздний вечер, родитель улыбается.",
+      "en": "A young man hangs car keys by the door on a late evening while a parent smiles."
+    }
+  }
 }

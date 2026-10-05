@@ -44,5 +44,12 @@
         "en": "Correct! If the brakes fail the car rolls back and stops against the curb. Always shift to park and set the parking brake if necessary."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q90.webp",
+    "alt": {
+      "ru": "Седан стоит у бордюра на пологом склоне тихой жилой улицы.",
+      "en": "A sedan parked on a gently sloping residential street."
+    }
+  }
 }

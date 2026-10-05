@@ -44,5 +44,12 @@
         "en": "Correct! Yield to all traffic, stay in your lane, and use the right signal to show you are exiting."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q79.webp",
+    "alt": {
+      "ru": "Вид сверху на круговой перекрёсток с зелёным островком и машинами.",
+      "en": "Aerial view of a roundabout with a green island and circling cars."
+    }
+  }
 }

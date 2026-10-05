@@ -44,5 +44,12 @@
         "en": "No. Move at a 45-degree angle in the direction the train is travelling, so you are not hit by flying debris."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q88.webp",
+    "alt": {
+      "ru": "Сломанная машина у железной дороги, двое взрослых спокойно уходят по траве.",
+      "en": "A broken-down car beside a rail line, two adults walk calmly away through grass."
+    }
+  }
 }

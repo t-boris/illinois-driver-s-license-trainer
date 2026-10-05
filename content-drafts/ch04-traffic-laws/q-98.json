@@ -44,5 +44,12 @@
         "en": "15 feet is for fire hydrants."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q98.webp",
+    "alt": {
+      "ru": "Парковка у железной дороги, машины стоят далеко от путей.",
+      "en": "A parking lot beside a rail line, cars parked far from the tracks."
+    }
+  }
 }

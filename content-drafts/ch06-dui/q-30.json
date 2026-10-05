@@ -55,5 +55,12 @@
         "en": "The term is longer: at least five years for a second conviction within 20 years."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q30.webp",
+    "alt": {
+      "ru": "На столе ряд календарных страниц и карандаш рядом с ключами от машины.",
+      "en": "A row of calendar pages and a pencil lie on a desk beside car keys."
+    }
+  }
 }

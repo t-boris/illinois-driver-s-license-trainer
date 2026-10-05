@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. The same applies to flashing or moving lights other than turn signals or hazard indicators."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q26.webp",
+    "alt": {
+      "ru": "Патрульный седан с приветливым офицером в тихом городе помогает пешеходу, дневное время.",
+      "en": "A patrol sedan with an officer helping a pedestrian in a town."
+    }
+  }
 }

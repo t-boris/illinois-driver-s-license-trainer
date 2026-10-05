@@ -44,5 +44,12 @@
         "en": "Correct. A raised hood and hazard flashers tell others you have a problem."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q36.webp",
+    "alt": {
+      "ru": "Седан с поднятым капотом стоит на широкой обочине шоссе, рядом взрослый звонит по телефону.",
+      "en": "A sedan with a raised hood on a shoulder, an adult on the phone."
+    }
+  }
 }

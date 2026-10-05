@@ -33,5 +33,12 @@
         "en": "Not quite. The passing driver decides for themselves, and courtesy signaling with turn signals is not allowed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q64.webp",
+    "alt": {
+      "ru": "Две машины на сельской дороге, водитель сзади смотрит вперёд.",
+      "en": "Two cars on a rural road, the rear driver looks ahead."
+    }
+  }
 }

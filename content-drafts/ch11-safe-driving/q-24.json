@@ -44,5 +44,12 @@
         "en": "Newer brakes stop a vehicle more quickly than older, worn ones."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q24.webp",
+    "alt": {
+      "ru": "Механик осматривает колесо поднятого хэтчбека в аккуратной мастерской, инструменты на стене.",
+      "en": "A mechanic inspects a wheel of a raised car in a tidy garage."
+    }
+  }
 }

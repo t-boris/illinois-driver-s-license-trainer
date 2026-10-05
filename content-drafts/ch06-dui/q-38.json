@@ -55,5 +55,12 @@
         "en": "Age is not one of the listed circumstances."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q38.webp",
+    "alt": {
+      "ru": "Жёлтый школьный автобус стоит на пустой площадке, рядом спокойный водитель проверяет планшет.",
+      "en": "A yellow school bus parked in an empty lot with a calm driver checking a clipboard."
+    }
+  }
 }

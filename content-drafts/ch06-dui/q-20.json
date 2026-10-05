@@ -55,5 +55,12 @@
         "en": "The rule does not depend on stopping: no one may use cannabis in a vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q20.webp",
+    "alt": {
+      "ru": "Взрослый закрывает багажник, где запечатанная ёмкость лежит рядом с пакетом продуктов.",
+      "en": "An adult closes a car trunk holding a sealed container beside a grocery bag."
+    }
+  }
 }

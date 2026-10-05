@@ -55,5 +55,12 @@
         "en": "A parent’s call is not an exception. Only emergency calls to police, health care, or emergency services are allowed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q28.webp",
+    "alt": {
+      "ru": "Восемнадцатилетний водитель в очках держит руль обеими руками на прямой загородной дороге.",
+      "en": "An 18-year-old driver in sunglasses holds the wheel with both hands on a straight rural road."
+    }
+  }
 }

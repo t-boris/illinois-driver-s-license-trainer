@@ -55,5 +55,12 @@
         "en": "Pushing on a rural highway is not allowed except in an emergency. Towing uses a drawbar."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q41.webp",
+    "alt": {
+      "ru": "Пикап буксирует небольшой седан на жёсткой сцепке по пустой сельской дороге.",
+      "en": "A pickup tows a small sedan on a rigid drawbar along an empty rural road."
+    }
+  }
 }

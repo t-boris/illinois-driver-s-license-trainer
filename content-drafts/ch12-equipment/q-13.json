@@ -44,5 +44,12 @@
         "en": "Correct. They are required at the front and rear, except on motorcycles, trailers and semitrailers."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q13.webp",
+    "alt": {
+      "ru": "Водитель проверяет задний указатель поворота хэтчбека, помощник стоит сзади, аккуратная подъездная дорожка.",
+      "en": "A driver and a helper check a rear light on a hatchback."
+    }
+  }
 }

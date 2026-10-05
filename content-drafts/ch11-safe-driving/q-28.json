@@ -44,5 +44,12 @@
         "en": "Hard braking at the last moment is dangerous for those behind. Brake early."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q28.webp",
+    "alt": {
+      "ru": "Машина с мигающим левым поворотником замедляется перед поворотом на дороге в тумане.",
+      "en": "A car slows with its left indicator blinking in mist."
+    }
+  }
 }

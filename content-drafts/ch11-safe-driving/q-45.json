@@ -44,5 +44,12 @@
         "en": "Water pressure may keep the doors shut: use a window."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q45.webp",
+    "alt": {
+      "ru": "Спокойный пруд возле сельской дороги, взрослый стоит на травянистом берегу на безопасном расстоянии.",
+      "en": "An adult stands on a grassy bank beside a calm pond."
+    }
+  }
 }

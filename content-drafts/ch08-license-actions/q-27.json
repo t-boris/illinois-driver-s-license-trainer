@@ -44,5 +44,12 @@
         "en": "Correct. It grants full driving privileges during the suspension together with a driver improvement course."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q27.webp",
+    "alt": {
+      "ru": "Взрослый на занятии в небольшом классе, приветливый преподаватель у чистой доски, на партах тетради.",
+      "en": "An adult in a small classroom with a friendly instructor."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Correct. Use lights from sunset to sunrise and keep them clean and aimed properly."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q39.webp",
+    "alt": {
+      "ru": "Встречный седан с мягким светом фар в сумерках на тихой дороге, вид с места водителя.",
+      "en": "An oncoming sedan with soft headlights at dusk, seen from the driver's seat."
+    }
+  }
 }

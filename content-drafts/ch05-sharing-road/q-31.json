@@ -55,5 +55,12 @@
         "en": "Correct. If you share a left-turn lane with a bicyclist, stay behind until the bicyclist safely completes the turn."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q31.webp",
+    "alt": {
+      "ru": "Водитель седана терпеливо ждёт левого поворота, пока встречный велосипедист проезжает перекрёсток.",
+      "en": "A sedan driver waits patiently to turn left while an oncoming bicyclist rides through the intersection."
+    }
+  }
 }

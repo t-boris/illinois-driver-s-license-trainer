@@ -44,5 +44,12 @@
         "en": "Correct! That is the only case where stopping on the roadway is allowed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q96.webp",
+    "alt": {
+      "ru": "Седан с аварийными огнями на краю шоссе, широкая равнина.",
+      "en": "A sedan with hazards on at the edge of a straight highway."
+    }
+  }
 }

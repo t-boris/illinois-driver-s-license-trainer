@@ -55,5 +55,12 @@
         "en": "Correct. It is a four-wheeled vehicle with a federal safety label and VIN, and it must be titled and registered."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q43.webp",
+    "alt": {
+      "ru": "Небольшой четырёхколёсный электромобиль медленно едет по тихой жилой улице, водитель машет соседу.",
+      "en": "A small four-wheeled electric vehicle drives slowly on a quiet residential street as the driver waves."
+    }
+  }
 }

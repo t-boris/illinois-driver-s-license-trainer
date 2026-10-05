@@ -44,5 +44,12 @@
         "en": "Five is the threshold for unpaid automated violations. For reckless driving three convictions are enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q24.webp",
+    "alt": {
+      "ru": "Взрослый водитель спокойно едет по прямому сельскому шоссе среди полей, руки на руле.",
+      "en": "An adult drives calmly along a straight rural highway through farmland."
+    }
+  }
 }

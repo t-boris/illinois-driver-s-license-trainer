@@ -44,5 +44,12 @@
         "en": "Driving too slowly can also be dangerous: speed should match the flow of traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q26.webp",
+    "alt": {
+      "ru": "Седан ровно едет в потоке других машин по широкому шоссе, по сторонам фермерские поля.",
+      "en": "A sedan cruises in a smooth flow of cars on a wide highway."
+    }
+  }
 }

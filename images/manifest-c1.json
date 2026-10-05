@@ -543,7 +543,7 @@
     {
       "id": "ch04-traffic-laws-q85",
       "file": "content-drafts/ch04-traffic-laws/q-85.json",
-      "prompt": "A line of cars driving slowly toward a rural track crossing in a village, farm silos behind, wide cloudy sky, relaxed mood. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "prompt": "A car waits calmly on a quiet country road beside open railway tracks where a long freight train passes in the distance across flat farmland, seen from behind the car. Absolutely no crossing signs, crossbuck, gates, flashing lights, signboards, poles with signs, billboards or any lettering anywhere; only tracks, fields, trees and sky.",
       "alt": {
         "ru": "Колонна машин медленно едет к переезду в деревне.",
         "en": "A line of cars drives slowly toward a village rail crossing."

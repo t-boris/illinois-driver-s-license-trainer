@@ -44,5 +44,12 @@
         "en": "The period is shorter: two years."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q29.webp",
+    "alt": {
+      "ru": "Дорожный рабочий в каске и жилете опирается на лопату у кучи щебня, рядом оранжевые конусы на поле.",
+      "en": "A road worker in a hard hat leans on a shovel by a gravel pile."
+    }
+  }
 }

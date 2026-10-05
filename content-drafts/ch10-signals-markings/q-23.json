@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. This is one of two exceptions. The other is a left turn from a one-way street onto another one-way street with traffic moving left."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q23.webp",
+    "alt": {
+      "ru": "Водитель в седане стоит на тихой городской улице, вид через боковое окно.",
+      "en": "A driver in a sedan stands at a quiet town street, seen through the side window."
+    }
+  }
 }

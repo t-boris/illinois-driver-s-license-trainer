@@ -44,5 +44,12 @@
         "en": "Correct. Always buckle up."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q18.webp",
+    "alt": {
+      "ru": "Взрослый пристёгивает ремень на водительском сиденье седана, улыбается, подъездная дорожка.",
+      "en": "An adult buckles the seat belt in the driver seat."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Correct! Watch for bike lanes and bicyclists; trucks and buses need more room to turn."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q76.webp",
+    "alt": {
+      "ru": "Фургон поворачивает на городском углу, а рядом спокойно ждёт велосипедист.",
+      "en": "A delivery van turns at a corner as a cyclist waits."
+    }
+  }
 }

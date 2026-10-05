@@ -44,5 +44,12 @@
         "en": "The manual lists no such condition."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q26.webp",
+    "alt": {
+      "ru": "Улыбающийся водитель в сумерках заводит седан на подъездной дорожке у пригородного дома.",
+      "en": "A driver starts a sedan in a driveway at dusk."
+    }
+  }
 }

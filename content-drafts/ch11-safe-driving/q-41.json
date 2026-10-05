@@ -44,5 +44,12 @@
         "en": "You need to slow down and look around."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q41.webp",
+    "alt": {
+      "ru": "Гравийный перекрёсток между высокими кукурузными полями, пикап замедляется, водитель смотрит влево.",
+      "en": "A pickup slows at a gravel crossroads between cornfields."
+    }
+  }
 }

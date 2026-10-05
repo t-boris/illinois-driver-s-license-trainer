@@ -44,5 +44,12 @@
         "en": "Correct. This shows how much traction you have. Begin braking early when coming to an intersection or stop."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q33.webp",
+    "alt": {
+      "ru": "Седан плавно останавливается на заснеженном перекрёстке небольшого города, голые деревья.",
+      "en": "A sedan stops gently at a snowy intersection in a small town."
+    }
+  }
 }

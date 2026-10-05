@@ -44,5 +44,12 @@
         "en": "White lines separate lanes going the same direction."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q28.webp",
+    "alt": {
+      "ru": "Разделённое шоссе с травяным разделителем среди полей, немного машин, спокойное утро.",
+      "en": "A divided highway with a grassy median and a few cars in farmland."
+    }
+  }
 }

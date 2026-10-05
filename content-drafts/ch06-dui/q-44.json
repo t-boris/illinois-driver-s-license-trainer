@@ -33,5 +33,12 @@
         "en": "Zero tolerance applies under 21: any trace of alcohol is enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q44.webp",
+    "alt": {
+      "ru": "Двое молодых людей сидят на скамейке в парке, один держит бутылку воды, рядом припаркован велосипед.",
+      "en": "Two young adults sit on a park bench, one holding a water bottle, a bicycle parked nearby."
+    }
+  }
 }

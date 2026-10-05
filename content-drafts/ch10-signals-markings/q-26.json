@@ -44,5 +44,12 @@
         "en": "Left turns use a flashing yellow arrow, not an “X”."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q26.webp",
+    "alt": {
+      "ru": "Вид на широкое многополосное шоссе среди полей, по полосам спокойно едут машины.",
+      "en": "A wide multi-lane highway through farmland with cars driving calmly."
+    }
+  }
 }

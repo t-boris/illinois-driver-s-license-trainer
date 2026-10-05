@@ -33,5 +33,12 @@
         "en": "Not quite. If your car runs on gasoline, choose another space: those spots are for vehicles that need to charge."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q94.webp",
+    "alt": {
+      "ru": "Электромобиль стоит у зарядной колонки на парковке возле продуктового магазина.",
+      "en": "An electric car charges in a grocery store parking lot."
+    }
+  }
 }

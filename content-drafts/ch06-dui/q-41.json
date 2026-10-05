@@ -55,5 +55,12 @@
         "en": "Buying is not required: the parent is also responsible for not controlling access to alcohol."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q41.webp",
+    "alt": {
+      "ru": "Родитель и подросток спокойно разговаривают на кухне, на столе кувшин лимонада и стаканы.",
+      "en": "A parent and a teenager talk calmly in a kitchen with a pitcher of lemonade on the table."
+    }
+  }
 }

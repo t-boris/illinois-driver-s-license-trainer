@@ -33,5 +33,12 @@
         "en": "Not quite. Stay stopped until the arm is retracted, the lights are off, or the bus driver signals you to proceed."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q83.webp",
+    "alt": {
+      "ru": "Деревенская дорога, минивэн стоит за школьным автобусом, дети с зонтами.",
+      "en": "A village road, a minivan stops behind a school bus and children carry umbrellas."
+    }
+  }
 }

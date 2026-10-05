@@ -55,5 +55,12 @@
         "en": "The threshold is lower: from 17 years and 3 months, the course is not required."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q14.webp",
+    "alt": {
+      "ru": "Подросток и взрослая женщина на крыльце дома вместе смотрят в ноутбук.",
+      "en": "A teenager and an adult woman on a porch look at a laptop together."
+    }
+  }
 }

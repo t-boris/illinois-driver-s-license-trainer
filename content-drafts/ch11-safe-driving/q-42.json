@@ -44,5 +44,12 @@
         "en": "Never drive over the center line."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q42.webp",
+    "alt": {
+      "ru": "Седан проходит плавный поворот на тихой дороге среди осенних деревьев, не выезжая на встречную.",
+      "en": "A sedan takes a gentle curve on a tree-lined road."
+    }
+  }
 }

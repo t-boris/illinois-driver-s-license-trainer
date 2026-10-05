@@ -44,5 +44,12 @@
         "en": "Ease off the gas and come to a gentle stop."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q51.webp",
+    "alt": {
+      "ru": "Водитель в припаркованном седане на обочине, аварийка мигает, спокойно звонит, позади поля.",
+      "en": "A driver in a parked sedan on a shoulder phones for help."
+    }
+  }
 }

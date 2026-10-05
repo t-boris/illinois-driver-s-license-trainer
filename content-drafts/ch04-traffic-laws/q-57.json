@@ -44,5 +44,12 @@
         "en": "No. The driver on the road that ends yields."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q57.webp",
+    "alt": {
+      "ru": "Грунтовая дорога упирается в шоссе, машина ждёт, пикап проезжает.",
+      "en": "A country lane meets a straight road, a car waits and a pickup passes."
+    }
+  }
 }

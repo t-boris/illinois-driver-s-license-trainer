@@ -33,5 +33,12 @@
         "en": "That is not the rule: pedestrians must obey railroad and bridge gates and other barriers."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q19.webp",
+    "alt": {
+      "ru": "Женщина в плаще ждёт у бордюра на квартале между перекрёстками, мимо едут машины.",
+      "en": "A woman in a raincoat waits at the curb on a block between two intersections as cars pass."
+    }
+  }
 }

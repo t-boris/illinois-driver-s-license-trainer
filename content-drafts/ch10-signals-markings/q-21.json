@@ -44,5 +44,12 @@
         "en": "Correct. You must yield to oncoming traffic and pedestrians."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q21.webp",
+    "alt": {
+      "ru": "Вид из салона: водитель у пустого перекрёстка среди полей, руки на руле.",
+      "en": "From inside a car, a driver at an empty rural crossroads."
+    }
+  }
 }

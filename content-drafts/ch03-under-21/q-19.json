@@ -33,5 +33,12 @@
         "en": "Both conditions apply: traffic safety school and, under 18, appearing in court with a parent or legal guardian."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q19.webp",
+    "alt": {
+      "ru": "Подросток в рубашке идёт с родителем к кирпичному зданию суда в ясное утро.",
+      "en": "A teenager in a button-up shirt walks with a parent toward a brick courthouse in the morning."
+    }
+  }
 }

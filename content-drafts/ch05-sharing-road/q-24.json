@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. Expect motorcycles at any time: drivers in crashes often report not seeing the motorcycle or seeing it too late."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q24.webp",
+    "alt": {
+      "ru": "Автомобиль полностью перестраивается в соседнюю пустую полосу, обгоняя мотоцикл на прямой дороге.",
+      "en": "A car moves fully into the empty adjacent lane to pass a motorcycle on a straight road."
+    }
+  }
 }

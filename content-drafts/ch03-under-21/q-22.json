@@ -55,5 +55,12 @@
         "en": "Driving privileges are suspended too: at least six months for a conviction."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q22.webp",
+    "alt": {
+      "ru": "Молодой человек сидит один на скамейке у пруда с бутылкой воды, вдали стоит машина.",
+      "en": "A young man sits alone on a park bench by a pond holding bottled water, a car far behind."
+    }
+  }
 }

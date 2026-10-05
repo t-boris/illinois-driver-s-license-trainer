@@ -33,5 +33,12 @@
         "en": "Even a small amount of alcohol together with other drugs is very dangerous for driving."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q22.webp",
+    "alt": {
+      "ru": "Взрослый читает инструкцию к лекарству на кухне рядом со стаканом воды.",
+      "en": "An adult reads a medicine leaflet at a kitchen counter next to a glass of water."
+    }
+  }
 }

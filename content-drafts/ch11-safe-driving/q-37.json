@@ -44,5 +44,12 @@
         "en": "Too high: the maximums are 55, 65 or 70 mph."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q37.webp",
+    "alt": {
+      "ru": "Современный седан ровно едет по широкой магистрали среди зелёных полей, впереди другие машины.",
+      "en": "A sedan drives steadily on a wide expressway across farmland."
+    }
+  }
 }

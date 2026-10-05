@@ -44,5 +44,12 @@
         "en": "There is a rule: do not drive continuously in the left lane."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q35.webp",
+    "alt": {
+      "ru": "Широкая трёхполосная магистраль среди полей, машины едут в ровном темпе.",
+      "en": "A wide three-lane expressway with cars driving at an even pace."
+    }
+  }
 }

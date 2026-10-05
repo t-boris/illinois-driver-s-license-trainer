@@ -44,5 +44,12 @@
         "en": "The limit is shorter: 55 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q15.webp",
+    "alt": {
+      "ru": "Водитель тянет рычаг стояночного тормоза припаркованного хэтчбека на пологом холме в парке.",
+      "en": "A driver pulls the parking brake lever on a gentle hill."
+    }
+  }
 }

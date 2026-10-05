@@ -55,5 +55,12 @@
         "en": "Correct. For the driver and passengers of ordinary cars, drinking alcohol in a vehicle is illegal."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q39.webp",
+    "alt": {
+      "ru": "Взрослые друзья смеются в просторном лимузине с безалкогольными напитками, впереди виден водитель.",
+      "en": "Adult friends laugh in a roomy limousine with soft drinks, a driver visible ahead."
+    }
+  }
 }

@@ -55,5 +55,12 @@
         "en": "The rule is different: proceed through the intersection after yielding to oncoming traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q22.webp",
+    "alt": {
+      "ru": "Мотоциклист в шлеме стоит на пустом перекрёстке, позади остановился седан, небо чистое.",
+      "en": "A helmeted motorcyclist waits at an empty intersection with a sedan stopped behind, under a clear sky."
+    }
+  }
 }

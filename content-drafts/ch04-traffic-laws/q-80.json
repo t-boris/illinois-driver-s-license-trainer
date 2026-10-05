@@ -44,5 +44,12 @@
         "en": "No, you must stop there. The only exception is a four-lane roadway with the bus stopped in the opposite direction."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q80.webp",
+    "alt": {
+      "ru": "Жёлтый школьный автобус, дети в куртках, машина ждёт сзади.",
+      "en": "A yellow school bus, children in jackets and a car waiting behind."
+    }
+  }
 }

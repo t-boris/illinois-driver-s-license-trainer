@@ -55,5 +55,12 @@
         "en": "No need to wait until 21: new parental consent or turning 18 is enough."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q20.webp",
+    "alt": {
+      "ru": "Подросток и мама спокойно разговаривают на диване, на столике лежат ключи от машины.",
+      "en": "A teenager and a mother talk calmly on a sofa with car keys on the coffee table."
+    }
+  }
 }

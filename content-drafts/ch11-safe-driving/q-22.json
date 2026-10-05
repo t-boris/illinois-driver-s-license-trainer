@@ -44,5 +44,12 @@
         "en": "You slow down in the speed-change lane, not by braking hard in the traffic lanes."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q22.webp",
+    "alt": {
+      "ru": "Взрослый присел и осматривает заднее колесо припаркованного хэтчбека на широкой обочине.",
+      "en": "An adult crouches to examine a tire of a parked hatchback."
+    }
+  }
 }

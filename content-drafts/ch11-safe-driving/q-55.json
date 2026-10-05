@@ -44,5 +44,12 @@
         "en": "A hard stop in the lane is dangerous for those behind."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q55.webp",
+    "alt": {
+      "ru": "Водитель выглядывает в опущенное боковое окно медленно едущего седана на тихой дороге.",
+      "en": "A driver leans toward an open side window of a slow sedan."
+    }
+  }
 }

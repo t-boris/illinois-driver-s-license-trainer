@@ -55,5 +55,12 @@
         "en": "It is needed for any damage, injury, or crash involving a school bus."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q17.webp",
+    "alt": {
+      "ru": "Жёлтый школьный автобус и седан стоят на обочине, водители спокойно разговаривают.",
+      "en": "A yellow school bus and a sedan stopped on a side road with both drivers calmly talking."
+    }
+  }
 }

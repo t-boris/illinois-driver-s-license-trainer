@@ -55,5 +55,12 @@
         "en": "No license is needed only for a low-speed electric scooter. This scooter requires Class L."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q36.webp",
+    "alt": {
+      "ru": "Взрослый в шлеме едет на небольшом скутере по краю тихой городской улицы.",
+      "en": "An adult in a helmet rides a small scooter along the edge of a quiet town street."
+    }
+  }
 }

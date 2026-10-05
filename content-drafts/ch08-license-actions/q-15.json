@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. The same applies to failing to submit a required medical or vision report. You must also self-report a condition that may interfere with safe driving."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q15.webp",
+    "alt": {
+      "ru": "Пожилой человек в светлой приёмной клиники держит очки, на заднем плане приветливая медсестра.",
+      "en": "A senior adult in a clinic waiting area holds eyeglasses."
+    }
+  }
 }

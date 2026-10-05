@@ -44,5 +44,12 @@
         "en": "Correct! Signal early, yield to pedestrians, emergency vehicles, and traffic in the intersection, and check all approaching traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q75.webp",
+    "alt": {
+      "ru": "Седан ждёт в полосе левого поворота на городском перекрёстке.",
+      "en": "A sedan waits in the left-turn lane at a city intersection."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Correct. Some local communities may allow unlighted night parking on streets."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q30.webp",
+    "alt": {
+      "ru": "Припаркованный седан с мягко горящими габаритами у тихой сельской дороги ночью, звёздное небо.",
+      "en": "A parked sedan with soft side lights glowing beside a quiet road at night."
+    }
+  }
 }

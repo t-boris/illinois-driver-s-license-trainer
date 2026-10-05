@@ -55,5 +55,12 @@
         "en": "The most common situation is an oncoming car turning left in front of a motorcycle at an intersection."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q21.webp",
+    "alt": {
+      "ru": "Водитель седана ждёт левого поворота и внимательно смотрит вперёд, издалека приближается мотоциклист.",
+      "en": "A sedan driver waiting to turn left looks carefully ahead as a helmeted motorcyclist approaches from far away."
+    }
+  }
 }

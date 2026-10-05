@@ -44,5 +44,12 @@
         "en": "Five is the threshold for unpaid automated violations, not for traffic convictions."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q23.webp",
+    "alt": {
+      "ru": "Молодой водитель улыбается, глядя на настенный календарь на светлой кухне, на столе чашка чая.",
+      "en": "A young adult looks at a wall calendar in a bright kitchen."
+    }
+  }
 }

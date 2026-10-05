@@ -55,5 +55,12 @@
         "en": "Speed does not matter: driving during the suspension without an MDDP is a felony."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q36.webp",
+    "alt": {
+      "ru": "Взрослый с сумкой и телефоном ждёт на скамейке остановки, вдали подъезжает автобус.",
+      "en": "An adult with a bag and phone waits on a bus stop bench as a bus approaches in the distance."
+    }
+  }
 }

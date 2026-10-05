@@ -33,5 +33,12 @@
         "en": "Not quite. Yield when a pedestrian is in an unmarked crosswalk on your side of the roadway and there is no signal."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q59.webp",
+    "alt": {
+      "ru": "Двое пешеходов переходят тихую улицу на углу, машина замедляется.",
+      "en": "Two pedestrians cross a quiet street at a corner as a car slows."
+    }
+  }
 }

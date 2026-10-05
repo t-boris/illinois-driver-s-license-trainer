@@ -44,5 +44,12 @@
         "en": "Hop or shuffle rather than taking long strides."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q49.webp",
+    "alt": {
+      "ru": "Высокий деревянный столб в поле с провисшими проводами вдали и тихой дорогой, без людей, синее небо.",
+      "en": "A utility pole in an open field with sagging wires beside a quiet road."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "No: the line is painted before the crosswalk."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q32.webp",
+    "alt": {
+      "ru": "Водитель в седане стоит на тихой улице, вид через боковое окно.",
+      "en": "A driver in a sedan waits on a quiet street, seen through the side window."
+    }
+  }
 }

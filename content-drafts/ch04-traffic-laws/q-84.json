@@ -33,5 +33,12 @@
         "en": "Not quite. At a crossing with no devices or only a crossbuck, slow down, look both ways, listen, and cross only if it is safe."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q84.webp",
+    "alt": {
+      "ru": "Пикап медленно подъезжает к рельсам на сельской дороге.",
+      "en": "A pickup slowly approaches railroad tracks on a rural lane."
+    }
+  }
 }

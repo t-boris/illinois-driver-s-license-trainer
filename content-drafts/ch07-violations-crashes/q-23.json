@@ -55,5 +55,12 @@
         "en": "Correct. And when a death or injury occurred, the Secretary of State must revoke the license and criminal charges are possible."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch07-violations-crashes-q23.webp",
+    "alt": {
+      "ru": "Водитель стоит у машины рядом с повреждённой деревянной оградой и записывает данные в блокнот.",
+      "en": "A driver stands by a car next to a damaged wooden fence, taking notes on a pad."
+    }
+  }
 }

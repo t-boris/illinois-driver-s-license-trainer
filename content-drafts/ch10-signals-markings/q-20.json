@@ -44,5 +44,12 @@
         "en": "The crosswalk must stay clear for pedestrians: stop before it."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q20.webp",
+    "alt": {
+      "ru": "Водитель в седане на тихой городской улице, вид через боковое окно.",
+      "en": "A driver in a sedan on a quiet town street seen through the side window."
+    }
+  }
 }

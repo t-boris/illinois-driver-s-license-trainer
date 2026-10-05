@@ -55,5 +55,12 @@
         "en": "They can be: up to $500 if found guilty of DUI."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q24.webp",
+    "alt": {
+      "ru": "На столе в светлом офисе лежат бумаги, ручка и калькулятор.",
+      "en": "Paper forms, a pen, and a calculator lie on a desk in a bright office."
+    }
+  }
 }

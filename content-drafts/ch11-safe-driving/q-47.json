@@ -44,5 +44,12 @@
         "en": "This is about the health of people in the vehicle, not the engine."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q47.webp",
+    "alt": {
+      "ru": "Пригородный гараж с открытыми воротами, взрослый осматривает выхлоп седана, рядом беседует сосед.",
+      "en": "An adult checks the exhaust of a parked sedan outside a garage."
+    }
+  }
 }

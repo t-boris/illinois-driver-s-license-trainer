@@ -33,5 +33,12 @@
         "en": "Not quite: the statement is true. So painted curbs or lanes can mean no parking even where nothing else tells you so."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q34.webp",
+    "alt": {
+      "ru": "Взрослый уходит от припаркованного седана вдоль тихого тротуара в небольшом городке.",
+      "en": "An adult walks away from a parked sedan along a quiet curb."
+    }
+  }
 }

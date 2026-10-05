@@ -44,5 +44,12 @@
         "en": "For safety, remain with the pump while refueling."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q50.webp",
+    "alt": {
+      "ru": "Взрослый заправляет хэтчбек у колонки в солнечный день, стоит рядом с машиной, позади поля.",
+      "en": "An adult refuels a hatchback at a gas pump, standing beside it."
+    }
+  }
 }

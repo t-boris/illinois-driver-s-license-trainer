@@ -55,5 +55,12 @@
         "en": "Motorcycle exam results are not required; you need the permit, identification and the driving log."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch03-under-21-q24.webp",
+    "alt": {
+      "ru": "Подросток и родитель сидят в зале ожидания с папкой документов, рядом комнатное растение.",
+      "en": "A teenager and a parent sit in a waiting room holding a folder of papers beside a plant."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "The threshold is much lower: 5 nanograms per milliliter of whole blood."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q28.webp",
+    "alt": {
+      "ru": "Взрослый сидит на кресле в клинике, медсестра в форме готовит ватный тампон, спокойная обстановка.",
+      "en": "An adult in a clinic chair with a friendly nurse nearby."
+    }
+  }
 }

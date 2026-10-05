@@ -44,5 +44,12 @@
         "en": "Correct. All three are on the list of reasons for suspension."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q17.webp",
+    "alt": {
+      "ru": "Жёлтый школьный автобус у обочины тихой улицы, рядом приветливый взрослый водитель у открытых дверей.",
+      "en": "A yellow school bus at a quiet curb with a friendly driver beside it."
+    }
+  }
 }

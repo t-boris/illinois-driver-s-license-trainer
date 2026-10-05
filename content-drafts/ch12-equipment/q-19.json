@@ -44,5 +44,12 @@
         "en": "200 feet is required."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q19.webp",
+    "alt": {
+      "ru": "Водитель настраивает зеркало заднего вида в припаркованном седане, впереди тихая улица.",
+      "en": "A driver adjusts the rearview mirror in a parked sedan."
+    }
+  }
 }

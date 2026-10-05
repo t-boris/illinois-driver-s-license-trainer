@@ -33,5 +33,12 @@
         "en": "Not quite. The authorized holder must be present when the privilege is used. The striped area next to the space is part of the space, so nobody may park on it."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q93.webp",
+    "alt": {
+      "ru": "Женщина с тростью идёт к минивэну на парковке магазина.",
+      "en": "A woman with a cane walks toward a minivan in a store parking lot."
+    }
+  }
 }

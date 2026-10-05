@@ -44,5 +44,12 @@
         "en": "Stay in the vehicle only if you cannot exit safely. If it is necessary and safe, move away from the vehicle."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q58.webp",
+    "alt": {
+      "ru": "Хэтчбек съехал на травянистую обочину тихой улицы, взрослый стоит поодаль у забора и звонит.",
+      "en": "A hatchback on a grassy edge, an adult standing safely beside a field fence."
+    }
+  }
 }

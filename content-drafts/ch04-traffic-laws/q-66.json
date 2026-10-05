@@ -33,5 +33,12 @@
         "en": "Correct! It is not permitted: do not pass within 100 feet of an intersection or railroad crossing."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch04-traffic-laws-q66.webp",
+    "alt": {
+      "ru": "Две машины едут к перекрёстку на сельской дороге.",
+      "en": "Two cars approach a crossroads on a rural road."
+    }
+  }
 }

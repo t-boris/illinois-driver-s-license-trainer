@@ -55,5 +55,12 @@
         "en": "It is not about markings: two abreast is fine as long as traffic is not impeded."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q29.webp",
+    "alt": {
+      "ru": "Двое взрослых велосипедистов в шлемах едут рядом по краю тихой дороги, позади терпеливо следует пикап.",
+      "en": "Two adult bicyclists in helmets ride side by side on a quiet road as a pickup follows patiently."
+    }
+  }
 }

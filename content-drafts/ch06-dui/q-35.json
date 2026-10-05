@@ -55,5 +55,12 @@
         "en": "Correct. An MDDP is for first-time DUI offenders. The device alerts the Secretary of State if the driver tries to start the car after drinking or tampers with it."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q35.webp",
+    "alt": {
+      "ru": "Мастер проверяет небольшое чёрное устройство под панелью автомобиля, владелец наблюдает с места водителя.",
+      "en": "A technician checks a small black device under a car dashboard while the owner watches."
+    }
+  }
 }

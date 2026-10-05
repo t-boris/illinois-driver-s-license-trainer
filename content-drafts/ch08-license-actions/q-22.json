@@ -33,5 +33,12 @@
         "en": "Correct, the statement is false. If the driver has been charged with an offense due to such a crash, a denial is possible and alcohol need not be a factor."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch08-license-actions-q22.webp",
+    "alt": {
+      "ru": "Двое взрослых за столом в светлом офисе: один внимательно слушает, другой объясняет по раскрытой папке.",
+      "en": "Two adults at an office desk discuss a document folder."
+    }
+  }
 }

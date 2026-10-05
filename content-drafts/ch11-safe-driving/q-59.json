@@ -44,5 +44,12 @@
         "en": "Roads like that are low-capacity roadways."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q59.webp",
+    "alt": {
+      "ru": "Оживлённая, но упорядоченная многополосная городская магистраль с деревьями, машины и автобусы едут ровно.",
+      "en": "A multi-lane urban boulevard with cars and buses driving smoothly."
+    }
+  }
 }

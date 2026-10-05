@@ -33,5 +33,12 @@
         "en": "The ban applies in any state, not only in Illinois."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q42.webp",
+    "alt": {
+      "ru": "Человек с рюкзаком идёт к автобусной остановке, позади дома у подъезда стоит машина.",
+      "en": "A person with a backpack walks toward a bus shelter, a car parked in the driveway behind."
+    }
+  }
 }

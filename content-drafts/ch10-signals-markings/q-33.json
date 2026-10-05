@@ -44,5 +44,12 @@
         "en": "The manual does not give this meaning."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q33.webp",
+    "alt": {
+      "ru": "Бетонная опора стоит в поле возле тихой двухполосной дороги, мимо неспешно проезжает машина.",
+      "en": "A concrete pier beside a quiet road, a car driving slowly past."
+    }
+  }
 }

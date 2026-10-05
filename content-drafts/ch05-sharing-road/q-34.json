@@ -55,5 +55,12 @@
         "en": "That is too high: the minimum age is 16."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q34.webp",
+    "alt": {
+      "ru": "Молодой человек в шлеме едет на электровелосипеде по краю тихой пригородной улицы.",
+      "en": "A young adult in a helmet rides an electric bicycle along the edge of a quiet suburban street."
+    }
+  }
 }

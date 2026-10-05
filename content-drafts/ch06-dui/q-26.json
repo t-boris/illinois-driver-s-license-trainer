@@ -55,5 +55,12 @@
         "en": "Not at all: refusal is penalized more strictly than a failed test."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch06-dui-q26.webp",
+    "alt": {
+      "ru": "Водитель в машине на обочине вежливо разговаривает с офицером у окна, днём.",
+      "en": "A driver in a parked car on a road shoulder talks politely with an officer at the window."
+    }
+  }
 }

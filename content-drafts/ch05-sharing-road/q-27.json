@@ -55,5 +55,12 @@
         "en": "Correct. An autocycle is a three-wheeled vehicle with a steering wheel and seating that does not require straddling."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch05-sharing-road-q27.webp",
+    "alt": {
+      "ru": "Водитель в трёхколёсном автоцикле с рулём стоит у подъезда на тихой пригородной улице.",
+      "en": "A driver in a three-wheeled autocycle with a steering wheel waits at a quiet suburban driveway."
+    }
+  }
 }
