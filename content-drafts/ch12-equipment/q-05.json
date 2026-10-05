@@ -44,5 +44,12 @@
         "en": "That is the distance for taillights; the horn requirement is shorter."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q05.webp",
+    "alt": {
+      "ru": "Улыбающийся мужчина в машине нажимает на центр руля, от машины к далёкому пешеходу расходятся цветные дуги звука.",
+      "en": "A smiling man pressing the steering wheel centre, colourful sound arcs radiating toward a distant pedestrian."
+    }
+  }
 }

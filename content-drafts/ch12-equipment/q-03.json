@@ -44,5 +44,12 @@
         "en": "Correct. Before passing a vehicle, it is 300 feet."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q03.webp",
+    "alt": {
+      "ru": "Две машины встречаются на ночной загородной дороге, ближняя едет с мягким ближним светом, вверху звёзды.",
+      "en": "Two cars passing on a dark country road at night, one with softly lowered beams, stars above."
+    }
+  }
 }

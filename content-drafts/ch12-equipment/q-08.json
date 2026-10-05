@@ -44,5 +44,12 @@
         "en": "Good securing does not replace marking: loads of 4 feet or more must be marked."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q08.webp",
+    "alt": {
+      "ru": "Пикап едет по солнечной дороге, из кузова далеко назад выступают длинные доски, водитель смотрит в боковое зеркало.",
+      "en": "A pickup truck on a sunny road with long planks sticking out behind, driver glancing in the mirror."
+    }
+  }
 }

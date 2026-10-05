@@ -44,5 +44,12 @@
         "en": "Correct. The rest of the glass must stay clear."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q07.webp",
+    "alt": {
+      "ru": "Лобовое стекло машины с лёгкой тонировкой у верхнего края, за ним солнечная дорога и водитель в солнцезащитных очках.",
+      "en": "A car windshield with a light tinted band at the top edge and a driver in sunglasses behind it."
+    }
+  }
 }

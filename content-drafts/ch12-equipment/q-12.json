@@ -33,5 +33,12 @@
         "en": "There are no exceptions: such devices are prohibited in all vehicles."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q12.webp",
+    "alt": {
+      "ru": "Пара спокойно едет в седане по открытой трассе, в небе мягкие радиоволны, оба расслаблены.",
+      "en": "A couple riding calmly in a sedan on an open highway with soft radio waves in the sky."
+    }
+  }
 }

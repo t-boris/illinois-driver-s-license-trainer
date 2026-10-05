@@ -44,5 +44,12 @@
         "en": "Amber belongs to other lamps; taillights are red."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q06.webp",
+    "alt": {
+      "ru": "Задняя часть легкового автомобиля в сумерках с мягко светящимися красными огнями, пара загружает продукты в багажник.",
+      "en": "The rear of a car at dusk with softly glowing red lamps while a couple loads groceries into the trunk."
+    }
+  }
 }

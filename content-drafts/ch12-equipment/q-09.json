@@ -33,5 +33,12 @@
         "en": "Correct. The same goes for red lights visible from the front."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q09.webp",
+    "alt": {
+      "ru": "Аккуратная семейная машина у дома ярким утром, мужчина протирает капот тряпкой, крыша и бампер без украшений.",
+      "en": "A neat family car in a driveway on a bright morning while a man wipes the hood with a cloth."
+    }
+  }
 }

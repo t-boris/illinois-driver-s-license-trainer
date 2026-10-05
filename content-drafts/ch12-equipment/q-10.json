@@ -44,5 +44,12 @@
         "en": "Correct."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q10.webp",
+    "alt": {
+      "ru": "Задняя часть хэтчбека ночью на улице, позади мягкий белый свет освещает асфальт, женщина осторожно сдаёт назад.",
+      "en": "The rear of a hatchback at night with a soft white glow behind it as a woman reverses carefully."
+    }
+  }
 }

@@ -33,5 +33,12 @@
         "en": "No worries, this one is easy to remember. Headlights are required from sunset to sunrise."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q02.webp",
+    "alt": {
+      "ru": "Седан едет по пригородной улице в сумерках с включёнными фарами, небо золотое от заката, водитель расслаблен.",
+      "en": "A sedan driving at twilight with headlights on under a golden sunset sky and a relaxed driver."
+    }
+  }
 }

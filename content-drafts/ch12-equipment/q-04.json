@@ -33,5 +33,12 @@
         "en": "Correct. Watching or streaming live video on a cellphone is also a violation of Illinois law."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q04.webp",
+    "alt": {
+      "ru": "Салон машины со стороны заднего сиденья: водитель смотрит на дорогу, руки на руле, на приборной панели небольшой экран.",
+      "en": "The inside of a car from the back seat, the driver looking at the road with hands on the wheel."
+    }
+  }
 }

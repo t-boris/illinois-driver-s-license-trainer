@@ -93,3 +93,11 @@ Owner: "Where are the images?", "The key is in my clipboard", "I hope that you'l
 ### Answers during implementation (11) · 2026-10-04
 
 Owner: cannot open the site; Chrome shows a "Dangerous site" warning (screenshot). Google's public Safe Browsing report lists no flags; treated as a probable false positive. Recorded as DEC-030 (unofficial-app notice); the owner reports the false positive to Google; a custom domain needs the owner's approval.
+
+### Answers during implementation (12) · 2026-10-04
+
+Owner: there is no content on Vercel; chose to publish the drafts as a labelled beta. Recorded as DEC-031 (amends DEC-013, DEC-008 and REQ-003/REQ-006 for drafts only).
+
+### Answers during implementation (13) · 2026-10-04
+
+Owner: "You have not solved the dangerous tag." The assistant submitted the Safe Browsing false-positive report to Google (confirmed) and offered a custom domain; the owner chose not to buy a domain. Recorded in DEC-030. The warning stays until Google reviews the report.

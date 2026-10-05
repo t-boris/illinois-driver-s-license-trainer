@@ -44,5 +44,12 @@
         "en": "The number is limited to one."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch12-equipment-q11.webp",
+    "alt": {
+      "ru": "Пикап стоит на тихой дороге в сумерках, небольшой боковой прожектор освещает поле, рядом стоит мужчина с термосом.",
+      "en": "A pickup truck at dusk with a small spotlight lighting a field and a man holding a thermos."
+    }
+  }
 }
