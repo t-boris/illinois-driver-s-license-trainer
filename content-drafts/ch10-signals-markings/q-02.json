@@ -44,5 +44,12 @@
         "en": "Correct. Come to a complete stop, look, and yield the right of way, unless law enforcement directs otherwise."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q02.webp",
+    "alt": {
+      "ru": "Городской перекрёсток при отключении электричества, водитель осторожно замедляется и смотрит по сторонам.",
+      "en": "A city intersection during a power outage, a driver slowing cautiously and looking around."
+    }
+  }
 }

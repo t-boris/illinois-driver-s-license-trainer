@@ -44,5 +44,12 @@
         "en": "A flashing yellow arrow is the lane signal for left turns. A red \"X\" closes the lane completely."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q05.webp",
+    "alt": {
+      "ru": "Широкий городской проспект глазами водителя, водитель смотрит в зеркало, раздумывая о выборе полосы.",
+      "en": "A wide urban avenue from the driver seat in light traffic, the driver checking the mirror."
+    }
+  }
 }

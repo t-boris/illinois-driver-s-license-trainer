@@ -44,5 +44,12 @@
         "en": "More gas will not bring traction back. You should ease off the gas or brakes instead."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q02.webp",
+    "alt": {
+      "ru": "Машина на мокрой от дождя дороге, водитель спокойно и сосредоточенно держит руль, на стекле капли дождя.",
+      "en": "A car on a rain-wet road, the driver gripping the wheel calmly and focused, raindrops on the windshield."
+    }
+  }
 }

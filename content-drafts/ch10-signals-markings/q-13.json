@@ -44,5 +44,12 @@
         "en": "The position of the lines decides, not an empty road. Passing is allowed when the broken line is nearest you."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q13.webp",
+    "alt": {
+      "ru": "Извилистая сельская дорога по холмам, впереди медленный грузовик, вдали встречная машина.",
+      "en": "A winding rural road over hills with a slow truck ahead and an oncoming car far away."
+    }
+  }
 }

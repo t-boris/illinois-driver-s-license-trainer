@@ -44,5 +44,12 @@
         "en": "That describes a flashing yellow. A flashing red has a firmer rule: stop first."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q01.webp",
+    "alt": {
+      "ru": "Водитель подъезжает к тихому перекрёстку на закате, замедляется и смотрит по сторонам.",
+      "en": "A driver approaching a quiet crossroads at dusk, slowing down and looking left and right."
+    }
+  }
 }

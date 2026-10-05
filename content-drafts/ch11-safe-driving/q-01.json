@@ -44,5 +44,12 @@
         "en": "A nice instinct to leave extra room, but the manual states the rule as three seconds, not five."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q01.webp",
+    "alt": {
+      "ru": "Две машины едут по солнечной дороге с комфортной дистанцией, водитель спокойно считает на пальцах, глядя вперёд.",
+      "en": "Two cars with a comfortable gap on a sunny road, the driver counting on fingers while looking ahead."
+    }
+  }
 }

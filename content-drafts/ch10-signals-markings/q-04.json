@@ -33,5 +33,12 @@
         "en": "Not this time: the manual says a crossbuck is considered a yield sign."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q04.webp",
+    "alt": {
+      "ru": "Железнодорожный переезд издалека в солнечный день, машина терпеливо ждёт, рядом травяная насыпь.",
+      "en": "A railroad crossing seen from a distance on a sunny day with a car waiting patiently."
+    }
+  }
 }

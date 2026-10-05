@@ -44,5 +44,12 @@
         "en": "Correct: doubling your speed quadruples your stopping distance. That is why speed should match conditions."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q06.webp",
+    "alt": {
+      "ru": "Две машины едут по прямой дороге, одна быстро, другая медленно, вокруг открытый солнечный пейзаж.",
+      "en": "Two cars on a long straight road, one fast and one slow, in an open sunny landscape."
+    }
+  }
 }

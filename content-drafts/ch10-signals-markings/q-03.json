@@ -44,5 +44,12 @@
         "en": "This line is not for lane changes. It may be crossed only in the two cases named in the manual."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q03.webp",
+    "alt": {
+      "ru": "Двухполосная загородная дорога из машины: впереди медленный трактор, вдали встречный пикап.",
+      "en": "A two-lane country road from the driver seat with a slow tractor ahead and an oncoming pickup in the distance."
+    }
+  }
 }

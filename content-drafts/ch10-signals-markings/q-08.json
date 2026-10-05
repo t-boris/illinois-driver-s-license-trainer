@@ -33,5 +33,12 @@
         "en": "Not quite. A right turn on red is allowed unless a sign prohibits it, after a complete stop and yielding."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q08.webp",
+    "alt": {
+      "ru": "Водитель в небольшой машине на углу пригородной улицы оглядывается через правое плечо, проверяя пешеходов.",
+      "en": "A driver in a small car at a suburban corner looking over the right shoulder for pedestrians."
+    }
+  }
 }

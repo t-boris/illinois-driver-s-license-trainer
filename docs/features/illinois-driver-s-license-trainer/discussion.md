@@ -85,3 +85,7 @@ DATABASE_URL: the assistant sets it (DEC-025). Push main to GitHub approved (DEC
 ### Answers during implementation (9) · 2026-10-04
 
 Owner: make the app more attractive and modern; then "terrible UI" (screenshot of an unbroken lesson text). Recorded as DEC-028.
+
+### Answers during implementation (10) · 2026-10-04
+
+Owner: "Where are the images?", "The key is in my clipboard", "I hope that you'll cache images" — recorded as DEC-029 (images generated once and cached; key kept in a git-ignored file). Owner asked for the new version to be deployed now and for the Vercel URL: deployed to https://illinois-license-trainer.vercel.app (DEC-024). Owner reported the quiz as not working: a defect (questions were reshuffled on every re-render), fixed and covered by an end-to-end check; no specification change.

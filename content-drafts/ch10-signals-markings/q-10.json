@@ -44,5 +44,12 @@
         "en": "That is the message of a constantly lit yellow arrow, not a flashing one."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q10.webp",
+    "alt": {
+      "ru": "Водитель минивэна готовится повернуть налево на перекрёстке и смотрит на приближающиеся встречные машины.",
+      "en": "A minivan driver preparing to turn left, watching oncoming cars in the distance."
+    }
+  }
 }

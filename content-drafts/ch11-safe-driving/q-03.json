@@ -33,5 +33,12 @@
         "en": "Good one to double-check: the manual states directly that headlights are required when the wipers are in use."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q03.webp",
+    "alt": {
+      "ru": "Машина едет по дождливой дороге, дворники смахивают воду с лобового стекла, водитель спокоен.",
+      "en": "A car driving on a rainy road with wipers sweeping the windshield and a relaxed driver."
+    }
+  }
 }

@@ -44,5 +44,12 @@
         "en": "Correct. A flashing yellow means proceed into the intersection with caution."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q09.webp",
+    "alt": {
+      "ru": "Водитель замедляется на тихом перекрёстке маленького городка, оглядывая дорогу в обе стороны.",
+      "en": "A driver slowing at a quiet small-town crossroads, scanning left and right."
+    }
+  }
 }

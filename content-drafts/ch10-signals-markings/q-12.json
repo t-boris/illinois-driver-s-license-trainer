@@ -44,5 +44,12 @@
         "en": "Correct. A double solid white line separates lanes going the same direction, and crossing it is prohibited."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q12.webp",
+    "alt": {
+      "ru": "Четырёхполосная дорога из машины, два автомобиля едут рядом в одном направлении, водитель смотрит в зеркало.",
+      "en": "A four-lane road with two cars travelling side by side in the same direction, driver checking the mirror."
+    }
+  }
 }

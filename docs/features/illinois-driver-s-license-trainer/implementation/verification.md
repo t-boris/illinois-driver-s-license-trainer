@@ -23,3 +23,10 @@ DEC-001..DEC-028 are reflected in the code, the content workflow and the deploym
 2. Visually check the generated scene images (esp. school zone, railroad crossing, chapter 10) for stray signs.
 3. Firefox and real-device checks.
 4. Optional: delete the test counters (topic "test") from Neon.
+
+## Spec records re-read for this verification (2026-10-04)
+- Questions Q-001..Q-007: all `answered`, each resolved by DEC-001..DEC-006 (Q-002 and Q-005 by DEC-002).
+- Findings F-001..F-006: all `resolved` (F-001 by DEC-007, F-003 by DEC-008, F-004 by DEC-009, F-005 by DEC-010; F-002 and F-006 resolved in place and applied to REQ-004 and the overview).
+- Decisions DEC-001..DEC-029: all `accepted`. Requirements REQ-001..REQ-010: all `approved`.
+- discussion.md: every owner answer during implementation is recorded (entries 1-10), each pointing to its decision (DEC-011..DEC-029).
+- Defects reported by the owner during implementation (unreadable lessons, quiz changing its question) are fixed, not specification changes; lessons are in tasks/lessons.md.

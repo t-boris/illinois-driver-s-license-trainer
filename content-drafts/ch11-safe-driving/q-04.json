@@ -44,5 +44,12 @@
         "en": "Keep a firm grasp on the wheel, otherwise you can lose control."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q04.webp",
+    "alt": {
+      "ru": "Спокойный мужчина крепко держит руль обеими руками, машина едет ровно по пригородной дороге.",
+      "en": "A calm man firmly gripping the steering wheel with both hands as the car drives straight."
+    }
+  }
 }

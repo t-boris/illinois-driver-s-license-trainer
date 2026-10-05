@@ -33,5 +33,12 @@
         "en": "False. An upward green arrow lets you go straight ahead only. A left turn needs an arrow pointing left."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q11.webp",
+    "alt": {
+      "ru": "Водитель плавно поворачивает налево на пригородном перекрёстке, на тротуаре ждут пешеходы.",
+      "en": "A driver gently turning left at a suburban crossroads while pedestrians wait on the sidewalk."
+    }
+  }
 }

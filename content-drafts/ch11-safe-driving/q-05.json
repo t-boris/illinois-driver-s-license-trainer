@@ -44,5 +44,12 @@
         "en": "Correct. You are safer in your vehicle than next to moving traffic."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch11-safe-driving-q05.webp",
+    "alt": {
+      "ru": "Седан остановился на широкой обочине трассы, женщина стоит рядом у ограждения и смотрит в телефон.",
+      "en": "A sedan on the wide highway shoulder with a woman standing safely near the guardrail checking her phone."
+    }
+  }
 }

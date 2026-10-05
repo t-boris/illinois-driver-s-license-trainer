@@ -44,5 +44,12 @@
         "en": "Yellow does not mean waiting for an arrow. It warns that the light is changing from green to red."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q07.webp",
+    "alt": {
+      "ru": "Водитель приближается к тихому перекрёстку, плавно сбрасывает скорость и задумчиво смотрит вперёд.",
+      "en": "A driver approaching a quiet intersection, easing off the accelerator with a thoughtful expression."
+    }
+  }
 }

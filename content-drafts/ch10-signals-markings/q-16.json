@@ -44,5 +44,12 @@
         "en": "Wait until the gates rise and the lights stop flashing: another train may be coming."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q16.webp",
+    "alt": {
+      "ru": "Железнодорожный переезд издалека: водитель терпеливо ждёт в машине, на фоне проходит длинный поезд.",
+      "en": "A railroad crossing from a distance with a patient driver waiting while a long train passes."
+    }
+  }
 }

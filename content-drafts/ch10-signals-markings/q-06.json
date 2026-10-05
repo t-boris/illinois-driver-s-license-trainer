@@ -44,5 +44,12 @@
         "en": "Correct. This rule has no exceptions: wait until the lights have stopped flashing."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q06.webp",
+    "alt": {
+      "ru": "Силуэт длинного товарного поезда на фоне прерии на закате, машина ждёт на безопасном расстоянии.",
+      "en": "A freight train silhouette crossing prairie at sunset while a car waits at a safe distance."
+    }
+  }
 }

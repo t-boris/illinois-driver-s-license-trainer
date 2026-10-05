@@ -44,5 +44,12 @@
         "en": "Correct. The lane may be used only when preparing for or making a left turn, or a permitted U-turn."
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q14.webp",
+    "alt": {
+      "ru": "Широкая улица с магазинами, водитель хэтчбека осторожно замедляется и смотрит в зеркала.",
+      "en": "A wide shop-lined street with a hatchback driver slowing carefully and checking the mirrors."
+    }
+  }
 }

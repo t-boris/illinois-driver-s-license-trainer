@@ -33,5 +33,12 @@
         "en": "False. You must stop before any part of your vehicle crosses the line. Just roll back a little and you are all set!"
       }
     }
-  ]
+  ],
+  "image": {
+    "src": "/images/ch10-signals-markings-q15.webp",
+    "alt": {
+      "ru": "Водитель остановился на краю перекрёстка, перед машиной идут пешеходы, он внимательно смотрит в окно.",
+      "en": "A driver stopped at an intersection edge with pedestrians crossing in front, looking out attentively."
+    }
+  }
 }
