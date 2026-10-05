@@ -15,7 +15,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       VALUES (CURRENT_DATE, ${c.kind}, ${c.topic}, ${c.item}, 1)
       ON CONFLICT (day, kind, topic, item) DO UPDATE SET count = event_counters.count + 1`
     res.status(204).end()
-  } catch {
+  } catch (err) {
+    console.error('event insert failed:', err instanceof Error ? err.message : 'unknown') // operator log only, no event data
     res.status(204).end() // never surface failures to the learner
   }
 }

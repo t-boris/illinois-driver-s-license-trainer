@@ -77,3 +77,7 @@ Owner: the app should have separate sections — learning, tests, signs, terms a
 ### Answers during implementation (7) · 2026-10-04
 
 Images: the owner supplies the generator and key (DEC-023). Commit and deploy to Vercel approved (DEC-024).
+
+### Answers during implementation (8) · 2026-10-04
+
+DATABASE_URL: the assistant sets it (DEC-025). Push main to GitHub approved (DEC-026). Image generator: OpenAI image API (DEC-027).
