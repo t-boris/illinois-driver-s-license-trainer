@@ -101,3 +101,7 @@ Owner: there is no content on Vercel; chose to publish the drafts as a labelled 
 ### Answers during implementation (13) · 2026-10-04
 
 Owner: "You have not solved the dangerous tag." The assistant submitted the Safe Browsing false-positive report to Google (confirmed) and offered a custom domain; the owner chose not to buy a domain. Recorded in DEC-030. The warning stays until Google reviews the report.
+
+### Answers during implementation (14) · 2026-10-04
+
+Owner: asked for the URL of the Vercel deployment, asked to deploy the new version immediately, reported that /#/learn showed no content, and asked for an explanation (in Russian) of the remaining Chrome "Dangerous site" tag. Handled without new decisions: the labelled beta (DEC-031) was deployed to https://illinois-license-trainer.vercel.app and verified live (10 topics, 29 signs, 77 terms, quiz and 35-question exam, images, analytics endpoint); the explanation was given (probable Safe Browsing heuristic false positive, report submitted to Google per DEC-030, custom domain declined, Search Console review offered).

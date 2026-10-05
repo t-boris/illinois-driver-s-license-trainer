@@ -65,3 +65,8 @@ Q-001..Q-007 (all answered), DEC-001..DEC-010 (all accepted), F-001..F-006 (all 
 - [x] images/manifest-a.json (81) + manifest-b.json (64): scene prompts + bilingual alt for every lesson and every question without an official sign image; no signs/signals as subject (lint-enforced); spoiler-prone prompts neutralised
 - [x] scripts/generate-images.mjs (OpenAI image API, WebP, patches content items), --dry-run verified (145 would generate)
 - [ ] Owner: export OPENAI_API_KEY and run `node scripts/generate-images.mjs --limit 5` (cost check), then without --limit; review images (esp. ch04 school zone/railroad, ch10) for stray signs
+
+## Status 2026-10-04 (end of session)
+- [x] Labelled beta live (DEC-031); drafts, 145 illustrations, 29 official signs, 77 terms published behind the Draft tag
+- [x] Safe Browsing false-positive report submitted (DEC-030); custom domain declined
+- [ ] Owner: review drafts and promote them (removes the Draft tag); look at the illustrations; Firefox and real-device checks; optional Search Console review; delete test counters (topic "test") in Neon

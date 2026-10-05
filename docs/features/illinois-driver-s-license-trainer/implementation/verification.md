@@ -30,3 +30,6 @@ DEC-001..DEC-028 are reflected in the code, the content workflow and the deploym
 - Decisions DEC-001..DEC-029: all `accepted`. Requirements REQ-001..REQ-010: all `approved`.
 - discussion.md: every owner answer during implementation is recorded (entries 1-10), each pointing to its decision (DEC-011..DEC-029).
 - Defects reported by the owner during implementation (unreadable lessons, quiz changing its question) are fixed, not specification changes; lessons are in tasks/lessons.md.
+
+## Live check of the beta deployment (2026-10-04, WebKit iPhone 13 emulation)
+https://illinois-license-trainer.vercel.app: beta banner; progress bar with 10 topics plus the exam; exam tile enabled; Learn lists 10 topics; a lesson shows its illustration, 7 section headings, 28 bullets and a Draft tag; Signs 29; Terms 77; the chapter 12 quiz runs 8 distinct questions to the end; the exam starts at 35 questions; /api/event returns 204; no console errors. Unit tests: 41 passing; the strict gate on content/ and the draft gate on content-drafts/ both pass; the bank report has no FAIL line.
