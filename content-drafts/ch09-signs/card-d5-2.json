@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-d5-2",
+  "topic": "ch09-signs",
+  "signId": "D5-2",
+  "category": "guide",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 74",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Зона отдыха (Rest Area)",
+    "en": "Rest Area"
+  },
+  "meaning": {
+    "ru": "Синие знаки сообщают об услугах вдоль дороги. Этот знак с надписью REST AREA и стрелкой показывает, куда ехать к зоне отдыха.",
+    "en": "Blue guide signs tell you about services along the roadway. This sign with REST AREA and an arrow shows where to go for a rest area."
+  }
+}

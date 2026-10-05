@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q69",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Перестроение «зигзагом» из полосы в полосу ради более быстрой езды противозаконно.",
+    "en": "Weaving from lane to lane to move faster than the traffic flow is unlawful."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Частые перестроения повышают риск аварии. Держитесь одной полосы и двигайтесь в потоке.",
+        "en": "Correct! Frequent lane changes raise crash risk. Stay in your lane and move with the flow."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Частые перестроения повышают риск аварии. Держитесь одной полосы и двигайтесь в потоке.",
+        "en": "Not quite. Frequent lane changes raise crash risk. Stay in your lane and move with the flow."
+      }
+    }
+  ]
+}

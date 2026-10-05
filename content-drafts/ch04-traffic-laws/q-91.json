@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q91",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 34",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы паркуетесь на склоне там, где нет бордюра. Как повернуть колёса?",
+    "en": "You park on a hill where there is no curb. How should you turn the wheels?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Влево, к центру дороги",
+        "en": "To the left, toward the center of the road"
+      },
+      "explanation": {
+        "ru": "Нет. Это увело бы машину на проезжую часть.",
+        "en": "No. That could roll the car into traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прямо",
+        "en": "Straight ahead"
+      },
+      "explanation": {
+        "ru": "Нет. Нужно повернуть колёса.",
+        "en": "No. You need to turn the wheels."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Вправо, в сторону обочины, где вы паркуетесь",
+        "en": "Toward the side of the road where you are parked (to the right)"
+      },
+      "explanation": {
+        "ru": "Верно! Без бордюра колёса поворачивают к краю дороги и на подъёме, и на спуске.",
+        "en": "Correct! Without a curb, turn the wheels toward the road edge both uphill and downhill."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q95",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 35",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Где запрещено останавливаться, стоять и парковаться?",
+    "en": "Where is stopping, standing, or parking prohibited?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "На парковочном месте",
+        "en": "In a marked parking space"
+      },
+      "explanation": {
+        "ru": "Нет. Парковочное место предназначено для парковки.",
+        "en": "No. A marked space is meant for parking."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "У бордюра на тихой улице, где нет запретов",
+        "en": "At a curb on a quiet street with no restrictions"
+      },
+      "explanation": {
+        "ru": "Нет, это нормальная парковка, если нет запрещающих знаков.",
+        "en": "No, that is normal parking if no sign prohibits it."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Со стороны проезжей части от уже припаркованной машины (double parking)",
+        "en": "On the roadway side of a parked vehicle (double parking)"
+      },
+      "explanation": {
+        "ru": "Верно! Также нельзя: на тротуаре, пешеходном переходе, перекрёстке, мосту, в тоннеле, в обозначенной велополосе и на автомагистрали с контролируемым въездом.",
+        "en": "Correct! Also prohibited: sidewalks, crosswalks, intersections, bridges, tunnels, marked bike lanes, and controlled-access roadways."
+      }
+    }
+  ]
+}

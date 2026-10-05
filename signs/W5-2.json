@@ -1,0 +1,21 @@
+{
+  "id": "W5-2",
+  "designation": "W5-2",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W5-2 NARROW BRIDGE",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 37,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 37 signs/W5-2.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W5-2.svg",
+  "alt": {
+    "ru": "Знак «Узкий мост (Narrow Bridge)»",
+    "en": "Narrow Bridge sign"
+  }
+}

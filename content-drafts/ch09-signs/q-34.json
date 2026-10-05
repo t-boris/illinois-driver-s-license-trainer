@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q34",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "S5-1",
+    "alt": {
+      "ru": "Вертикальный белый знак с жёлтой верхней табличкой и числом",
+      "en": "Vertical white sign with a yellow top panel and a number"
+    }
+  },
+  "text": {
+    "ru": "Когда действует скорость на этом знаке?",
+    "en": "When does the speed on this sign apply?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "В учебные дни, когда рядом дети, или когда мигает сигнал (School Speed Limit)",
+        "en": "On school days when children are present, or when the beacon flashes"
+      },
+      "explanation": {
+        "ru": "Верно! В школьной зоне нельзя пользоваться телефоном за рулём.",
+        "en": "Correct! Phone use is also prohibited while driving in a school speed zone."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Круглосуточно, каждый день",
+        "en": "All day, every day"
+      },
+      "explanation": {
+        "ru": "Школьный предел действует только при детях или мигающем сигнале.",
+        "en": "The school limit applies only when children are present or the beacon is flashing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только ночью",
+        "en": "Only at night"
+      },
+      "explanation": {
+        "ru": "Дети рядом бывают днём, поэтому ночью предел не действует.",
+        "en": "Children are around in the daytime, so the limit is not for night."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только в выходные",
+        "en": "Only on weekends"
+      },
+      "explanation": {
+        "ru": "Школа работает в будни, поэтому предел действует в учебные дни.",
+        "en": "School runs on weekdays, so the limit applies on school days."
+      }
+    }
+  ]
+}

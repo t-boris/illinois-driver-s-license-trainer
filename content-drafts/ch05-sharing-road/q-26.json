@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q26",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 42",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что из перечисленного может сместить мотоцикл на всю ширину полосы, если водитель не готов?",
+    "en": "Which of these can move a motorcycle across an entire lane if the rider is not prepared?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сухой гладкий асфальт",
+        "en": "Dry, smooth pavement"
+      },
+      "explanation": {
+        "ru": "Сухой ровный асфальт мотоциклисту как раз помогает. Сместить его могут порывы ветра.",
+        "en": "Dry, smooth pavement helps a motorcyclist. Wind gusts can push the motorcycle across the lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включённые фары идущей сзади машины",
+        "en": "The headlights of a following car"
+      },
+      "explanation": {
+        "ru": "Дело не в фарах: мотоцикл может сместить порыв ветра, в том числе от большого грузовика.",
+        "en": "It is not the headlights: wind gusts, including those from big trucks, can move a motorcycle."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Порывы ветра, в том числе от больших проезжающих машин",
+        "en": "Wind gusts, including those from large passing vehicles"
+      },
+      "explanation": {
+        "ru": "Верно. Также влияют лужи, лёд, гравий, ямы, масляные пятна и рельсы.",
+        "en": "Correct. Wet or icy roads, gravel, potholes, oil spills, and railroad tracks also matter."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ровная скорость соседних машин",
+        "en": "Steady speed of nearby cars"
+      },
+      "explanation": {
+        "ru": "Ровный поток не создаёт проблем. Сместить мотоцикл могут порывы ветра.",
+        "en": "A steady flow is not a problem. Wind gusts can push the motorcycle."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q81",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Требование остановиться для школьного автобуса действует и на парковке на территории школы.",
+    "en": "The rule to stop for a school bus applies to any parking lot located on school property."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Остановиться нужно на любой дороге, шоссе, частной дороге и парковке у школы. Автобус предупредит об остановке огнями за 100 футов (200 в сельской местности).",
+        "en": "Correct! Stop on any roadway, highway, private road, or school parking lot. The bus warns with flashing lights 100 feet (200 rural) ahead."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Остановиться нужно на любой дороге, шоссе, частной дороге и парковке у школы. Автобус предупредит об остановке огнями за 100 футов (200 в сельской местности).",
+        "en": "Not quite. Stop on any roadway, highway, private road, or school parking lot. The bus warns with flashing lights 100 feet (200 rural) ahead."
+      }
+    }
+  ]
+}

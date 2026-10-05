@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-parallel-parking",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 35",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "параллельная парковка (parallel parking)",
+    "en": "Parallel parking"
+  },
+  "definition": {
+    "ru": "Парковка вдоль бордюра. На улице с двусторонним движением правые колёса должны быть параллельны бордюру и не дальше 12 дюймов от него.",
+    "en": "Parking alongside the curb. On a two-way street the right-hand wheels must be parallel to and within 12 inches of the curb."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q78",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что обозначает одновременное мигание обоих поворотников (hazard signal)?",
+    "en": "What does flashing both turn signals at the same time indicate?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неисправный или припаркованный автомобиль",
+        "en": "A disabled or parked vehicle"
+      },
+      "explanation": {
+        "ru": "Верно! Аварийные огни предупреждают других о стоящей машине.",
+        "en": "Correct! Hazard lights warn others of a disabled or parked vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Вы собираетесь повернуть налево",
+        "en": "You are about to turn left"
+      },
+      "explanation": {
+        "ru": "Нет. Для поворота мигает только один поворотник.",
+        "en": "No. Only one turn signal flashes for a turn."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Другим водителям можно обгонять вас",
+        "en": "Other drivers may pass you"
+      },
+      "explanation": {
+        "ru": "Нет. Это не сигнал для обгона, и такие сигналы-вежливость запрещены.",
+        "en": "No. It is not a passing signal, and courtesy signals are not allowed."
+      }
+    }
+  ]
+}

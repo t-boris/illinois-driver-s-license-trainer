@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q26",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В каком случае можно пользоваться сотовым телефоном без hands-free?",
+    "en": "When may you use a cellphone that is not hands-free?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Чтобы быстро ответить на сообщение",
+        "en": "To quickly answer a text message"
+      },
+      "explanation": {
+        "ru": "Нет. Переписка за рулём запрещена. Если сообщение важное, съезжайте на обочину и остановитесь.",
+        "en": "No. Texting while driving is prohibited. If a message is important, pull onto the shoulder and stop first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Когда вы едете медленно в пробке",
+        "en": "While crawling along in heavy traffic"
+      },
+      "explanation": {
+        "ru": "Нет. Пока вы едете, держать телефон нельзя, даже медленно. Исключение — полная остановка из-за затора с коробкой в нейтрали или парковке.",
+        "en": "No. While the car is moving, even slowly, you may not hold a phone. The exception is stopped due to obstructed traffic with the vehicle in neutral or park."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Когда вы стоите на красном свете в потоке",
+        "en": "While waiting at a red light in the traffic lane"
+      },
+      "explanation": {
+        "ru": "Нет. Красный свет не входит в исключения. Телефон без hands-free можно использовать только в трёх случаях: вызов экстренной службы, стоянка на обочине, остановка из-за затора с коробкой в нейтрали или парковке.",
+        "en": "No. A red light is not an exception. A handheld phone is allowed only to report an emergency, while parked on the shoulder, or when stopped in obstructed traffic in neutral or park."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Чтобы сообщить об экстренной ситуации",
+        "en": "To report an emergency"
+      },
+      "explanation": {
+        "ru": "Верно! Вызов экстренной помощи — одно из трёх исключений. Остальные: стоянка на обочине и остановка из-за затора с коробкой в нейтрали или парковке.",
+        "en": "Correct! Reporting an emergency is one of three exceptions. The others are parked on the shoulder and stopped in obstructed traffic in neutral or park."
+      }
+    }
+  ]
+}

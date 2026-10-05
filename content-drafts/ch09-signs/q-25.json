@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q25",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W2-2",
+    "alt": {
+      "ru": "Жёлтый ромб с вертикальной чёрной линией и короткой чёрточкой сбоку",
+      "en": "Yellow diamond with a vertical black bar and a short stub to one side"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Боковая дорога (Side Road)",
+        "en": "Side road"
+      },
+      "explanation": {
+        "ru": "Верно! Впереди примыкает боковая дорога, с которой может выехать транспорт.",
+        "en": "Correct! A side road joins ahead, and traffic may enter from it."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Перекрёсток (Crossroad)",
+        "en": "Crossroad"
+      },
+      "explanation": {
+        "ru": "На знаке перекрёстка две линии пересекаются крестом.",
+        "en": "The crossroad sign shows two lines crossing like a plus."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поворот направо",
+        "en": "Right turn"
+      },
+      "explanation": {
+        "ru": "Поворот показывает изогнутую стрелку, а не прямую линию с ответвлением.",
+        "en": "A turn shows a bent arrow, not a straight line with a branch."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Т-образный перекрёсток",
+        "en": "T intersection"
+      },
+      "explanation": {
+        "ru": "На знаке Т-образного перекрёстка перекладина полностью закрывает верх дороги, как буква Т.",
+        "en": "A T intersection sign has a bar across the top of the road, like the letter T."
+      }
+    }
+  ]
+}

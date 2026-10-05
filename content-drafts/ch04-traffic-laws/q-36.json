@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q36",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "У пассажира инвалидность, и он не может сам пристегнуть ремень. Кто отвечает за то, чтобы ремень был застёгнут?",
+    "en": "A passenger has a disability and cannot fasten their own safety belt. Who is responsible?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Другой пассажир, но не водитель",
+        "en": "Another passenger, never the driver"
+      },
+      "explanation": {
+        "ru": "Нет. Ответственность лежит на водителе, хотя помочь может кто угодно.",
+        "en": "No. The responsibility lies with the driver, even if someone else helps."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Водитель должен пристегнуть и отрегулировать ремень",
+        "en": "The driver must secure and adjust the belt"
+      },
+      "explanation": {
+        "ru": "Верно! Водитель отвечает за то, чтобы ВСЕ пассажиры соблюдали закон о ремнях и о защите детей-пассажиров.",
+        "en": "Correct! The driver is responsible for ensuring ALL passengers obey the safety belt law and the Child Passenger Protection Act."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пассажир освобождается от обязанности",
+        "en": "The passenger is exempt from the law"
+      },
+      "explanation": {
+        "ru": "Нет. Исключения нет: ремень нужен всем с 8 лет, и водитель помогает пристегнуться.",
+        "en": "No. There is no exemption: belts are required for everyone age 8 and older, and the driver helps."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q25",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 19",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водитель младше 18 лет получил court supervision за некоторые алкогольные нарушения. Что с полными правами GDL?",
+    "en": "A driver under 18 receives court supervision for certain alcohol-related violations. What happens to a full graduated driver’s license?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никаких последствий, если алкоголь не пили за рулём",
+        "en": "No effect if no alcohol was consumed while driving"
+      },
+      "explanation": {
+        "ru": "Последствия есть и без вождения: полные права не выдадут девять месяцев.",
+        "en": "There are consequences even without driving: a full license is denied for nine months."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Полные права не выдадут в течение девяти месяцев",
+        "en": "A full license is denied for nine months"
+      },
+      "explanation": {
+        "ru": "Верно. Это ещё одно последствие, о котором важно знать молодым водителям.",
+        "en": "Correct. It is one more consequence that young drivers should know about."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права выдадут сразу после штрафа",
+        "en": "The license is issued right after paying a fine"
+      },
+      "explanation": {
+        "ru": "Сначала нужно отсидеть срок: полные права откладываются на девять месяцев.",
+        "en": "There is a waiting period: a full license is delayed for nine months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права откладываются до 21 года",
+        "en": "The license is delayed until age 21"
+      },
+      "explanation": {
+        "ru": "Срок короче: девять месяцев.",
+        "en": "The delay is shorter: nine months."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-pm-twltl",
+  "topic": "ch10-signals-markings",
+  "signId": "PM-TWLTL",
+  "category": "marking",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Центральная полоса левого поворота (Two-way left turn lane)",
+    "en": "Two-way left turn lane"
+  },
+  "meaning": {
+    "ru": "Такие полосы размечены жёлтыми линиями и белыми стрелками. Поворачивать налево с другой полосы нельзя, если есть полоса левого поворота. Ездить по этой полосе можно только при подготовке к левому повороту или при левом повороте (с дороги или на дорогу), а также при подготовке к развороту или развороте, если закон его разрешает.",
+    "en": "Two-way left turn lanes are marked with yellow lines and white arrows. A left turn may not be made from any other lane when a turn lane is provided. A vehicle may not be driven in the lane except when preparing for or making a left turn from or into the roadway, or when preparing for or making a U-turn when permitted by law."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q77",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда разрешено разворачиваться на кривых и холмах?",
+    "en": "When may you make a U-turn on a curve or hill?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только если видно не менее 500 футов во всех направлениях",
+        "en": "Only if you can see at least 500 feet in all directions"
+      },
+      "explanation": {
+        "ru": "Верно! Кроме того, города могут запрещать развороты на некоторых дорогах.",
+        "en": "Correct! Municipalities may also prohibit U-turns on some roadways."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда, если дорога пустая",
+        "en": "Always, if the road is empty"
+      },
+      "explanation": {
+        "ru": "Нет. Нужна видимость.",
+        "en": "No. You need good visibility."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Если видно хотя бы 100 футов",
+        "en": "If you can see at least 100 feet"
+      },
+      "explanation": {
+        "ru": "Мало. Нужно минимум 500 футов.",
+        "en": "Not enough. You need at least 500 feet."
+      }
+    }
+  ]
+}

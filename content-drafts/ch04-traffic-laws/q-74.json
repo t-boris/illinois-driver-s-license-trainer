@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q74",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как показать рукой правый поворот, если не работают поворотники?",
+    "en": "With hand-and-arm signals, how do you signal a right turn?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Левая рука вытянута прямо влево",
+        "en": "Left arm extended straight out to the left"
+      },
+      "explanation": {
+        "ru": "Рука прямо влево означает левый поворот.",
+        "en": "Arm straight out means a left turn."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Левая рука поднята прямо вверх",
+        "en": "Left arm extended straight up"
+      },
+      "explanation": {
+        "ru": "Верно! Сигнал подают левой рукой: вверх — правый поворот, вперёд-влево — левый, вниз — замедление или остановка.",
+        "en": "Correct! Signal with the left arm: up for a right turn, straight out for left, down to slow or stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Левая рука вытянута вниз",
+        "en": "Left arm extended down"
+      },
+      "explanation": {
+        "ru": "Рука вниз означает «замедление или остановка».",
+        "en": "Arm down means slow down or stop."
+      }
+    }
+  ]
+}

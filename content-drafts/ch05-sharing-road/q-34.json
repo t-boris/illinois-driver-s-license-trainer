@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q34",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какой минимальный возраст оператора низкоскоростного электрического или бензинового велосипеда (с мотором менее 1 лошадиной силы)?",
+    "en": "What is the minimum age to operate a low-speed electric or gas bicycle (motor under 1 horsepower)?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "12 лет",
+        "en": "12 years old"
+      },
+      "explanation": {
+        "ru": "Возраст выше: оператору должно быть не менее 16 лет.",
+        "en": "The age is higher: the operator must be at least 16."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "18 лет",
+        "en": "18 years old"
+      },
+      "explanation": {
+        "ru": "Порог ниже: достаточно 16 лет.",
+        "en": "The threshold is lower: 16 is enough."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "16 лет",
+        "en": "16 years old"
+      },
+      "explanation": {
+        "ru": "Верно. Такие велосипеды ездят только по улицам, не быстрее 20 mph и не по тротуарам.",
+        "en": "Correct. They may only be driven on streets, not faster than 20 mph, and never on sidewalks."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "21 год",
+        "en": "21 years old"
+      },
+      "explanation": {
+        "ru": "Это слишком много: минимальный возраст 16 лет.",
+        "en": "That is too high: the minimum age is 16."
+      }
+    }
+  ]
+}

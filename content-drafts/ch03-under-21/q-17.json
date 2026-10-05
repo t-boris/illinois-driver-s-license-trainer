@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q17",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько времени водитель в фазе Initial Licensing должен не иметь осуждений до 18-летия?",
+    "en": "How long must a driver in the Initial Licensing Phase stay conviction-free before turning 18?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три месяца",
+        "en": "Three months"
+      },
+      "explanation": {
+        "ru": "Нужен более долгий срок: шесть месяцев без осуждений.",
+        "en": "A longer period is needed: six months without convictions."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Шесть месяцев",
+        "en": "Six months"
+      },
+      "explanation": {
+        "ru": "Верно. Шесть месяцев без осуждений перед 18-летием, иначе ограничения могут сохраниться и после 18.",
+        "en": "Correct. Six months conviction-free before turning 18, or restrictions may continue past 18."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Девять месяцев",
+        "en": "Nine months"
+      },
+      "explanation": {
+        "ru": "Девять месяцев относятся к сроку, который держат учебное разрешение. Здесь нужно шесть месяцев без осуждений.",
+        "en": "Nine months is how long the permit must be held. Here six months conviction-free is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Два года",
+        "en": "Two years"
+      },
+      "explanation": {
+        "ru": "Столько не требуется: достаточно шести месяцев без осуждений перед 18-летием.",
+        "en": "That is more than required: six conviction-free months before turning 18 is enough."
+      }
+    }
+  ]
+}

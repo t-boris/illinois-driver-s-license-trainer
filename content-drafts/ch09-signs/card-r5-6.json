@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r5-6",
+  "topic": "ch09-signs",
+  "signId": "R5-6",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Велосипедам проезд запрещён (No Bicycles)",
+    "en": "No Bicycles"
+  },
+  "meaning": {
+    "ru": "Красный круг с косой чертой означает, что определённое действие запрещено. Рисунок внутри круга показывает, что именно: здесь это езда на велосипеде.",
+    "en": "A red circle with a red slash means a particular action is not allowed. The picture within the circle shows what is not allowed; here it is bicycles."
+  }
+}

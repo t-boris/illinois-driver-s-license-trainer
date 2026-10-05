@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q79",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В каком направлении движутся машины в круговом перекрёстке (roundabout) и как въезжать?",
+    "en": "In which direction does traffic move in a roundabout, and how do you enter?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "По часовой стрелке, въезд поворотом налево",
+        "en": "Clockwise, entering by turning left"
+      },
+      "explanation": {
+        "ru": "Нет. Движение идёт против часовой стрелки.",
+        "en": "No. Traffic moves counter-clockwise."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Без ограничений, как удобно",
+        "en": "Any direction that is convenient"
+      },
+      "explanation": {
+        "ru": "Нет. Только против часовой стрелки.",
+        "en": "No. Only counter-clockwise."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Против часовой стрелки, въезд поворотом направо, когда безопасно",
+        "en": "Counter-clockwise, entering by turning right when it is safe"
+      },
+      "explanation": {
+        "ru": "Верно! Уступайте всем, держитесь своей полосы и сигналом правого поворота показывайте выезд.",
+        "en": "Correct! Yield to all traffic, stay in your lane, and use the right signal to show you are exiting."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-emergency-notification-system",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "служба экстренной связи железной дороги (Emergency Notification System)",
+    "en": "Railroad Emergency Notification System"
+  },
+  "definition": {
+    "ru": "Телефон на синей табличке у переезда. Если машина застряла на путях, после выхода и звонка 911 позвоните и по этому номеру.",
+    "en": "The phone number on the blue sign at a railroad crossing. If your vehicle is stuck on the tracks, after getting out and calling 911, also call this number."
+  }
+}

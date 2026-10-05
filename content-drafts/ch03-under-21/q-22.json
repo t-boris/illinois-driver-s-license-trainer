@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q22",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 20",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое минимальное наказание грозит водителю младше 21 года, осуждённому за хранение или употребление алкоголя, если он находился в автомобиле?",
+    "en": "What is the minimum driving-privilege suspension for a person under 21 who is convicted of possessing or consuming alcohol while an occupant of a motor vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три месяца",
+        "en": "Three months"
+      },
+      "explanation": {
+        "ru": "Три месяца — это при court supervision, а при осуждении минимум шесть.",
+        "en": "Three months applies to court supervision; a conviction brings at least six."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "30 дней",
+        "en": "30 days"
+      },
+      "explanation": {
+        "ru": "30 дней относятся к двум нарушениям правил движения за 24 месяца, а не к алкоголю.",
+        "en": "30 days applies to two moving violations in 24 months, not to alcohol."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Шесть месяцев",
+        "en": "Six months"
+      },
+      "explanation": {
+        "ru": "Верно. При осуждении — минимум шесть месяцев, а при court supervision — три месяца.",
+        "en": "Correct. A conviction brings at least six months, and court supervision brings three months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Штраф без приостановки прав",
+        "en": "A fine only, with no suspension"
+      },
+      "explanation": {
+        "ru": "Права тоже приостанавливают: при осуждении минимум на шесть месяцев.",
+        "en": "Driving privileges are suspended too: at least six months for a conviction."
+      }
+    }
+  ]
+}

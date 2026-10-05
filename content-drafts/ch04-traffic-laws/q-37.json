@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q37",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как правильно носить поясную часть ремня безопасности?",
+    "en": "How should the lap part of a safety belt be worn?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Плечевую часть можно завести за спину",
+        "en": "The shoulder strap may go behind your back"
+      },
+      "explanation": {
+        "ru": "Нет. Плечевая лямка никогда не должна идти за спиной или под рукой.",
+        "en": "No. The shoulder strap should never be placed behind the back or under the arm."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Поперёк тазовых костей, а не живота",
+        "en": "Across the hip bones, never the stomach"
+      },
+      "explanation": {
+        "ru": "Верно! Плечевая лямка должна быть плотной, но не мешать дотянуться до органов управления, и проходить около шеи или лица.",
+        "en": "Correct! The shoulder strap should be snug but still let you reach controls, and cross the body at or near the neck or face."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поперёк живота, чтобы было удобнее",
+        "en": "Across the stomach for comfort"
+      },
+      "explanation": {
+        "ru": "Нет. Пояс на мягком животе опасен при аварии.",
+        "en": "No. A belt across the soft abdomen can cause injuries in a crash."
+      }
+    }
+  ]
+}

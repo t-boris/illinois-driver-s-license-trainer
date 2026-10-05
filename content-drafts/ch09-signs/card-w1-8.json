@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w1-8",
+  "topic": "ch09-signs",
+  "signId": "W1-8",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Изменение направления или сужение дороги (Change in Direction)",
+    "en": "Change in Direction or Narrowing of Roadway"
+  },
+  "meaning": {
+    "ru": "Знак предупреждает об изменении направления дороги или о её сужении. Несколько таких знаков могут стоять на внешней стороне крутого поворота или перед узким мостом.",
+    "en": "This sign warns of a change in direction or narrowing of the road. You may find several of these signs on the outside of a sharp curve or on approaches to a narrow bridge."
+  }
+}

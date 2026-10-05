@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r3-9a",
+  "topic": "ch09-signs",
+  "signId": "R3-9a",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Двусторонняя полоса для левого поворота (Two-Way Left Turn Lane)",
+    "en": "Two-Way Left Turn Lane"
+  },
+  "meaning": {
+    "ru": "Такой знак показывает, что в центре дороги есть общая полоса для левых поворотов в обе стороны. Она размечена жёлтыми линиями и белыми стрелками.",
+    "en": "This sign indicates that a two-way left turn lane is in the center of a highway. The lane is marked with yellow lines and white arrows."
+  }
+}

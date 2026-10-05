@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q19",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 19",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что для получения court supervision за нарушение несовершеннолетний должен явиться в суд с родителем или опекуном и пройти школу безопасности движения?",
+    "en": "True or false: To obtain court supervision for a traffic violation, a minor must appear in court with a parent or legal guardian and attend traffic safety school."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Для court supervision нужно пройти traffic safety school, а водитель младше 18 лет приходит в суд с родителем или опекуном.",
+        "en": "Correct. Court supervision requires attending traffic safety school, and a driver under 18 must appear in court with a parent or legal guardian."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Оба условия действуют: школа безопасности движения и, для младше 18 лет, явка в суд с родителем или опекуном.",
+        "en": "Both conditions apply: traffic safety school and, under 18, appearing in court with a parent or legal guardian."
+      }
+    }
+  ]
+}

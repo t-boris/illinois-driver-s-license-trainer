@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-cooperative-driver-testing-program",
+  "topic": "ch03-under-21",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 17",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "программа Cooperative Driver Testing",
+    "en": "Cooperative Driver Testing Program"
+  },
+  "definition": {
+    "ru": "Добровольная программа для школьников: окончившие курс вождения в школе с общей оценкой A или B могут не сдавать экзамен по вождению у Secretary of State. Выдаётся Cooperative Driver Testing Certificate, его подписывают инструктор и родитель; он истекает вместе с учебным разрешением и не продлевается.",
+    "en": "A voluntary program for high school students: those who complete driver education with a combined grade of A or B may be exempt from the Secretary of State driving exam. A Cooperative Driver Testing Certificate is issued, signed by the instructor and a parent; it expires with the instruction permit and is not extended."
+  }
+}

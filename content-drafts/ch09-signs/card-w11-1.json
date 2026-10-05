@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w11-1",
+  "topic": "ch09-signs",
+  "signId": "W11-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Велосипедисты пересекают дорогу (Bicycle Crossing)",
+    "en": "Bicycle Crossing"
+  },
+  "meaning": {
+    "ru": "Особые знаки пересечений заранее предупреждают о местах, где через дорогу могут переходить или переезжать люди и транспорт. Здесь это велосипедисты.",
+    "en": "Special crossing signs alert drivers in advance of areas where vehicles and pedestrians may be crossing. This one warns of bicycles."
+  }
+}

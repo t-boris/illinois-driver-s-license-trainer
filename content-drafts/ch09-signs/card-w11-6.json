@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w11-6",
+  "topic": "ch09-signs",
+  "signId": "W11-6",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Снегоходы пересекают дорогу (Snowmobile Crossing)",
+    "en": "Snowmobile Crossing"
+  },
+  "meaning": {
+    "ru": "Особые знаки пересечений заранее предупреждают о местах, где дорогу могут пересекать люди и транспорт. Здесь это снегоходы.",
+    "en": "Special crossing signs alert drivers in advance of areas where vehicles and pedestrians may be crossing. This one warns of snowmobiles."
+  }
+}

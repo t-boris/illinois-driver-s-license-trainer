@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w6-2",
+  "topic": "ch09-signs",
+  "signId": "W6-2",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Конец разделённой дороги (Divided Highway Ends)",
+    "en": "Divided Highway Ends"
+  },
+  "meaning": {
+    "ru": "Знак стоит прямо перед концом разделённой дороги. Будьте внимательны: скоро встречный транспорт поедет по той же проезжей части.",
+    "en": "This sign is posted just before a divided highway ends. Be careful nearing the end of the divided highway."
+  }
+}

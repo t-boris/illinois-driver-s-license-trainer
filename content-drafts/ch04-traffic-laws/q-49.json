@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q49",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как близко к месту, где работают экстренные службы, разрешено пользоваться телефоном и фотографировать?",
+    "en": "Within what distance of an emergency scene does Illinois law prohibit photography and cellphone use (with limited exceptions)?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не ближе 50 футов",
+        "en": "Within 50 feet"
+      },
+      "explanation": {
+        "ru": "Расстояние больше: 500 футов.",
+        "en": "The distance is greater: 500 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В пределах 500 футов",
+        "en": "Within 500 feet"
+      },
+      "explanation": {
+        "ru": "Верно! В пределах 500 футов от места работы экстренных служб (emergency scene) нельзя фотографировать и пользоваться телефоном, кроме особых случаев.",
+        "en": "Correct! Within 500 feet of an emergency scene photography and cellphone use are prohibited, except in certain circumstances."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только в пределах 10 футов",
+        "en": "Only within 10 feet"
+      },
+      "explanation": {
+        "ru": "Расстояние намного больше: 500 футов.",
+        "en": "The distance is much greater: 500 feet."
+      }
+    }
+  ]
+}

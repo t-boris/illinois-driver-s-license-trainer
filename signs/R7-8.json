@@ -1,0 +1,21 @@
+{
+  "id": "R7-8",
+  "designation": "R7-8",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R7-8 NO PARKING",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 94,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 94 signs/R7-8.svg 335 368 185 285 --keep-text",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "R7-8.svg",
+  "alt": {
+    "ru": "Знак «Парковка для людей с инвалидностью (Persons with Disabilities Parking)»",
+    "en": "Parking for Persons with Disabilities sign"
+  }
+}

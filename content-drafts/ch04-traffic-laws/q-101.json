@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q101",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 36",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько людей можно перевозить на передних и задних сиденьях по закону Иллинойса?",
+    "en": "How many people may ride in the front and rear seats under Illinois law?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Двое на одном ремне, если это дети",
+        "en": "Two on one belt if they are children"
+      },
+      "explanation": {
+        "ru": "Нет. Один человек на один ремень.",
+        "en": "No. One person per belt."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сколько поместится, если обзор водителя не закрыт",
+        "en": "As many as fit if the driver's view is clear"
+      },
+      "explanation": {
+        "ru": "Нет. Должно быть не больше людей, чем ремней безопасности.",
+        "en": "No. There should be no more people than seat belts."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не больше людей, чем ремней безопасности",
+        "en": "No more people than there are seat belts"
+      },
+      "explanation": {
+        "ru": "Верно! Нельзя перегружать машину пассажирами или грузом так, чтобы был закрыт обзор.",
+        "en": "Correct! Do not overload a vehicle with passengers or freight so that the driver's view is obstructed."
+      }
+    }
+  ]
+}

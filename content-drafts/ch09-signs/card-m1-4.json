@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-m1-4",
+  "topic": "ch09-signs",
+  "signId": "M1-4",
+  "category": "guide",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 74",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Маркер федеральной трассы (U.S. Route Marker)",
+    "en": "U.S. Route Marker"
+  },
+  "meaning": {
+    "ru": "Маркеры маршрутов показывают, по какой именно дороге вы едете. Их ставят отдельно или вместе с меньшими табличками; у разных маршрутов разные маркеры.",
+    "en": "Route markers direct you to specific roads. They are used alone or with smaller signs, and different routes have different markings."
+  }
+}

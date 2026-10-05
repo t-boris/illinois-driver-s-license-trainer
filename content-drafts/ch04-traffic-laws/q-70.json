@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q70",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Можно открывать двери со стороны движения только тогда, когда это безопасно и не помешает транспорту.",
+    "en": "Drivers may open car doors on the side where traffic is moving only when it can be done safely and without interfering with traffic."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Дверь можно держать открытой лишь пока вы высаживаете или садите пассажиров. Метод Dutch Reach: открывайте дальней рукой, чтобы развернуться и посмотреть назад.",
+        "en": "Correct! The door may stay open only long enough to load or unload. The Dutch Reach, opening with the far hand, makes you turn and check for traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Дверь можно держать открытой лишь пока вы высаживаете или садите пассажиров. Метод Dutch Reach: открывайте дальней рукой, чтобы развернуться и посмотреть назад.",
+        "en": "Not quite. The door may stay open only long enough to load or unload. The Dutch Reach, opening with the far hand, makes you turn and check for traffic."
+      }
+    }
+  ]
+}

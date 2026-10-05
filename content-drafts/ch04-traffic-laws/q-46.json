@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q46",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что должен делать водитель при подъезде к зоне дорожных работ (construction area)?",
+    "en": "What should drivers do when approaching a construction area?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сигналить, чтобы предупредить рабочих",
+        "en": "Honk the horn several times to alert workers"
+      },
+      "explanation": {
+        "ru": "Нет. Сигналить не нужно: сбавьте скорость и будьте осторожны.",
+        "en": "No. Honking is not needed: slow down and proceed with caution."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Сбавить скорость, прекратить телефонные разговоры (кроме hands-free) и уступить рабочим и технике",
+        "en": "Slow down, stop wireless phone use, and yield the right of way"
+      },
+      "explanation": {
+        "ru": "Верно! Также по возможности перестройтесь подальше от рабочих и двигайтесь осторожно.",
+        "en": "Correct! Also change to a lane away from the workers when possible and proceed with caution."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прибавить скорость, чтобы быстрее проехать",
+        "en": "Increase speed to get out of the way quickly"
+      },
+      "explanation": {
+        "ru": "Нет. В рабочей зоне нужно снижать скорость.",
+        "en": "No. In a work zone you must slow down."
+      }
+    }
+  ]
+}

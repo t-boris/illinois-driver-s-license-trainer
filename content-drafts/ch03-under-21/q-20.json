@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q20",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 19",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Родитель отозвал согласие на водительские права 16-17-летнего. Когда права могут быть восстановлены?",
+    "en": "A parent withdrew consent for a 16- or 17-year-old’s driver’s license. When can driving privileges be reinstated?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Когда этот родитель снова даст согласие или водителю исполнится 18 лет, смотря что наступит раньше",
+        "en": "When that parent consents again or the driver turns 18, whichever comes first"
+      },
+      "explanation": {
+        "ru": "Верно. Подростку при этом нужно заново подать заявление, сдать экзамены и оплатить сборы.",
+        "en": "Correct. The teen must also reapply, take all applicable exams, and pay the fees."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Автоматически через шесть месяцев",
+        "en": "Automatically after six months"
+      },
+      "explanation": {
+        "ru": "Автоматического срока нет: решает согласие родителя или достижение 18 лет.",
+        "en": "There is no automatic period: it depends on the parent’s consent or the driver turning 18."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Когда водитель сам об этом попросит в DMV",
+        "en": "When the driver asks at the DMV"
+      },
+      "explanation": {
+        "ru": "Просьбы водителя недостаточно: нужно новое согласие родителя, давшего первое согласие, или 18 лет.",
+        "en": "The driver’s request is not enough: it takes new consent from the parent who gave the first one, or age 18."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только после 21 года",
+        "en": "Only after age 21"
+      },
+      "explanation": {
+        "ru": "Ждать до 21 не нужно: достаточно нового согласия родителя или 18 лет.",
+        "en": "No need to wait until 21: new parental consent or turning 18 is enough."
+      }
+    }
+  ]
+}

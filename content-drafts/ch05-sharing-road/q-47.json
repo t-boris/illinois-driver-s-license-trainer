@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q47",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какой сигнал должен быть на задней части медленно движущегося транспортного средства, когда нужны огни?",
+    "en": "What kind of light must be mounted on the rear of a slow-moving vehicle when lights are required?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Постоянный красный огонь",
+        "en": "A steady red light"
+      },
+      "explanation": {
+        "ru": "Нужен мигающий янтарный сигнал, видимый за 500 футов.",
+        "en": "A flashing amber signal visible for 500 feet is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Белый стробоскоп внизу",
+        "en": "A white strobe low on the vehicle"
+      },
+      "explanation": {
+        "ru": "Сигнал должен быть янтарным, мигающим и закреплённым как можно выше.",
+        "en": "The signal must be amber, flashing, and mounted as high as possible."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Синий огонь, видимый за 100 футов",
+        "en": "A blue light visible for 100 feet"
+      },
+      "explanation": {
+        "ru": "Нужен янтарный огонь, видимый за 500 футов при солнечном свете.",
+        "en": "An amber light visible for 500 feet in sunlight is needed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Мигающий янтарный сигнал, закреплённый как можно выше и видимый за 500 футов при солнечном свете",
+        "en": "A flashing amber signal mounted as high as possible and visible for 500 feet in sunlight"
+      },
+      "explanation": {
+        "ru": "Верно. Могут также применяться отражатели и вращающиеся или колеблющиеся янтарные огни.",
+        "en": "Correct. Reflectors and rotating or oscillating amber lights may also be used."
+      }
+    }
+  ]
+}

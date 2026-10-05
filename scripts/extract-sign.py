@@ -7,6 +7,8 @@ lines, small glyph labels, arrowheads, thin dimension lines) while keeping the o
 sign artwork, including black legends. The output is cropped automatically to the sign
 (margin 4pt) unless x y w h (PDF points) are given. Every result must be checked
 visually against the source sheet (DEC-014).
+Options: --keep-text keeps small legend glyphs that lie inside the sign face (needed for signs with
+small lettering such as ROAD WORK AHEAD); check the result for stray dimension labels.
 """
 import re, subprocess, sys, tempfile, xml.etree.ElementTree as ET
 
@@ -24,6 +26,7 @@ def extent(d):
     xs, ys = nums[0::2], nums[1::2]
     return (max(xs) - min(xs), max(ys) - min(ys)) if xs and ys else (0, 0)
 
+MIN_KEEP_TEXT = 14  # with --keep-text, glyphs at least this tall inside the face are legend; smaller ones are dimension labels
 MIN_LEGEND = 40  # glyphs/paths smaller than this (PDF points) are labels and arrowheads, not sign artwork
 
 def path_box(e):
@@ -94,12 +97,19 @@ def bbox_of(root):
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--keep-')]
     strip_black = '--strip-black' in sys.argv
+    keep_text = '--keep-text' in sys.argv
     pdf, page, out = args[0], args[1], args[2]
     crop = [float(v) for v in args[3:7]] if len(args) >= 7 else None
     with tempfile.NamedTemporaryFile(suffix='.svg') as tmp:
         subprocess.run(['pdftocairo', '-svg', '-f', page, '-l', page, pdf, tmp.name], check=True)
         tree = ET.parse(tmp.name)
     root = tree.getroot()
+    global FACE_HULL
+    if not crop:
+        bbox_of(root)  # sets FACE_HULL from the largest filled shape
+    else:
+        cx, cy, cw, ch = crop
+        FACE_HULL = [(cx, cy), (cx + cw, cy), (cx + cw, cy + ch), (cx, cy + ch)]
     glyph_h = {}
     for g in root.iter(f'{{{NS}}}g'):
         if (g.get('id') or '').startswith('glyph'):
@@ -113,7 +123,9 @@ def main():
             annotation = (
                 (strip_black and (is_black(fill) or is_black(stroke)))  # optional: drop black artwork too
                 or (tag == 'path' and fill == 'none' and stroke)           # any stroke-only line is a drawing aid
-                or (tag == 'use' and glyph_h.get((child.get('{http://www.w3.org/1999/xlink}href') or '')[1:], 0) < MIN_LEGEND)  # small glyph labels (F*, (c), ...)
+                or (tag == 'use' and glyph_h.get((child.get('{http://www.w3.org/1999/xlink}href') or '')[1:], 0) < MIN_LEGEND
+                    and not (keep_text and len(FACE_HULL) > 2 and inside(FACE_HULL, (float(child.get('x') or 0), float(child.get('y') or 0)))
+                             and glyph_h.get((child.get('{http://www.w3.org/1999/xlink}href') or '')[1:], 0) >= MIN_KEEP_TEXT))  # small glyph labels (F*, (c), ...)
                 or (tag == 'path' and fill and fill != 'none' and not child.get('transform')
                     and (max(extent(child.get('d'))) < MIN_LEGEND or min(extent(child.get('d'))) < 2))  # arrowheads, thin dimension lines
             )

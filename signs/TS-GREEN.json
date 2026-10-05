@@ -1,0 +1,21 @@
+{
+  "id": "TS-GREEN",
+  "designation": "TS-GREEN",
+  "source": {
+    "publication": "FHWA Manual on Uniform Traffic Control Devices (MUTCD), 2009 Edition with Revisions 1 and 2, Part 4, Figure 4D-2, vertical three-section signal face, green section (printed p. 458)",
+    "url": "https://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part4.pdf",
+    "page": 26,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-marking.py part4.pdf 26 signs/TS-GREEN.svg --figure --region 152.6 147.7 20.8 20.6 (clipped to the object; text labels removed)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source figure page rendered to PNG: shapes, colours and symbols match; labels, dimension lines and neighbouring objects removed."
+  },
+  "file": "TS-GREEN.svg",
+  "alt": {
+    "ru": "Светофор: круглая зелёная секция в тёмном корпусе.",
+    "en": "Round green signal lens in a dark signal housing."
+  }
+}

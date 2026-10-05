@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q17",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что стоять на проезжей части, чтобы остановить машину и уехать с попутчиком (hitchhiking), незаконно?",
+    "en": "True or false: Standing on the roadway to ask for a ride (hitchhiking) is illegal."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Просить подвезти, стоя на проезжей части, нельзя. Заказать такси или поездку через приложение безопаснее.",
+        "en": "Correct. Standing on the roadway to ask for a ride is not allowed. A taxi or a rideshare app is a safer choice."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Это запрещено: стоять на проезжей части и просить подвезти нельзя.",
+        "en": "It is prohibited: standing on the roadway to ask for a ride is illegal."
+      }
+    }
+  ]
+}

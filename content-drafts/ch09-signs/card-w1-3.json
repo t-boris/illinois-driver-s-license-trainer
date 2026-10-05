@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w1-3",
+  "topic": "ch09-signs",
+  "signId": "W1-3",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Повороты направо и налево подряд (Right and Left Turns Coming)",
+    "en": "Right and Left Turns Coming"
+  },
+  "meaning": {
+    "ru": "Впереди два поворота подряд в разные стороны. Заранее снизьте скорость и будьте готовы к смене направления.",
+    "en": "Two turns in opposite directions are coming one after another. Slow down early and be ready to change direction."
+  }
+}

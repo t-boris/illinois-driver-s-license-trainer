@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-ts-arr-green",
+  "topic": "ch10-signals-markings",
+  "signId": "TS-ARR-GREEN",
+  "category": "signal",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Зелёная стрелка (Green arrow)",
+    "en": "Green arrow"
+  },
+  "meaning": {
+    "ru": "Сначала уступите дорогу транспорту на перекрёстке или переходе, затем поезжайте в направлении стрелки. Стрелка вверх разрешает ехать только прямо, стрелка вправо разрешает поворот направо, стрелка влево разрешает поворот налево.",
+    "en": "After yielding the right of way to traffic within the intersection or crosswalk, you may go in the direction the arrow is pointing. An upward arrow means straight ahead only, a right arrow means you may turn right, and a left arrow means you may turn left."
+  }
+}

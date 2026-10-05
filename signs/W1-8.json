@@ -1,0 +1,21 @@
+{
+  "id": "W1-8",
+  "designation": "W1-8",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W1-8 CHEVRON ALIGNMENT",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 9,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 9 signs/W1-8.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W1-8.svg",
+  "alt": {
+    "ru": "Знак «Изменение направления или сужение дороги (Change in Direction)»",
+    "en": "Change in Direction or Narrowing of Roadway sign"
+  }
+}

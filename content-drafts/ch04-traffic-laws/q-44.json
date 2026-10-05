@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q44",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда минимальный лимит скорости не указан, всё равно нельзя ехать так медленно, чтобы мешать нормальному движению.",
+    "en": "When no minimum speed limit is posted, you should still not drive so slowly that you interfere with the normal movement of traffic."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Слишком медленная езда создаёт помехи и опасные обгоны. Едьте безопасно, но в потоке.",
+        "en": "Correct! Driving too slowly creates interference and risky passing. Drive safely but with the flow of traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Слишком медленная езда создаёт помехи и опасные обгоны. Едьте безопасно, но в потоке.",
+        "en": "Not quite. Driving too slowly creates interference and risky passing. Drive safely but with the flow of traffic."
+      }
+    }
+  ]
+}

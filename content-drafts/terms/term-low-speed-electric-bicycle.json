@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-low-speed-electric-bicycle",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "низкоскоростной электровелосипед (low-speed electric bicycle)",
+    "en": "Low-speed electric bicycle"
+  },
+  "definition": {
+    "ru": "Велосипед с полностью рабочими педалями и электромотором менее 750 Вт. Бывает трёх классов: Class 1 (помощь только при педалировании, до 20 mph), Class 2 (мотор может двигать велосипед сам, до 20 mph), Class 3 (помощь только при педалировании, до 28 mph, оператору не менее 16 лет). По тротуарам ездить нельзя.",
+    "en": "A bicycle with fully operable pedals and an electric motor of less than 750 watts. There are three classes: Class 1 (assists only while pedaling, up to 20 mph), Class 2 (motor may propel the bicycle alone, up to 20 mph), Class 3 (assists only while pedaling, up to 28 mph, operator at least age 16). It may not be ridden on sidewalks."
+  }
+}

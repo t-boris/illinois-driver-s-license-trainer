@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q28",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 19",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водитель 18 лет, уже в фазе Full Licensing, говорит по телефону за рулём с hands-free гарнитурой в неэкстренной ситуации. Это допустимо?",
+    "en": "An 18-year-old driver in the Full Licensing Phase talks on a hands-free phone while driving, with no emergency. Is that allowed?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Нет: любое использование телефона запрещено водителям младше 19 лет, даже hands-free",
+        "en": "No: any cellphone use, even hands-free, is prohibited for drivers under 19"
+      },
+      "explanation": {
+        "ru": "Верно. Исключение только экстренные звонки в полицию, медслужбу или службу спасения.",
+        "en": "Correct. The only exception is an emergency call to police, a health care provider, or emergency services."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Да, hands-free разрешён всем после 18 лет",
+        "en": "Yes, hands-free is allowed for anyone over 18"
+      },
+      "explanation": {
+        "ru": "До 19 лет hands-free тоже запрещён. Ограничение действует и в фазе Full Licensing.",
+        "en": "Hands-free is also banned until age 19. The rule still applies in the Full Licensing Phase."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Да, но только по ночам",
+        "en": "Yes, but only at night"
+      },
+      "explanation": {
+        "ru": "Время суток роли не играет: до 19 лет телефон запрещён в любое время, кроме экстренных случаев.",
+        "en": "Time of day does not matter: under 19, phones are off-limits at any time except in an emergency."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Да, если звонят родители",
+        "en": "Yes, if a parent is calling"
+      },
+      "explanation": {
+        "ru": "Звонок родителей — не исключение. Разрешены только экстренные звонки в полицию, медслужбу или службу спасения.",
+        "en": "A parent’s call is not an exception. Only emergency calls to police, health care, or emergency services are allowed."
+      }
+    }
+  ]
+}

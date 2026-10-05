@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q30",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если водителю нужно достать права или страховку из бардачка, он должен предупредить об этом полицейского до того, как потянется за ними.",
+    "en": "If drivers need to get insurance or registration information from the glove box, they should inform the police officer before doing so."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Скажите офицеру, где лежат документы, и действуйте только по его указаниям. Так никто не испугается.",
+        "en": "Correct! Tell the officer where the documents are and follow the directions given. That keeps everyone calm and safe."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Скажите офицеру, где лежат документы, и действуйте только по его указаниям. Так никто не испугается.",
+        "en": "Not quite. Tell the officer where the documents are and follow the directions given. That keeps everyone calm and safe."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-autocycle",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 42",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "автоцикл (autocycle)",
+    "en": "Autocycle"
+  },
+  "definition": {
+    "ru": "Трёхколёсное транспортное средство с рулём и сиденьем, на котором не нужно сидеть верхом. Должно быть оформлено титулом и зарегистрировано в Secretary of State, а водитель должен иметь действующие права Illinois.",
+    "en": "A three-wheeled vehicle that has a steering wheel and seating that does not require the driver to straddle it. It must be titled and registered with the Secretary of State, and the operator needs a valid Illinois driver’s license."
+  }
+}

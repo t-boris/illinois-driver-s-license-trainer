@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q87",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие транспортные средства обязаны останавливаться на большинстве железнодорожных переездов?",
+    "en": "Which vehicles are required by law to stop at most railroad crossings?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только такси",
+        "en": "Only taxis"
+      },
+      "explanation": {
+        "ru": "Не только: сюда входят и школьные автобусы, и машины с опасными грузами.",
+        "en": "Not only: school buses and hazardous material vehicles are included too."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Все легковые автомобили",
+        "en": "All passenger cars"
+      },
+      "explanation": {
+        "ru": "Нет. Обычные легковые машины останавливаются только при сигнале, опущенном шлагбауме или приближающемся поезде.",
+        "en": "No. Regular passenger cars stop only for a signal, gate, or train."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Автобусы с пассажирами, школьные автобусы и машины с опасными грузами",
+        "en": "Vehicles carrying people for hire, school buses, and vehicles carrying hazardous materials"
+      },
+      "explanation": {
+        "ru": "Верно! Будьте готовы остановиться, если вы едете за такой машиной.",
+        "en": "Correct! Be prepared to stop when behind such vehicles."
+      }
+    }
+  ]
+}

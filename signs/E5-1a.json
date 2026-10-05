@@ -1,0 +1,21 @@
+{
+  "id": "E5-1a",
+  "designation": "E5-1a",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Design Guidelines, sheet E5-1a EXIT NUMBER",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Design.pdf",
+    "page": 11,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Design.pdf 11 signs/E5-1a.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "E5-1a.svg",
+  "alt": {
+    "ru": "Знак «Съезд с номером (Exit)»",
+    "en": "Exit Sign sign"
+  }
+}

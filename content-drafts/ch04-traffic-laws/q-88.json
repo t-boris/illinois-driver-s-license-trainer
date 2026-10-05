@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q88",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ваша машина заглохла на рельсах. Что делать?",
+    "en": "Your vehicle stalls on railroad tracks. What should you do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Всем выйти сразу, позвонить 911 и отойти от путей под углом 45 градусов в сторону движения поезда",
+        "en": "Everyone gets out immediately, call 911, and move away at a 45-degree angle in the direction of the train"
+      },
+      "explanation": {
+        "ru": "Верно! Если возможно, позвоните также в службу экстренной связи железной дороги по номеру на синей табличке у переезда.",
+        "en": "Correct! If possible, also call the railroad Emergency Notification System number on the blue sign at the crossing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остаться в машине и ждать эвакуатор",
+        "en": "Stay inside and wait for a tow truck"
+      },
+      "explanation": {
+        "ru": "Нет. Оставаться на рельсах опасно: все должны выйти немедленно.",
+        "en": "No. Staying on the tracks is dangerous: everyone must get out immediately."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Отбежать от путей в сторону от поезда",
+        "en": "Run away from the tracks in the direction the train is coming from"
+      },
+      "explanation": {
+        "ru": "Нет, это опасно. Отходите под углом 45 градусов в том направлении, куда движется поезд, чтобы вас не задели обломки.",
+        "en": "No. Move at a 45-degree angle in the direction the train is travelling, so you are not hit by flying debris."
+      }
+    }
+  ]
+}

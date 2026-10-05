@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q49",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 47",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как должны ехать всадники по общественным дорогам?",
+    "en": "How must horseback riders travel on public roadways?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Навстречу потоку по левому краю",
+        "en": "Against traffic on the left edge"
+      },
+      "explanation": {
+        "ru": "Всадники едут в одном направлении с остальными и как можно правее.",
+        "en": "Riders travel in the same direction as other traffic and as far right as possible."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В том же направлении, что и поток, и как можно правее",
+        "en": "In the same direction as other traffic and as far to the right as possible"
+      },
+      "explanation": {
+        "ru": "Верно. На автомагистралях с ограниченным доступом и на большинстве скоростных шоссе верховая езда не разрешена.",
+        "en": "Correct. Horseback riders are not allowed on controlled-access highways and most expressways."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "По центру полосы",
+        "en": "In the center of the lane"
+      },
+      "explanation": {
+        "ru": "Держитесь как можно правее и в том же направлении, что и поток.",
+        "en": "Stay as far right as possible, in the same direction as traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только по скоростным шоссе",
+        "en": "Only on expressways"
+      },
+      "explanation": {
+        "ru": "Скоростные шоссе — исключение: там всадникам ездить нельзя.",
+        "en": "Expressways are an exception: riders are not allowed there."
+      }
+    }
+  ]
+}

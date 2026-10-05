@@ -1,0 +1,21 @@
+{
+  "id": "R6-3",
+  "designation": "R6-3",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R6-3 DIVIDED HIGHWAY CROSSING",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 90,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 90 signs/R6-3.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "R6-3.svg",
+  "alt": {
+    "ru": "Знак «Приближение к разделённой дороге (Divided Highway)»",
+    "en": "Approaching a Divided Highway sign"
+  }
+}

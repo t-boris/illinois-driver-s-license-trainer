@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q46",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что может сделать медленно движущееся транспортное средство в любой момент?",
+    "en": "What may a slow-moving vehicle do at any time?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Двигаться только прямо",
+        "en": "Only go straight"
+      },
+      "explanation": {
+        "ru": "Такие машины могут неожиданно повернуть в неразмеченный въезд, иногда широко.",
+        "en": "They may suddenly turn into an unmarked entrance, sometimes widely."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать быстрее потока",
+        "en": "Go faster than traffic"
+      },
+      "explanation": {
+        "ru": "Их обычная скорость 5-20 mph, и им разрешено сворачивать в неразмеченные въезды.",
+        "en": "Their usual speed is 5-20 mph, and they may turn into unmarked entrances."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Повернуть направо или налево на неразмеченный въезд, иногда широким поворотом",
+        "en": "Turn right or left into an unmarked entrance, sometimes with a wide turn"
+      },
+      "explanation": {
+        "ru": "Верно. Держите безопасную дистанцию и обгоняйте, только когда убедились, что водитель знает о вас.",
+        "en": "Correct. Keep a safe distance and pass only when the operator knows of you and your intent."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться без причины на перекрёстке",
+        "en": "Stop for no reason in an intersection"
+      },
+      "explanation": {
+        "ru": "Самое важное для вас: они могут повернуть налево или направо в неразмеченный въезд.",
+        "en": "What matters to you: they may turn right or left into an unmarked entrance."
+      }
+    }
+  ]
+}

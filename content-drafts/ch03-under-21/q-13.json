@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q13",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как долго действует учебное разрешение (instruction permit) в Illinois?",
+    "en": "How long is an Illinois instruction permit valid?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "12 месяцев",
+        "en": "12 months"
+      },
+      "explanation": {
+        "ru": "Срок длиннее: разрешение действует 24 месяца, так что времени на практику достаточно.",
+        "en": "The term is longer: the permit is valid for 24 months, so there is plenty of time to practice."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "24 месяца",
+        "en": "24 months"
+      },
+      "explanation": {
+        "ru": "Именно так. Разрешение действует 24 месяца, а держать его нужно не менее девяти месяцев подряд.",
+        "en": "Exactly. The permit is valid for 24 months, and it must be held for at least nine consecutive months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "36 месяцев",
+        "en": "36 months"
+      },
+      "explanation": {
+        "ru": "Это больше, чем нужно. По правилам штата разрешение действует 24 месяца.",
+        "en": "That is more than the rules give. Under state rules the permit is valid for 24 months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "До 21 года",
+        "en": "Until the holder turns 21"
+      },
+      "explanation": {
+        "ru": "Срок не привязан к возрасту 21 год: разрешение действует 24 месяца.",
+        "en": "The term is not tied to age 21: the permit is valid for 24 months."
+      }
+    }
+  ]
+}

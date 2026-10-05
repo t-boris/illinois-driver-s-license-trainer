@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q23",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 41",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вас обгоняет мотоцикл. Что вы должны делать?",
+    "en": "A motorcycle is passing you. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ускориться, чтобы не отстать",
+        "en": "Speed up so the motorcycle cannot pass"
+      },
+      "explanation": {
+        "ru": "Ускоряться не нужно. Сохраняйте скорость и положение на полосе.",
+        "en": "Do not speed up. Keep your speed and lane position."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прижаться к краю полосы, чтобы дать больше места",
+        "en": "Move to the edge of your lane to give extra room"
+      },
+      "explanation": {
+        "ru": "Лучше сохранять положение на полосе: резкие смещения неожиданны для мотоциклиста.",
+        "en": "Keep your lane position: sudden shifts are unexpected for the rider."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко затормозить",
+        "en": "Brake hard"
+      },
+      "explanation": {
+        "ru": "Резкое торможение опасно. Сохраняйте скорость и положение на полосе.",
+        "en": "Hard braking is dangerous. Keep your speed and lane position."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Сохранять положение на полосе и скорость, позволить мотоциклу завершить обгон",
+        "en": "Maintain your lane position and speed and let the motorcycle complete the pass"
+      },
+      "explanation": {
+        "ru": "Верно. Не ускоряйтесь и не смещайтесь, чтобы мотоциклист быстрее вернулся на свою полосу.",
+        "en": "Correct. Do not speed up or drift, so the rider can return to a proper lane position quickly."
+      }
+    }
+  ]
+}

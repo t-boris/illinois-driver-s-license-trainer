@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q26",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 20",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что водителю младше 18 лет, обвинённому в аварии с тяжёлой травмой или гибелью человека, могут отказать в выдаче или продлении прав, даже если алкоголь не был причиной?",
+    "en": "True or false: A person under 18 charged with an offense due to a crash resulting in serious injury or death may be denied a driver’s license, even if alcohol was not a factor."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Алкоголь для этого не обязателен: достаточно обвинения по аварии с серьёзной травмой или гибелью.",
+        "en": "Correct. Alcohol need not be a factor: a charge from a crash with serious injury or death is enough."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Алкоголь для такого отказа не обязателен: водителю младше 18 лет могут отказать в правах после обвинения по тяжёлой аварии.",
+        "en": "Alcohol is not required for this denial: a driver under 18 may be denied a license after a charge from a serious crash."
+      }
+    }
+  ]
+}

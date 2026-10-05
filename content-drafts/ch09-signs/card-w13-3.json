@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w13-3",
+  "topic": "ch09-signs",
+  "signId": "W13-3",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Скорость на съезде (Exit Ramp Speed)",
+    "en": "Exit Ramp Speed"
+  },
+  "meaning": {
+    "ru": "Такие знаки ставят на съездах с автомагистралей. Они показывают максимальную безопасную скорость, с которой можно ехать по съезду.",
+    "en": "These signs are posted at freeway and interstate exit ramps. They show the maximum safe speed at which a vehicle can be driven on the ramp."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-slow-moving-vehicle",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "медленно движущееся транспортное средство (slow-moving vehicle)",
+    "en": "Slow-moving vehicle"
+  },
+  "definition": {
+    "ru": "Сельскохозяйственная, строительная техника и гужевые повозки, которые обычно едут 5-20 mph. Могут делать широкие повороты и сворачивать в неразмеченные въезды. Сзади нужна оранжевая эмблема, а когда требуются огни, мигающий янтарный сигнал, видимый за 500 футов.",
+    "en": "Farm vehicles, construction equipment, and animal-drawn vehicles that normally travel 5-20 mph. They may turn widely and into unmarked entrances. They need an orange emblem on the rear and, when lights are required, a flashing amber signal visible for 500 feet."
+  }
+}

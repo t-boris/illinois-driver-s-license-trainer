@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w1-2",
+  "topic": "ch09-signs",
+  "signId": "W1-2",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Дорога плавно поворачивает направо (Road Curves to the Right)",
+    "en": "Road Curves to the Right"
+  },
+  "meaning": {
+    "ru": "Знак предупреждает о плавном изгибе дороги. Форма стрелки подсказывает, чего ждать; под стрелкой может быть указана безопасная скорость.",
+    "en": "This sign warns of a curve in the road. The shape of the arrow tells you what to expect, and a small sign with a maximum safe speed may be posted below it."
+  }
+}

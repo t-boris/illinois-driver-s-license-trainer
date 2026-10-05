@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-headset",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "наушники (headset)",
+    "en": "Headset"
+  },
+  "definition": {
+    "ru": "Любое устройство, кроме слухового аппарата, через которое можно слышать электронную связь. За рулём запрещены, но односторонняя гарнитура для телефона разрешена.",
+    "en": "Any device other than a hearing aid that lets you hear or receive electronic communications. Prohibited while driving, but a single-sided earpiece with a phone is allowed."
+  }
+}

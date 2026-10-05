@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q32",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы едете ночью и навстречу приближается велосипедист. Что делать с дальним светом?",
+    "en": "You are driving at night and a bicyclist is approaching from the opposite direction. What about your high beams?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не использовать дальний свет",
+        "en": "Do not use high beams"
+      },
+      "explanation": {
+        "ru": "Верно. Дальний свет слепит велосипедиста, как и водителей встречных машин.",
+        "en": "Correct. High beams blind the bicyclist, just as they blind oncoming drivers."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить дальний свет, чтобы он вас заметил",
+        "en": "Use high beams so the bicyclist sees you"
+      },
+      "explanation": {
+        "ru": "Дальний свет слепит. Лучше не пользоваться им при встречном велосипедисте.",
+        "en": "High beams blind. Avoid them when a bicyclist is oncoming."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Мигать дальним светом всё время",
+        "en": "Flash your high beams continuously"
+      },
+      "explanation": {
+        "ru": "Мигание тоже слепит. Дальний свет не используйте.",
+        "en": "Flashing also blinds. Do not use high beams."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выключить все фары",
+        "en": "Turn off all lights"
+      },
+      "explanation": {
+        "ru": "Выключать фары опасно. Просто не используйте дальний свет.",
+        "en": "Turning off all lights is dangerous. Just do not use high beams."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q16",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На дороге нет ни тротуара, ни обочины. Как должен идти пешеход?",
+    "en": "There is no sidewalk or shoulder along a road. How should a pedestrian walk?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Как можно дальше от края проезжей части, лицом к встречному движению",
+        "en": "As far from the outside edge of the road as possible, facing oncoming traffic"
+      },
+      "explanation": {
+        "ru": "Верно. Лицом к встречному движению вы видите машины и можете вовремя отойти.",
+        "en": "Correct. Facing oncoming traffic lets you see cars and step aside in time."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "По краю дороги, спиной к машинам",
+        "en": "Along the edge of the road, with your back to traffic"
+      },
+      "explanation": {
+        "ru": "Лучше идти лицом к машинам: так вы видите движение и можете среагировать.",
+        "en": "It is better to face traffic: you can see vehicles and react in time."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посередине полосы, чтобы машины замедлялись",
+        "en": "In the middle of a lane so cars slow down"
+      },
+      "explanation": {
+        "ru": "Идти по центру полосы опасно. Держитесь как можно дальше от края проезжей части и лицом к встречному потоку.",
+        "en": "Walking in the middle of a lane is dangerous. Stay as far from the roadway edge as you can, facing oncoming traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только в тёмное время суток",
+        "en": "Only after dark"
+      },
+      "explanation": {
+        "ru": "Правило действует всегда, когда нет тротуара или обочины, а ходить по дороге без необходимости не следует.",
+        "en": "The rule applies any time there is no sidewalk or shoulder, and you should not walk in the road unless you must."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q94",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 35",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Места на парковке с зарядными станциями для электромобилей предназначены только для электромобилей.",
+    "en": "Spaces equipped with charging stations for electric vehicles are for electric vehicles only."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Если вы на бензиновой машине, выберите другое место: эти места нужны тем, кому надо заряжаться.",
+        "en": "Correct! If your car runs on gasoline, choose another space: those spots are for vehicles that need to charge."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Если вы на бензиновой машине, выберите другое место: эти места нужны тем, кому надо заряжаться.",
+        "en": "Not quite. If your car runs on gasoline, choose another space: those spots are for vehicles that need to charge."
+      }
+    }
+  ]
+}

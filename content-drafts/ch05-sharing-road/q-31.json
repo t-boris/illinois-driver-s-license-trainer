@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q31",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы поворачиваете налево, а навстречу в перекрёсток въезжает велосипедист. Как поступить?",
+    "en": "You are turning left and a bicyclist enters the intersection from the opposite direction. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Повернуть быстрее, чем велосипедист доедет",
+        "en": "Turn quickly before the bicyclist arrives"
+      },
+      "explanation": {
+        "ru": "Спешить не нужно: пропустите велосипедиста и затем поворачивайте.",
+        "en": "Do not rush: let the bicyclist pass and then turn."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посигналить, чтобы велосипедист остановился",
+        "en": "Honk so the bicyclist stops"
+      },
+      "explanation": {
+        "ru": "Сигналить не нужно: велосипедист имеет право проезда, подождите, пока он проедет.",
+        "en": "No need to honk: the bicyclist has the right of way, so wait until they pass."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Обогнать велосипедиста слева",
+        "en": "Pass the bicyclist on the left"
+      },
+      "explanation": {
+        "ru": "Обгонять не нужно. Дождитесь, пока велосипедист проедет перекрёсток.",
+        "en": "Do not pass. Wait until the bicyclist has cleared the intersection."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Подождать, пока велосипедист проедет, и затем повернуть",
+        "en": "Wait for the bicyclist to pass before making the turn"
+      },
+      "explanation": {
+        "ru": "Верно. Если вы делите полосу левого поворота с велосипедистом, держитесь позади, пока он безопасно не завершит поворот.",
+        "en": "Correct. If you share a left-turn lane with a bicyclist, stay behind until the bicyclist safely completes the turn."
+      }
+    }
+  ]
+}

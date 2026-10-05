@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q33",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы считаете, что штраф (ticket) выписан несправедливо. Что правильно сделать на месте?",
+    "en": "You believe a ticket was issued unfairly. What is the right way to handle it?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Подписать, не спорить и изложить свою позицию в traffic court",
+        "en": "Sign it, do not argue, and present your case in traffic court"
+      },
+      "explanation": {
+        "ru": "Верно! Спорить на месте не нужно. Если вы уверены, что нарушения не было, расскажете об этом в суде по дорожным нарушениям.",
+        "en": "Correct! Do not argue at the scene. If you believe no offense was committed, you can present your case in traffic court."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Отказаться подписывать квитанцию",
+        "en": "Refuse to sign the ticket"
+      },
+      "explanation": {
+        "ru": "Подпись нужна: это не признание вины, а подтверждение получения. Отказ только осложнит ситуацию.",
+        "en": "The driver's signature is required. It is not an admission of guilt, only an acknowledgment of receipt. Refusing only makes things worse."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Горячо спорить с офицером",
+        "en": "Argue strongly with the officer"
+      },
+      "explanation": {
+        "ru": "Спор на месте не поможет. Сохраняйте спокойствие и оспаривайте штраф в суде.",
+        "en": "Arguing at the scene will not help. Stay calm and contest the ticket in court."
+      }
+    }
+  ]
+}

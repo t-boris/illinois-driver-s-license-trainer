@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q39",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как понять, что вы едете позади большегруза в безопасном положении?",
+    "en": "How can you tell you are in a safe position behind a large truck?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Вы едете вплотную к заднему бамперу",
+        "en": "You are right against the rear bumper"
+      },
+      "explanation": {
+        "ru": "Вплотную ехать опасно: так вы в слепой зоне и не успеете затормозить.",
+        "en": "Following closely is risky: you are in a blind spot and cannot stop in time."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Вы едете вровень с задним колесом",
+        "en": "You are even with the rear wheel"
+      },
+      "explanation": {
+        "ru": "Рядом с колесом слепая зона. Держитесь там, где водитель видит вас в боковых зеркалах.",
+        "en": "Beside the rear wheel is a blind spot. Stay where the driver can see you in the side mirrors."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Вы мигаете дальним светом сзади",
+        "en": "You flash your high beams from behind"
+      },
+      "explanation": {
+        "ru": "Дальний свет слепит водителя. Лучше выбрать видимое положение и ближний свет.",
+        "en": "High beams blind the driver. Choose a visible position and use low beams."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Вы находитесь вне слепых зон и водитель большегруза может видеть вас в боковых зеркалах",
+        "en": "You are out of its blind spots and the truck driver can see you in the side mirrors"
+      },
+      "explanation": {
+        "ru": "Верно. Помните: если вы не видите зеркало водителя, он, скорее всего, не видит вас.",
+        "en": "Correct. Remember: if you cannot see the driver’s mirror, the driver probably cannot see you."
+      }
+    }
+  ]
+}

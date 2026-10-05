@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w13-1",
+  "topic": "ch09-signs",
+  "signId": "W13-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Безопасная скорость на повороте (Maximum Safe Speed on Curve or Turn)",
+    "en": "Maximum Safe Speed on Curve or Turn"
+  },
+  "meaning": {
+    "ru": "Небольшой знак с цифрой и M.P.H. под знаком поворота показывает максимальную безопасную скорость на этом изгибе или повороте.",
+    "en": "A small sign showing the maximum safe speed may be posted below the turn or curve arrow sign."
+  }
+}

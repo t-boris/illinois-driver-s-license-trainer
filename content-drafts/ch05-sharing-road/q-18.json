@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q18",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого возраста и в каких условиях можно кататься на роликах по проезжей части?",
+    "en": "From what age and under what conditions may a person skate on a public roadway?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "От 16 лет, в любое время суток",
+        "en": "Age 16 or older, at any time of day"
+      },
+      "explanation": {
+        "ru": "Условия строже: от 18 лет и только от восхода до заката.",
+        "en": "The conditions are stricter: age 18 and only from sunrise to sunset."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "От 18 лет, на любой дороге, но только ночью",
+        "en": "Age 18 or older, on any road, at night only"
+      },
+      "explanation": {
+        "ru": "Катание разрешено днём (от восхода до заката), а не ночью, и только где предел скорости 45 mph или ниже.",
+        "en": "Skating is allowed in daylight (sunrise to sunset), not at night, and only where the limit is 45 mph or lower."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "От 18 лет, где ограничение скорости 45 mph или меньше, от восхода до заката, не мешая движению",
+        "en": "Age 18 or older, where the posted limit is 45 mph or less, from sunrise to sunset, without impeding traffic"
+      },
+      "explanation": {
+        "ru": "Верно. Все четыре условия должны выполняться одновременно.",
+        "en": "Correct. All four conditions must be met together."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Без ограничений по возрасту и скорости",
+        "en": "With no age or speed restrictions"
+      },
+      "explanation": {
+        "ru": "Ограничения есть: 18 лет, предел скорости 45 mph или меньше и светлое время суток.",
+        "en": "There are restrictions: age 18, a posted limit of 45 mph or less, and daylight hours."
+      }
+    }
+  ]
+}

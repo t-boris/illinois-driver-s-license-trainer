@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q96",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 35",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы на загородном шоссе вне жилых и деловых районов. Когда можно остановиться на проезжей части?",
+    "en": "You are on a paved highway outside a business or residential district. When may you stop on the roadway?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда, чтобы отдохнуть",
+        "en": "Anytime to rest"
+      },
+      "explanation": {
+        "ru": "Нет. Если можно остановиться за пределами проезжей части, это нужно сделать там.",
+        "en": "No. If it is practical to stop off the roadway, you must do it there."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Если дорога пуста",
+        "en": "If the road looks empty"
+      },
+      "explanation": {
+        "ru": "Нет. Нужно соблюдать условия: обзор 200 футов, огни и место для проезда.",
+        "en": "No. The conditions apply: 200-foot view, flashers, and room to pass."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В экстренной ситуации, если открыт обзор 200 футов в обе стороны, включены аварийные огни и места хватает для проезда других",
+        "en": "In an emergency, with a clear view of 200 feet each way, emergency flashers on, and room for others to pass"
+      },
+      "explanation": {
+        "ru": "Верно! Это единственный случай, когда допустима остановка на проезжей части.",
+        "en": "Correct! That is the only case where stopping on the roadway is allowed."
+      }
+    }
+  ]
+}

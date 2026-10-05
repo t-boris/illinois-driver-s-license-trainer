@@ -1,0 +1,21 @@
+{
+  "id": "PED-DONTWALK",
+  "designation": "PED-DONTWALK",
+  "source": {
+    "publication": "FHWA Manual on Uniform Traffic Control Devices (MUTCD), 2009 Edition with Revisions 1 and 2, Part 4, Figure 4E-1 B, UPRAISED HAND (DONT WALK) pedestrian signal head (printed p. 496)",
+    "url": "https://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part4.pdf",
+    "page": 64,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-marking.py part4.pdf 64 signs/PED-DONTWALK.svg --figure --region 442.7 319.2 52 52 (clipped to the object; text labels removed)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source figure page rendered to PNG: shapes, colours and symbols match; labels, dimension lines and neighbouring objects removed."
+  },
+  "file": "PED-DONTWALK.svg",
+  "alt": {
+    "ru": "Пешеходный светофор: оранжевая поднятая ладонь на тёмном фоне.",
+    "en": "Orange upraised hand on a dark rectangular background."
+  }
+}

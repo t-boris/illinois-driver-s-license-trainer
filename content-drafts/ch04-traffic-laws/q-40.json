@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q40",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В задней части машины нет ремней с плечевой лямкой. Как перевозить ребёнка тяжелее 40 фунтов?",
+    "en": "The back seat has no lap/shoulder belts. How may a child weighing more than 40 pounds ride?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только на переднем сиденье",
+        "en": "Only in the front seat"
+      },
+      "explanation": {
+        "ru": "Нет. Ребёнка можно везти сзади.",
+        "en": "No. The child can ride in the back seat."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "На заднем сиденье без бустера, с поясным ремнём",
+        "en": "In the back seat without a booster, secured with a lap belt only"
+      },
+      "explanation": {
+        "ru": "Верно! Бустер используют только с поясно-плечевым ремнём (lap/shoulder belt). Без него ребёнок тяжелее 40 фунтов едет с обычным поясным ремнём.",
+        "en": "Correct! Booster seats must only be used with a lap/shoulder belt. Without one, a child over 40 pounds may use a lap belt only."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Без ремня, если поездка короткая",
+        "en": "Unbuckled, if the trip is short"
+      },
+      "explanation": {
+        "ru": "Нет. Ремень или кресло нужны всегда, независимо от длины поездки.",
+        "en": "No. A belt or child seat is always required, however short the trip."
+      }
+    }
+  ]
+}

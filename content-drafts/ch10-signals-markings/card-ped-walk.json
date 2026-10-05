@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-ped-walk",
+  "topic": "ch10-signals-markings",
+  "signId": "PED-WALK",
+  "category": "signal",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Пешеходам можно идти (Walk, идущий человек)",
+    "en": "Walk (walking person)"
+  },
+  "meaning": {
+    "ru": "Если сигнал обращён к вам, вы можете переходить проезжую часть в направлении сигнала. Пешеходы обязаны уступать дорогу водителям, подчиняясь светофорам, сигналам «идите» и пользуясь переходами.",
+    "en": "If you are facing the signal, you may cross the roadway in the direction of the signal. Pedestrians must yield the right of way to drivers by obeying traffic signals, observing walk lights, and using crosswalks."
+  }
+}

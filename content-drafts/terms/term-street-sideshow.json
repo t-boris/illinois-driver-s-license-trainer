@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-street-sideshow",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "уличное шоу (street sideshow)",
+    "en": "Street sideshow"
+  },
+  "definition": {
+    "ru": "Событие, где машины перекрывают или затрудняют движение ради запрещённых трюков, гонок на скорость или демонстрации скорости. Это незаконно.",
+    "en": "An event in which vehicles block or impede traffic to perform unauthorized stunts, speed contests, or exhibitions of speed. It is illegal."
+  }
+}

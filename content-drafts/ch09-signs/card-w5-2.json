@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w5-2",
+  "topic": "ch09-signs",
+  "signId": "W5-2",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 71",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Узкий мост (Narrow Bridge)",
+    "en": "Narrow Bridge"
+  },
+  "meaning": {
+    "ru": "Мост впереди уже, чем дорога перед ним: проезжая часть моста обычно примерно на 2 фута уже подъезда. Езжайте осторожно.",
+    "en": "The bridge ahead has a narrow roadway. A bridge width is generally 2 feet less than the width of the approach pavement."
+  }
+}

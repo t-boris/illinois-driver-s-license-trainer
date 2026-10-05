@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-moped-scooter-license",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 44",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "права для скутера и мопеда (scooter and moped licenses)",
+    "en": "Scooter and moped license classes"
+  },
+  "definition": {
+    "ru": "Скутер с двигателем менее 150 куб. см — это motor-driven cycle, нужны права Class L. Скутер от 150 куб. см — мотоцикл, нужны права Class M. Мопед (до 50 куб. см, без переключения передач) можно водить с любыми действующими правами Illinois.",
+    "en": "A scooter with an engine under 150cc is a motor-driven cycle and needs a Class L license. A scooter of 150cc or more is a motorcycle and needs a Class M license. A moped (up to 50cc, no gear shifting) may be operated with any valid Illinois driver’s license."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "PM-TWLTL",
+  "designation": "PM-TWLTL",
+  "source": {
+    "publication": "FHWA Manual on Uniform Traffic Control Devices (MUTCD), 2009 Edition with Revisions 1 and 2, Part 3, Figure 3B-7, example of two-way left-turn lane marking applications (printed p. 357)",
+    "url": "https://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part3.pdf",
+    "page": 11,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-marking.py part3.pdf 11 signs/PM-TWLTL.svg --figure --region 251 250 143 88 (clipped to the object; text labels removed)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source figure page rendered to PNG: shapes, colours and symbols match; labels, dimension lines and neighbouring objects removed."
+  },
+  "file": "PM-TWLTL.svg",
+  "alt": {
+    "ru": "Вид сверху на дорогу с центральной полосой для левых поворотов, жёлтые линии и белые стрелки поворота.",
+    "en": "Top view of a road with a centre two-way left-turn lane bounded by yellow lines with white left-turn arrows."
+  }
+}

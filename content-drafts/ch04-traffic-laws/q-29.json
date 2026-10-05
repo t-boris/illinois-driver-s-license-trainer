@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q29",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Остановленный полицией водитель должен сразу выйти из машины и быстро подойти к полицейской машине.",
+    "en": "After being pulled over by law enforcement, a driver should immediately exit the vehicle and quickly approach the officer's squad car."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем. Оставайтесь в машине с обеими руками на руле, пока офицер не скажет иное. Выход из машины может показаться угрозой.",
+        "en": "Not quite. Stay in the vehicle with both hands on the wheel until the officer says otherwise. Getting out can be seen as a threat."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Оставайтесь в машине с обеими руками на руле, пока офицер не скажет иное. Выход из машины может показаться угрозой.",
+        "en": "Correct! Stay in the vehicle with both hands on the wheel until the officer says otherwise. Getting out can be seen as a threat."
+      }
+    }
+  ]
+}

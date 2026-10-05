@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q56",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 34",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В городе водитель, выезжающий из переулка, здания, частной дороги или проезда, может не останавливаться, если на улице нет машин.",
+    "en": "In urban areas, drivers moving out of an alley, building, private road, or driveway need not come to a complete stop before entering the roadway if the roadway is clear."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем. Нужна полная остановка перед тротуаром, а после неё надо уступить пешеходам и всем машинам.",
+        "en": "Not quite. You must come to a complete stop before the sidewalk, then yield to pedestrians and all vehicles."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Нужна полная остановка перед тротуаром, а после неё надо уступить пешеходам и всем машинам.",
+        "en": "Correct! You must come to a complete stop before the sidewalk, then yield to pedestrians and all vehicles."
+      }
+    }
+  ]
+}

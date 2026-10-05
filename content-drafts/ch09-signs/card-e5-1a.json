@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-e5-1a",
+  "topic": "ch09-signs",
+  "signId": "E5-1a",
+  "category": "guide",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 74",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Съезд с номером (Exit)",
+    "en": "Exit Sign"
+  },
+  "meaning": {
+    "ru": "Зелёные указатели говорят, где вы находитесь и куда ехать. Этот знак показывает номер съезда (здесь 44) и направление, в котором идёт съезд.",
+    "en": "Green guide signs tell you where you are and which way to go. This sign shows the exit number (here 44) and the direction of the exit."
+  }
+}

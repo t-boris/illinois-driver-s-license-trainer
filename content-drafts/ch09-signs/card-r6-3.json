@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r6-3",
+  "topic": "ch09-signs",
+  "signId": "R6-3",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Приближение к разделённой дороге (Divided Highway)",
+    "en": "Approaching a Divided Highway"
+  },
+  "meaning": {
+    "ru": "Знак стоит перед разделённой дорогой. Он сообщает, что разделительная полоса отделяет встречные потоки на дороге, на которую вы поворачиваете или которую пересекаете.",
+    "en": "This sign is used on approaches to a divided highway. It informs you that a median separates both directions of traffic on the road you are going to turn onto or cross."
+  }
+}

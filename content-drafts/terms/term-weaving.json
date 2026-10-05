@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-weaving",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "перестроение зигзагом (weaving)",
+    "en": "Weaving"
+  },
+  "definition": {
+    "ru": "Частое перестроение из полосы в полосу, чтобы ехать быстрее потока. Это противозаконно и повышает риск аварии.",
+    "en": "Changing lanes repeatedly to move faster than the traffic flow. It is unlawful and raises the risk of a crash."
+  }
+}

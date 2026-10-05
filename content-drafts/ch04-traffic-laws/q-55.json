@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q55",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда на светофоре загорелся зелёный, водитель может сразу ехать, даже если на перекрёстке ещё есть машины.",
+    "en": "A driver may proceed immediately when waiting at an intersection and the traffic signal light turns green."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем. Сначала уступите машинам и пешеходам, которые ещё в перекрёстке, и только потом езжайте.",
+        "en": "Not quite. Yield first to vehicles and pedestrians still in the intersection, then proceed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Сначала уступите машинам и пешеходам, которые ещё в перекрёстке, и только потом езжайте.",
+        "en": "Correct! Yield first to vehicles and pedestrians still in the intersection, then proceed."
+      }
+    }
+  ]
+}

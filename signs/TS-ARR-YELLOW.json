@@ -1,0 +1,21 @@
+{
+  "id": "TS-ARR-YELLOW",
+  "designation": "TS-ARR-YELLOW",
+  "source": {
+    "publication": "FHWA Manual on Uniform Traffic Control Devices (MUTCD), 2009 Edition with Revisions 1 and 2, Part 4, Figure 4D-12, yellow left-turn arrow section (printed p. 473)",
+    "url": "https://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part4.pdf",
+    "page": 41,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-marking.py part4.pdf 41 signs/TS-ARR-YELLOW.svg --figure --keep-glyphs --region 237.9 294.4 20.2 20.6 (clipped to the object; text labels removed)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source figure page rendered to PNG: shapes, colours and symbols match; labels, dimension lines and neighbouring objects removed."
+  },
+  "file": "TS-ARR-YELLOW.svg",
+  "alt": {
+    "ru": "Светофор: жёлтая стрелка влево.",
+    "en": "Circular signal section with a yellow left arrow."
+  }
+}

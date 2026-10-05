@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w2-2",
+  "topic": "ch09-signs",
+  "signId": "W2-2",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Боковая дорога (Side Road)",
+    "en": "Side Road"
+  },
+  "meaning": {
+    "ru": "Знак предупреждает о перекрёстке впереди, где на вашу дорогу может выехать транспорт сбоку или потребуется поворот. Может висеть и табличка с названием дороги.",
+    "en": "This sign warns of an intersection ahead where traffic may enter, or a right or left turn may be required. A sign naming the intersecting road may also be posted."
+  }
+}

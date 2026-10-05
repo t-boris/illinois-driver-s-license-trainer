@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q85",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если вы едете в потоке машин, на железнодорожных путях можно ненадолго остановиться.",
+    "en": "If moving with a stream of vehicles across a railroad track, it is safe to stop on the track for a short period of time."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем. Никогда не останавливайтесь на путях. Въезжайте на переезд, только если за ним есть место для вашей машины.",
+        "en": "Not quite. Never stop on the tracks. Enter a crossing only if there is room for your vehicle on the other side."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Никогда не останавливайтесь на путях. Въезжайте на переезд, только если за ним есть место для вашей машины.",
+        "en": "Correct! Never stop on the tracks. Enter a crossing only if there is room for your vehicle on the other side."
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q26",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W6-3",
+    "alt": {
+      "ru": "Жёлтый ромб с двумя вертикальными стрелками вверх и вниз",
+      "en": "Yellow diamond with two vertical arrows pointing up and down"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Двустороннее движение (Two-Way Traffic)",
+        "en": "Two-way traffic"
+      },
+      "explanation": {
+        "ru": "Верно! Вы покидаете разделённую дорогу, и теперь транспорт идёт в обе стороны.",
+        "en": "Correct! You are leaving a divided road, and traffic now flows both ways."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Односторонняя дорога",
+        "en": "One-way street"
+      },
+      "explanation": {
+        "ru": "Знак односторонней дороги чёрно-белый, с одной стрелкой.",
+        "en": "The one-way sign is black and white with one arrow."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Слияние полос",
+        "en": "Merging lanes"
+      },
+      "explanation": {
+        "ru": "Слияние показывает две линии, соединяющиеся в одну, а здесь две стрелки в противоположные стороны.",
+        "en": "Merging lanes show two lines joining; here the two arrows point in opposite directions."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Начало разделённой дороги",
+        "en": "A divided highway begins"
+      },
+      "explanation": {
+        "ru": "Этот знак показывает обратное: разделённая дорога заканчивается.",
+        "en": "This sign shows the opposite: the divided road is ending."
+      }
+    }
+  ]
+}

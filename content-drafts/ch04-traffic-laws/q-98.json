@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q98",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 36",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как близко к ближайшему рельсу железнодорожного переезда запрещена парковка?",
+    "en": "How close to the nearest rail of a railroad crossing is parking prohibited?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "В пределах 50 футов",
+        "en": "Within 50 feet"
+      },
+      "explanation": {
+        "ru": "Верно! Парковка запрещена в пределах 50 футов от ближайшего рельса, занята машина или нет.",
+        "en": "Correct! Parking is prohibited within 50 feet of the nearest rail, occupied or not."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В пределах 100 футов",
+        "en": "Within 100 feet"
+      },
+      "explanation": {
+        "ru": "100 футов — расстояние, на котором нельзя обгонять у переезда.",
+        "en": "100 feet is the no-passing distance at a crossing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В пределах 15 футов",
+        "en": "Within 15 feet"
+      },
+      "explanation": {
+        "ru": "15 футов — для гидранта.",
+        "en": "15 feet is for fire hydrants."
+      }
+    }
+  ]
+}

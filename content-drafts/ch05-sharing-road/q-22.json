@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q22",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 41",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Красный свет не переключается на зелёный 120 секунд. Что вправе сделать мотоциклист?",
+    "en": "A red light fails to turn green after 120 seconds. What may a motorcyclist do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проехать, не уступая никому",
+        "en": "Proceed without yielding to anyone"
+      },
+      "explanation": {
+        "ru": "Уступить встречному движению всё равно нужно, прежде чем проезжать.",
+        "en": "The rider must still yield to oncoming traffic before proceeding."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ждать зелёного столько, сколько потребуется",
+        "en": "Wait as long as it takes for a green"
+      },
+      "explanation": {
+        "ru": "После 120 секунд мотоциклист может проехать, уступив дорогу.",
+        "en": "After 120 seconds a motorcyclist may proceed after yielding."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Проехать перекрёсток, предварительно уступив дорогу встречному движению",
+        "en": "Proceed through the intersection after yielding the right of way to oncoming traffic"
+      },
+      "explanation": {
+        "ru": "Верно. Датчик может не заметить мотоцикл, поэтому такое правило есть. Помните об этом, стоя рядом.",
+        "en": "Correct. A signal sensor may not detect a motorcycle, so this rule exists. Keep it in mind when you are nearby."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Развернуться на перекрёстке",
+        "en": "Make a U-turn in the intersection"
+      },
+      "explanation": {
+        "ru": "Правило другое: проехать перекрёсток, уступив дорогу встречному движению.",
+        "en": "The rule is different: proceed through the intersection after yielding to oncoming traffic."
+      }
+    }
+  ]
+}

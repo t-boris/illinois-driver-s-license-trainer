@@ -1,0 +1,463 @@
+{
+  "items": [
+    {
+      "id": "ch03-under-21-q13",
+      "file": "content-drafts/ch03-under-21/q-13.json",
+      "prompt": "A smiling young woman holds a small plastic card while her father looks on, at a sunny kitchen table with a wall calendar in a Midwestern suburban home. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Улыбающаяся девушка держит карточку, рядом отец, на кухонном столе стоит календарь.",
+        "en": "A smiling young woman holds a card beside her father at a kitchen table with a calendar."
+      }
+    },
+    {
+      "id": "ch03-under-21-q14",
+      "file": "content-drafts/ch03-under-21/q-14.json",
+      "prompt": "A teenager in a school hoodie and a friendly adult woman sit on a front porch of a white house, looking together at a laptop on a small table. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Подросток и взрослая женщина на крыльце дома вместе смотрят в ноутбук.",
+        "en": "A teenager and an adult woman on a porch look at a laptop together."
+      }
+    },
+    {
+      "id": "ch03-under-21-q15",
+      "file": "content-drafts/ch03-under-21/q-15.json",
+      "prompt": "A young man in a quiet suburban kitchen puts car keys on a hook by the door while a wall clock shows late evening and a parent smiles. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Молодой человек вешает ключи от машины у двери, на часах поздний вечер, родитель улыбается.",
+        "en": "A young man hangs car keys by the door on a late evening while a parent smiles."
+      }
+    },
+    {
+      "id": "ch03-under-21-q16",
+      "file": "content-drafts/ch03-under-21/q-16.json",
+      "prompt": "A parent in the front seat of a parked compact car smiles at a young driver while two friends buckle seat belts in the back, tree-lined suburban curb. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Родитель улыбается молодому водителю, двое друзей пристёгиваются на заднем сиденье.",
+        "en": "A parent smiles at a young driver while two friends buckle up in the back seat."
+      }
+    },
+    {
+      "id": "ch03-under-21-q17",
+      "file": "content-drafts/ch03-under-21/q-17.json",
+      "prompt": "A 17-year-old and a parent look over a printed monthly calendar at a table beside a bowl of fruit, warm afternoon light in a Midwestern home. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Семнадцатилетний и родитель рассматривают календарь на столе рядом с вазой фруктов.",
+        "en": "A 17-year-old and a parent look at a calendar on a table with a fruit bowl."
+      }
+    },
+    {
+      "id": "ch03-under-21-q18",
+      "file": "content-drafts/ch03-under-21/q-18.json",
+      "prompt": "A young adult driver with both hands on the steering wheel of a parked car, a phone resting in a dashboard holder, calm tree-lined Midwestern road ahead. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Молодой водитель держит руль обеими руками, телефон лежит в держателе на панели.",
+        "en": "A young driver holds the wheel with both hands, a phone resting in a dashboard holder."
+      }
+    },
+    {
+      "id": "ch03-under-21-q19",
+      "file": "content-drafts/ch03-under-21/q-19.json",
+      "prompt": "A teenager in a button-up shirt walks beside a parent toward the plain brick entrance of a small-town courthouse on a clear morning, trees along the walkway. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Подросток в рубашке идёт с родителем к кирпичному зданию суда в ясное утро.",
+        "en": "A teenager in a button-up shirt walks with a parent toward a brick courthouse in the morning."
+      }
+    },
+    {
+      "id": "ch03-under-21-q20",
+      "file": "content-drafts/ch03-under-21/q-20.json",
+      "prompt": "A teenager and a mother sit together on a living room sofa having a calm conversation, car keys lying on a coffee table between them. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Подросток и мама спокойно разговаривают на диване, на столике лежат ключи от машины.",
+        "en": "A teenager and a mother talk calmly on a sofa with car keys on the coffee table."
+      }
+    },
+    {
+      "id": "ch03-under-21-q21",
+      "file": "content-drafts/ch03-under-21/q-21.json",
+      "prompt": "A parent in the passenger seat hands a clipboard to a young driver in a parked sedan near a soybean field, golden evening light, both smiling. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Родитель на пассажирском сиденье отдаёт планшет с бумагами молодому водителю у поля.",
+        "en": "A parent in the passenger seat hands a clipboard to a young driver near a field."
+      }
+    },
+    {
+      "id": "ch03-under-21-q22",
+      "file": "content-drafts/ch03-under-21/q-22.json",
+      "prompt": "A young man sits alone on a park bench by a pond holding a bottled water, a parked car in the distance, soft overcast Midwestern afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Молодой человек сидит один на скамейке у пруда с бутылкой воды, вдали стоит машина.",
+        "en": "A young man sits alone on a park bench by a pond holding bottled water, a car far behind."
+      }
+    },
+    {
+      "id": "ch03-under-21-q23",
+      "file": "content-drafts/ch03-under-21/q-23.json",
+      "prompt": "A teacher in a classroom hands a certificate folder to a smiling teenager next to a model car on a desk, large windows with trees outside. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Учитель в классе вручает папку улыбающемуся подростку, на столе стоит модель машины.",
+        "en": "A teacher hands a folder to a smiling teenager in a classroom with a model car on the desk."
+      }
+    },
+    {
+      "id": "ch03-under-21-q24",
+      "file": "content-drafts/ch03-under-21/q-24.json",
+      "prompt": "A teenager and a parent wait side by side on plain waiting-room chairs holding a folder of papers, a tidy government office with a potted plant. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Подросток и родитель сидят в зале ожидания с папкой документов, рядом комнатное растение.",
+        "en": "A teenager and a parent sit in a waiting room holding a folder of papers beside a plant."
+      }
+    },
+    {
+      "id": "ch03-under-21-q25",
+      "file": "content-drafts/ch03-under-21/q-25.json",
+      "prompt": "A teenager sits at a dining table with a calm parent beside a glass of orange juice and a notebook, afternoon light through a kitchen window. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Подросток за обеденным столом спокойно беседует с родителем, рядом стакан сока и тетрадь.",
+        "en": "A teenager sits at a dining table talking calmly with a parent beside orange juice and a notebook."
+      }
+    },
+    {
+      "id": "ch03-under-21-q26",
+      "file": "content-drafts/ch03-under-21/q-26.json",
+      "prompt": "A teenager with a thoughtful expression stands in a driveway next to a parked family car, a parent nearby, calm early evening and quiet street with trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Задумчивый подросток стоит у припаркованной семейной машины, рядом родитель, тихий вечер.",
+        "en": "A thoughtful teenager stands beside a parked family car with a parent nearby on a quiet evening."
+      }
+    },
+    {
+      "id": "ch03-under-21-q27",
+      "file": "content-drafts/ch03-under-21/q-27.json",
+      "prompt": "A young adult attends a small classroom with a friendly instructor and a few adult students of different backgrounds sitting at desks, notebooks open, bright room. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Молодой взрослый на занятии в небольшом классе с дружелюбным инструктором и другими студентами.",
+        "en": "A young adult in a small classroom with a friendly instructor and other adult students."
+      }
+    },
+    {
+      "id": "ch03-under-21-q28",
+      "file": "content-drafts/ch03-under-21/q-28.json",
+      "prompt": "An 18-year-old driver wearing sunglasses keeps both hands on the wheel of a car on a straight rural highway, a phone mounted face-down, wheat fields around. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Восемнадцатилетний водитель в очках держит руль обеими руками на прямой загородной дороге.",
+        "en": "An 18-year-old driver in sunglasses holds the wheel with both hands on a straight rural road."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q15",
+      "file": "content-drafts/ch05-sharing-road/q-15.json",
+      "prompt": "A pedestrian on in-line skates and a walker with a stroller share a wide tree-lined sidewalk of a small Midwestern town on a sunny afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Человек на роликах и прохожая с коляской идут по широкому тротуару городка в солнечный день.",
+        "en": "A person on in-line skates and a walker with a stroller share a wide sidewalk on a sunny day."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q16",
+      "file": "content-drafts/ch05-sharing-road/q-16.json",
+      "prompt": "A woman and a man in jackets walk along a quiet country road edge toward the camera, a farm field and a red barn behind them, early morning light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Мужчина и женщина идут по краю тихой загородной дороги навстречу, позади поле и амбар.",
+        "en": "A man and a woman walk along a quiet country road edge, a field behind."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q17",
+      "file": "content-drafts/ch05-sharing-road/q-17.json",
+      "prompt": "A man with a backpack waits on a gravel path beside a country lane, looking at a distant car, golden afternoon fields behind him. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Мужчина с рюкзаком ждёт на гравийной тропе у загородной дороги, вдали виднеется машина.",
+        "en": "A man with a backpack waits on a gravel path beside a country lane as a car approaches."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q18",
+      "file": "content-drafts/ch05-sharing-road/q-18.json",
+      "prompt": "A smiling adult in a helmet and knee pads rolls on in-line skates along the smooth edge of a quiet suburban lane, sunny day, maple trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Улыбающийся взрослый в шлеме катится на роликах по краю тихой пригородной улицы в солнечный день.",
+        "en": "A smiling adult in a helmet rolls on in-line skates beside a quiet suburban lane on a sunny day."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q19",
+      "file": "content-drafts/ch05-sharing-road/q-19.json",
+      "prompt": "A woman in a raincoat waits at a curb on a small-town block between two intersections, a few cars drive by, brick storefronts without lettering. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Женщина в плаще ждёт у бордюра на квартале между перекрёстками, мимо едут машины.",
+        "en": "A woman in a raincoat waits at the curb on a block between two intersections as cars pass."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q20",
+      "file": "content-drafts/ch05-sharing-road/q-20.json",
+      "prompt": "A father in the driver seat of a parked minivan turns to look over his shoulder in a driveway while a child plays with a ball on the lawn far to the side. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Отец в машине у дома оглядывается через плечо, а на газоне в стороне ребёнок играет с мячом.",
+        "en": "A father in a parked minivan looks over his shoulder as a child plays on the lawn."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q21",
+      "file": "content-drafts/ch05-sharing-road/q-21.json",
+      "prompt": "A driver in a sedan waiting to turn left at a suburban intersection looks carefully ahead while a motorcycle rider in a helmet approaches from far away in the opposite direction. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель седана ждёт левого поворота и внимательно смотрит вперёд, издалека приближается мотоциклист.",
+        "en": "A sedan driver waiting to turn left looks carefully ahead as a helmeted motorcyclist approaches from far away."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q22",
+      "file": "content-drafts/ch05-sharing-road/q-22.json",
+      "prompt": "A motorcyclist in a helmet waits at an empty suburban intersection with a sedan stopped behind, clear evening sky, no other cars moving. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Мотоциклист в шлеме стоит на пустом перекрёстке, позади остановился седан, небо чистое.",
+        "en": "A helmeted motorcyclist waits at an empty intersection with a sedan stopped behind, under a clear sky."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q23",
+      "file": "content-drafts/ch05-sharing-road/q-23.json",
+      "prompt": "A sedan driver holds steady on a straight two-lane country road while a motorcyclist in a helmet moves past on the left under a bright sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Седан держит скорость на прямой загородной дороге, слева его обгоняет мотоциклист в шлеме.",
+        "en": "A sedan holds steady on a straight country road as a helmeted motorcyclist passes on the left."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q24",
+      "file": "content-drafts/ch05-sharing-road/q-24.json",
+      "prompt": "A car moves fully into the adjacent empty lane to pass a motorcycle on a straight two-lane road through green fields, bright afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Автомобиль полностью перестраивается в соседнюю пустую полосу, обгоняя мотоцикл на прямой дороге.",
+        "en": "A car moves fully into the empty adjacent lane to pass a motorcycle on a straight road."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q25",
+      "file": "content-drafts/ch05-sharing-road/q-25.json",
+      "prompt": "A sedan keeps a generous gap behind a motorcycle on a straight two-lane road with cornfields on both sides, bright midday sun. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Седан держит большую дистанцию за мотоциклом на прямой дороге среди кукурузных полей.",
+        "en": "A sedan keeps a generous gap behind a motorcycle on a straight road between cornfields."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q26",
+      "file": "content-drafts/ch05-sharing-road/q-26.json",
+      "prompt": "A motorcyclist leans slightly into a crosswind while a large delivery truck passes in the next lane on an open highway across flat farmland. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Мотоциклист слегка наклоняется навстречу ветру, в соседней полосе обгоняет большой фургон на открытом шоссе.",
+        "en": "A motorcyclist leans into a crosswind as a big delivery truck passes in the next lane on an open highway."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q27",
+      "file": "content-drafts/ch05-sharing-road/q-27.json",
+      "prompt": "A driver in a three-wheeled enclosed autocycle with a steering wheel waits at a quiet suburban driveway, tree-lined road and houses behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель в трёхколёсном автоцикле с рулём стоит у подъезда на тихой пригородной улице.",
+        "en": "A driver in a three-wheeled autocycle with a steering wheel waits at a quiet suburban driveway."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q28",
+      "file": "content-drafts/ch05-sharing-road/q-28.json",
+      "prompt": "A bicyclist in a helmet and a car travel in the same direction along a wide suburban road with a painted shoulder, trees and sunshine. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Велосипедист в шлеме и автомобиль едут в одном направлении по широкой пригородной дороге.",
+        "en": "A bicyclist in a helmet and a car travel the same direction on a wide suburban road."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q29",
+      "file": "content-drafts/ch05-sharing-road/q-29.json",
+      "prompt": "Two adult bicyclists in helmets ride side by side along the right edge of a quiet road through farmland, a pickup truck follows patiently behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Двое взрослых велосипедистов в шлемах едут рядом по краю тихой дороги, позади терпеливо следует пикап.",
+        "en": "Two adult bicyclists in helmets ride side by side on a quiet road as a pickup follows patiently."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q30",
+      "file": "content-drafts/ch05-sharing-road/q-30.json",
+      "prompt": "A car waits with its right blinker on at a suburban intersection while a bicyclist in a helmet rides straight past on the right side, sunny day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Автомобиль с включённым правым поворотником ждёт, пока справа проезжает велосипедист.",
+        "en": "A car with its right blinker on waits while a bicyclist rides straight past on its right."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q31",
+      "file": "content-drafts/ch05-sharing-road/q-31.json",
+      "prompt": "A driver in a sedan waits patiently at a suburban intersection to turn left while an oncoming bicyclist in a helmet rides through, clear sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель седана терпеливо ждёт левого поворота, пока встречный велосипедист проезжает перекрёсток.",
+        "en": "A sedan driver waits patiently to turn left while an oncoming bicyclist rides through the intersection."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q32",
+      "file": "content-drafts/ch05-sharing-road/q-32.json",
+      "prompt": "A car with low-beam headlights approaches an adult bicyclist wearing a reflective vest on a dark country road at dusk, stars beginning to show. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Автомобиль с ближним светом приближается к велосипедисту в светоотражающем жилете на сельской дороге в сумерках.",
+        "en": "A car with low beams approaches a bicyclist in a reflective vest on a country road at dusk."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q33",
+      "file": "content-drafts/ch05-sharing-road/q-33.json",
+      "prompt": "A driver reaches across the body with the right hand to open the driver door of a parked sedan and looks over the shoulder, quiet street lined with maples. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель припаркованного седана тянется правой рукой к дверце и оглядывается назад на тихой улице.",
+        "en": "A driver of a parked sedan reaches across with the right hand and looks back."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q34",
+      "file": "content-drafts/ch05-sharing-road/q-34.json",
+      "prompt": "A young adult in a helmet rides a pedal-assist electric bicycle along the smooth edge of a quiet suburban street, bright morning, maple trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Молодой человек в шлеме едет на электровелосипеде по краю тихой пригородной улицы.",
+        "en": "A young adult in a helmet rides an electric bicycle along the edge of a quiet suburban street."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q35",
+      "file": "content-drafts/ch05-sharing-road/q-35.json",
+      "prompt": "An adult cyclist in a helmet pedals a sleek electric bicycle on a smooth rural bike path next to a cornfield, bright summer day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый велосипедист в шлеме едет на электровелосипеде по ровной дорожке рядом с кукурузным полем.",
+        "en": "An adult cyclist in a helmet pedals an electric bicycle on a smooth path beside a cornfield."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q36",
+      "file": "content-drafts/ch05-sharing-road/q-36.json",
+      "prompt": "An adult in a helmet and jacket rides a small scooter along the edge of a quiet town street, brick buildings and maple trees, soft morning sunlight. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый в шлеме едет на небольшом скутере по краю тихой городской улицы.",
+        "en": "An adult in a helmet rides a small scooter along the edge of a quiet town street."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q37",
+      "file": "content-drafts/ch05-sharing-road/q-37.json",
+      "prompt": "An adult commuter in a helmet rides a small moped on a quiet small-town street toward a bakery, early morning light, trees along the curb. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый в шлеме едет на небольшом мопеде по тихой улице городка утром.",
+        "en": "An adult in a helmet rides a small moped on a quiet small-town street in the morning."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q38",
+      "file": "content-drafts/ch05-sharing-road/q-38.json",
+      "prompt": "An adult commuter stands on a small electric scooter with handlebars on a wide park trail, a thermos in a backpack pocket, autumn trees in soft light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый стоит на электросамокате на широкой парковой дорожке среди осенних деревьев.",
+        "en": "An adult stands on an electric scooter on a wide park trail among autumn trees."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q39",
+      "file": "content-drafts/ch05-sharing-road/q-39.json",
+      "prompt": "A small hatchback follows a large semi trailer truck at a safe distance on a straight highway, wide fields and a blue sky behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Небольшой хэтчбек на безопасной дистанции едет за большим фургоном на прямом шоссе.",
+        "en": "A small hatchback follows a large semi truck at a safe distance on a straight highway."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q40",
+      "file": "content-drafts/ch05-sharing-road/q-40.json",
+      "prompt": "A passenger car with headlights on moves past a large truck on a dark two-lane highway at dusk, flat fields and a pink sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Легковой автомобиль с фарами обгоняет большой грузовик на двухполосной дороге в сумерках.",
+        "en": "A passenger car with headlights on passes a large truck on a two-lane highway at dusk."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q41",
+      "file": "content-drafts/ch05-sharing-road/q-41.json",
+      "prompt": "A pickup truck tows a small sedan with a short rigid drawbar along an empty paved rural road, harvested fields and a barn in the distance. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пикап буксирует небольшой седан на жёсткой сцепке по пустой сельской дороге.",
+        "en": "A pickup tows a small sedan on a rigid drawbar along an empty rural road."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q42",
+      "file": "content-drafts/ch05-sharing-road/q-42.json",
+      "prompt": "A tow truck driver in a safety vest hooks a dark sedan that was left on a wide grassy highway shoulder, flat Illinois farmland and blue sky behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель эвакуатора в жилете цепляет седан, оставленный на широкой обочине шоссе.",
+        "en": "A tow truck driver in a vest hooks a sedan left on a wide highway shoulder."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q43",
+      "file": "content-drafts/ch05-sharing-road/q-43.json",
+      "prompt": "A small four-wheeled electric neighborhood vehicle drives slowly on a quiet residential street past front lawns and mailboxes, a driver waves to a neighbor. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Небольшой четырёхколёсный электромобиль медленно едет по тихой жилой улице, водитель машет соседу.",
+        "en": "A small four-wheeled electric vehicle drives slowly on a quiet residential street as the driver waves."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q44",
+      "file": "content-drafts/ch05-sharing-road/q-44.json",
+      "prompt": "A mechanic and an owner stand beside a small four-wheeled electric neighborhood vehicle in a driveway, one pointing at the windshield, tidy garage behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Механик и владелец стоят у небольшого электромобиля в подъезде, один показывает на лобовое стекло.",
+        "en": "A mechanic and an owner stand by a small electric vehicle in a driveway, one pointing at the windshield."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q45",
+      "file": "content-drafts/ch05-sharing-road/q-45.json",
+      "prompt": "A farm tractor pulling a wagon drives on the right edge of a country road while a pickup truck follows at a safe distance, golden corn fields around. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Трактор с прицепом едет по правому краю сельской дороги, сзади на безопасной дистанции пикап.",
+        "en": "A tractor with a wagon drives on the right edge of a country road, a pickup behind."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q46",
+      "file": "content-drafts/ch05-sharing-road/q-46.json",
+      "prompt": "A farm combine turns slowly off a country road into a field entrance while a pickup waits a safe distance behind, wide flat fields and trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Комбайн медленно сворачивает с сельской дороги в поле, пикап ждёт на безопасной дистанции.",
+        "en": "A combine turns slowly off a country road into a field as a pickup waits at a safe distance."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q47",
+      "file": "content-drafts/ch05-sharing-road/q-47.json",
+      "prompt": "A farm tractor with an amber beacon light on a high rear mount drives along a rural road at dusk, soft orange sunset over fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Трактор с янтарным маячком на задней мачте едет по сельской дороге в сумерках.",
+        "en": "A tractor with an amber beacon on a high rear mount drives along a rural road at dusk."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q48",
+      "file": "content-drafts/ch05-sharing-road/q-48.json",
+      "prompt": "A pickup truck cruises in the right lane of a four-lane highway while a faster car passes on the left, open Midwestern farmland and clear sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пикап едет по правой полосе четырёхполосного шоссе, слева его обгоняет более быстрый автомобиль.",
+        "en": "A pickup cruises in the right lane of a four-lane highway as a faster car passes on the left."
+      }
+    },
+    {
+      "id": "ch05-sharing-road-q49",
+      "file": "content-drafts/ch05-sharing-road/q-49.json",
+      "prompt": "A rider on a calm brown horse walks along the far right edge of a gravel country road with a pickup truck slowing down behind, green pastures around. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Всадник на спокойной лошади идёт по правому краю грунтовой дороги, сзади притормаживает пикап.",
+        "en": "A rider on a calm horse walks along the right edge of a gravel road as a pickup slows behind."
+      }
+    }
+  ]
+}

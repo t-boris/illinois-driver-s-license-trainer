@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q73",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За какое расстояние до поворота нужно включать поворотник вне жилых и деловых районов?",
+    "en": "At least how far before turning must you signal outside business or residential areas?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "100 футов",
+        "en": "100 feet"
+      },
+      "explanation": {
+        "ru": "100 футов — в жилой или деловой зоне. В остальных местах требуется больше.",
+        "en": "100 feet applies in a business or residential area. Other areas require more."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "200 футов",
+        "en": "200 feet"
+      },
+      "explanation": {
+        "ru": "Верно! В остальных местах сигнал нужен минимум за 200 футов.",
+        "en": "Correct! In other areas the signal must be given at least 200 feet before turning."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "50 футов",
+        "en": "50 feet"
+      },
+      "explanation": {
+        "ru": "Это слишком мало. Минимум 100 футов в городе и 200 футов вне его.",
+        "en": "That is too short. The minimum is 100 feet in town and 200 feet elsewhere."
+      }
+    }
+  ]
+}

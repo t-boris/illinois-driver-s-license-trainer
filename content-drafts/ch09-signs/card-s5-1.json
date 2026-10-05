@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-s5-1",
+  "topic": "ch09-signs",
+  "signId": "S5-1",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Школьная зона: ограничение скорости (School Speed Limit)",
+    "en": "School Speed Limit"
+  },
+  "meaning": {
+    "ru": "В школьной зоне скорость снижена. Указанный предел действует в учебные дни, когда рядом дети (обычно с 6:30 до 16:00), или когда мигает сигнал. За рулём нельзя пользоваться телефоном.",
+    "en": "A reduced-speed school zone has been established. The posted speed applies on school days when children are present (usually 6:30 a.m. to 4 p.m.) or when the beacon is flashing. Phone use is prohibited while driving in a school speed zone."
+  }
+}

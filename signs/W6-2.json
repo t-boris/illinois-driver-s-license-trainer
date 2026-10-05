@@ -1,0 +1,21 @@
+{
+  "id": "W6-2",
+  "designation": "W6-2",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W6-2 DIVIDED HIGHWAY ENDS",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 44,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 44 signs/W6-2.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W6-2.svg",
+  "alt": {
+    "ru": "Знак «Конец разделённой дороги (Divided Highway Ends)»",
+    "en": "Divided Highway Ends sign"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-ts-green",
+  "topic": "ch10-signals-markings",
+  "signId": "TS-GREEN",
+  "category": "signal",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Зелёный сигнал (Green light)",
+    "en": "Green light"
+  },
+  "meaning": {
+    "ru": "Можно ехать, но сначала уступите дорогу всем пешеходам и машинам, которые находятся на перекрёстке или на переходе.",
+    "en": "You may go after yielding the right of way to any pedestrians and vehicles in the intersection or crosswalk."
+  }
+}

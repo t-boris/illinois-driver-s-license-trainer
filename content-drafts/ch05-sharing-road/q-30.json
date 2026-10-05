@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q30",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что если водитель поворачивает направо, а справа приближается велосипедист, нужно сначала пропустить велосипедиста через перекрёсток?",
+    "en": "True or false: When motorists are turning right and a bicyclist is approaching on the right, they should let the bicyclist go through the intersection first before making a right turn."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Пропустите велосипедиста и не забудьте включить указатель поворота.",
+        "en": "Correct. Let the bicyclist pass first and remember to signal your turn."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Сначала нужно пропустить велосипедиста, приближающегося справа, и только потом поворачивать.",
+        "en": "You should let the bicyclist approaching on the right go through first and turn afterward."
+      }
+    }
+  ]
+}

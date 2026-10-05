@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q92",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 35",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как близко к бордюру нужно парковаться параллельно на улице с двусторонним движением?",
+    "en": "How close to the curb should you park parallel on a two-way street?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Правыми колёсами параллельно и в пределах 12 дюймов от бордюра",
+        "en": "Right-hand wheels parallel to and within 12 inches of the curb"
+      },
+      "explanation": {
+        "ru": "Верно! На односторонней улице можно парковаться у правого или у левого бордюра, тоже в пределах 12 дюймов, по ходу движения.",
+        "en": "Correct! On a one-way street you may park at either curb, also within 12 inches, facing the direction of traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В пределах 24 дюймов",
+        "en": "Within 24 inches"
+      },
+      "explanation": {
+        "ru": "Слишком далеко. Нужно в пределах 12 дюймов.",
+        "en": "Too far. The limit is 12 inches."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не важно, лишь бы не мешать",
+        "en": "It does not matter as long as you do not block"
+      },
+      "explanation": {
+        "ru": "Важно: 12 дюймов — это правило.",
+        "en": "It does matter: 12 inches is the rule."
+      }
+    }
+  ]
+}

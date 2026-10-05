@@ -1,0 +1,212 @@
+{
+ "signs": [
+  {
+   "designation": "R2-4",
+   "file": "Regulatory.pdf",
+   "page": 18,
+   "title": "R2-4 MINIMUM SPEED LIMIT (ENGLISH)"
+  },
+  {
+   "designation": "R3-9a",
+   "file": "Regulatory.pdf",
+   "page": 37,
+   "title": "R3-9a TWO-WAY LEFT TURN (OVERHEAD MOUNTED)"
+  },
+  {
+   "designation": "R3-9b",
+   "file": "Regulatory.pdf",
+   "page": 38,
+   "title": "R3-9b TWO WAY LEFT TURN ONLY (GROUND MOUNTED)"
+  },
+  {
+   "designation": "R3-17",
+   "file": "Regulatory.pdf",
+   "page": 61,
+   "title": "R3-17 BIKE LANE",
+   "crop": [
+    160,
+    68,
+    320,
+    255
+   ]
+  },
+  {
+   "designation": "R5-6",
+   "file": "Regulatory.pdf",
+   "page": 83,
+   "title": "R5-6 NO BICYCLES"
+  },
+  {
+   "designation": "R6-3",
+   "file": "Regulatory.pdf",
+   "page": 90,
+   "title": "R6-3 DIVIDED HIGHWAY CROSSING"
+  },
+  {
+   "designation": "R7-8",
+   "file": "Regulatory.pdf",
+   "page": 94,
+   "title": "R7-8 NO PARKING",
+   "crop": [
+    335,
+    368,
+    185,
+    285
+   ],
+   "keepText": true
+  },
+  {
+   "designation": "R10-6a",
+   "file": "Regulatory.pdf",
+   "page": 137,
+   "title": "R10-6a STOP HERE ON RED",
+   "keepText": true
+  },
+  {
+   "designation": "W1-1",
+   "file": "Warning.pdf",
+   "page": 1,
+   "title": "W1-1 TURN"
+  },
+  {
+   "designation": "W1-2",
+   "file": "Warning.pdf",
+   "page": 3,
+   "title": "W1-2 CURVE"
+  },
+  {
+   "designation": "W1-3",
+   "file": "Warning.pdf",
+   "page": 4,
+   "title": "W1-3 REVERSE TURN"
+  },
+  {
+   "designation": "W1-4",
+   "file": "Warning.pdf",
+   "page": 5,
+   "title": "W1-4 REVERSE CURVE"
+  },
+  {
+   "designation": "W1-5",
+   "file": "Warning.pdf",
+   "page": 6,
+   "title": "W1-5 WINDING ROAD"
+  },
+  {
+   "designation": "W1-8",
+   "file": "Warning.pdf",
+   "page": 9,
+   "title": "W1-8 CHEVRON ALIGNMENT"
+  },
+  {
+   "designation": "W2-2",
+   "file": "Warning.pdf",
+   "page": 15,
+   "title": "W2-2 SIDE ROAD"
+  },
+  {
+   "designation": "W3-5",
+   "file": "Warning.pdf",
+   "page": 27,
+   "title": "W3-5 SPEED REDUCTION"
+  },
+  {
+   "designation": "W5-1",
+   "file": "Warning.pdf",
+   "page": 36,
+   "title": "W5-1 ROAD NARROWS"
+  },
+  {
+   "designation": "W5-2",
+   "file": "Warning.pdf",
+   "page": 37,
+   "title": "W5-2 NARROW BRIDGE"
+  },
+  {
+   "designation": "W6-1",
+   "file": "Warning.pdf",
+   "page": 41,
+   "title": "W6-1 DIVIDED HIGHWAY"
+  },
+  {
+   "designation": "W6-2",
+   "file": "Warning.pdf",
+   "page": 44,
+   "title": "W6-2 DIVIDED HIGHWAY ENDS"
+  },
+  {
+   "designation": "W6-3",
+   "file": "Warning.pdf",
+   "page": 47,
+   "title": "W6-3 TWO WAY TRAFFIC"
+  },
+  {
+   "designation": "W11-1",
+   "file": "Warning.pdf",
+   "page": 91,
+   "title": "W11-1 BICYCLE TRAFFIC"
+  },
+  {
+   "designation": "W11-6",
+   "file": "Warning.pdf",
+   "page": 97,
+   "title": "W11-6 SNOWMOBILE TRAFFIC"
+  },
+  {
+   "designation": "W11-9",
+   "file": "Warning.pdf",
+   "page": 100,
+   "title": "W11-9 HANDICAPPED"
+  },
+  {
+   "designation": "W11-10",
+   "file": "Warning.pdf",
+   "page": 101,
+   "title": "W11-10 TRUCK CROSSING"
+  },
+  {
+   "designation": "W13-1",
+   "file": "Warning.pdf",
+   "page": 108,
+   "title": "W13-1 ADVISORY SPEED (ENGLISH)"
+  },
+  {
+   "designation": "W13-3",
+   "file": "Warning.pdf",
+   "page": 112,
+   "title": "W13-3 ADVISORY RAMP SPEED"
+  },
+  {
+   "designation": "W20-1",
+   "file": "Warning.pdf",
+   "page": 143,
+   "title": "W20-1 ROAD WORK",
+   "keepText": true
+  },
+  {
+   "designation": "S5-1",
+   "file": "School.pdf",
+   "page": 10,
+   "title": "S5-1 SCHOOL SPEED LIMIT (WHEN FLASHING) (ENGLISH)",
+   "keepText": true
+  },
+  {
+   "designation": "M1-4",
+   "file": "Guide.pdf",
+   "page": 4,
+   "title": "M1-4 U.S. ROUTE MARKER FOR INDEPENDENT USE"
+  },
+  {
+   "designation": "E5-1a",
+   "file": "Design.pdf",
+   "page": 11,
+   "title": "E5-1a EXIT NUMBER"
+  },
+  {
+   "designation": "D5-2",
+   "file": "Guide.pdf",
+   "page": 36,
+   "title": "D5-2 REST AREA EXIT DIRECTION"
+  }
+ ]
+}

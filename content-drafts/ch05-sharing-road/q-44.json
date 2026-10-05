@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q44",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что из перечисленного обязательно должно быть у низкоскоростного транспортного средства?",
+    "en": "Which of these must a low-speed vehicle be equipped with?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Ремни безопасности, лобовое стекло и стояночный тормоз",
+        "en": "Safety belts, a windshield, and a parking brake"
+      },
+      "explanation": {
+        "ru": "Верно. Ещё нужны фары, красные задние фонари, стоп-сигналы, указатели поворота, зеркала и красные отражатели.",
+        "en": "Correct. It also needs headlights, red taillights, brake lights, turn signals, mirrors, and red reflectors."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только фары",
+        "en": "Only headlights"
+      },
+      "explanation": {
+        "ru": "Список длиннее: ремни, стекло, стояночный тормоз, зеркала, стоп-сигналы, указатели поворота и другое.",
+        "en": "The list is longer: belts, windshield, parking brake, mirrors, brake lights, turn signals, and more."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Багажник на крыше",
+        "en": "A roof rack"
+      },
+      "explanation": {
+        "ru": "Багажник в обязательный список не входит. Нужны ремни, стекло, стояночный тормоз и т. д.",
+        "en": "A roof rack is not on the required list. Belts, windshield, parking brake, etc. are."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, достаточно регистрации",
+        "en": "Nothing, registration is enough"
+      },
+      "explanation": {
+        "ru": "Оборудование обязательно: ремни, стекло, стояночный тормоз, свет и зеркала.",
+        "en": "Equipment is required: belts, windshield, parking brake, lights, and mirrors."
+      }
+    }
+  ]
+}

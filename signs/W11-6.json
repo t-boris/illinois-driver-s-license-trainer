@@ -1,0 +1,21 @@
+{
+  "id": "W11-6",
+  "designation": "W11-6",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W11-6 SNOWMOBILE TRAFFIC",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 97,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 97 signs/W11-6.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W11-6.svg",
+  "alt": {
+    "ru": "Знак «Снегоходы пересекают дорогу (Snowmobile Crossing)»",
+    "en": "Snowmobile Crossing sign"
+  }
+}

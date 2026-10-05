@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q27",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 20",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что может потребоваться от водителя младше 21 года для восстановления прав после приостановки?",
+    "en": "What may a driver whose license was suspended before age 21 be required to complete for reinstatement?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, права возвращаются автоматически",
+        "en": "Nothing, the license returns automatically"
+      },
+      "explanation": {
+        "ru": "Автоматического возврата нет: нужно пройти курс восстановления (remedial education), а иногда и экзамен.",
+        "en": "There is no automatic return: a remedial education course, and sometimes an exam, is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только оплатить штраф в суде",
+        "en": "Only pay a court fine"
+      },
+      "explanation": {
+        "ru": "Одного штрафа недостаточно: потребуется курс восстановления, а иногда и экзамен.",
+        "en": "A fine alone is not enough: a remedial course, and sometimes an exam, is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Новый курс на мотоцикл",
+        "en": "A new motorcycle course"
+      },
+      "explanation": {
+        "ru": "Мотоциклетный курс не нужен; нужен курс восстановления навыков вождения.",
+        "en": "A motorcycle course is not needed; a driver remedial education course is."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Курс восстановления навыков (driver remedial education)",
+        "en": "A driver remedial education course"
+      },
+      "explanation": {
+        "ru": "Верно. Кроме того, могут потребовать пройти полный экзамен на права заново.",
+        "en": "Correct. You may also be required to take a complete driver’s license examination."
+      }
+    }
+  ]
+}

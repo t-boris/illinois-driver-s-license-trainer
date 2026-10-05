@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q32",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R10-6a",
+    "alt": {
+      "ru": "Бело-чёрный прямоугольный знак с надписью и стрелкой",
+      "en": "Black and white rectangular sign with lettering and an arrow"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак у светофора?",
+    "en": "What does this sign near a traffic signal mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Остановитесь здесь на красный сигнал (Stop Here on Red)",
+        "en": "Stop here on red"
+      },
+      "explanation": {
+        "ru": "Верно! Знак показывает, где именно останавливаться на перекрёстке со светофором.",
+        "en": "Correct! It shows where exactly to stop at an intersection with signals."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поворот направо на красный запрещён",
+        "en": "No turn on red"
+      },
+      "explanation": {
+        "ru": "Запрет поворота на красный имеет слова NO TURN ON RED.",
+        "en": "No Turn on Red carries the words NO TURN ON RED."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не загораживайте перекрёсток",
+        "en": "Do not block the intersection"
+      },
+      "explanation": {
+        "ru": "Здесь написано о красном сигнале, а не о заторе.",
+        "en": "This sign speaks about a red signal, not about a traffic jam."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Поворот налево только по зелёной стрелке",
+        "en": "Left on green arrow only"
+      },
+      "explanation": {
+        "ru": "Такой знак говорит о стрелке, а не о месте остановки.",
+        "en": "That sign speaks about an arrow, not about where to stop."
+      }
+    }
+  ]
+}

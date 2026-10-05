@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-ts-arr-red",
+  "topic": "ch10-signals-markings",
+  "signId": "TS-ARR-RED",
+  "category": "signal",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Красная стрелка (Red arrow)",
+    "en": "Red arrow"
+  },
+  "meaning": {
+    "ru": "Постоянно горящая красная стрелка запрещает манёвр, который она показывает, пока не появится зелёная стрелка. Есть два исключения: на красную стрелку можно повернуть направо, а также налево с односторонней улицы на другую одностороннюю улицу с движением влево. В обоих случаях полностью остановитесь и уступите дорогу встречному транспорту и пешеходам.",
+    "en": "A constantly lit red arrow means you cannot make the movement shown by the arrow until a green arrow appears. There are two exceptions: you may turn right at a red arrow, and you may turn left from a one-way street onto another one-way street with traffic moving to the left. In both cases, come to a complete stop and yield the right of way to oncoming traffic and pedestrians."
+  }
+}

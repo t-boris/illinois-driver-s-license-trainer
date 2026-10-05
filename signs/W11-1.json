@@ -1,0 +1,21 @@
+{
+  "id": "W11-1",
+  "designation": "W11-1",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W11-1 BICYCLE TRAFFIC",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 91,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 91 signs/W11-1.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W11-1.svg",
+  "alt": {
+    "ru": "Знак «Велосипедисты пересекают дорогу (Bicycle Crossing)»",
+    "en": "Bicycle Crossing sign"
+  }
+}

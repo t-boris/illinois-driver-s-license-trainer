@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-rxr",
+  "topic": "ch10-signals-markings",
+  "signId": "RXR",
+  "category": "marking",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Разметка перед ж/д переездом (Railroad crossing marking)",
+    "en": "Railroad crossing marking"
+  },
+  "meaning": {
+    "ru": "Разметка на проезжей части показывает, что впереди железнодорожный переезд. Сплошная жёлтая линия перед переездом означает запрет обгона, а белые стоп-линии с каждой стороны путей показывают, где остановиться при приближении поезда.",
+    "en": "Pavement markings show that a highway-railway crossing is ahead. A solid yellow line before the crossing means no passing, and white stop lines on each side of the track show where to stop when a train is approaching."
+  }
+}

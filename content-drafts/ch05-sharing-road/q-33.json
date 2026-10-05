@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q33",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как лучше открыть водительскую дверь на дороге, где могут ехать машины и велосипедисты сзади?",
+    "en": "How should you open your driver’s side door on a road with passing vehicle and bicycle traffic?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Открыть левой рукой и затем посмотреть назад",
+        "en": "Open it with your left hand and then check behind"
+      },
+      "explanation": {
+        "ru": "Сначала нужно посмотреть. Лучше открывать правой рукой: корпус поворачивается и вы лучше видите, что сзади.",
+        "en": "Check first. A right-hand reach is better: your body turns and you see what is behind."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Открыть правой рукой, потянувшись через себя, и только когда это не помешает движению сзади",
+        "en": "Reach across with your right hand to open it, and only when it does not interfere with traffic approaching from behind"
+      },
+      "explanation": {
+        "ru": "Верно, это ответ «a и b» из руководства. Поворот корпуса помогает взглянуть назад и заметить велосипедиста.",
+        "en": "Correct, the manual’s “both a and b.” Turning your upper body helps you look back and spot a bicyclist."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Открыть дверь быстро, пока нет машин",
+        "en": "Open it quickly while there are no cars"
+      },
+      "explanation": {
+        "ru": "Спешка опасна: велосипедист может появиться внезапно. Открывайте правой рукой и после проверки.",
+        "en": "Rushing is risky: a bicyclist can appear suddenly. Use your right hand and check first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не проверять, если вы припарковались у бордюра",
+        "en": "Skip the check if you parked at the curb"
+      },
+      "explanation": {
+        "ru": "Проверять нужно всегда, в том числе у бордюра: рядом может ехать велосипедист.",
+        "en": "Always check, even at the curb: a bicyclist may be riding close by."
+      }
+    }
+  ]
+}

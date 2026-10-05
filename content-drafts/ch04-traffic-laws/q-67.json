@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q67",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В каком из этих случаев обгон на двухполосной дороге запрещён?",
+    "en": "In which of these situations is passing on a two-lane, two-way road not allowed?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Когда впереди остановилась машина, пропускающая пешехода на переходе",
+        "en": "When a vehicle has stopped to let a pedestrian cross"
+      },
+      "explanation": {
+        "ru": "Верно! Также нельзя обгонять на холме или повороте без видимости, в зоне дорожных работ, в школьных зонах и у остановившегося школьного автобуса.",
+        "en": "Correct! Also no passing on hills or curves without visibility, in construction zones, in school zones, or around a stopped school bus."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Когда ваша полоса свободна на большом расстоянии",
+        "en": "When the left lane is clear for a long distance"
+      },
+      "explanation": {
+        "ru": "Это как раз нормальные условия, если нет других запретов.",
+        "en": "Those are normal conditions, unless another restriction applies."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Когда вы едете по дороге с односторонним движением",
+        "en": "On a one-way street with several lanes"
+      },
+      "explanation": {
+        "ru": "На односторонней улице обгон справа разрешён при достаточном месте.",
+        "en": "On a one-way street passing on the right is allowed when there is enough room."
+      }
+    }
+  ]
+}

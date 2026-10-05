@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q23",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 17",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто может быть освобождён от экзамена по вождению у Secretary of State в рамках Cooperative Driver Testing Program?",
+    "en": "Who may be exempt from the Secretary of State driving exam under the Cooperative Driver Testing Program?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Все, кому исполнилось 16 лет",
+        "en": "Everyone who is age 16"
+      },
+      "explanation": {
+        "ru": "Возраст сам по себе не освобождает: нужен курс в школе с оценкой A или B.",
+        "en": "Age alone does not exempt anyone: a school course with a grade of A or B is needed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любой, кто набрал 50 часов практики",
+        "en": "Anyone who logged 50 hours of practice"
+      },
+      "explanation": {
+        "ru": "Журнал нужен всем младше 18, но освобождает от экзамена только оценка A или B за курс в рамках программы.",
+        "en": "The log is needed by everyone under 18, but only an A or B in the course under the program exempts from the exam."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только взрослые от 21 года",
+        "en": "Only adults age 21 and older"
+      },
+      "explanation": {
+        "ru": "Программа предназначена для школьников, окончивших курс вождения с A или B.",
+        "en": "The program is for high school students who finish driver education with an A or B."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Школьники, окончившие курс вождения с общей оценкой A или B",
+        "en": "High school students who complete driver education with a combined grade of A or B"
+      },
+      "explanation": {
+        "ru": "Верно. Программа добровольная, школа участвует по желанию, а сертификат подписывают инструктор и родитель.",
+        "en": "Correct. The program is voluntary for schools, and the certificate is signed by the instructor and a parent."
+      }
+    }
+  ]
+}

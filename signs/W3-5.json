@@ -1,0 +1,21 @@
+{
+  "id": "W3-5",
+  "designation": "W3-5",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W3-5 SPEED REDUCTION",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 27,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 27 signs/W3-5.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W3-5.svg",
+  "alt": {
+    "ru": "Знак «Впереди зона другой скорости (Speed Zone Ahead)»",
+    "en": "Speed Zone Ahead sign"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r10-6a",
+  "topic": "ch09-signs",
+  "signId": "R10-6a",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Остановитесь здесь на красный (Stop Here on Red)",
+    "en": "Stop Here on Red"
+  },
+  "meaning": {
+    "ru": "Знак ставят там, где на перекрёстке со светофором неясно, где именно должны останавливаться машины.",
+    "en": "This sign is used where it is not clear where vehicles must stop at an intersection with traffic signals."
+  }
+}

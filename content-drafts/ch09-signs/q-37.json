@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q37",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R6-3",
+    "alt": {
+      "ru": "Бело-чёрный прямоугольник с надписью и стрелками в обе стороны",
+      "en": "Black and white rectangle with lettering and arrows in both directions"
+    }
+  },
+  "text": {
+    "ru": "Что сообщает этот знак перед перекрёстком?",
+    "en": "What does this sign tell you before an intersection?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Дорога впереди разделена полосой (Divided Highway)",
+        "en": "The road ahead has a median"
+      },
+      "explanation": {
+        "ru": "Верно! Разделительная полоса отделяет встречные потоки.",
+        "en": "Correct! A median separates both directions of traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Движение только в одну сторону",
+        "en": "One-way traffic"
+      },
+      "explanation": {
+        "ru": "Односторонняя дорога показывается одной стрелкой и надписью ONE WAY.",
+        "en": "A one-way street has one arrow and the words ONE WAY."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Перекрёсток с главной дорогой",
+        "en": "A crossing of main roads"
+      },
+      "explanation": {
+        "ru": "Знак говорит именно о разделительной полосе.",
+        "en": "The sign speaks specifically about a median."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Запрещён разворот",
+        "en": "No U-turn"
+      },
+      "explanation": {
+        "ru": "Запрет разворота это красный круг с чертой.",
+        "en": "No U-turn is a red circle with a slash."
+      }
+    }
+  ]
+}

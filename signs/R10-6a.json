@@ -1,0 +1,21 @@
+{
+  "id": "R10-6a",
+  "designation": "R10-6a",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R10-6a STOP HERE ON RED",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 137,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 137 signs/R10-6a.svg (auto-crop) --keep-text",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "R10-6a.svg",
+  "alt": {
+    "ru": "Знак «Остановитесь здесь на красный (Stop Here on Red)»",
+    "en": "Stop Here on Red sign"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-hand-and-arm-signals",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "ручные сигналы (hand and arm signals)",
+    "en": "Hand and arm signals"
+  },
+  "definition": {
+    "ru": "Сигналы левой рукой: вверх — правый поворот, прямо влево — левый поворот, вниз — замедление или остановка.",
+    "en": "Signals given with the left arm: straight up for a right turn, straight out for a left turn, and down to slow or stop."
+  }
+}

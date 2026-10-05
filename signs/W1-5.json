@@ -1,0 +1,21 @@
+{
+  "id": "W1-5",
+  "designation": "W1-5",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W1-5 WINDING ROAD",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 6,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 6 signs/W1-5.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W1-5.svg",
+  "alt": {
+    "ru": "Знак «Извилистая дорога впереди (Winding Road Ahead)»",
+    "en": "Winding Road Ahead sign"
+  }
+}

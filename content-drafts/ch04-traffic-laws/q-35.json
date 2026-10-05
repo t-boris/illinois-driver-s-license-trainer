@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q35",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если вас остановили ночью, включить в машине внутренний свет допустимо.",
+    "en": "If you are being stopped at night, it is acceptable to turn on your vehicle's interior light."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Свет в салоне помогает офицеру видеть, что вы не опасны. Держите руки на руле.",
+        "en": "Correct! Interior light lets the officer see you clearly. Keep your hands on the steering wheel."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Свет в салоне помогает офицеру видеть, что вы не опасны. Держите руки на руле.",
+        "en": "Not quite. Interior light lets the officer see you clearly. Keep your hands on the steering wheel."
+      }
+    }
+  ]
+}

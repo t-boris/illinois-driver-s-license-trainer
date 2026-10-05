@@ -1,0 +1,21 @@
+{
+  "id": "W1-4",
+  "designation": "W1-4",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W1-4 REVERSE CURVE",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 5,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 5 signs/W1-4.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W1-4.svg",
+  "alt": {
+    "ru": "Знак «Изгибы дороги направо и налево (Road Curves to the Right and Left)»",
+    "en": "Road Curves to the Right and Left sign"
+  }
+}

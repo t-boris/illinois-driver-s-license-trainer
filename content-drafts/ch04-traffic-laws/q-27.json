@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q27",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Просмотр прямой трансляции, видеоконференция (Zoom, Teams, Webex) или соцсети на телефоне за рулём тоже нарушают закон Иллинойса.",
+    "en": "Watching or streaming live video, joining video conferencing, or accessing social media on a cellphone while driving is a violation of Illinois law."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Все эти занятия отвлекают взгляд и внимание, поэтому они запрещены.",
+        "en": "Correct! All of these take your eyes and attention off the road, so they are against the law."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Все эти занятия отвлекают взгляд и внимание, поэтому они запрещены.",
+        "en": "Not quite. All of these take your eyes and attention off the road, so they are against the law."
+      }
+    }
+  ]
+}

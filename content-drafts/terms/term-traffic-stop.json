@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-traffic-stop",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "остановка полицией (traffic stop)",
+    "en": "Traffic stop"
+  },
+  "definition": {
+    "ru": "Остановка вашей машины полицейским. Съезжайте вправо в безопасное место, оставайтесь в машине и держите руки на руле, пока офицер не скажет иное.",
+    "en": "When a police officer stops your vehicle. Pull over to a safe place on the right, stay in the car, and keep both hands on the steering wheel until the officer says otherwise."
+  }
+}

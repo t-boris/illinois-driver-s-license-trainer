@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q28",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое устройство для связи разрешено использовать за рулём (кроме слухового аппарата)?",
+    "en": "Which communication device is allowed while driving (apart from a hearing aid)?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Наушники, закрывающие оба уха",
+        "en": "A headset that covers both ears"
+      },
+      "explanation": {
+        "ru": "Нет. Закон запрещает headsets, то есть любые устройства, кроме слухового аппарата, через которые можно слышать электронную связь. Важно слышать дорогу.",
+        "en": "No. Illinois prohibits headsets, meaning any device other than a hearing aid that lets you receive electronic communications. You need to hear the road."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Односторонняя гарнитура или наушник для сотового телефона",
+        "en": "A single-sided headset or earpiece with a cellphone"
+      },
+      "explanation": {
+        "ru": "Верно! Одностороннее устройство (single-sided) разрешено: второе ухо остаётся свободным.",
+        "en": "Correct! A single-sided headset or earpiece is permitted because one ear stays free to hear traffic."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любые наушники, если играет тихая музыка",
+        "en": "Any earbuds if the music is quiet"
+      },
+      "explanation": {
+        "ru": "Нет. Громкость не имеет значения: закон запрещает headsets, кроме односторонней гарнитуры для телефона.",
+        "en": "No. Volume does not matter: headsets are prohibited, except a single-sided one used with a phone."
+      }
+    }
+  ]
+}

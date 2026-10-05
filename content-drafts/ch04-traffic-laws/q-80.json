@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q80",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В каком случае водитель НЕ обязан останавливаться для школьного автобуса с мигающими огнями?",
+    "en": "When is a driver NOT required to stop for a school bus that is loading or unloading?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "На четырёхполосной дороге, когда автобус остановился во встречном направлении",
+        "en": "On a four-lane road when the bus is stopped in the opposite direction"
+      },
+      "explanation": {
+        "ru": "Верно! Это единственное исключение. В остальных случаях стойте, пока автобус не уедет, а огни не погаснут.",
+        "en": "Correct! That is the only exception. Otherwise stay stopped until the stop arm retracts and the lights go off."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На парковке школы",
+        "en": "In a school parking lot"
+      },
+      "explanation": {
+        "ru": "Нет. На любой дороге, частной дороге и парковке школы надо остановиться.",
+        "en": "No. You must stop on any roadway, private road, or school parking lot."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На двухполосной дороге в сельской местности",
+        "en": "On a two-lane roadway in a rural area"
+      },
+      "explanation": {
+        "ru": "Нет. Там надо остановиться. Исключение одно: четырёхполосная дорога, а автобус стоит во встречном направлении.",
+        "en": "No, you must stop there. The only exception is a four-lane roadway with the bus stopped in the opposite direction."
+      }
+    }
+  ]
+}

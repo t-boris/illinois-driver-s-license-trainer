@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r3-17",
+  "topic": "ch09-signs",
+  "signId": "R3-17",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Велодорожка (Bike Lane)",
+    "en": "Bike Lane"
+  },
+  "meaning": {
+    "ru": "Велодорожка это выделенная полоса для велосипедистов. Она отмечена сплошной линией, которая перед углом становится пунктирной; иногда её красят в ярко-зелёный цвет.",
+    "en": "A bike lane is a designated traffic lane for bicyclists. It is marked by a solid line that becomes dotted before it reaches the corner, and is sometimes painted bright green."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q36",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 44",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие права нужны, чтобы ездить на скутере с двигателем объёмом менее 150 куб. см?",
+    "en": "What license is required to operate a scooter with an engine of less than 150cc displacement?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Мотоциклетные права Class L (это мотовелосипед, motor-driven cycle)",
+        "en": "A Class L motorcycle license (it is a motor-driven cycle)"
+      },
+      "explanation": {
+        "ru": "Верно. Скутер с двигателем 150 куб. см и больше — мотоцикл, и нужны права Class M.",
+        "en": "Correct. A scooter with an engine of 150cc or greater is a motorcycle and requires a Class M license."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права Class M",
+        "en": "A Class M license"
+      },
+      "explanation": {
+        "ru": "Class M нужен для скутера с двигателем от 150 куб. см. Для меньшего двигателя нужен Class L.",
+        "en": "Class M is for a scooter with an engine of 150cc or more. A smaller engine requires Class L."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любые действительные права Illinois",
+        "en": "Any valid Illinois driver’s license"
+      },
+      "explanation": {
+        "ru": "Так можно ездить только на мопеде (до 50 куб. см, без переключения передач). Для скутера до 150 куб. см нужен Class L.",
+        "en": "That is only for a moped (up to 50cc, no gear shifting). A scooter under 150cc requires Class L."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права не нужны",
+        "en": "No license is needed"
+      },
+      "explanation": {
+        "ru": "Права не нужны только для низкоскоростного электросамоката. Для такого скутера нужен Class L.",
+        "en": "No license is needed only for a low-speed electric scooter. This scooter requires Class L."
+      }
+    }
+  ]
+}

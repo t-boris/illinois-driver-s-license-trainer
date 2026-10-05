@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q39",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что сказано о маленьких детях и подушке безопасности?",
+    "en": "What does the manual say about children and air bags?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Детям до 12 лет лучше ехать на заднем сиденье, а детское кресло спиной вперёд нельзя ставить перед активной подушкой",
+        "en": "Children age 12 and younger are best in the back seat, and a rear-facing child seat should never go in front of an active air bag"
+      },
+      "explanation": {
+        "ru": "Верно! Сработавшая подушка может серьёзно травмировать ребёнка на переднем сиденье.",
+        "en": "Correct! A deploying air bag can seriously injure a child riding in front."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дети любого возраста безопаснее на переднем сиденье",
+        "en": "Children of any age are safest in the front seat"
+      },
+      "explanation": {
+        "ru": "Нет, всё наоборот: заднее сиденье безопаснее для детей 12 лет и младше.",
+        "en": "No, the opposite: the back seat is safer for children age 12 and younger."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Кресло спиной вперёд можно ставить перед активной подушкой",
+        "en": "A rear-facing seat may be placed in front of an active air bag"
+      },
+      "explanation": {
+        "ru": "Нет. Кресло спиной вперёд никогда нельзя ставить перед активной подушкой. На некоторых пикапах подушку пассажира можно отключить.",
+        "en": "No. Rear-facing seats should never be installed in front of an active air bag. Some pick-up trucks allow turning it off."
+      }
+    }
+  ]
+}

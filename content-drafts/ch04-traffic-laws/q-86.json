@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q86",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "После прохода поезда у переезда с мигающими огнями можно ехать, проверив, нет ли второго поезда, и когда огни перестали мигать.",
+    "en": "After a train clears a crossing that has flashing signals, drivers may proceed after checking for a second train on another track and the lights have stopped flashing."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Всегда ищите второй поезд на соседнем пути. Едьте только когда шлагбаум поднят и огни погасли.",
+        "en": "Correct! Always look for a second train on another track. Proceed only when the gate is up and lights are off."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Всегда ищите второй поезд на соседнем пути. Едьте только когда шлагбаум поднят и огни погасли.",
+        "en": "Not quite. Always look for a second train on another track. Proceed only when the gate is up and lights are off."
+      }
+    }
+  ]
+}

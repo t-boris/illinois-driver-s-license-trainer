@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q19",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что вне пешеходного перехода (размеченного или неразмеченного) пешеход должен уступить дорогу водителям, в том числе на участке между близко расположенными перекрёстками со светофорами?",
+    "en": "True or false: A pedestrian crossing anywhere other than a marked or unmarked crosswalk must yield to drivers, including between closely spaced intersections where signals operate."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Вне перехода право проезда у водителей. Так же и между близко стоящими перекрёстками со светофорами.",
+        "en": "Correct. Outside a crosswalk, drivers have the right of way, including between closely spaced signalized intersections."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Правило такое: вне размеченного или неразмеченного перехода уступать должен пешеход, и это относится к участкам между близкими перекрёстками.",
+        "en": "The rule is that outside a marked or unmarked crosswalk the pedestrian yields, including between closely spaced intersections."
+      }
+    }
+  ]
+}

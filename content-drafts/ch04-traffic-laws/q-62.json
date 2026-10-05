@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q62",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 28",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "При обгоне нужно дождаться, пока вся обогнанная машина не появится в зеркале заднего вида, прежде чем вернуться в правую полосу.",
+    "en": "When passing another vehicle, a driver should wait until the entire car just passed is visible in the rearview mirror before turning back into the right-hand lane."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Так вы не подрежете обогнанную машину. Помните и о правиле 200 футов до встречной машины.",
+        "en": "Correct! That way you will not cut off the passed vehicle. Remember the 200-foot rule for oncoming vehicles too."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Так вы не подрежете обогнанную машину. Помните и о правиле 200 футов до встречной машины.",
+        "en": "Not quite. That way you will not cut off the passed vehicle. Remember the 200-foot rule for oncoming vehicles too."
+      }
+    }
+  ]
+}

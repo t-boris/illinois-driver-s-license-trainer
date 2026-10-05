@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q25",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 42",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что за мотоциклом можно держать меньшую дистанцию, чем за автомобилем?",
+    "en": "True or false: A driver does not need to allow as much distance when following a motorcycle as when following a car."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Нужно держать не меньше: за мотоциклом оставляйте минимум три-четыре секунды дистанции.",
+        "en": "You need at least as much: allow at least three to four seconds behind a motorcycle."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Именно так, утверждение неверно. Мотоциклисту нужно время, чтобы среагировать на опасность, поэтому за ним держите три-четыре секунды.",
+        "en": "Exactly, the statement is false. A motorcyclist needs time to maneuver in an emergency, so allow three to four seconds."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q42",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое ограничение скорости действует в переулке (alley), если не указано иное?",
+    "en": "What is the speed limit in an alley unless otherwise posted?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "30 миль/ч",
+        "en": "30 mph"
+      },
+      "explanation": {
+        "ru": "30 миль/ч — общий городской лимит. Переулок медленнее: 15.",
+        "en": "30 mph is the general city limit. An alley is slower: 15."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "20 миль/ч",
+        "en": "20 mph"
+      },
+      "explanation": {
+        "ru": "20 миль/ч — школьная зона в учебное время. Для переулка меньше: 15.",
+        "en": "20 mph is for school zones at the posted times. Alleys are lower: 15."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "15 миль/ч",
+        "en": "15 mph"
+      },
+      "explanation": {
+        "ru": "Верно! В переулках 15 миль/ч: там тесно, возможны пешеходы и выезжающие машины.",
+        "en": "Correct! Alleys are 15 mph: they are tight, with pedestrians and cars pulling out."
+      }
+    }
+  ]
+}

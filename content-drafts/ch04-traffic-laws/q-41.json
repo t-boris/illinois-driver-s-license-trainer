@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q41",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое ограничение скорости действует на четырёхполосных шоссе, если не указано иное?",
+    "en": "What is the speed limit on highways with four lanes unless otherwise posted?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "55 миль/ч",
+        "en": "55 mph"
+      },
+      "explanation": {
+        "ru": "55 миль/ч — для прочих шоссе и сельской местности (other highways and rural areas).",
+        "en": "55 mph is for other highways and rural areas."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "45 миль/ч",
+        "en": "45 mph"
+      },
+      "explanation": {
+        "ru": "Такого общего лимита в списке нет. Запомните: 70, 65, 55, 30, 15.",
+        "en": "There is no such statewide limit. Remember: 70, 65, 55, 30, 15."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "65 миль/ч",
+        "en": "65 mph"
+      },
+      "explanation": {
+        "ru": "Верно! 65 миль/ч для шоссе с четырьмя полосами, если знаками не указано иное.",
+        "en": "Correct! Highways with four lanes are 65 mph unless otherwise posted."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "70 миль/ч",
+        "en": "70 mph"
+      },
+      "explanation": {
+        "ru": "70 миль/ч — для интерстейтов и платных магистралей (tollways). Для четырёхполосных шоссе меньше.",
+        "en": "70 mph is for interstates and tollways. Four-lane highways are lower."
+      }
+    }
+  ]
+}

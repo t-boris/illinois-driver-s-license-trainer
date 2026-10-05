@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q100",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 36",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда на дороге ночью нужны парковочные огни у припаркованной машины?",
+    "en": "When must parked vehicles on a highway display parking lights?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никогда: достаточно запереть машину",
+        "en": "Never, locking the car is enough"
+      },
+      "explanation": {
+        "ru": "Нет. От заката до рассвета нужны парковочные огни.",
+        "en": "No. Parking lights are required from sunset to sunrise."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только в дождь",
+        "en": "Only in the rain"
+      },
+      "explanation": {
+        "ru": "Нет, дело не в дожде, а во времени суток.",
+        "en": "No. It depends on the time of day, not rain."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "От заката до рассвета, передние и задние парковочные огни должны гореть (в городском районе, где свет не нужен, допускается без них)",
+        "en": "From sunset to sunrise, front and rear parking lights must be displayed unless in an urban district where lights are not required"
+      },
+      "explanation": {
+        "ru": "Верно! Фары на припаркованной машине должны быть приглушены (dimmed).",
+        "en": "Correct! Headlights on parked vehicles must be dimmed."
+      }
+    }
+  ]
+}

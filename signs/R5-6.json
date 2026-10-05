@@ -1,0 +1,21 @@
+{
+  "id": "R5-6",
+  "designation": "R5-6",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R5-6 NO BICYCLES",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 83,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 83 signs/R5-6.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "R5-6.svg",
+  "alt": {
+    "ru": "Знак «Велосипедам проезд запрещён (No Bicycles)»",
+    "en": "No Bicycles sign"
+  }
+}

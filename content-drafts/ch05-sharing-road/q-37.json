@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q37",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 44",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие права нужны для управления мопедом (moped) в Illinois?",
+    "en": "What license is needed to operate a moped in Illinois?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только Class M",
+        "en": "Only a Class M license"
+      },
+      "explanation": {
+        "ru": "Class M нужен для скутера от 150 куб. см. Мопед можно водить с любыми действующими правами.",
+        "en": "Class M is for scooters of 150cc or more. A moped may be driven with any valid license."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Любые действительные водительские права Illinois; двигатель не более 50 куб. см и без переключения передач",
+        "en": "Any valid Illinois driver’s license; a combustion engine may not exceed 50cc and may not require shifting gears"
+      },
+      "explanation": {
+        "ru": "Верно. Мопед отличается малым двигателем и отсутствием переключения передач.",
+        "en": "Correct. A moped is defined by its small engine and no gear shifting."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права Class L",
+        "en": "A Class L license"
+      },
+      "explanation": {
+        "ru": "Class L нужен для скутера менее 150 куб. см, а для мопеда достаточно любых действующих прав.",
+        "en": "Class L is for scooters under 150cc; a moped needs only any valid license."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права не нужны",
+        "en": "No license"
+      },
+      "explanation": {
+        "ru": "Права нужны: подходят любые действительные права Illinois.",
+        "en": "A license is required: any valid Illinois driver’s license works."
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q28",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W20-1",
+    "alt": {
+      "ru": "Оранжевый ромб с чёрной надписью",
+      "en": "Orange diamond with black lettering"
+    }
+  },
+  "text": {
+    "ru": "Что означает оранжевый ромбовидный знак?",
+    "en": "What does an orange diamond sign tell you?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди дорожные работы (Road Construction/Maintenance Area)",
+        "en": "Road construction or maintenance ahead"
+      },
+      "explanation": {
+        "ru": "Верно! Оранжевый цвет используется для строительства и ремонта. Снизьте скорость и берегите рабочих.",
+        "en": "Correct! Orange is used for construction and maintenance. Slow down and protect the workers."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Железнодорожный переезд",
+        "en": "A railroad crossing"
+      },
+      "explanation": {
+        "ru": "Переезд обозначается круглым жёлтым знаком.",
+        "en": "A railroad crossing is shown by a round yellow sign."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Знак для парков и зон отдыха",
+        "en": "A park or recreation sign"
+      },
+      "explanation": {
+        "ru": "Парки и зоны отдыха обозначают коричневым цветом.",
+        "en": "Parks and recreation areas use the color brown."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Знак службы по дороге",
+        "en": "A services sign"
+      },
+      "explanation": {
+        "ru": "Услуги вдоль дороги обозначаются синим цветом.",
+        "en": "Services along the roadway are shown in blue."
+      }
+    }
+  ]
+}

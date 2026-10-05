@@ -1,0 +1,21 @@
+{
+  "id": "D5-2",
+  "designation": "D5-2",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Guide Signs, sheet D5-2 REST AREA EXIT DIRECTION",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Guide.pdf",
+    "page": 36,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Guide.pdf 36 signs/D5-2.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "D5-2.svg",
+  "alt": {
+    "ru": "Знак «Зона отдыха (Rest Area)»",
+    "en": "Rest Area sign"
+  }
+}

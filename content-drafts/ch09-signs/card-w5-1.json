@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w5-1",
+  "topic": "ch09-signs",
+  "signId": "W5-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 71",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Дорога сужается (Road Narrows)",
+    "en": "Road Narrows"
+  },
+  "meaning": {
+    "ru": "Знак предупреждает, что двухполосная дорога вдруг сужается.",
+    "en": "This sign warns you that a two-lane road suddenly narrows."
+  }
+}

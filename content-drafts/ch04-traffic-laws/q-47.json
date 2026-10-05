@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q47",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы покинули зону дорожных работ. Когда можно ехать с обычной скоростью?",
+    "en": "After leaving a work zone, when may you speed back up?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сразу, как только пропали конусы",
+        "en": "As soon as you pass the last cone"
+      },
+      "explanation": {
+        "ru": "Лучше подождать. Надо сохранять сниженную скорость, пока не проехали всех рабочих и техники.",
+        "en": "Better wait. Keep a reduced speed until you are safely past any workers or authorized vehicles."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Когда безопасно миновали всех рабочих и технику",
+        "en": "When you are safely past any workers or authorized vehicles"
+      },
+      "explanation": {
+        "ru": "Верно! Сниженную скорость держат и при выезде из зоны, пока рабочие не остались позади.",
+        "en": "Correct! Maintain the reduced speed when leaving the work zone until safely past workers and vehicles."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только на следующем знаке",
+        "en": "Only at the next posted sign"
+      },
+      "explanation": {
+        "ru": "Нет. Ориентируйтесь на то, что вы видите: рабочих и технику, а не только на знаки.",
+        "en": "No. Go by what you see: workers and vehicles, not only signs."
+      }
+    }
+  ]
+}

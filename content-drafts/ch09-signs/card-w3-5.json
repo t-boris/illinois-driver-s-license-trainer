@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w3-5",
+  "topic": "ch09-signs",
+  "signId": "W3-5",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Впереди зона другой скорости (Speed Zone Ahead)",
+    "en": "Speed Zone Ahead"
+  },
+  "meaning": {
+    "ru": "Знак предупреждает, что впереди зона с другим ограничением скорости. Будьте готовы изменить текущую скорость.",
+    "en": "This sign warns that there is a speed zone ahead. Be prepared to alter your current speed."
+  }
+}

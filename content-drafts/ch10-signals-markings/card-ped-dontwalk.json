@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-ped-dontwalk",
+  "topic": "ch10-signals-markings",
+  "signId": "PED-DONTWALK",
+  "category": "signal",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Пешеходам нельзя идти (Don't Walk, поднятая ладонь)",
+    "en": "Don't Walk (upraised hand)"
+  },
+  "meaning": {
+    "ru": "Мигающая оранжевая ладонь: не начинайте переход; если вы уже частично перешли во время горящего сигнала «идите», продолжайте до тротуара или островка безопасности. Постоянно горящая оранжевая ладонь: не выходите на проезжую часть.",
+    "en": "Flashing orange upraised hand: do not start to enter the roadway; if you have partially completed crossing during the constantly lit walk signal, you may continue to a sidewalk or safety island. Constantly lit orange upraised hand: do not enter the roadway."
+  }
+}

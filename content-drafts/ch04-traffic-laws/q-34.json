@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q34",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если подозревают вождение в нетрезвом виде, отказ пройти тест дыхания, мочи, крови или иную проверку может привести к потере прав.",
+    "en": "If you are suspected of drunk driving, refusal to submit to breath, urine, blood, or performance tests can result in the loss of driving privileges."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Отказ от проверки сам по себе влечёт потерю водительских прав. Лучше сотрудничать с полицией.",
+        "en": "Correct! Refusing a test can itself lead to loss of driving privileges. It is best to cooperate with law enforcement."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Отказ от проверки сам по себе влечёт потерю водительских прав. Лучше сотрудничать с полицией.",
+        "en": "Not quite. Refusing a test can itself lead to loss of driving privileges. It is best to cooperate with law enforcement."
+      }
+    }
+  ]
+}

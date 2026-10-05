@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r3-9b",
+  "topic": "ch09-signs",
+  "signId": "R3-9b",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 67",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Центральная полоса только для левого поворота (Center Lane, Two-Way Left Turn Only)",
+    "en": "Center Lane, Two-Way Left Turn Only"
+  },
+  "meaning": {
+    "ru": "Знак с надписью CENTER LANE ONLY тоже показывает, что центральная полоса дороги предназначена для левых поворотов в обе стороны. Она размечена жёлтыми линиями и белыми стрелками.",
+    "en": "The CENTER LANE ONLY sign also indicates that the center lane of the road is a two-way left turn lane, marked with yellow lines and white arrows."
+  }
+}

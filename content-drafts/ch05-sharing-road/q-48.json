@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q48",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какая полоса предназначена для медленного движения?",
+    "en": "Which lane is meant for slower traffic?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Правая; левая полоса для обгона и поворота",
+        "en": "The right lane; the left lane is for passing and turning"
+      },
+      "explanation": {
+        "ru": "Верно. Медленно движущиеся машины иногда временно выезжают на соседнюю полосу, чтобы объехать препятствия.",
+        "en": "Correct. Slow-moving vehicles may temporarily move into an adjoining lane to avoid roadside obstructions."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Левая",
+        "en": "The left lane"
+      },
+      "explanation": {
+        "ru": "Левая полоса нужна для обгона и поворота, а медленный транспорт едет по правой.",
+        "en": "The left lane is for passing and turning; slower traffic uses the right."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любая, по выбору водителя",
+        "en": "Any lane the driver chooses"
+      },
+      "explanation": {
+        "ru": "Правило конкретное: медленный транспорт едет по правой полосе.",
+        "en": "The rule is specific: slower traffic drives in the right lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Центральная линия",
+        "en": "The center line"
+      },
+      "explanation": {
+        "ru": "Ехать по центральной линии нельзя: медленный транспорт едет по правой полосе.",
+        "en": "Driving on the center line is not allowed: slower traffic uses the right lane."
+      }
+    }
+  ]
+}

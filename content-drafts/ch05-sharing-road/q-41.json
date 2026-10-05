@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q41",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как следует буксировать одну машину другой по правилам Illinois?",
+    "en": "How may one vehicle be towed by another under Illinois law?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "На длинной верёвке в 50 футов",
+        "en": "On a 50-foot rope"
+      },
+      "explanation": {
+        "ru": "Это слишком длинно: обычно расстояние не более 15 футов и нужна жёсткая сцепка.",
+        "en": "That is too long: usually no more than 15 feet, with a drawbar."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только на жёсткой сцепке (drawbar); обычно расстояние между машинами не более 15 футов, а буксируемую машину соединяют двумя цепями или тросами",
+        "en": "Only by a drawbar; usually the distance between the vehicles should not exceed 15 feet, and the towed vehicle is coupled with two chains or cables"
+      },
+      "explanation": {
+        "ru": "Верно. Короткая жёсткая сцепка делает буксировку управляемой.",
+        "en": "Correct. A short, rigid connection keeps towing under control."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любым способом, если включена аварийка",
+        "en": "Any way you like, if hazard lights are on"
+      },
+      "explanation": {
+        "ru": "Аварийка не заменяет требований: нужна жёсткая сцепка и две цепи или троса.",
+        "en": "Hazard lights do not replace the requirements: a drawbar and two chains or cables."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Толкая буксируемую машину бампером",
+        "en": "By pushing the other car with your bumper"
+      },
+      "explanation": {
+        "ru": "Толкать на сельском шоссе нельзя, кроме экстренных случаев. Буксируют на сцепке.",
+        "en": "Pushing on a rural highway is not allowed except in an emergency. Towing uses a drawbar."
+      }
+    }
+  ]
+}

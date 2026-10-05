@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w1-5",
+  "topic": "ch09-signs",
+  "signId": "W1-5",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Извилистая дорога впереди (Winding Road Ahead)",
+    "en": "Winding Road Ahead"
+  },
+  "meaning": {
+    "ru": "Впереди несколько изгибов подряд. Форма стрелки показывает, чего ждать; ведите машину аккуратно и не спешите.",
+    "en": "Several curves in a row are ahead. The shape of the arrow tells you what to expect; drive carefully and take your time."
+  }
+}

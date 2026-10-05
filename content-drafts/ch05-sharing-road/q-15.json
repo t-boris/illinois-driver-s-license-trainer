@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q15",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 40",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто считается пешеходом (pedestrian) по правилам Illinois?",
+    "en": "Who counts as a pedestrian under Illinois rules?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только человек, идущий пешком",
+        "en": "Only a person walking on foot"
+      },
+      "explanation": {
+        "ru": "Определение шире: пешеходом считаются и люди на роликовых коньках или скейтборде.",
+        "en": "The definition is wider: people on in-line skates or skateboards are pedestrians too."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любой, кто находится на тротуаре, включая велосипедистов",
+        "en": "Anyone on a sidewalk, including bicyclists"
+      },
+      "explanation": {
+        "ru": "Велосипедисты в это определение не входят: у них права и обязанности других участников движения.",
+        "en": "Bicyclists are not part of this definition: they have the rights and duties of other roadway users."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только люди без инвалидности",
+        "en": "Only people without a disability"
+      },
+      "explanation": {
+        "ru": "Люди с нарушениями слуха, зрения или движения тоже пешеходы и имеют все права пешехода.",
+        "en": "People with physical, hearing, or visual disabilities are pedestrians too, with all pedestrian rights."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Любой человек, идущий пешком, на роликовых коньках или скейтборде, включая людей с инвалидностью",
+        "en": "Any person afoot or on in-line skates or a skateboard, including a person with a disability"
+      },
+      "explanation": {
+        "ru": "Верно. Определение широкое: на роликах и скейтборде вы тоже пешеход, как и человек с нарушением слуха, зрения или движения.",
+        "en": "Correct. The definition is broad: on in-line skates or a skateboard you are a pedestrian too, as is a person with a physical, hearing, or visual disability."
+      }
+    }
+  ]
+}

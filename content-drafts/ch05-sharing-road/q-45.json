@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q45",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что должно быть на задней части некоторых медленно движущихся транспортных средств, например тракторов?",
+    "en": "What must be on the rear of certain slow-moving vehicles, such as farm tractors?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Красный флаг",
+        "en": "A red flag"
+      },
+      "explanation": {
+        "ru": "Нужна оранжевая эмблема медленно движущегося транспортного средства.",
+        "en": "An orange slow-moving vehicle emblem is required."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Оранжевая эмблема медленно движущегося транспортного средства",
+        "en": "An orange slow-moving vehicle emblem"
+      },
+      "explanation": {
+        "ru": "Верно. Заметив её, сбавьте скорость и приближайтесь осторожно: скорость сближения быстро растёт.",
+        "en": "Correct. When you see it, slow down and approach carefully: the closing speed rises quickly."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Синяя мигалка",
+        "en": "A blue flashing light"
+      },
+      "explanation": {
+        "ru": "Это не требуется; используются оранжевая эмблема и жёлтые (янтарные) огни.",
+        "en": "This is not required; an orange emblem and amber lights are used."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего не нужно",
+        "en": "Nothing is required"
+      },
+      "explanation": {
+        "ru": "Нужна оранжевая эмблема, чтобы другие водители издали заметили медленную машину.",
+        "en": "An orange emblem is required so other drivers notice the slow vehicle from far away."
+      }
+    }
+  ]
+}

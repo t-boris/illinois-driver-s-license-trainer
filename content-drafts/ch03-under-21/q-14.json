@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q14",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого возраста можно подать заявление на учебное разрешение без прохождения курса вождения?",
+    "en": "At what age may a person apply for an instruction permit without taking a driver education course?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 15 лет",
+        "en": "At age 15"
+      },
+      "explanation": {
+        "ru": "В 15 лет разрешение выдают, но с подтверждением, что вы учитесь на одобренном курсе или начнёте в течение 30 дней.",
+        "en": "At 15 a permit can be issued, but with proof that you are enrolled in, or will start within 30 days, an approved course."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 16 лет",
+        "en": "At age 16"
+      },
+      "explanation": {
+        "ru": "До 17 лет и 3 месяцев нужна справка о курсе от авторизованного провайдера.",
+        "en": "Before 17 years and 3 months, proof of a driver education course from an authorized provider is needed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "С 17 лет и 3 месяцев",
+        "en": "At age 17 and 3 months or older"
+      },
+      "explanation": {
+        "ru": "Верно: с 17 лет и 3 месяцев курс для получения разрешения не обязателен.",
+        "en": "Correct: from age 17 and 3 months, a course is not required to apply for a permit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 18 лет",
+        "en": "At age 18"
+      },
+      "explanation": {
+        "ru": "Порог ниже: уже с 17 лет и 3 месяцев курс не требуется.",
+        "en": "The threshold is lower: from 17 years and 3 months, the course is not required."
+      }
+    }
+  ]
+}

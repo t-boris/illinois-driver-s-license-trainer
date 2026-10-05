@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q97",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 36",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В пределах скольких футов от знака STOP, YIELD или светофора запрещено стоять и парковаться?",
+    "en": "Within how many feet of a STOP sign, YIELD sign, or traffic control signal is standing or parking prohibited?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "30 футов",
+        "en": "30 feet"
+      },
+      "explanation": {
+        "ru": "Верно! Запрет действует в пределах 30 футов, независимо от того, есть ли водитель в машине.",
+        "en": "Correct! The 30-foot rule applies whether or not the vehicle is occupied."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "15 футов",
+        "en": "15 feet"
+      },
+      "explanation": {
+        "ru": "15 футов — расстояние до пожарного гидранта.",
+        "en": "15 feet is the distance for a fire hydrant."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "50 футов",
+        "en": "50 feet"
+      },
+      "explanation": {
+        "ru": "50 футов — для парковки у ближайшего рельса переезда.",
+        "en": "50 feet is the parking distance from the nearest rail of a crossing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "10 футов",
+        "en": "10 feet"
+      },
+      "explanation": {
+        "ru": "Мало. Нужно 30 футов.",
+        "en": "Too small. It is 30 feet."
+      }
+    }
+  ]
+}

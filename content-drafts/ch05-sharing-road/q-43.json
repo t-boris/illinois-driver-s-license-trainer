@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q43",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 46",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какова максимальная скорость низкоскоростного транспортного средства (low-speed vehicle)?",
+    "en": "What is the maximum speed of a low-speed vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "15 mph",
+        "en": "15 mph"
+      },
+      "explanation": {
+        "ru": "Предел выше: 25 mph.",
+        "en": "The limit is higher: 25 mph."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "35 mph",
+        "en": "35 mph"
+      },
+      "explanation": {
+        "ru": "Предел ниже: 25 mph, а ездить можно по улицам с ограничением до 30 mph.",
+        "en": "The limit is lower: 25 mph, and it may use streets posted 30 mph or less."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "55 mph",
+        "en": "55 mph"
+      },
+      "explanation": {
+        "ru": "Это скорость обычных автомобилей на шоссе. Для low-speed vehicle предел 25 mph.",
+        "en": "That is a regular car speed on highways. A low-speed vehicle is limited to 25 mph."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "25 mph; ездить можно по улицам с ограничением 30 mph и ниже, если город не запретил",
+        "en": "25 mph; it may use streets with a posted limit of 30 mph or less unless the local municipality prohibits it"
+      },
+      "explanation": {
+        "ru": "Верно. Это четырёхколёсное транспортное средство с сертификатом безопасности и VIN, оно должно быть зарегистрировано.",
+        "en": "Correct. It is a four-wheeled vehicle with a federal safety label and VIN, and it must be titled and registered."
+      }
+    }
+  ]
+}

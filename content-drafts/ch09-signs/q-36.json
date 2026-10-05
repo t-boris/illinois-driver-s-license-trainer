@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q36",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 71",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W5-2",
+    "alt": {
+      "ru": "Жёлтый ромб с чёрной надписью из двух слов",
+      "en": "Yellow diamond with two words of black lettering"
+    }
+  },
+  "text": {
+    "ru": "Что предупреждает этот знак?",
+    "en": "What does this sign warn about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Узкий мост впереди (Narrow Bridge)",
+        "en": "A narrow bridge ahead"
+      },
+      "explanation": {
+        "ru": "Верно! Проезжая часть моста обычно примерно на 2 фута уже подъезда.",
+        "en": "Correct! A bridge roadway is generally 2 feet narrower than the approach."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дорога закрыта",
+        "en": "Road closed"
+      },
+      "explanation": {
+        "ru": "Закрытая дорога обозначается другим знаком с надписью ROAD CLOSED.",
+        "en": "A closed road has a different sign reading ROAD CLOSED."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Разводной мост",
+        "en": "A drawbridge"
+      },
+      "explanation": {
+        "ru": "Знак говорит о ширине моста, а не о разводе.",
+        "en": "The sign speaks of bridge width, not an opening bridge."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Скользкий мост",
+        "en": "A slippery bridge"
+      },
+      "explanation": {
+        "ru": "Скользкую дорогу показывает машина со следами заноса.",
+        "en": "Slippery road shows a car with skid marks."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q38",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 44",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что верно о низкоскоростном электросамокате (low-speed electric scooter)?",
+    "en": "What is true about a low-speed electric scooter?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нужны права Class L",
+        "en": "A Class L license is required"
+      },
+      "explanation": {
+        "ru": "Права не нужны: низкоскоростной электросамокат ими не регулируется.",
+        "en": "No license is required for a low-speed electric scooter."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Возраст оператора не ограничен",
+        "en": "There is no minimum age"
+      },
+      "explanation": {
+        "ru": "Ограничение есть: оператору должно быть не менее 18 лет.",
+        "en": "There is a limit: the operator must be at least 18."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Права не нужны, оператору должно быть не менее 18 лет, на нём может ехать только один человек",
+        "en": "No driver’s license is needed, the operator must be at least 18, and only one person may ride"
+      },
+      "explanation": {
+        "ru": "Верно. Максимальная скорость такого самоката 10 mph, а ездить можно там, где разрешает город или парк.",
+        "en": "Correct. Its maximum speed is 10 mph, and it may be used where the municipality or park district permits."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На нём могут ехать двое",
+        "en": "Two people may ride together"
+      },
+      "explanation": {
+        "ru": "Нельзя: на таком самокате может быть не больше одного человека.",
+        "en": "Not allowed: no more than one person may ride."
+      }
+    }
+  ]
+}

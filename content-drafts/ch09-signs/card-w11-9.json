@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w11-9",
+  "topic": "ch09-signs",
+  "signId": "W11-9",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 69",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Пересечение людей с инвалидностью (Persons with Disabilities Crossing)",
+    "en": "Persons with Disabilities Crossing"
+  },
+  "meaning": {
+    "ru": "Особые знаки пересечений заранее предупреждают о местах, где дорогу могут пересекать люди. Здесь это люди с инвалидностью; будьте внимательны и уступайте дорогу.",
+    "en": "Special crossing signs alert drivers in advance of areas where pedestrians may be crossing. This one warns of people with disabilities; stay alert and yield."
+  }
+}

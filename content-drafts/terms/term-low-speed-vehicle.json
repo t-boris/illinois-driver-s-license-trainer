@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-low-speed-vehicle",
+  "topic": "ch05-sharing-road",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "низкоскоростное транспортное средство (low-speed vehicle)",
+    "en": "Low-speed vehicle"
+  },
+  "definition": {
+    "ru": "Четырёхколёсное транспортное средство с федеральным сертификатом безопасности и VIN, максимальная скорость 25 mph. Регистрируется как любое другое транспортное средство и может ездить по улицам с ограничением 30 mph или ниже, если город не запретил.",
+    "en": "A four-wheeled vehicle with a federal safety certification label and a VIN, with a maximum speed of 25 mph. It is titled and registered like any other vehicle and may use streets posted 30 mph or less unless the municipality prohibits it."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q24",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 41",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что мотоциклист вправе использовать всю ширину полосы, поэтому водитель должен обгонять мотоцикл так же, как любое другое транспортное средство?",
+    "en": "True or false: Motorcyclists are entitled to use the full width of a traffic lane; therefore, a driver should pass a motorcycle the same way as any other vehicle."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно, так сказано в ответах руководства: мотоцикл занимает всю полосу, делить её нельзя.",
+        "en": "Correct, as the manual’s answer key says: a motorcycle is entitled to the whole lane, so you do not share it."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Руководство считает это утверждение верным: мотоциклист вправе занимать всю полосу, поэтому с ним нельзя делить полосу.",
+        "en": "The manual treats this statement as true: the motorcyclist is entitled to the entire lane, so you must not share it."
+      }
+    }
+  ]
+}

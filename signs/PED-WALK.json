@@ -1,0 +1,21 @@
+{
+  "id": "PED-WALK",
+  "designation": "PED-WALK",
+  "source": {
+    "publication": "FHWA Manual on Uniform Traffic Control Devices (MUTCD), 2009 Edition with Revisions 1 and 2, Part 4, Figure 4E-1 B, WALKING PERSON (WALK) pedestrian signal head (printed p. 496)",
+    "url": "https://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part4.pdf",
+    "page": 64,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-marking.py part4.pdf 64 signs/PED-WALK.svg --figure --region 442.7 382.2 52 52 (clipped to the object; text labels removed)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source figure page rendered to PNG: shapes, colours and symbols match; labels, dimension lines and neighbouring objects removed."
+  },
+  "file": "PED-WALK.svg",
+  "alt": {
+    "ru": "Пешеходный светофор: белая идущая фигура на тёмном фоне.",
+    "en": "White walking person on a dark rectangular background."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-funeral-procession",
+  "topic": "ch04-traffic-laws",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "похоронная процессия",
+    "en": "Funeral procession"
+  },
+  "definition": {
+    "ru": "Колонна машин с включёнными фарами и аварийными огнями. Уступите всем её машинам, не вклинивайтесь между ними и не присоединяйтесь к ней ради приоритета.",
+    "en": "An organized line of vehicles with headlights and hazard lights on. Yield to all its vehicles, do not drive between them, and do not join the line to gain right of way."
+  }
+}

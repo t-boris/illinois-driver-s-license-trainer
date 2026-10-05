@@ -1,0 +1,21 @@
+{
+  "id": "R3-9a",
+  "designation": "R3-9a",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Regulatory Signs, sheet R3-9a TWO-WAY LEFT TURN (OVERHEAD MOUNTED)",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Regulatory.pdf",
+    "page": 37,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Regulatory.pdf 37 signs/R3-9a.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "R3-9a.svg",
+  "alt": {
+    "ru": "Знак «Двусторонняя полоса для левого поворота (Two-Way Left Turn Lane)»",
+    "en": "Two-Way Left Turn Lane sign"
+  }
+}

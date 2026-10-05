@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q61",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водитель не должен въезжать на перекрёсток или пешеходный переход, если за ним нет места, чтобы освободить проезд другим.",
+    "en": "A driver may not enter an intersection or drive within a marked crosswalk unless there is enough space to allow passage of other vehicles and pedestrians."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Не блокируйте перекрёсток и переход, даже если свет зелёный: сначала убедитесь, что за ним есть место.",
+        "en": "Correct! Do not block an intersection or crosswalk, even on green: make sure there is room beyond first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Не блокируйте перекрёсток и переход, даже если свет зелёный: сначала убедитесь, что за ним есть место.",
+        "en": "Not quite. Do not block an intersection or crosswalk, even on green: make sure there is room beyond first."
+      }
+    }
+  ]
+}

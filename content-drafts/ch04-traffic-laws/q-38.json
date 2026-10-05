@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q38",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 23",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое расстояние между водителем и подушкой безопасности (air bag) желательно?",
+    "en": "What distance between the driver and the air bag is desirable?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "10-12 дюймов",
+        "en": "10-12 inches"
+      },
+      "explanation": {
+        "ru": "Верно! Особенно важно это для невысоких, пожилых и беременных водителей. Пассажирам надо сдвинуть сиденье как можно дальше назад.",
+        "en": "Correct! This is especially important for short, elderly, or pregnant drivers. Passengers should move their seat as far back as possible."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "20-24 дюйма",
+        "en": "20-24 inches"
+      },
+      "explanation": {
+        "ru": "Слишком далеко, вы можете не дотянуться до руля и педалей. Цель: 10-12 дюймов.",
+        "en": "Too far, you may not reach controls well. Aim for 10-12 inches."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "3-4 дюйма",
+        "en": "3-4 inches"
+      },
+      "explanation": {
+        "ru": "Слишком близко. При срабатывании подушка может травмировать.",
+        "en": "Too close. A deploying air bag could injure you."
+      }
+    }
+  ]
+}

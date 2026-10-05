@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q30",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R5-6",
+    "alt": {
+      "ru": "Красный круг с косой чертой и чёрным рисунком",
+      "en": "Red circle with a slash and a black picture"
+    }
+  },
+  "text": {
+    "ru": "Что означает красный круг с косой чертой на этом знаке?",
+    "en": "What does the red circle with a slash on this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Велосипедам проезд запрещён (No Bicycles)",
+        "en": "Bicycles are not allowed"
+      },
+      "explanation": {
+        "ru": "Верно! Красный круг с чертой запрещает действие, показанное на рисунке.",
+        "en": "Correct! A red circle with a slash prohibits the action shown in the picture."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Велодорожка",
+        "en": "A bike lane"
+      },
+      "explanation": {
+        "ru": "Велодорожку показывает чёрно-белый знак без красного перечёркивания.",
+        "en": "A bike lane is shown by a black and white sign with no red slash."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди пересекают дорогу велосипедисты",
+        "en": "Bicycles crossing ahead"
+      },
+      "explanation": {
+        "ru": "Предупреждающие знаки жёлтые, а этот красный и запрещающий.",
+        "en": "Warning signs are yellow; this one is red and prohibitive."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дорога только для велосипедов",
+        "en": "Bicycles only"
+      },
+      "explanation": {
+        "ru": "Красная черта означает запрет, а не разрешение.",
+        "en": "A red slash means prohibition, not permission."
+      }
+    }
+  ]
+}

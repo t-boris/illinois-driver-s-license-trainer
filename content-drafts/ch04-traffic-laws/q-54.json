@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q54",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы стоите на перекрёстке, ждёте, чтобы повернуть налево, и загорается красный. Как поступить?",
+    "en": "You are inside an intersection waiting to turn left and the light turns red. How should you proceed?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ждать на перекрёстке до зелёного",
+        "en": "Wait in the intersection until the light turns green"
+      },
+      "explanation": {
+        "ru": "Не нужно блокировать перекрёсток. Уступите встречным и завершите поворот.",
+        "en": "Do not block the intersection. Yield to oncoming traffic and complete the turn."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Убедиться, что сзади свободно, и сдать назад",
+        "en": "Make sure it is clear and back up out of the intersection"
+      },
+      "explanation": {
+        "ru": "Нет. Сдавать назад с перекрёстка опасно.",
+        "en": "No. Backing out of an intersection is dangerous."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Уступить встречному движению и завершить поворот",
+        "en": "Yield to oncoming traffic and complete the turn"
+      },
+      "explanation": {
+        "ru": "Верно! Если вы въехали на перекрёсток на зелёный, поворот можно закончить, даже когда загорелся красный, уступив встречным.",
+        "en": "Correct! If you entered on green, you may finish the turn after the light turns red, yielding to oncoming vehicles."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q32",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы не можете понять, настоящая ли это полицейская машина без опознавательных знаков. Что делать?",
+    "en": "You cannot tell whether an unmarked vehicle is real police. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться немедленно на тёмной обочине",
+        "en": "Stop right away on a dark shoulder"
+      },
+      "explanation": {
+        "ru": "Лучше этого не делать. Остановитесь в освещённом людном месте.",
+        "en": "Better not. Pull over at a well-lit, populated location instead."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко ускориться, чтобы оторваться",
+        "en": "Speed up sharply to get away"
+      },
+      "explanation": {
+        "ru": "Не нужно спешить. Ехать надо медленно и осторожно, ниже лимита, чтобы всем было видно ваши намерения.",
+        "en": "Do not speed. Drive slowly and carefully, below the limit, so your intentions are clear."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Ехать медленно, включить аварийку и остановиться в освещённом людном месте или поехать в полицейский участок либо позвонить 911",
+        "en": "Drive slowly with hazard lights on and pull over at a well-lit populated place, drive to a police station, or call 911"
+      },
+      "explanation": {
+        "ru": "Верно! Это три безопасных варианта. Аварийные огни показывают офицеру, что вы собираетесь остановиться.",
+        "en": "Correct! Those are three safe options. Hazard lights help communicate your intentions to the officer."
+      }
+    }
+  ]
+}

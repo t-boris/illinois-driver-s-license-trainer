@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q58",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы собираетесь повернуть налево на перекрёстке с мигающей жёлтой стрелкой. Что нужно сделать?",
+    "en": "You are entering an intersection with a flashing yellow arrow. What must you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться и ждать зелёного",
+        "en": "Stop and wait for a green light"
+      },
+      "explanation": {
+        "ru": "Не обязательно: можно поворачивать, если безопасно, уступив дорогу.",
+        "en": "Not necessary: you may turn when it is safe, after yielding."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Уступить дорогу встречным машинам и пешеходам",
+        "en": "Yield the right of way to oncoming vehicles and pedestrians"
+      },
+      "explanation": {
+        "ru": "Верно! Мигающая жёлтая стрелка (flashing yellow arrow) разрешает поворот, только когда безопасно, уступая встречным.",
+        "en": "Correct! A flashing yellow arrow allows the turn only when it is safe, yielding to oncoming traffic and pedestrians."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать первым, у вас приоритет",
+        "en": "Go first, you have priority"
+      },
+      "explanation": {
+        "ru": "Нет. При мигающей жёлтой стрелке надо уступить дорогу.",
+        "en": "No. At a flashing yellow arrow you must yield."
+      }
+    }
+  ]
+}

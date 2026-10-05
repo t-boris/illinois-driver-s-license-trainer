@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q45",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В какие часы действует лимит 20 миль/ч в школьной зоне?",
+    "en": "When must a driver slow down for a school zone?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только во время перемены",
+        "en": "Only during recess"
+      },
+      "explanation": {
+        "ru": "Нет. Лимит не зависит от перемены, он действует в указанные часы, когда есть дети.",
+        "en": "No. The limit does not depend on recess; it applies at the stated times when children are present."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "По выходным",
+        "en": "On weekends"
+      },
+      "explanation": {
+        "ru": "Нет. Школьный лимит действует в учебные дни.",
+        "en": "No. The school zone limit applies on school days."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В учебные дни с 6:30 до 16:00, когда рядом дети и стоят знаки",
+        "en": "On school days between 6:30 a.m. and 4 p.m., when children are present and signs are posted"
+      },
+      "explanation": {
+        "ru": "Верно! Именно в такое время действует лимит 20 миль/ч.",
+        "en": "Correct! That is when the 20 mph limit applies."
+      }
+    }
+  ]
+}

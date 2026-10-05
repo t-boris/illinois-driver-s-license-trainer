@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q63",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 28",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водитель может обогнать другую машину, поехав по обочине.",
+    "en": "A driver may pass another vehicle by driving on the shoulder of the road."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем. Выезжать за пределы проезжей части при обгоне запрещено. Обгон справа по обочине разрешён только спецтранспорту.",
+        "en": "Not quite. Driving off the main traveled part of the road to pass is not allowed. Only authorized vehicles may pass on the shoulder."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Выезжать за пределы проезжей части при обгоне запрещено. Обгон справа по обочине разрешён только спецтранспорту.",
+        "en": "Correct! Driving off the main traveled part of the road to pass is not allowed. Only authorized vehicles may pass on the shoulder."
+      }
+    }
+  ]
+}

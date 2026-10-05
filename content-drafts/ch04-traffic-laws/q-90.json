@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q90",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 34",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы паркуетесь на подъёме у бордюра. Как повернуть передние колёса?",
+    "en": "You park facing uphill next to a curb. How should you turn your front wheels?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прямо",
+        "en": "Straight ahead"
+      },
+      "explanation": {
+        "ru": "Нет. Колёса нужно повернуть, чтобы машина не укатилась.",
+        "en": "No. Turn the wheels so the car cannot roll away."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "К бордюру",
+        "en": "Toward the curb"
+      },
+      "explanation": {
+        "ru": "Так делают на спуске, а на подъёме колёса поворачивают от бордюра.",
+        "en": "That is for downhill. Uphill with a curb, turn the wheels away from it."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "От бордюра, в сторону проезжей части",
+        "en": "Away from the curb"
+      },
+      "explanation": {
+        "ru": "Верно! Если тормоза откажут, машина откатится назад и упрётся в бордюр. Всегда ставьте на парковку и при необходимости стояночный тормоз.",
+        "en": "Correct! If the brakes fail the car rolls back and stops against the curb. Always shift to park and set the parking brake if necessary."
+      }
+    }
+  ]
+}

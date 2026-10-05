@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w1-1",
+  "topic": "ch09-signs",
+  "signId": "W1-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Поворот направо впереди (Right Turn Ahead)",
+    "en": "Right Turn Ahead"
+  },
+  "meaning": {
+    "ru": "Знаки перед поворотами и изгибами дороги предупреждают заранее. Форма стрелки показывает, чего ждать: здесь впереди крутой поворот направо.",
+    "en": "Signs before turns and curves warn you ahead of time. The shape of the arrow tells you what to expect; here a sharp right turn is ahead."
+  }
+}

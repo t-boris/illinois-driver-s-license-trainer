@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q99",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 36",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как близко к въезду на территорию пожарной станции или к пешеходному переходу на перекрёстке запрещено парковаться?",
+    "en": "How close to a fire station driveway or an intersection crosswalk is parking prohibited?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "В пределах 5 футов",
+        "en": "Within 5 feet"
+      },
+      "explanation": {
+        "ru": "Слишком мало.",
+        "en": "Too small."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В пределах 20 футов",
+        "en": "Within 20 feet"
+      },
+      "explanation": {
+        "ru": "Верно! 20 футов от въезда на пожарную станцию и от пешеходного перехода на перекрёстке.",
+        "en": "Correct! 20 feet from a fire station driveway or an intersection crosswalk."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В пределах 40 футов",
+        "en": "Within 40 feet"
+      },
+      "explanation": {
+        "ru": "Много. Правило: 20 футов.",
+        "en": "Too many. The rule is 20 feet."
+      }
+    }
+  ]
+}

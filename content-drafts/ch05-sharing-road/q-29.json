@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q29",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Могут ли велосипедисты ехать в ряд по двое на проезжей части?",
+    "en": "May bicyclists ride side by side on the roadway?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нет, велосипедисты должны ехать только по одному",
+        "en": "No, bicyclists must always ride single file"
+      },
+      "explanation": {
+        "ru": "Можно по двое, если это не мешает движению.",
+        "en": "Two abreast is allowed if it does not impede traffic."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Да, по двое, если это не мешает нормальному и разумному движению; больше двух в ряд нельзя, кроме специальных дорожек",
+        "en": "Yes, two abreast, if normal and reasonable traffic movement is not impeded; more than two abreast is prohibited except on paths set aside for bicycles"
+      },
+      "explanation": {
+        "ru": "Верно. Больше двух в ряд можно только на путях, выделенных исключительно для велосипедов.",
+        "en": "Correct. More than two abreast is allowed only on paths or roadway parts set aside exclusively for bicycles."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Да, в любом количестве",
+        "en": "Yes, in any number"
+      },
+      "explanation": {
+        "ru": "Более двух в ряд запрещено, кроме выделенных для велосипедов путей.",
+        "en": "More than two abreast is prohibited except on paths set aside for bicycles."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только на улицах без разметки",
+        "en": "Only on unmarked streets"
+      },
+      "explanation": {
+        "ru": "Дело не в разметке: можно по двое, пока это не мешает нормальному движению.",
+        "en": "It is not about markings: two abreast is fine as long as traffic is not impeded."
+      }
+    }
+  ]
+}

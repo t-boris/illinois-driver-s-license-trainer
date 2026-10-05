@@ -1,0 +1,706 @@
+{
+  "items": [
+    {
+      "id": "ch04-traffic-laws-q25",
+      "file": "content-drafts/ch04-traffic-laws/q-25.json",
+      "prompt": "A driver in a sedan with both hands on the wheel, a small earpiece unseen, driving along a quiet suburban road in daylight. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель обеими руками держит руль, спокойная пригородная дорога днём.",
+        "en": "A driver keeps both hands on the wheel on a quiet suburban road in daylight."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q26",
+      "file": "content-drafts/ch04-traffic-laws/q-26.json",
+      "prompt": "A calm adult driver parked on a wide gravel shoulder beside a farm field, car stopped, looking ahead, flat Illinois prairie behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель остановился на широкой обочине возле поля, прерия вдали.",
+        "en": "A driver sits in a parked car on a wide shoulder beside a farm field."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q27",
+      "file": "content-drafts/ch04-traffic-laws/q-27.json",
+      "prompt": "A driver at the wheel on a city street looking straight ahead, a phone mounted far in the corner of the dashboard, light traffic. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель смотрит на дорогу в городе, движение небольшое.",
+        "en": "A driver looks straight ahead on a city street with light traffic."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q28",
+      "file": "content-drafts/ch04-traffic-laws/q-28.json",
+      "prompt": "A smiling adult driver of South Asian background in a hatchback on a country road with cornfields, sunlight through the windshield. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Улыбающийся водитель в хэтчбэке на сельской дороге среди кукурузных полей.",
+        "en": "A smiling driver in a hatchback on a country road past cornfields."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q29",
+      "file": "content-drafts/ch04-traffic-laws/q-29.json",
+      "prompt": "A parked sedan on a shoulder beside a flat field, a patrol car stopped behind it with flashing lights, driver inside, dusk, no people outside. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина на обочине, сзади остановилась полицейская машина с огнями.",
+        "en": "A car on the shoulder with a patrol car stopped behind it."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q30",
+      "file": "content-drafts/ch04-traffic-laws/q-30.json",
+      "prompt": "A driver of Eastern European background sitting calmly in a parked car, both hands on the steering wheel, an officer's silhouette near the window, quiet street. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель спокойно сидит в машине, руки на руле, рядом силуэт офицера.",
+        "en": "A driver sits calmly with hands on the wheel as an officer stands near the window."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q31",
+      "file": "content-drafts/ch04-traffic-laws/q-31.json",
+      "prompt": "A patrol car with flashing lights pulling a sedan over onto a broad gravel shoulder along a quiet rural highway with farm fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Полицейская машина останавливает седан на широкой обочине сельского шоссе.",
+        "en": "A patrol car pulls a sedan over onto a wide shoulder of a rural highway."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q32",
+      "file": "content-drafts/ch04-traffic-laws/q-32.json",
+      "prompt": "A driver in a sedan on a small-town evening street with warm streetlamps and shops, glancing at the mirror, a plain dark car behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель на вечерней улице городка смотрит в зеркало, сзади тёмная машина.",
+        "en": "A driver on a small-town evening street glances at the mirror as a plain dark car follows."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q33",
+      "file": "content-drafts/ch04-traffic-laws/q-33.json",
+      "prompt": "Two adults in a quiet suburban driveway scene: a driver standing beside a parked car calmly talking with a uniformed officer, tree-lined street. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель и офицер спокойно разговаривают возле машины на тихой улице.",
+        "en": "A driver and an officer talk calmly beside a parked car on a quiet street."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q34",
+      "file": "content-drafts/ch04-traffic-laws/q-34.json",
+      "prompt": "A quiet roadside at dusk: a sedan parked on a shoulder beside a field, a driver standing calmly next to it, soft evening sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Сумерки, машина на обочине у поля, водитель стоит рядом.",
+        "en": "At dusk a car stands on a shoulder beside a field, its driver nearby."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q35",
+      "file": "content-drafts/ch04-traffic-laws/q-35.json",
+      "prompt": "A sedan parked at night on a rural road shoulder, warm light glowing inside the cabin, driver visible with hands on the wheel, starry sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Ночью машина на обочине, в салоне тёплый свет, водитель держит руль.",
+        "en": "At night a parked car glows inside as the driver holds the wheel."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q36",
+      "file": "content-drafts/ch04-traffic-laws/q-36.json",
+      "prompt": "An adult driver helping an elderly passenger in a wheelchair-accessible van, adjusting seat safety belt, parking lot beside a park with maple trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель помогает пожилому пассажиру в фургоне пристегнуть ремень, парковка у парка.",
+        "en": "A driver helps an elderly passenger in a van with a belt beside a park."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q37",
+      "file": "content-drafts/ch04-traffic-laws/q-37.json",
+      "prompt": "A smiling adult driver of African American background settling into the driver's seat of a hatchback in a driveway, fastening a belt, sunny morning. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Улыбающийся водитель устраивается в машине на подъездной дорожке, раннее утро.",
+        "en": "A smiling driver settles into a hatchback seat in a driveway on a sunny morning."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q38",
+      "file": "content-drafts/ch04-traffic-laws/q-38.json",
+      "prompt": "An adult woman of Hispanic background driving a compact car, seated upright with comfortable distance from the wheel, bright suburban street with oaks. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Женщина за рулём сидит прямо на комфортном расстоянии от руля.",
+        "en": "A woman drives seated upright at a comfortable distance from the wheel."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q39",
+      "file": "content-drafts/ch04-traffic-laws/q-39.json",
+      "prompt": "An adult mother and father of mixed ethnicity buckling a toddler into a child seat in the back of a minivan on a driveway, autumn leaves. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Родители пристёгивают малыша в детском кресле на заднем сиденье минивэна.",
+        "en": "Parents buckle a toddler into a child seat in the back of a minivan."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q40",
+      "file": "content-drafts/ch04-traffic-laws/q-40.json",
+      "prompt": "A father fastening a school-age child in the back seat of a station wagon in a driveway beside a maple tree, backpack on the grass. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Отец помогает школьнику устроиться на заднем сиденье универсала во дворе.",
+        "en": "A father fastens a school-age child in the back seat of a station wagon."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q41",
+      "file": "content-drafts/ch04-traffic-laws/q-41.json",
+      "prompt": "A wide four-lane highway with light traffic through green farmland, a pickup truck and a hatchback, blue sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Четырёхполосное шоссе с небольшим потоком среди зелёных полей.",
+        "en": "A four-lane highway with light traffic through green farmland."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q42",
+      "file": "content-drafts/ch04-traffic-laws/q-42.json",
+      "prompt": "A narrow brick alley behind small shops in a Chicago neighbourhood, trash bins and a delivery bicycle, a car moving slowly. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Узкий переулок за магазинами, мусорные баки, велосипед и медленная машина.",
+        "en": "A narrow alley behind shops with bins, a bicycle and a slow car."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q43",
+      "file": "content-drafts/ch04-traffic-laws/q-43.json",
+      "prompt": "A car slowing as it approaches a quiet crossroads in a small Illinois town with a light drizzle, wet pavement, a corner bakery and a cyclist. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина замедляется у перекрёстка в городке под лёгким дождём.",
+        "en": "A car slows toward a crossroads in a small town in light rain."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q44",
+      "file": "content-drafts/ch04-traffic-laws/q-44.json",
+      "prompt": "A line of cars moving steadily along a two-lane country highway between soybean fields, one small car ahead, bright afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Колонна машин спокойно едет по двухполосной сельской дороге.",
+        "en": "A line of cars moves steadily along a two-lane country highway."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q45",
+      "file": "content-drafts/ch04-traffic-laws/q-45.json",
+      "prompt": "Elementary school building with a drop-off lane, adults of varied ethnicity walking with children on a morning sidewalk, a parked yellow bus, trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Утро у начальной школы, взрослые ведут детей по тротуару.",
+        "en": "Morning at an elementary school, adults walk children along the sidewalk."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q46",
+      "file": "content-drafts/ch04-traffic-laws/q-46.json",
+      "prompt": "Road crew workers in bright vests with a yellow excavator and orange cones beside a two-lane road, a pickup truck slowing down, summer day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Рабочие в жилетах и экскаватор у дороги, пикап замедляется.",
+        "en": "Road workers in vests and an excavator beside a road as a pickup slows."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q47",
+      "file": "content-drafts/ch04-traffic-laws/q-47.json",
+      "prompt": "A pickup truck driving slowly past a road crew with a roller machine and cones on a farm road, workers waving politely, blue sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пикап медленно проезжает мимо дорожной бригады с катком.",
+        "en": "A pickup drives slowly past a road crew with a roller machine."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q48",
+      "file": "content-drafts/ch04-traffic-laws/q-48.json",
+      "prompt": "A fire truck with flashing lights approaching along a wide street in a small Midwestern town while cars move toward the curb, daytime. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пожарная машина с мигалками едет по улице, машины прижимаются к краю.",
+        "en": "A fire truck with lights drives down a street as cars move toward the curb."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q49",
+      "file": "content-drafts/ch04-traffic-laws/q-49.json",
+      "prompt": "An ambulance and police cruiser with flashing lights stopped at the roadside of a highway, a wide field behind, paramedics at work, a car passing slowly. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Скорая и полицейская машина с огнями на обочине шоссе.",
+        "en": "An ambulance and a police cruiser with lights stopped at a highway roadside."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q50",
+      "file": "content-drafts/ch04-traffic-laws/q-50.json",
+      "prompt": "Firefighters of varied ethnicity pulling a hose along a small-town street beside a red fire engine, a driver in a car waiting at a distance. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пожарные тянут шланг по улице, машина ждёт вдалеке.",
+        "en": "Firefighters pull a hose along a street while a car waits at a distance."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q51",
+      "file": "content-drafts/ch04-traffic-laws/q-51.json",
+      "prompt": "A line of cars with headlights on following a black car along a quiet tree-lined street near a small cemetery, other drivers waiting politely. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Колонна машин с включёнными фарами едет по тихой улице, остальные ждут.",
+        "en": "A line of cars with headlights on drives down a quiet street while others wait."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q52",
+      "file": "content-drafts/ch04-traffic-laws/q-52.json",
+      "prompt": "A car stopped at the corner of a downtown intersection while pedestrians and a cyclist cross in front, brick buildings, autumn trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина стоит на углу перекрёстка, пешеходы и велосипедист переходят дорогу.",
+        "en": "A car waits at an intersection corner as pedestrians and a cyclist cross."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q53",
+      "file": "content-drafts/ch04-traffic-laws/q-53.json",
+      "prompt": "A downtown intersection of two one-way streets with a car at the corner and pedestrians waiting on the sidewalk, tall brick buildings, morning light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Угол двух односторонних улиц, машина у перекрёстка, пешеходы на тротуаре.",
+        "en": "A corner where two one-way streets meet, a car waits and pedestrians stand by."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q54",
+      "file": "content-drafts/ch04-traffic-laws/q-54.json",
+      "prompt": "A sedan with a left-turn signal flashing waiting in the middle of a wide intersection while a pickup truck approaches from the opposite direction, sunny afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Седан с поворотником ждёт посреди перекрёстка, навстречу идёт пикап.",
+        "en": "A sedan waits mid-intersection to turn left as a pickup approaches."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q55",
+      "file": "content-drafts/ch04-traffic-laws/q-55.json",
+      "prompt": "A line of cars at a city intersection, a delivery van still crossing in front of them, pedestrians at the corner, bright morning. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Очередь машин на перекрёстке, фургон ещё пересекает его.",
+        "en": "Cars wait at an intersection as a delivery van still crosses."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q56",
+      "file": "content-drafts/ch04-traffic-laws/q-56.json",
+      "prompt": "A car about to exit a driveway behind a brick garage onto a city sidewalk, a pedestrian with a stroller walking by, tree-lined street. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина собирается выехать из проезда, мимо идёт женщина с коляской.",
+        "en": "A car is about to leave a driveway as a woman with a stroller walks by."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q57",
+      "file": "content-drafts/ch04-traffic-laws/q-57.json",
+      "prompt": "A T-shaped intersection of a country lane meeting a straight paved road, a car waiting at the end of the lane while a pickup passes on the main road, corn fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Грунтовая дорога упирается в шоссе, машина ждёт, пикап проезжает.",
+        "en": "A country lane meets a straight road, a car waits and a pickup passes."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q58",
+      "file": "content-drafts/ch04-traffic-laws/q-58.json",
+      "prompt": "A car preparing to turn left at a wide city intersection while a bus and cyclist approach from the opposite side, sunny day, brick shops. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина готовится повернуть налево, навстречу автобус и велосипедист.",
+        "en": "A car prepares to turn left as a bus and a cyclist approach."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q59",
+      "file": "content-drafts/ch04-traffic-laws/q-59.json",
+      "prompt": "A woman and a man crossing a quiet residential street at a corner under maple trees, a car slowing down at the edge, houses behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Двое пешеходов переходят тихую улицу на углу, машина замедляется.",
+        "en": "Two pedestrians cross a quiet street at a corner as a car slows."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q60",
+      "file": "content-drafts/ch04-traffic-laws/q-60.json",
+      "prompt": "A car stopping at the edge of a small-town crossing where a cyclist rides along the side street, brick houses, wide curb corner. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина останавливается на углу городка, мимо едет велосипедист.",
+        "en": "A car stops at a small-town corner as a cyclist rides past."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q61",
+      "file": "content-drafts/ch04-traffic-laws/q-61.json",
+      "prompt": "Cars queued bumper to bumper on a city street, one car stopped before the intersection leaving space, pedestrians walking across, tall buildings. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машины стоят в пробке, одна остановилась перед перекрёстком, пешеходы идут.",
+        "en": "Cars queue in traffic, one stops short of the intersection as pedestrians walk."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q62",
+      "file": "content-drafts/ch04-traffic-laws/q-62.json",
+      "prompt": "A hatchback passing a slow farm tractor on a straight two-lane country road with fields, empty oncoming lane, bright day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Хэтчбэк едет за сельским трактором по прямой дороге среди полей.",
+        "en": "A hatchback passes a farm tractor on a straight country road."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q63",
+      "file": "content-drafts/ch04-traffic-laws/q-63.json",
+      "prompt": "A slow dump truck on a paved two-lane road with a wide gravel shoulder, a line of two cars behind it waiting, farm fields, afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Медленный самосвал на двухполосной дороге, за ним ждут две машины.",
+        "en": "A slow truck on a two-lane road with two cars waiting behind."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q64",
+      "file": "content-drafts/ch04-traffic-laws/q-64.json",
+      "prompt": "Two cars on a rural two-lane road, the front one driving steadily, the rear one close behind with its driver looking ahead, sunflower fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Две машины на сельской дороге, водитель сзади смотрит вперёд.",
+        "en": "Two cars on a rural road, the rear driver looks ahead."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q65",
+      "file": "content-drafts/ch04-traffic-laws/q-65.json",
+      "prompt": "A white pickup truck being overtaken by a green sedan on a flat two-lane highway with prairie grass, both moving steadily, big sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Седан обгоняет пикап на прямом шоссе в прерии.",
+        "en": "A sedan overtakes a pickup on a straight prairie highway."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q66",
+      "file": "content-drafts/ch04-traffic-laws/q-66.json",
+      "prompt": "Two cars on a straight two-lane road approaching a small crossroads in farmland, farmhouse and silos far off, bright afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Две машины едут к перекрёстку на сельской дороге.",
+        "en": "Two cars approach a crossroads on a rural road."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q67",
+      "file": "content-drafts/ch04-traffic-laws/q-67.json",
+      "prompt": "A car stopped before a neighbourhood crossing as two adults cross with a stroller, another car waiting behind it, bright street with oaks. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина остановилась, двое взрослых с коляской переходят улицу.",
+        "en": "A car stops as two adults with a stroller cross the street."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q68",
+      "file": "content-drafts/ch04-traffic-laws/q-68.json",
+      "prompt": "A multi-lane highway, a loaded farm truck in the right lane and a few cars passing it, flat fields and a wide sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Многополосное шоссе, гружёный грузовик едет, другие машины его обгоняют.",
+        "en": "A multi-lane highway where a loaded truck is overtaken by cars."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q69",
+      "file": "content-drafts/ch04-traffic-laws/q-69.json",
+      "prompt": "Several cars moving in steady lanes on a busy multi-lane highway, wide shoulders, flat fields, hazy sun. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машины едут ровно по полосам на многополосном шоссе.",
+        "en": "Cars move steadily in their lanes on a multi-lane highway."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q70",
+      "file": "content-drafts/ch04-traffic-laws/q-70.json",
+      "prompt": "A driver of Asian background parked at a curb on a city street reaching to open the door, a cyclist on the far side of the street, spring blossoms. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель у бордюра собирается открыть дверь, вдали едет велосипедист.",
+        "en": "A driver parked at a curb is about to open the door, a cyclist far down the street."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q71",
+      "file": "content-drafts/ch04-traffic-laws/q-71.json",
+      "prompt": "An empty large parking lot with several parked cars and a worried onlooker in the distance, evening glow, flat Midwest horizon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пустая парковка с несколькими машинами, вдали встревоженный прохожий.",
+        "en": "An empty parking lot with a few cars and a distant onlooker."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q72",
+      "file": "content-drafts/ch04-traffic-laws/q-72.json",
+      "prompt": "A driver on a busy highway checking over their shoulder before moving to the next lane, light traffic, trees along the road. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель оглядывается через плечо перед перестроением на шоссе.",
+        "en": "A driver checks over a shoulder before moving to the next highway lane."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q73",
+      "file": "content-drafts/ch04-traffic-laws/q-73.json",
+      "prompt": "A pickup truck approaching a farm lane turn on a flat country road with cornfields and a barn, a golden light of late afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пикап приближается к повороту на ферму среди кукурузных полей.",
+        "en": "A pickup approaches a turn onto a farm lane between cornfields."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q74",
+      "file": "content-drafts/ch04-traffic-laws/q-74.json",
+      "prompt": "A driver's left arm held up through an open car window while the car sits at a quiet residential corner, trees and houses, afternoon sun. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Рука водителя поднята из окна машины на тихом углу.",
+        "en": "A driver's arm rises from a car window at a quiet corner."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q75",
+      "file": "content-drafts/ch04-traffic-laws/q-75.json",
+      "prompt": "A sedan waiting in a left-turn lane at a wide city intersection with light traffic, an adult driver with a calm expression, brick buildings and trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Седан ждёт в полосе левого поворота на городском перекрёстке.",
+        "en": "A sedan waits in the left-turn lane at a city intersection."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q76",
+      "file": "content-drafts/ch04-traffic-laws/q-76.json",
+      "prompt": "A delivery van turning at a city corner with a cyclist waiting politely on the sidewalk side, brick buildings and street trees, soft sunlight. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Фургон поворачивает на городском углу, а рядом спокойно ждёт велосипедист.",
+        "en": "A delivery van turns at a corner as a cyclist waits."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q77",
+      "file": "content-drafts/ch04-traffic-laws/q-77.json",
+      "prompt": "A car pausing on a wide rural road on a gentle hill with an open view of fields far ahead, a quiet day, rolling farmland. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина на сельской дороге на пологом холме с широким обзором.",
+        "en": "A car pauses on a gentle rural hill with a wide view of fields."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q78",
+      "file": "content-drafts/ch04-traffic-laws/q-78.json",
+      "prompt": "A car with a flat tire parked on a wide shoulder beside a soybean field, a woman standing safely away from the road, a tow truck far off. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Машина стоит на обочине у поля, женщина отошла от дороги.",
+        "en": "A car stands on a shoulder beside a field, its driver stands safely away."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q79",
+      "file": "content-drafts/ch04-traffic-laws/q-79.json",
+      "prompt": "Aerial view of a small roundabout with a green central island, three cars and a cyclist circling, residential houses and trees around. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Вид сверху на круговой перекрёсток с зелёным островком и машинами.",
+        "en": "Aerial view of a roundabout with a green island and circling cars."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q80",
+      "file": "content-drafts/ch04-traffic-laws/q-80.json",
+      "prompt": "A yellow school bus stopped on a four-lane road beside a bus stop in a village, children in jackets, a car waiting in the lane behind, autumn trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Жёлтый школьный автобус, дети в куртках, машина ждёт сзади.",
+        "en": "A yellow school bus, children in jackets and a car waiting behind."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q81",
+      "file": "content-drafts/ch04-traffic-laws/q-81.json",
+      "prompt": "A yellow school bus parked in a school parking lot with children climbing aboard, red brick elementary school and flag pole, bright morning. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Школьный автобус на парковке у школы, дети садятся.",
+        "en": "A school bus in a school parking lot as children board."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q82",
+      "file": "content-drafts/ch04-traffic-laws/q-82.json",
+      "prompt": "A calm country road in autumn where a patient driver waits in a minivan behind a yellow school bus while children cross, red barn in background. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель в минивэне ждёт за школьным автобусом, пока дети переходят.",
+        "en": "A driver in a minivan waits behind a school bus while children cross."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q83",
+      "file": "content-drafts/ch04-traffic-laws/q-83.json",
+      "prompt": "A two-lane village road, a minivan stopped behind a yellow school bus on a rainy autumn morning, children with umbrellas on a sidewalk. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Деревенская дорога, минивэн стоит за школьным автобусом, дети с зонтами.",
+        "en": "A village road, a minivan stops behind a school bus and children carry umbrellas."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q84",
+      "file": "content-drafts/ch04-traffic-laws/q-84.json",
+      "prompt": "A pickup truck slowly approaching a country railroad track across a quiet rural lane, wide fields and trees, a distant freight train far on the horizon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пикап медленно подъезжает к рельсам на сельской дороге.",
+        "en": "A pickup slowly approaches railroad tracks on a rural lane."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q85",
+      "file": "content-drafts/ch04-traffic-laws/q-85.json",
+      "prompt": "A line of cars driving slowly toward a rural track crossing in a village, farm silos behind, wide cloudy sky, relaxed mood. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Колонна машин медленно едет к переезду в деревне.",
+        "en": "A line of cars drives slowly toward a village rail crossing."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q86",
+      "file": "content-drafts/ch04-traffic-laws/q-86.json",
+      "prompt": "A driver waiting in a sedan at a quiet rural crossing watching a long freight train roll away, golden fields and cottonwood trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель в седане ждёт у переезда, товарный поезд уходит вдаль.",
+        "en": "A driver waits in a sedan as a freight train rolls away."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q87",
+      "file": "content-drafts/ch04-traffic-laws/q-87.json",
+      "prompt": "A yellow school bus and a tanker truck slowing before a rural railroad track in the countryside, a sedan waiting behind them, golden fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Автобус и цистерна замедляются перед переездом, седан ждёт сзади.",
+        "en": "A bus and a tanker truck slow before a track as a sedan waits."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q88",
+      "file": "content-drafts/ch04-traffic-laws/q-88.json",
+      "prompt": "A broken-down car with raised hood stopped beside a rural railroad right-of-way, two adults walking calmly away through grass toward a tree line, field background. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Сломанная машина у железной дороги, двое взрослых спокойно уходят по траве.",
+        "en": "A broken-down car beside a rail line, two adults walk calmly away through grass."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q89",
+      "file": "content-drafts/ch04-traffic-laws/q-89.json",
+      "prompt": "An adult driver of Latino background in a manual transmission hatchback approaching a country railroad crossing, hands on wheel, golden fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель в хэтчбэке подъезжает к переезду на сельской дороге.",
+        "en": "A driver in a hatchback approaches a rural railroad crossing."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q90",
+      "file": "content-drafts/ch04-traffic-laws/q-90.json",
+      "prompt": "A sedan parked on a gently sloping residential street with curb and maple trees, a neighbour walking a dog in the distance, afternoon light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Седан стоит у бордюра на пологом склоне тихой жилой улицы.",
+        "en": "A sedan parked on a gently sloping residential street."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q91",
+      "file": "content-drafts/ch04-traffic-laws/q-91.json",
+      "prompt": "A pickup truck parked on a gravel shoulder of a small hill on a quiet country road, no curbs, flat farmland below, evening sun. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пикап стоит на гравийной обочине холма на сельской дороге.",
+        "en": "A pickup is parked on a gravel shoulder of a hill on a country road."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q92",
+      "file": "content-drafts/ch04-traffic-laws/q-92.json",
+      "prompt": "An adult woman parallel parking a compact car along a tree-lined residential street with brick townhouses, a neighbourhood cafe terrace, soft morning sun. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Женщина паркуется параллельно на улице с кирпичными домами.",
+        "en": "A woman parallel parks along a street of brick townhouses."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q93",
+      "file": "content-drafts/ch04-traffic-laws/q-93.json",
+      "prompt": "A woman with a cane walking toward a parked minivan with a ramp in a large store parking lot, sunny morning, shopping carts and trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Женщина с тростью идёт к минивэну на парковке магазина.",
+        "en": "A woman with a cane walks toward a minivan in a store parking lot."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q94",
+      "file": "content-drafts/ch04-traffic-laws/q-94.json",
+      "prompt": "An electric car parked and charging in a landscaped parking lot beside a grocery store, a driver of Asian background plugging in the cable, sunny day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Электромобиль стоит у зарядной колонки на парковке возле продуктового магазина.",
+        "en": "An electric car charges in a grocery store parking lot."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q95",
+      "file": "content-drafts/ch04-traffic-laws/q-95.json",
+      "prompt": "Two parked cars along a city curb with a third car stopped alongside them in the street and a delivery cyclist weaving by, brick buildings, afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Две машины у бордюра, третья стоит рядом на проезжей части.",
+        "en": "Two cars at a curb, a third stands beside them in the street."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q96",
+      "file": "content-drafts/ch04-traffic-laws/q-96.json",
+      "prompt": "A sedan with hazard flashers pulled onto a wide paved roadway edge on a straight rural highway with a clear view across wheat fields, driver stepping out. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Седан с аварийными огнями на краю шоссе, широкая равнина.",
+        "en": "A sedan with hazards on at the edge of a straight highway."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q97",
+      "file": "content-drafts/ch04-traffic-laws/q-97.json",
+      "prompt": "A tree-lined residential street corner with several cars parked a respectable distance back from the intersection, a pedestrian crossing at the corner, autumn day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Угол жилой улицы, машины припаркованы поодаль от перекрёстка.",
+        "en": "A residential corner with cars parked well back from the intersection."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q98",
+      "file": "content-drafts/ch04-traffic-laws/q-98.json",
+      "prompt": "A parking lot beside a small town railroad line with cars parked far from the tracks, a freight train passing on the horizon, wide skies. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Парковка у железной дороги, машины стоят далеко от путей.",
+        "en": "A parking lot beside a rail line, cars parked far from the tracks."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q99",
+      "file": "content-drafts/ch04-traffic-laws/q-99.json",
+      "prompt": "A brick fire station with open red doors and an empty driveway, a two adults chatting, a few cars parked far along the curb, sunny. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Кирпичная пожарная станция с открытыми воротами, у бордюра дальше стоят машины.",
+        "en": "A brick fire station with open doors, cars parked farther along the curb."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q100",
+      "file": "content-drafts/ch04-traffic-laws/q-100.json",
+      "prompt": "A parked pickup truck along a dusk country road with soft front and rear glow, wide purple sky over harvested fields, an owl on a fence post. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пикап на обочине в сумерках, мягкий свет габаритов.",
+        "en": "A pickup is parked at dusk with a soft glow from its small lights."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q101",
+      "file": "content-drafts/ch04-traffic-laws/q-101.json",
+      "prompt": "A family of five of varied ethnicity, grandparents and parents, buckling into a minivan in a driveway while a child waves, autumn leaves, sunny morning. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Семья из пяти человек садится в минивэн на подъездной дорожке.",
+        "en": "A family of five gets into a minivan in a driveway."
+      }
+    },
+    {
+      "id": "ch04-traffic-laws-q102",
+      "file": "content-drafts/ch04-traffic-laws/q-102.json",
+      "prompt": "An adult driver of African American background singing quietly with the windows closed in a sedan on a suburban street with neat lawns, relaxed mood. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель тихо подпевает в седане на пригородной улице.",
+        "en": "A driver sings quietly in a sedan on a suburban street."
+      }
+    }
+  ]
+}

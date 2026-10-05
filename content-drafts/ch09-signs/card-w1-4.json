@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w1-4",
+  "topic": "ch09-signs",
+  "signId": "W1-4",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Изгибы дороги направо и налево (Road Curves to the Right and Left)",
+    "en": "Road Curves to the Right and Left"
+  },
+  "meaning": {
+    "ru": "Впереди плавные изгибы в разные стороны. Форма стрелки показывает, чего ждать; снизьте скорость заранее.",
+    "en": "Curves in opposite directions are ahead. The shape of the arrow tells you what to expect; slow down in advance."
+  }
+}

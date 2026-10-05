@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q15",
+  "topic": "ch03-under-21",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда в воскресенье-четверг начинается ночное ограничение для водителей в фазах Permit и Initial Licensing?",
+    "en": "On Sunday through Thursday nights, when does the nighttime driving restriction begin in the Permit and Initial Licensing phases?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "В 11 вечера",
+        "en": "At 11 p.m."
+      },
+      "explanation": {
+        "ru": "Это время для пятницы и субботы, а с воскресенья по четверг ограничение начинается на час раньше, в 10 вечера.",
+        "en": "That is the Friday and Saturday time; Sunday through Thursday it starts an hour earlier, at 10 p.m."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В полночь",
+        "en": "At midnight"
+      },
+      "explanation": {
+        "ru": "Полночь слишком поздно: ограничение начинается в 10 вечера (пт.-сб. в 11 вечера).",
+        "en": "Midnight is too late: the restriction starts at 10 p.m. (11 p.m. on Fri.-Sat.)."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "В 9 вечера",
+        "en": "At 9 p.m."
+      },
+      "explanation": {
+        "ru": "Чуть раньше, чем нужно: в будни ограничение начинается в 10 вечера.",
+        "en": "Slightly too early: on weeknights it begins at 10 p.m."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В 10 вечера (до 6 утра)",
+        "en": "At 10 p.m. (until 6 a.m.)"
+      },
+      "explanation": {
+        "ru": "Именно так. В будни ограничение действует с 10 вечера до 6 утра, а в пятницу и субботу с 11 вечера.",
+        "en": "Exactly. On weeknights it runs from 10 p.m. to 6 a.m., and on Friday and Saturday from 11 p.m."
+      }
+    }
+  ]
+}

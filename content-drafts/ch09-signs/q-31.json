@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q31",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 66",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W3-5",
+    "alt": {
+      "ru": "Жёлтый ромб с чёрной стрелкой вверх и белой табличкой с числом",
+      "en": "Yellow diamond with a black up arrow and a white panel with a number"
+    }
+  },
+  "text": {
+    "ru": "Что предупреждает этот знак?",
+    "en": "What does this sign warn about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Впереди зона с другой скоростью (Speed Zone Ahead)",
+        "en": "A speed zone ahead"
+      },
+      "explanation": {
+        "ru": "Верно! Будьте готовы изменить скорость.",
+        "en": "Correct! Be ready to change your speed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди светофор",
+        "en": "Traffic signal ahead"
+      },
+      "explanation": {
+        "ru": "Светофор показан на знаке цветными кругами.",
+        "en": "A traffic signal is shown with coloured circles."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Впереди знак Стоп",
+        "en": "Stop sign ahead"
+      },
+      "explanation": {
+        "ru": "Знак «Стоп впереди» показывает красный восьмиугольник.",
+        "en": "Stop Ahead shows a red octagon."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Школьная зона",
+        "en": "A school zone"
+      },
+      "explanation": {
+        "ru": "Школьная зона обозначается пятиугольным знаком.",
+        "en": "A school zone is shown by a five-sided sign."
+      }
+    }
+  ]
+}

@@ -13,7 +13,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.environ.get('SHS_CACHE', os.path.join(ROOT, '.shs-cache'))
 BASE = 'https://mutcd.fhwa.dot.gov/SHSe/'
 TITLES = {'Regulatory.pdf': 'Regulatory Signs', 'Warning.pdf': 'Warning Signs', 'Guide.pdf': 'Guide Signs',
-          'School.pdf': 'School Signs', 'EM.pdf': 'Emergency Management and Civil Defense Signs'}
+          'School.pdf': 'School Signs', 'EM.pdf': 'Emergency Management and Civil Defense Signs',
+          'Design.pdf': 'Design Guidelines'}
 
 def fetch(name):
     os.makedirs(CACHE, exist_ok=True)
@@ -33,12 +34,15 @@ def main():
             if os.path.exists(os.path.join(ROOT, 'signs', f'{d}.json')):
                 continue  # already in the library
             pdf = fetch(f)
-            subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'extract-sign.py'), pdf, str(pg), out], check=True)
+            cmd = [sys.executable, os.path.join(ROOT, 'scripts', 'extract-sign.py'), pdf, str(pg), out]
+            if s.get('crop'): cmd += [str(v) for v in s['crop']]
+            if s.get('keepText'): cmd.append('--keep-text')
+            subprocess.run(cmd, check=True)
             meta = {
                 'id': d, 'designation': d,
                 'source': {'publication': f"FHWA Standard Highway Signs (SHS), 2004 Edition, {TITLES.get(f, f)}, sheet {s.get('title', d)}",
                            'url': BASE + f, 'page': pg, 'retrieved': today},
-                'extraction': f'scripts/extract-sign.py {f} {pg} signs/{d}.svg (auto-crop)',
+                'extraction': f"scripts/extract-sign.py {f} {pg} signs/{d}.svg " + (' '.join(str(v) for v in s['crop']) if s.get('crop') else '(auto-crop)') + (' --keep-text' if s.get('keepText') else ''),
                 'visualCheck': None,
                 'file': f'{d}.svg',
                 'alt': {'ru': f'Дорожный знак {d}', 'en': f'Road sign {d}'},

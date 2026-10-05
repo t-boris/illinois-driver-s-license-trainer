@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q52",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Разрешено повернуть направо на красный свет после полной остановки, уступив другим машинам и пешеходам.",
+    "en": "It is permissible to make a right turn against a red signal light after stopping and yielding to other vehicles and pedestrians."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Сначала полная остановка, затем уступить всем, и только потом поворот. Если знак это запрещает, поворачивать нельзя.",
+        "en": "Correct! Stop completely first, yield to everyone, then turn. If a sign prohibits it, do not turn."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Сначала полная остановка, затем уступить всем, и только потом поворот. Если знак это запрещает, поворачивать нельзя.",
+        "en": "Not quite. Stop completely first, yield to everyone, then turn. If a sign prohibits it, do not turn."
+      }
+    }
+  ]
+}

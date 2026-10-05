@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q102",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 36",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого расстояния не должна быть слышна музыка из машины на шоссе?",
+    "en": "At what distance must a vehicle's sound system not be audible on a highway?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "300 футов",
+        "en": "300 feet"
+      },
+      "explanation": {
+        "ru": "Много. Запрет действует с 75 футов.",
+        "en": "Too much. The limit is 75 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "75 футов и более",
+        "en": "75 feet or more"
+      },
+      "explanation": {
+        "ru": "Верно! Нельзя включать звук так громко, что его слышно за 75 футов и дальше от движущейся машины.",
+        "en": "Correct! You may not play a sound system loud enough to be heard 75 feet or more from a moving vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "25 футов",
+        "en": "25 feet"
+      },
+      "explanation": {
+        "ru": "Меньше нужного. Запрет начинается с 75 футов.",
+        "en": "Too short. The prohibition starts at 75 feet."
+      }
+    }
+  ]
+}

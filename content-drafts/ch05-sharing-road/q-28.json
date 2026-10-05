@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q28",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что велосипедисты, включая тех, кто едет на электро- или бензовелосипеде со скоростью не выше 20 mph, на большинстве дорог имеют те же права и обязанности, что и другие участники движения, включая право проезда?",
+    "en": "True or false: On most roadways, bicyclists, including those on electric or gas bicycles that do not exceed 20 mph, have the same rights and responsibilities as other roadway users, including the right of way."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Уступайте велосипедисту так же, как уступили бы другому транспортному средству.",
+        "en": "Correct. Yield to a bicyclist just as you would to another vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Права у велосипедистов такие же, как у остальных, включая право проезда.",
+        "en": "Bicyclists have the same rights as other road users, including the right of way."
+      }
+    }
+  ]
+}

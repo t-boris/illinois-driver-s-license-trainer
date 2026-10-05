@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q27",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 42",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно, чтобы управлять автоциклом (autocycle) на дорогах Illinois?",
+    "en": "What is required to operate an autocycle on Illinois roadways?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Мотоциклетная лицензия Class M",
+        "en": "A Class M motorcycle license"
+      },
+      "explanation": {
+        "ru": "Для автоцикла достаточно действующих водительских прав Illinois (плюс титул и регистрация).",
+        "en": "A valid Illinois driver’s license is enough for an autocycle (plus title and registration)."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никаких прав, как для электросамоката",
+        "en": "No license, like an electric scooter"
+      },
+      "explanation": {
+        "ru": "Права нужны: оператор автоцикла должен иметь действующие водительские права Illinois.",
+        "en": "A license is required: the operator must hold a valid Illinois driver’s license."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только учебное разрешение",
+        "en": "Only an instruction permit"
+      },
+      "explanation": {
+        "ru": "Одного учебного разрешения мало: нужны действующие права Illinois.",
+        "en": "An instruction permit alone is not enough: a valid Illinois driver’s license is needed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Действующие водительские права Illinois, а сам автоцикл должен иметь титул и регистрацию",
+        "en": "A valid Illinois driver’s license, and the autocycle must be titled and registered"
+      },
+      "explanation": {
+        "ru": "Верно. Автоцикл — трёхколёсное транспортное средство с рулём и сиденьем, на котором не нужно сидеть верхом.",
+        "en": "Correct. An autocycle is a three-wheeled vehicle with a steering wheel and seating that does not require straddling."
+      }
+    }
+  ]
+}

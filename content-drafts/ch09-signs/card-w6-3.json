@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w6-3",
+  "topic": "ch09-signs",
+  "signId": "W6-3",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Двустороннее движение (Two-Way Traffic)",
+    "en": "Two-Way Traffic"
+  },
+  "meaning": {
+    "ru": "Знак сообщает, что вы покидаете разделённую дорогу и приближаетесь к обычной дороге с двусторонним движением.",
+    "en": "This sign informs you that you are leaving a divided roadway and approaching a two-way highway."
+  }
+}

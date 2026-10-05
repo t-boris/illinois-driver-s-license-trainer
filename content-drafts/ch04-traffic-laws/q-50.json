@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q50",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водителю разрешено ехать через пожарные шланги на дороге.",
+    "en": "A driver is allowed to drive over fire hoses laid on the road."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем. Ехать по шлангам нельзя, если это не разрешил старший пожарный на месте.",
+        "en": "Not quite. Driving over fire hoses is prohibited unless the fire official in command permits it."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Ехать по шлангам нельзя, если это не разрешил старший пожарный на месте.",
+        "en": "Correct! Driving over fire hoses is prohibited unless the fire official in command permits it."
+      }
+    }
+  ]
+}

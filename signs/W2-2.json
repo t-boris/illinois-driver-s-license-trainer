@@ -1,0 +1,21 @@
+{
+  "id": "W2-2",
+  "designation": "W2-2",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Warning Signs, sheet W2-2 SIDE ROAD",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Warning.pdf",
+    "page": 15,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-sign.py Warning.pdf 15 signs/W2-2.svg (auto-crop)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet on a contact sheet: shape, colours, symbol and legend match; dimension lines, labels and other signs on the sheet removed."
+  },
+  "file": "W2-2.svg",
+  "alt": {
+    "ru": "Знак «Боковая дорога (Side Road)»",
+    "en": "Side Road sign"
+  }
+}

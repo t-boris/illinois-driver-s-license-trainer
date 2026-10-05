@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q57",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы на дороге, которая упирается в Т-образный перекрёсток, знаков и светофоров нет. Кто уступает?",
+    "en": "You are on the terminating road of a T intersection with no signs or signals. Who yields?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Вы: уступите движению по сквозной дороге",
+        "en": "You: yield to cross traffic on the through road"
+      },
+      "explanation": {
+        "ru": "Верно! На Т-образном перекрёстке без знаков водитель с упирающейся дороги уступает дорогу.",
+        "en": "Correct! At an unsigned T intersection, the driver on the terminating road yields."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Тот, кто первый посигналил",
+        "en": "Whoever honks first"
+      },
+      "explanation": {
+        "ru": "Нет. Сигнал не даёт приоритета.",
+        "en": "No. Honking never gives right of way."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Тот, кто едет по сквозной дороге",
+        "en": "The driver on the through road"
+      },
+      "explanation": {
+        "ru": "Нет. Уступает тот, кто едет по дороге, которая заканчивается.",
+        "en": "No. The driver on the road that ends yields."
+      }
+    }
+  ]
+}

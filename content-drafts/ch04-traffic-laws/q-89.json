@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q89",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 34",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "У вас механическая коробка передач, вы подъезжаете к переезду. Что делать?",
+    "en": "You drive a manual-transmission car and approach a railroad crossing. What should you do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Переключиться на нужную передачу до путей и не менять её на переезде",
+        "en": "Shift down before reaching the tracks and do not change gears while crossing"
+      },
+      "explanation": {
+        "ru": "Верно! Так машина не заглохнет на рельсах. Никогда не соревнуйтесь с поездом.",
+        "en": "Correct! That avoids stalling on the tracks. Never race a train."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Переключать передачи прямо на рельсах",
+        "en": "Shift gears while crossing the tracks"
+      },
+      "explanation": {
+        "ru": "Нет, можно заглохнуть. Не меняйте передачу на путях.",
+        "en": "No, you may stall. Do not change gears on the tracks."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Подъехать на нейтрали",
+        "en": "Coast to the tracks in neutral"
+      },
+      "explanation": {
+        "ru": "Нет. Лучше заранее включить пониженную передачу и не менять её на путях.",
+        "en": "No. It is better to shift down early and not change gears on the tracks."
+      }
+    }
+  ]
+}

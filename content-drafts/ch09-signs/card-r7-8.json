@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-r7-8",
+  "topic": "ch09-signs",
+  "signId": "R7-8",
+  "category": "regulatory",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 74",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Парковка для людей с инвалидностью (Persons with Disabilities Parking)",
+    "en": "Parking for Persons with Disabilities"
+  },
+  "meaning": {
+    "ru": "Эти места зарезервированы для машин с номерами или парковочными карточками для людей с инвалидностью, а также с номерами для ветеранов.",
+    "en": "Parking spaces with this sign are reserved for vehicles displaying Persons with Disabilities license plates, parking placards and Veteran license plates."
+  }
+}

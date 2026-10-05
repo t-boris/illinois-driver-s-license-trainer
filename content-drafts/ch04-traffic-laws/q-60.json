@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q60",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы подъехали к знаку STOP, но стоп-линии нет. Где остановиться?",
+    "en": "You arrive at a stop sign and there is no stop line. Where should you stop?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сразу за переходом",
+        "en": "Just past the crosswalk"
+      },
+      "explanation": {
+        "ru": "Нет. Останавливаться нужно до перехода.",
+        "en": "No. You must stop before the crosswalk."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посреди перекрёстка",
+        "en": "In the middle of the intersection"
+      },
+      "explanation": {
+        "ru": "Нет, это опасно.",
+        "en": "No, this is dangerous."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Перед пешеходным переходом; если его нет, там, где видно всё приближающееся движение",
+        "en": "Before the crosswalk, or if none, where you can see all approaching traffic"
+      },
+      "explanation": {
+        "ru": "Верно! Затем уступите дорогу тем, кто имеет право проезда.",
+        "en": "Correct! Then yield to those with the right of way."
+      }
+    }
+  ]
+}

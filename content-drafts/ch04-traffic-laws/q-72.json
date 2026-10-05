@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q72",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водитель должен включать поворотник и при смене полосы, а не только на поворотах.",
+    "en": "A driver must give the right- or left-turn signal when changing lanes."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Перед перестроением посмотрите назад и в сторону, поверните голову, включите сигнал и плавно перестройтесь.",
+        "en": "Correct! Before changing lanes, turn your head to check behind and beside you, signal, then move over smoothly."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Перед перестроением посмотрите назад и в сторону, поверните голову, включите сигнал и плавно перестройтесь.",
+        "en": "Not quite. Before changing lanes, turn your head to check behind and beside you, signal, then move over smoothly."
+      }
+    }
+  ]
+}

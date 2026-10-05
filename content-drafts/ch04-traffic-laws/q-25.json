@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q25",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 22",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Разговаривать по телефону с устройством hands-free за рулём законно для любого водителя, кроме тех, кому нет 19 лет.",
+    "en": "It is legal for anyone to talk on the phone with a hands-free device while driving, unless under age 19."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Hands-free и Bluetooth разрешены с 19 лет. Но даже тогда лучше съехать на обочину перед звонком.",
+        "en": "Correct! Hands-free devices and Bluetooth are allowed for age 19 and older. Even so, it is safer to pull off the road before a call."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Hands-free и Bluetooth разрешены с 19 лет. Но даже тогда лучше съехать на обочину перед звонком.",
+        "en": "Not quite. Hands-free devices and Bluetooth are allowed for age 19 and older. Even so, it is safer to pull off the road before a call."
+      }
+    }
+  ]
+}

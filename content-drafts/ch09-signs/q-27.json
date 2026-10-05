@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q27",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W1-8",
+    "alt": {
+      "ru": "Жёлтый прямоугольник с большим чёрным шевроном",
+      "en": "Yellow rectangle with a large black chevron"
+    }
+  },
+  "text": {
+    "ru": "Что предупреждает этот знак со стрелкой-шевроном?",
+    "en": "What does this chevron sign warn about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Изменение направления или сужение дороги",
+        "en": "A change in direction or narrowing of the road"
+      },
+      "explanation": {
+        "ru": "Верно! Такие знаки часто стоят на внешней стороне крутого поворота.",
+        "en": "Correct! These signs are often posted on the outside of a sharp curve."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Въезд запрещён",
+        "en": "Do not enter"
+      },
+      "explanation": {
+        "ru": "Запрет въезда это красный круг с белой полосой.",
+        "en": "Do Not Enter is a red circle with a white bar."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Держитесь правее",
+        "en": "Keep right"
+      },
+      "explanation": {
+        "ru": "Знак «Держитесь правее» чёрно-белый и со стрелкой, объезжающей препятствие.",
+        "en": "Keep Right is black and white with an arrow passing an obstruction."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Школьная зона",
+        "en": "School zone"
+      },
+      "explanation": {
+        "ru": "Школьная зона обозначается пятиугольным знаком.",
+        "en": "A school zone is shown by a five-sided sign."
+      }
+    }
+  ]
+}

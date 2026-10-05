@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q75",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 31",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как правильно выполнять левый поворот?",
+    "en": "Which of these is correct when making a left turn?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Повернуть в любую полосу встречной дороги",
+        "en": "Turn into any lane of the new road"
+      },
+      "explanation": {
+        "ru": "Нет. Поворот завершают в ближайшую полосу нужного направления.",
+        "en": "No. Complete the turn into the lane closest to the intended direction."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Заранее повернуть колёса влево, пока ждёте",
+        "en": "Turn the wheels to the left while waiting"
+      },
+      "explanation": {
+        "ru": "Нет. Если вас ударят сзади, машину вытолкнет на встречную полосу. Колёса держите прямо.",
+        "en": "No. If you are hit from behind you could be pushed into oncoming traffic. Keep wheels straight."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Держать колёса прямо, пока не начнёте поворот, и завершить поворот в ближайшей полосе нужного направления",
+        "en": "Point the wheels straight ahead until starting the turn and complete the turn into the lane closest to your intended direction"
+      },
+      "explanation": {
+        "ru": "Верно! Включите поворотник заранее, уступите пешеходам, спецмашинам и транспорту в перекрёстке и проверьте всё приближающееся движение.",
+        "en": "Correct! Signal early, yield to pedestrians, emergency vehicles, and traffic in the intersection, and check all approaching traffic."
+      }
+    }
+  ]
+}

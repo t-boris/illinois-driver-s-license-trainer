@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q21",
+  "topic": "ch05-sharing-road",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 41",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какая ситуация чаще всего приводит к аварии мотоцикла на перекрёстке?",
+    "en": "What is the most common situation in motorcycle crashes at intersections?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Мотоцикл обгоняет колонну на загородном шоссе",
+        "en": "A motorcycle passes a line of cars on a rural highway"
+      },
+      "explanation": {
+        "ru": "Чаще всего аварии происходят на перекрёстках, когда встречная машина поворачивает налево перед мотоциклом.",
+        "en": "Most often the crash happens at an intersection when an oncoming car turns left in front of a motorcycle."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Встречный автомобиль поворачивает налево перед мотоциклом",
+        "en": "An oncoming automobile makes a left turn in front of a motorcycle"
+      },
+      "explanation": {
+        "ru": "Верно. Более 50% аварий мотоциклов происходят на перекрёстках, чаще всего именно так. Перед левым поворотом убедитесь, что встречного мотоцикла нет.",
+        "en": "Correct. More than 50% of motorcycle crashes happen at intersections, most often this way. Before turning left, make sure no motorcycle is oncoming."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Мотоцикл стоит на светофоре",
+        "en": "A motorcycle waits at a signal"
+      },
+      "explanation": {
+        "ru": "Типичная ситуация другая: встречный автомобиль выполняет левый поворот перед мотоциклом.",
+        "en": "The typical situation is different: an oncoming car turns left in front of a motorcycle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Мотоцикл движется по гравийной обочине",
+        "en": "A motorcycle rides on a gravel shoulder"
+      },
+      "explanation": {
+        "ru": "Самая частая ситуация — левый поворот встречной машины перед мотоциклом на перекрёстке.",
+        "en": "The most common situation is an oncoming car turning left in front of a motorcycle at an intersection."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q20",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 41",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы сдаёте назад из подъезда или с парковки, рядом играют дети. Что нужно делать?",
+    "en": "You are backing out of a driveway and children are nearby. What should you do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Быть предельно внимательным и двигаться очень осторожно",
+        "en": "Be extremely watchful and move very carefully"
+      },
+      "explanation": {
+        "ru": "Верно. Дети малы и могут быть не видны в зеркалах, поэтому при выезде назад нужна максимальная осторожность.",
+        "en": "Correct. Children are small and may not show in mirrors, so extreme care is needed when backing out."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дать короткий гудок и ехать как обычно",
+        "en": "Give a quick honk and back out as usual"
+      },
+      "explanation": {
+        "ru": "Гудок не заменяет внимательности. Нужно быть предельно осторожным и убедиться, что рядом нет детей.",
+        "en": "A honk is no substitute for care. Be extremely watchful and make sure no children are near."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сдавать назад быстро, чтобы освободить проезд",
+        "en": "Back out quickly to clear the way"
+      },
+      "explanation": {
+        "ru": "Спешка опасна. Выезжать задним ходом нужно медленно и очень внимательно.",
+        "en": "Rushing is dangerous. Back out slowly and very watchfully."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полагаться только на зеркало заднего вида",
+        "en": "Rely only on the rearview mirror"
+      },
+      "explanation": {
+        "ru": "Зеркала могут не показать ребёнка. Нужна предельная внимательность и осмотр вокруг.",
+        "en": "Mirrors may not show a child. Extreme watchfulness and looking all around is needed."
+      }
+    }
+  ]
+}

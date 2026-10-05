@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q35",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 44",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Мотор какого класса электровелосипеда включается только при вращении педалей и помогает до 28 mph?",
+    "en": "Which class of low-speed electric bicycle has a motor that engages only while pedaling and assists up to 28 mph?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Class 1",
+        "en": "Class 1"
+      },
+      "explanation": {
+        "ru": "Class 1 тоже помогает только при педалировании, но прекращает помощь на 20 mph.",
+        "en": "Class 1 also assists only while pedaling, but stops assisting at 20 mph."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Class 2",
+        "en": "Class 2"
+      },
+      "explanation": {
+        "ru": "У Class 2 мотор может самостоятельно двигать велосипед, но не включается на 20 mph.",
+        "en": "In Class 2 the motor may propel the bicycle alone, but does not engage at 20 mph."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ни один класс",
+        "en": "No class"
+      },
+      "explanation": {
+        "ru": "Такой класс есть: Class 3, помощь до 28 mph, оператору не менее 16 лет.",
+        "en": "There is such a class: Class 3, assistance up to 28 mph, operator at least 16."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Class 3 (оператору должно быть не менее 16 лет)",
+        "en": "Class 3 (the operator must be at least age 16)"
+      },
+      "explanation": {
+        "ru": "Верно. Class 3: помощь только при педалировании, до 28 mph.",
+        "en": "Correct. Class 3: assistance only while pedaling, up to 28 mph."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q31",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 21",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вас остановила полиция. Где НЕ нужно останавливать машину?",
+    "en": "You are pulling over for a police stop. Where should you NOT stop your vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "На правой обочине дороги",
+        "en": "On the right-hand shoulder of the roadway"
+      },
+      "explanation": {
+        "ru": "Это как раз правильное место. Если обочины нет или она узкая, найдите следующее самое безопасное место.",
+        "en": "That is the right place. If there is no shoulder or it is too narrow, find the next safest location."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На безопасном месте с широкой обочиной",
+        "en": "On a safe spot with a wide shoulder"
+      },
+      "explanation": {
+        "ru": "Это хороший выбор. Широкая обочина позволяет другим проезжать спокойно.",
+        "en": "That is a good choice. A wide shoulder lets other vehicles pass safely."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "На мосту, на повороте или рядом с ограждением",
+        "en": "On a bridge, a curve, or next to a guardrail"
+      },
+      "explanation": {
+        "ru": "Верно! Не останавливайтесь там, где другим трудно вас объехать: мосты, повороты, ограждения, бетонные стены, разделительные полосы. Не тормозите резко и не стойте на полосе движения.",
+        "en": "Correct! Do not stop where it is hard for others to pass: bridges, curves, guardrails, concrete walls, medians. Do not slam on the brakes or stop in the traffic lane."
+      }
+    }
+  ]
+}

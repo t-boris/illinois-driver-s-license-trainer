@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q76",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 31",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как выполнять правый поворот?",
+    "en": "How should you make a right turn?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Въехать в левую полосу новой дороги",
+        "en": "Turn into the left lane of the new road"
+      },
+      "explanation": {
+        "ru": "Нет. Правый поворот завершают в правую полосу.",
+        "en": "No. A right turn ends in the right-hand lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сначала отъехать влево, потом повернуть",
+        "en": "Swing wide to the left first"
+      },
+      "explanation": {
+        "ru": "Нет. Нужно двигаться по дуге у бордюра, а не занимать полосу слева.",
+        "en": "No. Follow the curve of the curb rather than swinging out to the left."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Держаться как можно ближе к бордюру и въехать в правую полосу новой дороги",
+        "en": "Stay as close as possible to the curb and turn into the right-hand lane of the road you are entering"
+      },
+      "explanation": {
+        "ru": "Верно! Проверьте велодорожки и велосипедистов: грузовикам и автобусам нужно больше места для поворота.",
+        "en": "Correct! Watch for bike lanes and bicyclists; trucks and buses need more room to turn."
+      }
+    }
+  ]
+}

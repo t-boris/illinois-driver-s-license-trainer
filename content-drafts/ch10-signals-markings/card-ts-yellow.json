@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-ts-yellow",
+  "topic": "ch10-signals-markings",
+  "signId": "TS-YELLOW",
+  "category": "signal",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Жёлтый сигнал (Yellow light)",
+    "en": "Yellow light"
+  },
+  "meaning": {
+    "ru": "Жёлтый предупреждает, что сигнал меняется с зелёного на красный. Когда загорится красный, не въезжайте на перекрёсток. Мигающий жёлтый означает: проезжайте перекрёсток с осторожностью.",
+    "en": "The yellow light warns that the signal is changing from green to red. When the red light appears, do not enter the intersection. A flashing yellow light means proceed into the intersection with caution."
+  }
+}

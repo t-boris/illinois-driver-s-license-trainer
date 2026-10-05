@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w20-1",
+  "topic": "ch09-signs",
+  "signId": "W20-1",
+  "category": "construction",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Дорожные работы (Road Construction/Maintenance Area)",
+    "en": "Road Construction/Maintenance Area"
+  },
+  "meaning": {
+    "ru": "Оранжевые знаки предупреждают об изменении условий на дороге из-за строительства или ремонта и помогают защитить рабочих. Снизьте скорость до указанной и держите дистанцию.",
+    "en": "Orange construction and maintenance signs alert you to changing conditions on the roadway and help keep workers safe. Adjust your speed to the posted limit and keep a safe distance."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q21",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько часов практики за рулём под присмотром, помимо курса, нужно набрать водителю младше 18 лет перед получением прав?",
+    "en": "In addition to driver education, how many hours of supervised behind-the-wheel driving must a driver under 18 complete before getting a license?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не менее 10 часов",
+        "en": "At least 10 hours"
+      },
+      "explanation": {
+        "ru": "10 часов — это только ночная часть. Всего нужно не менее 50 часов.",
+        "en": "10 hours is only the nighttime part. The total is at least 50 hours."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не менее 50 часов, включая 10 часов ночью",
+        "en": "At least 50 hours, including 10 hours at night"
+      },
+      "explanation": {
+        "ru": "Верно. Часы фиксируют в журнале (driving log), его нужно принести в DMV с подписью.",
+        "en": "Correct. The hours are kept in a driving log, which must be brought to the DMV with the proper signature."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не менее 30 часов",
+        "en": "At least 30 hours"
+      },
+      "explanation": {
+        "ru": "30 часов — это теория в классе. Практики за рулём нужно не менее 50 часов.",
+        "en": "30 hours is the classroom study. Supervised driving requires at least 50 hours."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не менее 100 часов",
+        "en": "At least 100 hours"
+      },
+      "explanation": {
+        "ru": "Это больше требуемого: нужно 50 часов, из них 10 ночью.",
+        "en": "That is more than required: 50 hours, 10 of them at night."
+      }
+    }
+  ]
+}

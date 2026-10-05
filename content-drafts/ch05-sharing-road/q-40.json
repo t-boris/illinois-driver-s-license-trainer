@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch05-sharing-road-q40",
+  "topic": "ch05-sharing-road",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы обгоняете грузовик, особенно ночью. Что рекомендует руководство?",
+    "en": "You are passing a truck, especially at night. What does the manual recommend?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Мигнуть фарами, чтобы водитель грузовика знал о вас, и закончить обгон как можно быстрее",
+        "en": "Blink your headlights so the truck driver knows, and complete the pass as quickly as possible"
+      },
+      "explanation": {
+        "ru": "Верно. Не оставайтесь рядом с грузовиком дольше необходимого.",
+        "en": "Correct. Do not stay alongside the truck longer than necessary."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать рядом с кабиной как можно дольше",
+        "en": "Stay alongside the cab as long as possible"
+      },
+      "explanation": {
+        "ru": "Не задерживайтесь рядом с грузовиком: закончите обгон как можно быстрее.",
+        "en": "Do not linger beside the truck: complete the pass as quickly as possible."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Обгонять без сигналов, чтобы не отвлекать",
+        "en": "Pass with no signal so you do not distract the driver"
+      },
+      "explanation": {
+        "ru": "Мигнуть фарами полезно: так водитель знает, что вы рядом.",
+        "en": "Blinking your headlights helps: it lets the driver know you are there."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить дальний свет и держать его",
+        "en": "Turn on high beams and keep them on"
+      },
+      "explanation": {
+        "ru": "Дальний свет слепит водителя в боковых зеркалах. Достаточно мигнуть фарами.",
+        "en": "High beams blind the driver in the side mirrors. A blink of the headlights is enough."
+      }
+    }
+  ]
+}

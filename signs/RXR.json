@@ -1,0 +1,21 @@
+{
+  "id": "RXR",
+  "designation": "RXR",
+  "source": {
+    "publication": "FHWA Standard Highway Signs (SHS), 2004 Edition, Pavement Markings, sheet 10-14 Railroad Crossing Symbol",
+    "url": "https://mutcd.fhwa.dot.gov/SHSe/Pavement.pdf",
+    "page": 14,
+    "retrieved": "2026-10-04"
+  },
+  "extraction": "scripts/extract-marking.py Pavement.pdf 14 signs/RXR.svg --paths 3,4,5 (X and both R letters; grid, dimensions and labels removed; black stencil on white background as on the sheet)",
+  "visualCheck": {
+    "by": "assistant",
+    "date": "2026-10-04",
+    "note": "Compared with the source sheet page rendered to PNG: X and R R stencil match; dimension lines, grid and labels removed."
+  },
+  "file": "RXR.svg",
+  "alt": {
+    "ru": "Разметка перед железнодорожным переездом: буквы R, X, R",
+    "en": "Railroad crossing pavement marking: R X R"
+  }
+}

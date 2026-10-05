@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch03-under-21-q24",
+  "topic": "ch03-under-21",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 16",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что из перечисленного нужно привезти в DMV, подавая заявление на права до 18 лет?",
+    "en": "Which of these must be brought to the DMV when applying for a license before age 18?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Учебное разрешение и журнал 50 часов практики с подписью",
+        "en": "The instruction permit and the signed 50-hour driving log"
+      },
+      "explanation": {
+        "ru": "Верно. Также нужны документы, удостоверяющие личность, и, если применимо, согласие родителей и Cooperative Driver Testing Certificate.",
+        "en": "Correct. You also need identification and, if applicable, the consent affidavit and the Cooperative Driver Testing Certificate."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только удостоверение личности",
+        "en": "Only identification"
+      },
+      "explanation": {
+        "ru": "Удостоверения мало: нужны ещё разрешение и журнал практики с подписью.",
+        "en": "ID alone is not enough: the permit and the signed driving log are needed too."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Справка из банка о доходах",
+        "en": "A bank statement showing income"
+      },
+      "explanation": {
+        "ru": "Такой справки в списке нет. Нужны разрешение, документы личности, журнал 50 часов и, если применимо, другие бумаги.",
+        "en": "No such statement is on the list. You need the permit, identification, the 50-hour log and, where applicable, other forms."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Результаты экзамена на мотоцикл",
+        "en": "Results of a motorcycle exam"
+      },
+      "explanation": {
+        "ru": "Мотоциклетные экзамены не требуются; нужны разрешение, документы личности и журнал практики.",
+        "en": "Motorcycle exam results are not required; you need the permit, identification and the driving log."
+      }
+    }
+  ]
+}

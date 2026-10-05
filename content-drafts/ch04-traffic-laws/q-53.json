@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q53",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 26",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "После полной остановки и уступки другим можно повернуть налево на красный с односторонней улицы на другую одностороннюю, где движение идёт влево.",
+    "en": "After a proper stop and yielding to traffic or pedestrians, drivers on a one-way street may turn left at a red light onto another one-way street that moves traffic to the left."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Это допустимо после полной остановки и уступки всем, кто в перекрёстке.",
+        "en": "Correct! This is allowed after a complete stop and yielding to anyone in or near the intersection."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Это допустимо после полной остановки и уступки всем, кто в перекрёстке.",
+        "en": "Not quite. This is allowed after a complete stop and yielding to anyone in or near the intersection."
+      }
+    }
+  ]
+}

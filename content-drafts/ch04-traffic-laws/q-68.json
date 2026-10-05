@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q68",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 29",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Медленные машины должны ехать по левой полосе, кроме обгона и левого поворота.",
+    "en": "Slow vehicles should use the left-hand lane except when passing or turning left."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем. Медленные машины едут по правой полосе, кроме обгона и левого поворота.",
+        "en": "Not quite. Slow vehicles must use the right-hand lane except when passing or turning left."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно! Медленные машины едут по правой полосе, кроме обгона и левого поворота.",
+        "en": "Correct! Slow vehicles must use the right-hand lane except when passing or turning left."
+      }
+    }
+  ]
+}

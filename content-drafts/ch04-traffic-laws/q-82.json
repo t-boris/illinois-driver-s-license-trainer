@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q82",
+  "topic": "ch04-traffic-laws",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 33",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое наказание за обгон остановившегося школьного автобуса с мигающими огнями и выдвинутым знаком STOP?",
+    "en": "What is the penalty for illegally passing a stopped school bus with flashing lights and the stop arm extended?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приостановка водительских прав и обязательный штраф $300 с общественными работами",
+        "en": "Suspension of driving privileges, a mandatory $300 fine, and community service"
+      },
+      "explanation": {
+        "ru": "Верно! Если за рулём был не владелец, он должен назвать водителя, иначе регистрация автомобиля будет приостановлена на три месяца.",
+        "en": "Correct! If the owner was not driving, they must name the driver or the registration will be suspended for three months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Штраф $30",
+        "en": "A $30 fine"
+      },
+      "explanation": {
+        "ru": "Нет, штраф $300, а не $30, плюс приостановка прав.",
+        "en": "No, the fine is $300, not $30, plus a license suspension."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только предупреждение",
+        "en": "Only a warning"
+      },
+      "explanation": {
+        "ru": "Нет. Наказание суровое: это опасное нарушение.",
+        "en": "No. The penalty is serious because the offense is very dangerous."
+      }
+    }
+  ]
+}

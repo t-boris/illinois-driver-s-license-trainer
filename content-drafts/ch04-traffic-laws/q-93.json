@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q93",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 35",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Только машины со специальными номерами или карточкой для людей с инвалидностью могут занимать места, отмеченные для них знаком.",
+    "en": "Only vehicles displaying special plates or parking placards for persons with disabilities may park in spaces reserved for them."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Держатель карточки или номеров должен быть в машине, когда пользуются льготой. Полосатая зона рядом с местом тоже входит в зарезервированное пространство, и парковаться на ней нельзя.",
+        "en": "Correct! The authorized holder must be present when the privilege is used. The striped area next to the space is part of the space, so nobody may park on it."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Держатель карточки или номеров должен быть в машине, когда пользуются льготой. Полосатая зона рядом с местом тоже входит в зарезервированное пространство, и парковаться на ней нельзя.",
+        "en": "Not quite. The authorized holder must be present when the privilege is used. The striped area next to the space is part of the space, so nobody may park on it."
+      }
+    }
+  ]
+}

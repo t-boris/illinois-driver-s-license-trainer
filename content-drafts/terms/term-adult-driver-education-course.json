@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-adult-driver-education-course",
+  "topic": "ch03-under-21",
+  "sectionRef": "Rules of the Road 2026, Chapter 3 Drivers Under Age 21, p. 18",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "курс вождения для взрослых (Adult Driver Education Course)",
+    "en": "Adult Driver Education Course"
+  },
+  "definition": {
+    "ru": "Шестичасовой курс для людей 18, 19 и 20 лет, у которых никогда не было прав и которые не проходили одобренных курсов. Его могут вести только провайдеры, сертифицированные Secretary of State, в классе или онлайн.",
+    "en": "A six-hour course for people age 18, 19, or 20 who have not been licensed before and have not completed an approved driver education program. It may only be taught by providers certified by the Secretary of State, in a classroom or online."
+  }
+}

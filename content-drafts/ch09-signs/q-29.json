@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q29",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 74",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R7-8",
+    "alt": {
+      "ru": "Зелёно-белый вертикальный прямоугольник с синим символом",
+      "en": "Green and white vertical rectangle with a blue symbol"
+    }
+  },
+  "text": {
+    "ru": "Для кого предназначено парковочное место с этим знаком?",
+    "en": "Who may use a parking space with this sign?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Для машин с номерами или карточкой для людей с инвалидностью (Persons with Disabilities Parking)",
+        "en": "Vehicles with Persons with Disabilities plates or placards"
+      },
+      "explanation": {
+        "ru": "Верно! Также разрешены номера для ветеранов (Veteran plates).",
+        "en": "Correct! Veteran license plates are also allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Для любых машин на короткое время",
+        "en": "Any vehicle for a short time"
+      },
+      "explanation": {
+        "ru": "Эти места резервируются, ставить машину на них без права нельзя.",
+        "en": "These spaces are reserved; parking there without a right to do so is not allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только для школьных автобусов",
+        "en": "School buses only"
+      },
+      "explanation": {
+        "ru": "Школьные автобусы здесь не упоминаются.",
+        "en": "School buses are not mentioned here."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Для погрузки и разгрузки",
+        "en": "Loading and unloading only"
+      },
+      "explanation": {
+        "ru": "Погрузка и разгрузка обозначаются другими знаками.",
+        "en": "Loading zones are marked by different signs."
+      }
+    }
+  ]
+}

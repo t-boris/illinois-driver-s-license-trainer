@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q23",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W1-5",
+    "alt": {
+      "ru": "Жёлтый ромб с чёрной изогнутой стрелкой",
+      "en": "Yellow diamond with a black winding arrow"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот жёлтый ромбовидный знак со стрелкой-змейкой?",
+    "en": "What does this yellow diamond sign with a winding arrow mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Извилистая дорога впереди (Winding Road Ahead)",
+        "en": "Winding road ahead"
+      },
+      "explanation": {
+        "ru": "Верно! Несколько изгибов подряд: снизьте скорость и ведите машину спокойно.",
+        "en": "Correct! Several curves in a row: slow down and drive calmly."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Скользкая дорога",
+        "en": "Slippery when wet"
+      },
+      "explanation": {
+        "ru": "Скользкую дорогу показывает машина со следами заноса, а здесь только стрелка.",
+        "en": "Slippery pavement shows a car with skid marks, while this sign shows only an arrow."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Разделённая дорога впереди",
+        "en": "Divided highway ahead"
+      },
+      "explanation": {
+        "ru": "На знаке разделённой дороги стрелки идут по обе стороны от центральной полосы.",
+        "en": "The divided highway sign has arrows on both sides of a center strip."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Слияние полос",
+        "en": "Merging lanes"
+      },
+      "explanation": {
+        "ru": "Слияние показывает две полосы, соединяющиеся в одну. Здесь одна извилистая линия.",
+        "en": "Merging lanes show two lanes joining into one. This sign has one winding line."
+      }
+    }
+  ]
+}

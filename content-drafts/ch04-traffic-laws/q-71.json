@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q71",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Уличное шоу (street sideshow), когда машины перекрывают дорогу ради трюков или гонок на скорость, незаконно.",
+    "en": "A street sideshow, where vehicles block traffic to perform stunts or speed contests, is illegal."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно! Уличные трюки и «шоу» с блокировкой движения запрещены: они опасны для всех.",
+        "en": "Correct! Stunts and speed exhibitions that block traffic are illegal because they endanger everyone."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем. Уличные трюки и «шоу» с блокировкой движения запрещены: они опасны для всех.",
+        "en": "Not quite. Stunts and speed exhibitions that block traffic are illegal because they endanger everyone."
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q24",
+  "topic": "ch09-signs",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W6-1",
+    "alt": {
+      "ru": "Жёлтый ромб с двумя стрелками, разделёнными островком",
+      "en": "Yellow diamond with two arrows separated by a median"
+    }
+  },
+  "text": {
+    "ru": "Что предупреждает этот знак?",
+    "en": "What does this sign warn you about?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Начало разделённой дороги (Divided Highway)",
+        "en": "A divided highway begins"
+      },
+      "explanation": {
+        "ru": "Отлично! Центральная полоса будет разделять встречные потоки.",
+        "en": "Well done! A center strip will separate traffic going in opposite directions."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Двустороннее движение",
+        "en": "Two-way traffic"
+      },
+      "explanation": {
+        "ru": "Знак двустороннего движения показывает две прямые стрелки без разделителя между ними.",
+        "en": "The two-way traffic sign shows two straight arrows with no median between them."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сужение дороги",
+        "en": "Road narrows"
+      },
+      "explanation": {
+        "ru": "Сужение показывают линии, сходящиеся в одну полосу, или надпись ROAD NARROWS.",
+        "en": "Narrowing is shown by lines closing in, or by the words ROAD NARROWS."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Конец разделённой дороги",
+        "en": "Divided highway ends"
+      },
+      "explanation": {
+        "ru": "Знак конца показывает центральную полосу, заканчивающуюся между стрелками, а здесь она только начинается.",
+        "en": "The ends sign shows the median ending between the arrows, while here it is just beginning."
+      }
+    }
+  ]
+}

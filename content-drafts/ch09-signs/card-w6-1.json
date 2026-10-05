@@ -1,0 +1,17 @@
+{
+  "kind": "signcard",
+  "id": "card-w6-1",
+  "topic": "ch09-signs",
+  "signId": "W6-1",
+  "category": "warning",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 72",
+  "manualVersion": "2026",
+  "name": {
+    "ru": "Начало разделённой дороги (Divided Highway)",
+    "en": "Divided Highway"
+  },
+  "meaning": {
+    "ru": "На разделённой дороге центральная полоса отделяет встречные потоки. Этот знак ставят перед началом такой дороги.",
+    "en": "Divided highways have a center strip that separates traffic going in opposite directions. This sign is posted before a divided highway begins."
+  }
+}

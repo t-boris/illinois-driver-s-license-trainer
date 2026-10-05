@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q33",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 70",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "W13-3",
+    "alt": {
+      "ru": "Жёлтый прямоугольник с надписью, большим числом и M.P.H.",
+      "en": "Yellow rectangle with lettering, a large number and M.P.H."
+    }
+  },
+  "text": {
+    "ru": "Что показывает этот знак на съезде с автомагистрали?",
+    "en": "What does this sign on a freeway exit show?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Безопасную скорость на съезде (Exit Ramp Speed)",
+        "en": "The maximum safe speed on the ramp"
+      },
+      "explanation": {
+        "ru": "Верно! Число показывает безопасную скорость на этом съезде.",
+        "en": "Correct! The number shows the safe speed on this ramp."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Минимальную скорость на трассе",
+        "en": "The minimum speed on the freeway"
+      },
+      "explanation": {
+        "ru": "Минимальную скорость показывает белый знак с надписью MINIMUM.",
+        "en": "Minimum speed is shown by a white sign reading MINIMUM."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Расстояние до съезда",
+        "en": "The distance to the exit"
+      },
+      "explanation": {
+        "ru": "Расстояние показывают в милях на зелёных знаках, а не в M.P.H.",
+        "en": "Distance is shown in miles on green signs, not in M.P.H."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Школьный предел скорости",
+        "en": "The school speed limit"
+      },
+      "explanation": {
+        "ru": "Школьный предел написан на знаке со словом SCHOOL.",
+        "en": "The school speed limit is on a sign with the word SCHOOL."
+      }
+    }
+  ]
+}

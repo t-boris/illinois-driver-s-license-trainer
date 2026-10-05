@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch04-traffic-laws-q43",
+  "topic": "ch04-traffic-laws",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "От чего зависит, нужно ли ехать ниже установленного лимита?",
+    "en": "Speed should be reduced below the posted limit for which reason?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только при плохой погоде",
+        "en": "Only in bad weather"
+      },
+      "explanation": {
+        "ru": "Погода — одна из причин, но не единственная.",
+        "en": "Weather is one reason, but not the only one."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только при подъезде к перекрёстку",
+        "en": "Only when approaching an intersection"
+      },
+      "explanation": {
+        "ru": "Это тоже причина, но есть и другие.",
+        "en": "That is also a reason, but there are more."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Обе причины: неблагоприятная погода и подъезд к перекрёстку",
+        "en": "Both: unfavorable weather and approaching or crossing an intersection"
+      },
+      "explanation": {
+        "ru": "Верно! Также сбавляйте скорость на повороте, перед вершиной холма и на узкой извилистой дороге. Максимальная скорость допустима только при безопасных условиях.",
+        "en": "Correct! Also slow down on curves, at hilltops, and on narrow winding roads. The maximum speed is allowed only under safe conditions."
+      }
+    }
+  ]
+}

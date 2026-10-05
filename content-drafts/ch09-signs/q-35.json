@@ -1,0 +1,67 @@
+{
+  "kind": "question",
+  "id": "ch09-signs-q35",
+  "topic": "ch09-signs",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 9 Roadway Signs, p. 68",
+  "manualVersion": "2026",
+  "image": {
+    "sign": true,
+    "signId": "R3-17",
+    "alt": {
+      "ru": "Прямоугольный знак: чёрный верх с белым рисунком и белый низ с надписью",
+      "en": "Rectangular sign: black top with a white picture and white bottom with lettering"
+    }
+  },
+  "text": {
+    "ru": "Что означает этот знак?",
+    "en": "What does this sign mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Велодорожка (Bike Lane)",
+        "en": "A bike lane"
+      },
+      "explanation": {
+        "ru": "Верно! Это выделенная полоса для велосипедистов.",
+        "en": "Correct! It is a designated lane for bicyclists."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Велосипедам проезд запрещён",
+        "en": "No bicycles"
+      },
+      "explanation": {
+        "ru": "Запрет показывает красный круг с чертой, а здесь его нет.",
+        "en": "A prohibition shows a red circle with a slash; there is none here."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Стоянка для велосипедов",
+        "en": "Bicycle parking"
+      },
+      "explanation": {
+        "ru": "Знак относится к полосе движения, а не к парковке.",
+        "en": "The sign refers to a traffic lane, not parking."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Велосипедисты пересекают дорогу",
+        "en": "Bicycles crossing ahead"
+      },
+      "explanation": {
+        "ru": "Предупреждение о пересечении жёлтое, ромбовидной формы.",
+        "en": "The crossing warning is yellow and diamond shaped."
+      }
+    }
+  ]
+}
