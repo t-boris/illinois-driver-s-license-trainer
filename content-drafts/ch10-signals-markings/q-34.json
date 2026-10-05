@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q34",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Местные власти могут обозначить бордюры, пожарные проезды и разметку как зоны, где парковка запрещена.",
+    "en": "Local authorities may designate curb markings, fire lanes and pavement markings as “No Parking” areas."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Поэтому окраска бордюра или проезда может означать запрет парковки, даже если рядом нет других указателей.",
+        "en": "Correct. So painted curbs or lanes can mean no parking even where nothing else tells you so."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Поэтому окраска бордюра или проезда может означать запрет парковки, даже если рядом нет других указателей.",
+        "en": "Not quite: the statement is true. So painted curbs or lanes can mean no parking even where nothing else tells you so."
+      }
+    }
+  ]
+}

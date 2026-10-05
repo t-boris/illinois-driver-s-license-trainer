@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q60",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как избежать сонливости за рулём в долгой поездке?",
+    "en": "How can you avoid drowsy driving on a long trip?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выпить много кофе и не останавливаться",
+        "en": "Drink lots of coffee and never stop"
+      },
+      "explanation": {
+        "ru": "Руководство советует высыпаться и часто останавливаться.",
+        "en": "The manual advises being rested and stopping frequently."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Хорошо выспаться, часто останавливаться, смотреть на разные части дороги и читать знаки",
+        "en": "Be properly rested, stop frequently, and exercise your eyes by reading signs or shifting focus"
+      },
+      "explanation": {
+        "ru": "Верно. Сонливость мешает ехать безопасно, даже если вы не засыпаете.",
+        "en": "Correct. Drowsiness impairs you even if you do not fall asleep."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Открыть окна и ехать быстрее",
+        "en": "Open the windows and drive faster"
+      },
+      "explanation": {
+        "ru": "Скорость не помогает: вы всё равно можете не успеть среагировать.",
+        "en": "Speed does not help: you may still react too late."
+      }
+    }
+  ]
+}

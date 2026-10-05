@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q39",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какую информацию даёт табличка ENS (Emergency Notification System) на железнодорожном переезде?",
+    "en": "What does an ENS (Emergency Notification System) sign at a rail crossing give?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Контакты железной дороги и номер конкретного переезда на случай аварии",
+        "en": "The railroad contact number and the identity of the specific crossing in an emergency"
+      },
+      "explanation": {
+        "ru": "Верно. Табличка есть на каждом переезде и помогает сообщить о проблеме или аварии.",
+        "en": "Correct. It is placed at every highway-rail grade crossing and helps you report a problem or emergency."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Максимальную скорость на переезде",
+        "en": "The maximum speed at the crossing"
+      },
+      "explanation": {
+        "ru": "Табличка нужна для связи при аварии, а не для скорости.",
+        "en": "It is for emergency contact, not for speed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Расписание поездов",
+        "en": "The train schedule"
+      },
+      "explanation": {
+        "ru": "Расписания на ней нет: только контакты и номер переезда.",
+        "en": "It has no schedule: only contact information and the crossing identity."
+      }
+    }
+  ]
+}

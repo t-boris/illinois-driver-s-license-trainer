@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q47",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Головная боль, головокружение, слабость, тошнота и спутанность сознания, похожие на грипп, могут быть признаками чего?",
+    "en": "Headache, dizziness, weakness, nausea and confusion, often described as flu-like, can be symptoms of what?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Усталости за рулём",
+        "en": "Driver fatigue only"
+      },
+      "explanation": {
+        "ru": "Это симптомы отравления угарным газом (carbon monoxide), а не просто усталости.",
+        "en": "These are symptoms of carbon monoxide poisoning, not just fatigue."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Отравления угарным газом (carbon monoxide)",
+        "en": "Carbon monoxide poisoning"
+      },
+      "explanation": {
+        "ru": "Верно. Газ образуется всякий раз, когда машина сжигает топливо; уснувшие в машине или оставившие её заведённой в гараже могут умереть, не почувствовав симптомов.",
+        "en": "Correct. It is found in fumes whenever a vehicle burns fuel; people asleep in a vehicle or one left running in a garage can die before symptoms."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Перегрева двигателя",
+        "en": "Engine overheating"
+      },
+      "explanation": {
+        "ru": "Это не связано с двигателем: речь о здоровье людей в машине.",
+        "en": "This is about the health of people in the vehicle, not the engine."
+      }
+    }
+  ]
+}

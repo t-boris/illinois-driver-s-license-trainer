@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q19",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что в Illinois незаконно водить с любыми следами контролируемого вещества или одурманивающего соединения в крови?",
+    "en": "True or false: It is illegal to operate a motor vehicle on Illinois highways with any trace of a controlled drug, substance, or intoxicating compound in the blood."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Для таких веществ предела нет: незаконны любые следы в крови.",
+        "en": "Correct. For these substances there is no safe level: any trace in the blood is illegal."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Для контролируемых веществ и одурманивающих соединений незаконны любые следы в крови.",
+        "en": "For controlled drugs and intoxicating compounds, any trace in the blood is illegal."
+      }
+    }
+  ]
+}

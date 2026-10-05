@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q42",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как нужно проходить поворот?",
+    "en": "How should you take a curve?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Затормозить резко прямо в повороте",
+        "en": "Brake hard in the middle of the curve"
+      },
+      "explanation": {
+        "ru": "Резкое торможение может вызвать занос или блокировку колёс.",
+        "en": "Sudden braking may cause skidding or locked wheels."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Снизить скорость до поворота, не тормозить резко и не заезжать за осевую",
+        "en": "Slow down before the curve, do not brake suddenly, never drive over the center line"
+      },
+      "explanation": {
+        "ru": "Верно. Скорость нужно снижать до входа в поворот.",
+        "en": "Correct. Slow down before entering the curve."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Срезать поворот по встречной полосе",
+        "en": "Cut the curve by using the oncoming lane"
+      },
+      "explanation": {
+        "ru": "Никогда не пересекайте осевую линию.",
+        "en": "Never drive over the center line."
+      }
+    }
+  ]
+}

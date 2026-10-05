@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q18",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что отчёт об аварии нужен, если она произошла в пределах 50 футов от школьного автобуса и привела к травме или гибели человека, ожидавшего посадки или только что вышедшего?",
+    "en": "True or false: A report must be filed if a crash occurs within 50 feet of a school bus and causes personal injury or death to a person waiting to board or who just exited the bus."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Это отдельное условие обязательного отчёта.",
+        "en": "Correct. This is a separate condition requiring a report."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Такой отчёт обязателен: авария в пределах 50 футов от школьного автобуса с травмой или гибелью ожидавшего или вышедшего человека.",
+        "en": "A report is required: a crash within 50 feet of a school bus injuring or killing someone waiting to board or just exited."
+      }
+    }
+  ]
+}

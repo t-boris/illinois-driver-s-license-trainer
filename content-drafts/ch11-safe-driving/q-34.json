@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q34",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Для чего нужна полоса разгона (speed-change lane) при въезде на скоростную дорогу?",
+    "en": "What is a speed-change lane at an expressway entrance for?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Чтобы набрать скорость, необходимую перед слиянием",
+        "en": "To gain the speed necessary before merging"
+      },
+      "explanation": {
+        "ru": "Верно. Подайте сигнал, найдите просвет в потоке, подберите скорость и вливайтесь, когда это безопасно.",
+        "en": "Correct. Signal, look for an opening, match traffic speed and merge when safe."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Чтобы остановиться и дождаться просвета",
+        "en": "To stop and wait for an opening"
+      },
+      "explanation": {
+        "ru": "Останавливаться на въезде не нужно: наберите скорость и вливайтесь.",
+        "en": "Do not stop there: gain speed and merge."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Чтобы припарковаться",
+        "en": "To park"
+      },
+      "explanation": {
+        "ru": "Парковка на полосе разгона не предусмотрена.",
+        "en": "The lane is not for parking."
+      }
+    }
+  ]
+}

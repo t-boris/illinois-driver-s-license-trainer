@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q20",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Красный сигнал светофора, а стоп-линии нет, зато есть пешеходный переход. Где нужно остановиться?",
+    "en": "A steady red light, no marked stop line, but there is a crosswalk. Where must you stop?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прямо на перекрёстке",
+        "en": "In the middle of the intersection"
+      },
+      "explanation": {
+        "ru": "Нельзя останавливаться на перекрёстке: нужно остановиться до него.",
+        "en": "Do not stop in the intersection: you must stop before it."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Перед пешеходным переходом",
+        "en": "Before entering the crosswalk"
+      },
+      "explanation": {
+        "ru": "Верно. Если нет стоп-линии, остановитесь перед пешеходным переходом; а если нет и перехода, то перед перекрёстком.",
+        "en": "Correct. With no stop line, stop before entering the crosswalk; if there is no crosswalk either, stop before entering the intersection."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На самом переходе",
+        "en": "On the crosswalk"
+      },
+      "explanation": {
+        "ru": "Переход должен оставаться свободным для пешеходов: остановитесь перед ним.",
+        "en": "The crosswalk must stay clear for pedestrians: stop before it."
+      }
+    }
+  ]
+}

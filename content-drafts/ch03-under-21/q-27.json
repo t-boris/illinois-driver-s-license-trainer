@@ -8,7 +8,7 @@
   "manualVersion": "2026",
   "text": {
     "ru": "Что может потребоваться от водителя младше 21 года для восстановления прав после приостановки?",
-    "en": "What may a driver whose license was suspended before age 21 be required to complete for reinstatement?"
+    "en": "What may a driver under age 21 whose license was suspended be required to complete for reinstatement?"
   },
   "options": [
     {
@@ -18,8 +18,8 @@
         "en": "Nothing, the license returns automatically"
       },
       "explanation": {
-        "ru": "Автоматического возврата нет: нужно пройти курс восстановления (remedial education), а иногда и экзамен.",
-        "en": "There is no automatic return: a remedial education course, and sometimes an exam, is required."
+        "ru": "Автоматического возврата нет: может потребоваться курс восстановления (remedial education), а иногда и экзамен.",
+        "en": "There is no automatic return: a remedial education course, and sometimes an exam, may be required."
       }
     },
     {
@@ -29,8 +29,8 @@
         "en": "Only pay a court fine"
       },
       "explanation": {
-        "ru": "Одного штрафа недостаточно: потребуется курс восстановления, а иногда и экзамен.",
-        "en": "A fine alone is not enough: a remedial course, and sometimes an exam, is required."
+        "ru": "Одного штрафа недостаточно: может потребоваться курс восстановления, а иногда и экзамен.",
+        "en": "A fine alone is not enough: a remedial course, and sometimes an exam, may be required."
       }
     },
     {

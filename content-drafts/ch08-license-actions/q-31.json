@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q31",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Для каких целей ограниченное разрешение (RDP) позволяет ездить?",
+    "en": "For what purposes does a Restricted Driving Permit (RDP) allow driving?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Для любых поездок в любое время суток",
+        "en": "For any trip at any time of day"
+      },
+      "explanation": {
+        "ru": "Нет: RDP ограничивает время и маршруты.",
+        "en": "No: an RDP limits times and routes."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Работа или учёба, отвоз ребёнка в детский сад или учебное заведение, медицинская помощь или лечение от зависимости",
+        "en": "Work or education, taking a child to day care or school, medical care or drug treatment"
+      },
+      "explanation": {
+        "ru": "Верно. RDP действует только в определённые часы и по заданным маршрутам.",
+        "en": "Correct. An RDP works only at certain times and along specified routes."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только для сдачи экзамена на права",
+        "en": "Only for taking a driving exam"
+      },
+      "explanation": {
+        "ru": "Такой цели в руководстве нет.",
+        "en": "The manual lists no such purpose."
+      }
+    }
+  ]
+}

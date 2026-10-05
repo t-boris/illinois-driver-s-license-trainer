@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q25",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что может грозить водителю, который отказался сообщать о ДТП или не сделал этого?",
+    "en": "What may happen to a driver who refuses or neglects to report a traffic crash?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приостановка прав",
+        "en": "Suspension of the license"
+      },
+      "explanation": {
+        "ru": "Верно. Отказ или неисполнение обязанности сообщить о ДТП — основание для suspension.",
+        "en": "Correct. Refusing or neglecting to report a crash is a reason for suspension."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, если никто не пострадал",
+        "en": "Nothing, if nobody was hurt"
+      },
+      "explanation": {
+        "ru": "Сообщать о ДТП нужно в любом случае, иначе права могут быть приостановлены.",
+        "en": "Crashes must be reported; otherwise the license may be suspended."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только отказ (denial), и только для водителей старше 21 года",
+        "en": "A denial, and only for drivers over 21"
+      },
+      "explanation": {
+        "ru": "Denial касается людей младше 18 лет и не связан с этим нарушением.",
+        "en": "A denial concerns people under 18 and is not the action for this violation."
+      }
+    }
+  ]
+}

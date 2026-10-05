@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q28",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Где используются сплошные жёлтые линии у края проезжей части?",
+    "en": "Where are solid yellow edge lines used?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Справа на любой дороге",
+        "en": "On the right edge of any road"
+      },
+      "explanation": {
+        "ru": "Справа используется сплошная белая линия.",
+        "en": "A solid white line is used on the right edge."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "На левом краю разделённых улиц или дорог",
+        "en": "On the left edge of divided streets or roadways"
+      },
+      "explanation": {
+        "ru": "Верно. Сплошные линии вдоль края показывают, где находится край покрытия.",
+        "en": "Correct. Solid lines along the side show where the pavement edge is."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Между полосами одного направления",
+        "en": "Between lanes going the same direction"
+      },
+      "explanation": {
+        "ru": "Полосы одного направления разделяют белые линии.",
+        "en": "White lines separate lanes going the same direction."
+      }
+    }
+  ]
+}

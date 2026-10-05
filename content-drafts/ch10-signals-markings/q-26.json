@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q26",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Над вашей полосой горит жёлтый крестик (yellow “X”). Что это значит?",
+    "en": "A yellow “X” is displayed above your lane. What does it mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Сигнал скоро станет красным: безопасно покиньте эту полосу до появления красного крестика",
+        "en": "The lane signal is about to change to red: leave the lane safely before the red “X” appears"
+      },
+      "explanation": {
+        "ru": "Верно. Красный крестик означает, что ездить по этой полосе нельзя никогда.",
+        "en": "Correct. A red “X” means never drive in that lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полоса свободна, ехать можно без ограничений",
+        "en": "The lane is clear and open without limits"
+      },
+      "explanation": {
+        "ru": "Нет: жёлтый крестик предупреждает о смене на красный.",
+        "en": "No: a yellow “X” warns that it is changing to red."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полоса только для левых поворотов",
+        "en": "The lane is for left turns only"
+      },
+      "explanation": {
+        "ru": "Для левого поворота используется мигающая жёлтая стрелка, а не крестик.",
+        "en": "Left turns use a flashing yellow arrow, not an “X”."
+      }
+    }
+  ]
+}

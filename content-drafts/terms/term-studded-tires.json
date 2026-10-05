@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-studded-tires",
+  "topic": "ch12-equipment",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "шипованные шины (studded tires)",
+    "en": "Studded tires"
+  },
+  "definition": {
+    "ru": "Пневматические шины с металлическими шипами. Запрещены, кроме исключений: сельские почтальоны, машины с номерами для людей с инвалидностью или ветеранов-инвалидов (в обоих случаях с 15 ноября по 1 апреля), сельскохозяйственная техника и дорожно-строительная техника на скорости менее 10 миль/ч.",
+    "en": "Pneumatic tires with metal studs. They are illegal except for rural mail carriers and vehicles with Persons with Disabilities or Disabled Veteran plates (both November 15 to April 1), agricultural machinery, and road-building machinery at less than 10 mph."
+  }
+}

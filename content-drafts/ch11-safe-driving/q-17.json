@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q17",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В тумане водитель должен включить дальний свет, чтобы лучше видеть дорогу.",
+    "en": "If driving in fog, a driver should turn on the high-beam headlights to increase the field of vision."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. В тумане включайте ближний свет (dim) или противотуманные фары. Дальний свет отражается от тумана и ухудшает видимость.",
+        "en": "Not quite: the statement is false. In fog, drive with your headlights set on dim or use fog lights. High beams reflect off the fog and reduce what you can see."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. В тумане включайте ближний свет (dim) или противотуманные фары. Дальний свет отражается от тумана и ухудшает видимость.",
+        "en": "Correct, the statement is false. In fog, drive with your headlights set on dim or use fog lights. High beams reflect off the fog and reduce what you can see."
+      }
+    }
+  ]
+}

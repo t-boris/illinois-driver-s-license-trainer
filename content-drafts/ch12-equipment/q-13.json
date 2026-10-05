@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q13",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого расстояния должны быть видны указатели поворота автомобиля?",
+    "en": "From what distance must a vehicle’s turn signals be visible?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 50 футов",
+        "en": "From 50 feet"
+      },
+      "explanation": {
+        "ru": "Это расстояние для подсветки номерного знака. Указатели поворота должны быть видны с 300 футов.",
+        "en": "That is the distance for the license plate light. Turn signals must be visible from 300 feet."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 200 футов",
+        "en": "From 200 feet"
+      },
+      "explanation": {
+        "ru": "Это расстояние для звукового сигнала и зеркала заднего вида. Для указателей поворота — 300 футов.",
+        "en": "That is the distance for the horn and rearview mirror. For turn signals it is 300 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "С 300 футов",
+        "en": "From 300 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Указатели нужны спереди и сзади, кроме мотоциклов, прицепов и полуприцепов.",
+        "en": "Correct. They are required at the front and rear, except on motorcycles, trailers and semitrailers."
+      }
+    }
+  ]
+}

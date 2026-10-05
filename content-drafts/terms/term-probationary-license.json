@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-probationary-license",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 62",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "пробные права (probationary license)",
+    "en": "Probationary license"
+  },
+  "definition": {
+    "ru": "Разрешение для водителя от 21 года, чьи права приостановлены за три нарушения ПДД за 12 месяцев: даёт полные права на время приостановки. Выдаётся вместе с завершением курса для водителей (driver improvement course).",
+    "en": "A permit for a driver age 21 and over whose license was suspended for three moving violations in 12 months, granting full driving privileges during the suspension. It is issued together with completion of a driver improvement course."
+  }
+}

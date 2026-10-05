@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q18",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какая концентрация THC в других биологических средах (не в цельной крови) делает вождение незаконным?",
+    "en": "What THC concentration in a bodily substance other than whole blood makes it illegal to operate a motor vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "5 нанограммов на миллилитр",
+        "en": "5 nanograms per milliliter"
+      },
+      "explanation": {
+        "ru": "Это предел для цельной крови. Для другой биологической среды предел 10 нанограммов.",
+        "en": "That is the whole-blood limit. For other bodily substances it is 10 nanograms."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "20 нанограммов на миллилитр",
+        "en": "20 nanograms per milliliter"
+      },
+      "explanation": {
+        "ru": "Предел ниже: 10 нанограммов на миллилитр.",
+        "en": "The limit is lower: 10 nanograms per milliliter."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "10 нанограммов или больше на миллилитр",
+        "en": "10 nanograms or more per milliliter"
+      },
+      "explanation": {
+        "ru": "Верно. В цельной крови предел 5 нанограммов на миллилитр, в другой среде 10.",
+        "en": "Correct. In whole blood the limit is 5 nanograms per milliliter, in other bodily substances 10."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Предела нет",
+        "en": "There is no limit"
+      },
+      "explanation": {
+        "ru": "Предел есть: 5 нанограммов в цельной крови или 10 в другой среде.",
+        "en": "There is a limit: 5 nanograms in whole blood or 10 in other substances."
+      }
+    }
+  ]
+}

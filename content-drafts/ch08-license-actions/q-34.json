@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q34",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что может произойти с водителем, виновным в ДТП без страховки, когда нужно возместить ущерб?",
+    "en": "What may happen to an at-fault driver in a crash without insurance when damages are owed?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приостановка прав",
+        "en": "Suspension of the license"
+      },
+      "explanation": {
+        "ru": "Верно. Ещё одно основание — вождение без обязательной страховки и неподача SR-22 после судебного надзора.",
+        "en": "Correct. Driving without mandatory insurance and failing to file an SR-22 after court supervision are also reasons."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, если ущерб небольшой",
+        "en": "Nothing, if the damage is small"
+      },
+      "explanation": {
+        "ru": "Размер ущерба не снимает последствий: права могут быть приостановлены.",
+        "en": "The size of the damage does not remove the consequence: the license may be suspended."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только аннулирование (cancellation)",
+        "en": "Only a cancellation"
+      },
+      "explanation": {
+        "ru": "Cancellation связано с ошибкой в правах или утратой права на них. Здесь основание для приостановки.",
+        "en": "Cancellation relates to an error or loss of entitlement. Here the action is suspension."
+      }
+    }
+  ]
+}

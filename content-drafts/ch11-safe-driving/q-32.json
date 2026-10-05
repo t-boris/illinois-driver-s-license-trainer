@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q32",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Зимние шины или цепи позволяют ехать по плохой дороге с обычной скоростью.",
+    "en": "With snow tires or chains you can drive on bad roads at normal speeds."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. Ни зимние шины, ни цепи не позволяют ехать по плохой дороге с обычной скоростью. Они лишь добавляют сцепление.",
+        "en": "Not quite: the statement is false. Neither snow tires nor chains allow you to drive on bad roads at normal speeds. They only add traction."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. Ни зимние шины, ни цепи не позволяют ехать по плохой дороге с обычной скоростью. Они лишь добавляют сцепление.",
+        "en": "Correct, the statement is false. Neither snow tires nor chains allow you to drive on bad roads at normal speeds. They only add traction."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q28",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда начинается statutory summary suspension, если водитель получил временную квитанцию вместо прав?",
+    "en": "When does the statutory summary suspension begin if the driver was given a temporary receipt in place of the license?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "На 46-й день от даты уведомления от полицейского",
+        "en": "On the 46th day from the notice date provided by the police officer"
+      },
+      "explanation": {
+        "ru": "Верно. Временная квитанция позволяет ездить 45 дней. Приостановка действует, пока вы не оплатите восстановление и запись не обновят.",
+        "en": "Correct. The temporary receipt lets you drive for 45 days. The suspension lasts until you pay the reinstatement fee and your record is updated."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сразу после ареста",
+        "en": "Immediately at arrest"
+      },
+      "explanation": {
+        "ru": "Сначала есть временная квитанция на 45 дней, и приостановка начинается с 46-го дня.",
+        "en": "First there is a 45-day temporary receipt, and the suspension begins on day 46."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Через 30 дней",
+        "en": "After 30 days"
+      },
+      "explanation": {
+        "ru": "Срок другой: приостановка начинается на 46-й день.",
+        "en": "The period is different: the suspension begins on the 46th day."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только после суда",
+        "en": "Only after the court hearing"
+      },
+      "explanation": {
+        "ru": "Не нужно ждать суда: приостановка начинается на 46-й день от уведомления.",
+        "en": "There is no wait for court: the suspension begins on the 46th day after notice."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q27",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На какой срок приостанавливают права повторному нарушителю (second offender: за последние пять лет у него уже была приостановка, court supervision или осуждение за DUI) за отказ от теста и за провал теста?",
+    "en": "For a second offender (a driver with a prior suspension, DUI court supervision, or DUI conviction within the last five years), how long is the suspension for refusing a chemical test and for failing one?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Шесть месяцев за отказ и три месяца за провал",
+        "en": "Six months for refusal and three months for failing"
+      },
+      "explanation": {
+        "ru": "Это сроки для впервые нарушившего: шесть месяцев за провал и один год за отказ. Для повторного: три года за отказ и один год за провал.",
+        "en": "Those are for a first offender (six months for failing, one year for refusing). For a second offender: three years for refusal and one year for failing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Один год за любой исход",
+        "en": "One year in both cases"
+      },
+      "explanation": {
+        "ru": "Для повторного нарушителя срок за отказ длиннее: три года; за провал теста один год.",
+        "en": "For a second offender refusal is longer: three years; failing a test is one year."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права отбирают пожизненно",
+        "en": "A lifetime revocation"
+      },
+      "explanation": {
+        "ru": "Срок конечный: три года за отказ и один год за провал.",
+        "en": "The term is limited: three years for refusal and one year for failing."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Три года за отказ и один год за провал теста",
+        "en": "Three years for refusal and one year for failing"
+      },
+      "explanation": {
+        "ru": "Верно. Вторым нарушителем считают того, у кого за последние пять лет уже была приостановка прав, court supervision по DUI или осуждение за DUI.",
+        "en": "Correct. A second offender has had a prior suspension, DUI court supervision, or DUI conviction within the last five years."
+      }
+    }
+  ]
+}

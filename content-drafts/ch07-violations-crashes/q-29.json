@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q29",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 56",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что может служить доказательством финансовой ответственности?",
+    "en": "What may serve as proof of financial responsibility?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Расписка от друга",
+        "en": "A receipt from a friend"
+      },
+      "explanation": {
+        "ru": "Расписка не подходит: нужен SR-22, поручительство или депозит ценных бумаг.",
+        "en": "A receipt does not qualify: an SR-22, a bond, or a deposit of securities is needed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Сертификат страхования SR-22, поручительство (bond) или депозит ценных бумаг",
+        "en": "A certificate of insurance (SR-22), a bond, or a deposit of securities"
+      },
+      "explanation": {
+        "ru": "Верно. SR-22 подаёт непосредственно в Secretary of State страховая компания.",
+        "en": "Correct. The SR-22 is filed directly with the Secretary of State by the insurance company."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Квитанция об оплате штрафа",
+        "en": "A fine payment receipt"
+      },
+      "explanation": {
+        "ru": "Квитанция не подходит: нужен SR-22, поручительство или депозит ценных бумаг.",
+        "en": "A fine receipt does not qualify: an SR-22, a bond, or a deposit of securities is needed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Фотография машины",
+        "en": "A photo of the car"
+      },
+      "explanation": {
+        "ru": "Фотография не подходит: нужен SR-22, поручительство или депозит ценных бумаг.",
+        "en": "A photo does not qualify: an SR-22, a bond, or a deposit of securities is needed."
+      }
+    }
+  ]
+}

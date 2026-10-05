@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q35",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За какое расстояние до железнодорожного переезда может быть установлен круглый жёлтый предупреждающий знак с буквами RR?",
+    "en": "How far before a railroad crossing may the round yellow advance warning sign be placed?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "До 75 футов",
+        "en": "Up to 75 feet"
+      },
+      "explanation": {
+        "ru": "Дальше: знак может стоять до 750 футов до переезда.",
+        "en": "Farther: it may be placed up to 750 feet before the crossing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "До 75 000 футов",
+        "en": "Up to 75,000 feet"
+      },
+      "explanation": {
+        "ru": "Намного ближе: до 750 футов.",
+        "en": "Much closer: up to 750 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "До 750 футов",
+        "en": "Up to 750 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Знак сообщает, что впереди переезд.",
+        "en": "Correct. The sign tells you a highway-railway crossing is ahead."
+      }
+    }
+  ]
+}

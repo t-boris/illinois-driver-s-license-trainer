@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q29",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как нужно относиться к пересечению сплошной белой линии между полосами одного направления?",
+    "en": "How should you treat crossing a solid white line between lanes going the same direction?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Это запрещено в любых обстоятельствах",
+        "en": "It is prohibited in all circumstances"
+      },
+      "explanation": {
+        "ru": "Запрещено пересекать двойную сплошную белую. Одинарную пересекать не рекомендуется, но можно.",
+        "en": "Crossing a double solid white line is prohibited. A single solid white line is discouraged but not forbidden."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Это обычное перестроение, ничем не отличается от пунктирной",
+        "en": "It is ordinary lane changing, same as a broken line"
+      },
+      "explanation": {
+        "ru": "Нет: у сплошной линии требуется особая осторожность, и пересекать её не рекомендуется.",
+        "en": "No: a solid line requires special care and crossing is discouraged."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пересечение требует особой осторожности и не рекомендуется",
+        "en": "It requires special care and is discouraged"
+      },
+      "explanation": {
+        "ru": "Верно. Пунктирную белую можно пересекать при перестроении или повороте.",
+        "en": "Correct. A broken white line may be crossed when changing lanes or turning."
+      }
+    }
+  ]
+}

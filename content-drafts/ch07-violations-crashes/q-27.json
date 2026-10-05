@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q27",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 56",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В каком из этих случаев нужно подать доказательство финансовой ответственности?",
+    "en": "In which of these situations must proof of financial responsibility be filed?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только при неисполненном судебном решении",
+        "en": "Only for an unsatisfied court judgment"
+      },
+      "explanation": {
+        "ru": "Это один из случаев, но не единственный.",
+        "en": "That is one case, but not the only one."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только при осуждении за три и более нарушения обязательного страхования",
+        "en": "Only for convictions for three or more mandatory insurance violations"
+      },
+      "explanation": {
+        "ru": "Это один из случаев, но есть и другие.",
+        "en": "That is one case, but there are others."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если вам меньше 21 года",
+        "en": "Only if you are under 21"
+      },
+      "explanation": {
+        "ru": "Возраст не определяет: доказательство нужно в перечисленных ситуациях независимо от возраста.",
+        "en": "Age does not decide: proof is needed in the listed situations regardless of age."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Во всех перечисленных: неисполненное судебное решение по аварии, приостановка за аварию без страховки, три и более осуждений за нарушения обязательного страхования",
+        "en": "All of these: an unsatisfied court judgment from a crash, a suspension for an uninsured crash, convictions for three or more mandatory insurance violations"
+      },
+      "explanation": {
+        "ru": "Верно. Также это нужно после court supervision за нарушение обязательного страхования.",
+        "en": "Correct. It is also required after court supervision for a mandatory insurance violation."
+      }
+    }
+  ]
+}

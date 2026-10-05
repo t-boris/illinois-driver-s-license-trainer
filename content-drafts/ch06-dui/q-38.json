@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q38",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что из перечисленного может привести к обвинению в Aggravated DUI?",
+    "en": "Which of these may lead to a charge of Aggravated DUI?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Первое DUI без аварии и без других обстоятельств",
+        "en": "A first DUI with no crash and no other circumstances"
+      },
+      "explanation": {
+        "ru": "Такое DUI тоже серьёзно, но в перечне обстоятельств Aggravated DUI в руководстве его нет.",
+        "en": "Such a DUI is still serious, but it is not on the manual’s list of Aggravated DUI circumstances."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "DUI без действующих прав, разрешения или страховки",
+        "en": "DUI without a valid driver’s license, permit, or vehicle insurance"
+      },
+      "explanation": {
+        "ru": "Верно. Среди других обстоятельств: третье и последующие DUI и DUI за рулём транспорта для найма, например лимузина.",
+        "en": "Correct. Other circumstances include a third or later DUI and DUI while operating a vehicle for hire, such as a limousine."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "DUI, совершённое ночью",
+        "en": "DUI committed at night"
+      },
+      "explanation": {
+        "ru": "Время суток не входит в перечень обстоятельств.",
+        "en": "Time of day is not one of the listed circumstances."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "DUI водителем старше 65 лет",
+        "en": "DUI by a driver over 65"
+      },
+      "explanation": {
+        "ru": "Возраст не входит в перечень обстоятельств.",
+        "en": "Age is not one of the listed circumstances."
+      }
+    }
+  ]
+}

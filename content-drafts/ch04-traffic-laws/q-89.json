@@ -14,7 +14,7 @@
     {
       "correct": true,
       "text": {
-        "ru": "Переключиться на нужную передачу до путей и не менять её на переезде",
+        "ru": "Включить пониженную передачу до путей и не менять передачу на переезде",
         "en": "Shift down before reaching the tracks and do not change gears while crossing"
       },
       "explanation": {

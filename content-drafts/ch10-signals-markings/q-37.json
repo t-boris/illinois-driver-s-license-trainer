@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q37",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто имеет преимущество на белом пешеходном переходе, обозначенном линиями?",
+    "en": "Who has the right of way in a marked white crosswalk?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пешеходы на переходе",
+        "en": "Pedestrians in the crosswalk"
+      },
+      "explanation": {
+        "ru": "Верно. Пешеходы на переходе имеют преимущество перед автомобилями, поэтому уступите им дорогу.",
+        "en": "Correct. Pedestrians in crosswalks have the right of way over vehicles, so yield to them."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Водитель, который подъехал к переходу первым",
+        "en": "The driver who reaches the crosswalk first"
+      },
+      "explanation": {
+        "ru": "Не совсем: преимущество на переходе у пешеходов, независимо от того, кто подъехал первым.",
+        "en": "Not quite: pedestrians in the crosswalk have the right of way, no matter who arrives first."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда транспорт, потому что он движется быстрее",
+        "en": "Vehicles, because they move faster"
+      },
+      "explanation": {
+        "ru": "Не совсем: скорость не даёт преимущества. На переходе пешеходы имеют право проезда перед автомобилями.",
+        "en": "Not quite: speed does not give priority. In a crosswalk, pedestrians have the right of way over vehicles."
+      }
+    }
+  ]
+}

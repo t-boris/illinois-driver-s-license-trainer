@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-thc-limit",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "предел THC (THC concentration limit)",
+    "en": "THC concentration limit"
+  },
+  "definition": {
+    "ru": "Водить незаконно при концентрации THC 5 нанограммов и больше на миллилитр цельной крови или 10 нанограммов и больше на миллилитр другой биологической среды. Любые следы контролируемого вещества или одурманивающего соединения в крови тоже незаконны.",
+    "en": "It is illegal to drive with a THC concentration of 5 nanograms or more per milliliter of whole blood or 10 nanograms or more per milliliter of another bodily substance. Any trace of a controlled substance or intoxicating compound in the blood is also illegal."
+  }
+}

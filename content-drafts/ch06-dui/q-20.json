@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q20",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто может использовать каннабис в автомобиле, если он зарегистрирован в программе медицинского каннабиса?",
+    "en": "Who may use cannabis inside a motor vehicle, even if registered in the medical cannabis program?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Никто: ни водитель, ни пассажир не вправе использовать каннабис в автомобиле",
+        "en": "No one: neither the driver nor a passenger may use cannabis in a motor vehicle"
+      },
+      "explanation": {
+        "ru": "Верно. Перевозить каннабис можно только в запечатанной, не пропускающей запах и защищённой от детей ёмкости.",
+        "en": "Correct. Cannabis may only be transported in a sealed, odor-proof, and child-resistant container."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пассажиры",
+        "en": "Passengers"
+      },
+      "explanation": {
+        "ru": "Нельзя и пассажирам: использование каннабиса в машине запрещено всем.",
+        "en": "Passengers may not either: cannabis use in a vehicle is prohibited for everyone."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Водитель, если у него есть медицинская карта",
+        "en": "The driver, if holding a medical card"
+      },
+      "explanation": {
+        "ru": "Медицинская карта этого не разрешает: управлять нельзя, будучи под действием каннабиса, а использовать его в машине нельзя никому.",
+        "en": "A medical card does not allow it: you may not drive impaired, and no one may use cannabis in a vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любой старше 21 года, когда машина стоит",
+        "en": "Anyone over 21 while the car is parked"
+      },
+      "explanation": {
+        "ru": "Правило не зависит от остановки: использовать каннабис в машине нельзя никому.",
+        "en": "The rule does not depend on stopping: no one may use cannabis in a vehicle."
+      }
+    }
+  ]
+}

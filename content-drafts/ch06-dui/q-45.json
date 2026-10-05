@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q45",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 52",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что человек младше 21 года, осуждённый или получивший court supervision за незаконное употребление, покупку, хранение или получение алкоголя в подарок, теряет водительские права, даже если он не был за рулём?",
+    "en": "True or false: A person under 21 who is convicted of, or receives court supervision for, illegal consumption, purchase, possession, or receiving alcohol as a gift loses driving privileges even if not operating a vehicle at the time."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Права теряют независимо от того, был ли человек за рулём в момент нарушения.",
+        "en": "Correct. Privileges are lost whether or not the person was driving at the time of the offense."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Права теряют и без вождения: для лиц младше 21 года достаточно осуждения или court supervision за такое нарушение.",
+        "en": "Privileges are lost even without driving: for persons under 21 a conviction or court supervision for such an offense is enough."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q17",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За что из перечисленного права могут быть приостановлены (suspension)?",
+    "en": "A driver’s license may be suspended for:"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только за неостановку перед школьным автобусом",
+        "en": "Only failing to stop for a school bus"
+      },
+      "explanation": {
+        "ru": "Это основание, но не единственное. Есть и другие из списка.",
+        "en": "That is one reason, but not the only one on the list."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только за хранение поддельных водительских прав",
+        "en": "Only possessing a fraudulent driver’s license"
+      },
+      "explanation": {
+        "ru": "Это действительно основание, но не единственное: в списке есть и другие.",
+        "en": "That is indeed a reason, but not the only one on the list."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "За всё это: второе нарушение сигнала на ж/д переезде, поддельные права, неостановку перед школьным автобусом",
+        "en": "All of these: a second railroad-crossing signal violation, a fraudulent license, failing to stop for a school bus"
+      },
+      "explanation": {
+        "ru": "Верно. Все три пункта есть в списке оснований для приостановки.",
+        "en": "Correct. All three are on the list of reasons for suspension."
+      }
+    }
+  ]
+}

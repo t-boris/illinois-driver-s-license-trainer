@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q41",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно делать при подъезде к сельскому перекрёстку?",
+    "en": "What should you do when approaching a rural intersection?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Снизить скорость и посмотреть в обе стороны перед въездом",
+        "en": "Slow down and look both ways before entering"
+      },
+      "explanation": {
+        "ru": "Верно. Знаки на сельских перекрёстках есть не всегда, а сезон может мешать видеть других водителей.",
+        "en": "Correct. Rural intersections may not have signs, and the season can make it hard to see other drivers."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ехать без остановки, если не видно знаков",
+        "en": "Drive through if you see no signs"
+      },
+      "explanation": {
+        "ru": "Наоборот: если знаков нет, смотреть нужно ещё внимательнее.",
+        "en": "The opposite: with no signs you need to look even more carefully."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посигналить и ехать на прежней скорости",
+        "en": "Honk and keep your speed"
+      },
+      "explanation": {
+        "ru": "Нужно снизить скорость и осмотреться.",
+        "en": "You need to slow down and look around."
+      }
+    }
+  ]
+}

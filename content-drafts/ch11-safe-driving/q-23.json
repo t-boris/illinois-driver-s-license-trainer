@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q23",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ночью вам приходится остановиться на дороге. Что рекомендуется использовать?",
+    "en": "At night you must stop on the roadway. What is recommended?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Красный предупреждающий свет",
+        "en": "A red warning light"
+      },
+      "explanation": {
+        "ru": "Верно. На дороге лучше не останавливаться вообще, но если приходится, красный предупреждающий свет рекомендован.",
+        "en": "Correct. Avoid stopping on the roadway, but if you must, a red warning light is recommended."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выключить все огни, чтобы не слепить других",
+        "en": "Turn off all lights to avoid glare for others"
+      },
+      "explanation": {
+        "ru": "Не нужно: остановившуюся машину должны видеть другие водители. Используйте красный предупреждающий свет.",
+        "en": "Do not: other drivers need to see your stopped vehicle. Use a red warning light."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего: достаточно просто остановиться",
+        "en": "Nothing: simply stopping is enough"
+      },
+      "explanation": {
+        "ru": "Этого мало: рекомендуется красный предупреждающий свет, чтобы вас заметили.",
+        "en": "That is not enough: a red warning light is recommended so you are noticed."
+      }
+    }
+  ]
+}

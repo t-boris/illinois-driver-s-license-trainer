@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q51",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вдруг пропало управление рулём. Что нужно сделать?",
+    "en": "You suddenly lose control of the steering wheel. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выключить зажигание, чтобы остановить машину",
+        "en": "Turn off the ignition to stop"
+      },
+      "explanation": {
+        "ru": "Если у машины усилитель руля или блокировка руля, выключать зажигание нельзя: пропадёт усилитель или управляемость.",
+        "en": "With power steering or a locking steering wheel do not turn off the ignition: you would lose the power steering or the ability to steer."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Убрать ногу с газа, включить аварийку и дать машине плавно остановиться, тормозя очень мягко",
+        "en": "Ease off the gas, turn on emergency flashers and let the vehicle come to a slow stop, braking very gently"
+      },
+      "explanation": {
+        "ru": "Верно. Резкое торможение может закрутить машину.",
+        "en": "Correct. Hard braking may spin the vehicle."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нажать на газ, чтобы выровнять машину",
+        "en": "Press the gas to straighten it"
+      },
+      "explanation": {
+        "ru": "Нужно убрать ногу с газа и остановиться плавно.",
+        "en": "Ease off the gas and come to a gentle stop."
+      }
+    }
+  ]
+}

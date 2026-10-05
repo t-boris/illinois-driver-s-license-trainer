@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q21",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы застряли на машине в снежную бурю и не можете выехать. Что рекомендуется?",
+    "en": "You are stranded in blizzard conditions. What is recommended?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выйти и идти пешком искать помощь",
+        "en": "Get out and walk to find help"
+      },
+      "explanation": {
+        "ru": "Оставайтесь в машине: именно это рекомендует руководство.",
+        "en": "Remain in your vehicle: this is what the manual recommends."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Держать двигатель включённым постоянно с закрытыми окнами",
+        "en": "Keep the engine running constantly with all windows closed"
+      },
+      "explanation": {
+        "ru": "Это опасно из-за угарного газа. Двигатель включайте лишь ненадолго и приоткрывайте окно.",
+        "en": "This is dangerous because of carbon monoxide. Run the engine only for brief times and open a window."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Оставаться в машине, включать двигатель ненадолго, приоткрыть окно и следить, чтобы выхлопная труба не была забита снегом",
+        "en": "Stay in the vehicle, run the engine only for brief times with a window open, and keep the tailpipe free of snow"
+      },
+      "explanation": {
+        "ru": "Верно. Одеяло, еда и лопата в машине помогут пережить ожидание.",
+        "en": "Correct. A blanket, food and a shovel in the vehicle help you wait it out."
+      }
+    }
+  ]
+}

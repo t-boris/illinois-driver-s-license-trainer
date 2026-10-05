@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q24",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Пешеход уже вышел на проезжую часть, когда загорелась мигающая оранжевая поднятая ладонь. Что он может сделать?",
+    "en": "A pedestrian has partly crossed when the flashing orange upraised hand appears. What may the pedestrian do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться посреди дороги и ждать",
+        "en": "Stop in the middle of the road and wait"
+      },
+      "explanation": {
+        "ru": "Это опасно. Тот, кто уже переходит, может продолжить до тротуара или островка безопасности.",
+        "en": "That is dangerous. Someone who has already started may continue to a sidewalk or safety island."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Продолжить путь до тротуара или островка безопасности",
+        "en": "Continue to a sidewalk or safety island"
+      },
+      "explanation": {
+        "ru": "Верно. Начинать переход при мигающей оранжевой ладони нельзя.",
+        "en": "Correct. Starting to cross on a flashing orange hand is not allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Вернуться назад на исходный тротуар",
+        "en": "Return to the starting curb"
+      },
+      "explanation": {
+        "ru": "Правило другое: тот, кто уже на проезжей части, может продолжить путь до безопасного места.",
+        "en": "The rule is different: a pedestrian already in the roadway may continue to safety."
+      }
+    }
+  ]
+}

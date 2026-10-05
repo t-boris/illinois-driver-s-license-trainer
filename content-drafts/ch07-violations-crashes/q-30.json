@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q30",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 56",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что произойдёт, если вы не продлите страхование или отмените его, когда Secretary of State следит за вашим покрытием?",
+    "en": "What happens if you fail to renew or cancel your insurance while the Secretary of State is monitoring your coverage?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, если вы заплатите позже",
+        "en": "Nothing, if you pay later"
+      },
+      "explanation": {
+        "ru": "Последствия есть: приостановка прав при непродлении или отмене страхования.",
+        "en": "There are consequences: suspension for failing to renew or cancelling insurance."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только предупреждение по почте",
+        "en": "Only a warning by mail"
+      },
+      "explanation": {
+        "ru": "Мера строже: приостановка водительских прав.",
+        "en": "The measure is stricter: suspension of the driver’s license."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Водительские права будут приостановлены",
+        "en": "Your driver’s license will be suspended"
+      },
+      "explanation": {
+        "ru": "Верно. Secretary of State контролирует страхование в течение срока, установленного законом.",
+        "en": "Correct. The Secretary of State monitors coverage for a period specified by law."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Штраф без приостановки",
+        "en": "A fine without suspension"
+      },
+      "explanation": {
+        "ru": "Права приостанавливаются.",
+        "en": "The license is suspended."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q33",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как лучше тормозить на скользкой зимней дороге?",
+    "en": "How should you brake on slippery winter roads?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Давить на тормоз резко и до упора",
+        "en": "Slam the brakes to the floor"
+      },
+      "explanation": {
+        "ru": "Резкое торможение на льду приводит к заносу.",
+        "en": "Hard braking on ice causes skidding."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Совсем не тормозить, а останавливаться накатом",
+        "en": "Never brake, just coast to a stop"
+      },
+      "explanation": {
+        "ru": "Тормозить нужно, но аккуратно и заранее.",
+        "en": "You do need to brake, but gently and early."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Нажимать плавно, короткими ровными движениями, и начинать торможение заранее",
+        "en": "Gently, in slow, steady strokes, beginning to brake early"
+      },
+      "explanation": {
+        "ru": "Верно. Так вы понимаете, какое сцепление доступно. Начинайте торможение заранее у перекрёстков.",
+        "en": "Correct. This shows how much traction you have. Begin braking early when coming to an intersection or stop."
+      }
+    }
+  ]
+}

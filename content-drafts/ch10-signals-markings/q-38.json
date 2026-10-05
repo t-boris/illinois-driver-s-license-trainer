@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q38",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что может записать автоматическая система контроля на переезде при нарушении?",
+    "en": "What may an automated railroad crossing enforcement system record in case of a violation?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только скорость автомобиля",
+        "en": "Only the vehicle speed"
+      },
+      "explanation": {
+        "ru": "Система может записать изображение номерного знака, время, дату и место нарушения.",
+        "en": "The system may record an image of the license plate, time, date and location."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Изображение номера, время, дату и место нарушения",
+        "en": "An image of the license plate, the time, date and location"
+      },
+      "explanation": {
+        "ru": "Верно. Водителям грозят штрафы и возможная приостановка прав.",
+        "en": "Correct. Drivers are subject to fines and possible suspension of driving privileges."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, система только предупреждает",
+        "en": "Nothing, it only warns"
+      },
+      "explanation": {
+        "ru": "Система записывает нарушения и может повлечь штрафы.",
+        "en": "The system records violations and can lead to fines."
+      }
+    }
+  ]
+}

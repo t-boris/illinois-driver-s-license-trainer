@@ -145,6 +145,465 @@
       }
     },
     {
+      "id": "ch07-violations-crashes-q13",
+      "file": "content-drafts/ch07-violations-crashes/q-13.json",
+      "prompt": "A teenager in a button-up shirt walks up brick courthouse steps beside a parent, calm morning, trees along a quiet small-town street. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Подросток в рубашке поднимается по кирпичным ступеням здания суда рядом с родителем.",
+        "en": "A teenager in a button-up shirt climbs brick courthouse steps beside a parent."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q14",
+      "file": "content-drafts/ch07-violations-crashes/q-14.json",
+      "prompt": "A woman reviews a paper ticket and a calendar at her kitchen table with a cup of tea, thoughtful but calm, morning light through a window. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Женщина за кухонным столом рассматривает бумагу и календарь с чашкой чая, утренний свет.",
+        "en": "A woman at a kitchen table reviews a paper and a calendar with a cup of tea in morning light."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q15",
+      "file": "content-drafts/ch07-violations-crashes/q-15.json",
+      "prompt": "A traveler with a rolling suitcase stands beside a parked car at a roadside gas station, looking at a paper in hand, wide flat fields and clear sky. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Путешественник с чемоданом стоит у машины на заправке и смотрит на бумагу в руке.",
+        "en": "A traveler with a rolling suitcase stands beside a car at a gas station looking at a paper."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q16",
+      "file": "content-drafts/ch07-violations-crashes/q-16.json",
+      "prompt": "Two drivers, a man and a woman, stand calmly beside two parked cars with slight scratches on a quiet suburban street, one holding a phone to take a note. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Двое водителей спокойно стоят у двух машин с небольшими царапинами на тихой улице, один записывает данные.",
+        "en": "Two drivers stand calmly beside two scratched cars on a quiet street, one taking notes on a phone."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q17",
+      "file": "content-drafts/ch07-violations-crashes/q-17.json",
+      "prompt": "A yellow school bus and a small sedan stopped carefully on a side road at a gentle angle, both drivers calmly talking beside them, farm fields and trees behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Жёлтый школьный автобус и седан стоят на обочине, водители спокойно разговаривают.",
+        "en": "A yellow school bus and a sedan stopped on a side road with both drivers calmly talking."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q18",
+      "file": "content-drafts/ch07-violations-crashes/q-18.json",
+      "prompt": "A yellow school bus stopped at a rural curb while a crossing guard in a vest holds a child’s hand on a grassy shoulder, calm morning, fields and trees behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Жёлтый школьный автобус стоит у обочины, регулировщик в жилете держит за руку ребёнка на траве.",
+        "en": "A school bus stopped at a rural curb with a crossing guard in a vest holding a child’s hand."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q19",
+      "file": "content-drafts/ch07-violations-crashes/q-19.json",
+      "prompt": "A driver sits on a curb with a notepad beside a parked car, writing details, a second car in the background, mild afternoon light on a suburban street. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель сидит на бордюре рядом с машиной и записывает данные в блокнот.",
+        "en": "A driver sits on a curb beside a car writing details in a notepad."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q20",
+      "file": "content-drafts/ch07-violations-crashes/q-20.json",
+      "prompt": "A driver pulls a sedan carefully onto a wide, empty parking lot beside a well-lit gas station canopy at dusk, hazard lights on, calm mood. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель аккуратно паркует седан на широкой пустой площадке у освещённой заправки с включённой аварийкой.",
+        "en": "A driver carefully parks a sedan in a wide empty lot beside a lit gas station canopy."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q21",
+      "file": "content-drafts/ch07-violations-crashes/q-21.json",
+      "prompt": "A driver speaks politely with an officer behind a front desk inside a small-town police station, bright hallway, large windows, calm atmosphere. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель вежливо разговаривает с сотрудником за стойкой небольшого полицейского участка.",
+        "en": "A driver speaks politely with an officer at the front desk of a small police station."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q22",
+      "file": "content-drafts/ch07-violations-crashes/q-22.json",
+      "prompt": "A passenger in a parked car at the side of a quiet road holds a phone to their ear, while the driver rests a hand on the door nearby, calm daylight and open fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Пассажир припаркованной машины говорит по телефону, водитель стоит рядом у двери.",
+        "en": "A passenger in a parked car talks on the phone while the driver stands by the door."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q23",
+      "file": "content-drafts/ch07-violations-crashes/q-23.json",
+      "prompt": "A driver stands next to a parked car beside a damaged wooden fence on a quiet country lane, calmly taking a note on a pad, tall grass and trees around. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель стоит у машины рядом с повреждённой деревянной оградой и записывает данные в блокнот.",
+        "en": "A driver stands by a car next to a damaged wooden fence, taking notes on a pad."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q24",
+      "file": "content-drafts/ch07-violations-crashes/q-24.json",
+      "prompt": "An office worker with a folder talks with a client across a bright desk, a calculator and a tidy plain wall behind, window with trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Сотрудник офиса с папкой разговаривает с клиентом за светлым столом, рядом калькулятор.",
+        "en": "An office worker with a folder talks with a client across a bright desk with a calculator."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q25",
+      "file": "content-drafts/ch07-violations-crashes/q-25.json",
+      "prompt": "An adult at a kitchen table reviews insurance papers beside a laptop and a mug of coffee, a car visible through the window in the driveway, warm morning light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый за кухонным столом просматривает страховые бумаги рядом с ноутбуком, за окном машина.",
+        "en": "An adult at a kitchen table reviews insurance papers beside a laptop, a car in the driveway outside."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q26",
+      "file": "content-drafts/ch07-violations-crashes/q-26.json",
+      "prompt": "A woman at a kitchen table pins a valid insurance card on a bulletin board next to a calendar, calm and organized home, afternoon light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Женщина на кухне прикрепляет страховую карточку на доску рядом с календарём.",
+        "en": "A woman in a kitchen pins an insurance card on a bulletin board beside a calendar."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q27",
+      "file": "content-drafts/ch07-violations-crashes/q-27.json",
+      "prompt": "An insurance agent hands a folder of documents to a client across a tidy desk in a bright office, a window with maple trees behind them. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Страховой агент передаёт клиенту папку документов за аккуратным столом в светлом офисе.",
+        "en": "An insurance agent hands a folder of documents to a client across a tidy desk."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q28",
+      "file": "content-drafts/ch07-violations-crashes/q-28.json",
+      "prompt": "An adult hands a signed folder to a clerk at a government office service window, tidy counter and potted plant, daylight from a large window. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый передаёт папку сотруднику у окна обслуживания в государственном офисе.",
+        "en": "An adult hands a folder to a clerk at a government office service window."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q29",
+      "file": "content-drafts/ch07-violations-crashes/q-29.json",
+      "prompt": "An agent hands a sealed folder to a client at a bright desk beside a laptop, a small plant and a window with trees outside, calm professional mood. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Агент передаёт запечатанную папку клиенту за светлым столом рядом с ноутбуком.",
+        "en": "An agent hands a sealed folder to a client at a bright desk beside a laptop."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q30",
+      "file": "content-drafts/ch07-violations-crashes/q-30.json",
+      "prompt": "A man opens a mailbox at the end of a suburban driveway and pulls out a letter, a car parked behind him and maple trees overhead, calm morning. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Мужчина достаёт письмо из почтового ящика у подъезда, позади стоит машина.",
+        "en": "A man pulls a letter from a mailbox at a driveway with a car parked behind him."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q31",
+      "file": "content-drafts/ch07-violations-crashes/q-31.json",
+      "prompt": "Two drivers, a man and a woman, calmly exchange notes with pens and a notepad beside two parked cars on a quiet street, friendly cooperative mood. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Двое водителей спокойно обмениваются записями рядом с двумя машинами на тихой улице.",
+        "en": "Two drivers calmly exchange notes beside two parked cars on a quiet street."
+      }
+    },
+    {
+      "id": "ch07-violations-crashes-q32",
+      "file": "content-drafts/ch07-violations-crashes/q-32.json",
+      "prompt": "A driver switches on hazard flashers of a parked sedan on a wide shoulder and sets a small red warning triangle behind it, daylight, calm country road. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель включил аварийку на припаркованном седане и ставит красный треугольник позади на обочине.",
+        "en": "A driver turns on a parked sedan’s hazards and sets a red warning triangle behind it on the shoulder."
+      }
+    },
+    {
+      "id": "ch06-dui-q15",
+      "file": "content-drafts/ch06-dui/q-15.json",
+      "prompt": "A calm woman picks up her car keys from a hallway table at home, a phone and a glass of water beside them, soft evening light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Спокойная женщина берёт ключи от машины со столика в прихожей, рядом телефон и стакан воды.",
+        "en": "A calm woman picks up car keys from a hallway table with a phone and a glass of water nearby."
+      }
+    },
+    {
+      "id": "ch06-dui-q16",
+      "file": "content-drafts/ch06-dui/q-16.json",
+      "prompt": "A man sits at a kitchen table with a smartphone showing a simple map with a car icon and a glass of water, car keys set aside, warm evening light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Мужчина за кухонным столом смотрит на смартфон с картой и значком машины, ключи отложены в сторону.",
+        "en": "A man at a kitchen table looks at a phone map with a car icon, car keys set aside."
+      }
+    },
+    {
+      "id": "ch06-dui-q17",
+      "file": "content-drafts/ch06-dui/q-17.json",
+      "prompt": "A friendly woman hands a mug of coffee to a man on a living room sofa, a glass of water on the table, warm home interior. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Дружелюбная женщина подаёт кружку кофе мужчине на диване, на столе стоит стакан воды.",
+        "en": "A friendly woman hands a coffee mug to a man on a sofa, a glass of water on the table."
+      }
+    },
+    {
+      "id": "ch06-dui-q18",
+      "file": "content-drafts/ch06-dui/q-18.json",
+      "prompt": "A pharmacist in a white coat explains something kindly to an adult customer across a clean pharmacy counter, shelves of plain boxes behind, daylight. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Фармацевт в белом халате спокойно что-то объясняет покупателю за стойкой аптеки.",
+        "en": "A pharmacist in a white coat kindly explains something to an adult customer at a pharmacy counter."
+      }
+    },
+    {
+      "id": "ch06-dui-q19",
+      "file": "content-drafts/ch06-dui/q-19.json",
+      "prompt": "A doctor talks with an adult patient in a bright clinic office, a stethoscope on the desk, a window with trees outside. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Врач беседует со взрослым пациентом в светлом кабинете клиники, на столе стетоскоп.",
+        "en": "A doctor talks with an adult patient in a bright clinic office with a stethoscope on the desk."
+      }
+    },
+    {
+      "id": "ch06-dui-q20",
+      "file": "content-drafts/ch06-dui/q-20.json",
+      "prompt": "A sealed plain container sits in a closed car trunk beside a grocery bag, an adult closes the trunk lid in a sunny suburban driveway. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый закрывает багажник, где запечатанная ёмкость лежит рядом с пакетом продуктов.",
+        "en": "An adult closes a car trunk holding a sealed container beside a grocery bag."
+      }
+    },
+    {
+      "id": "ch06-dui-q21",
+      "file": "content-drafts/ch06-dui/q-21.json",
+      "prompt": "A police officer in uniform speaks politely with a driver through the open window of a parked sedan on a wide road shoulder, daylight, fields behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Полицейский вежливо разговаривает с водителем через открытое окно машины на обочине.",
+        "en": "A police officer politely talks with a driver through the open window of a car on a road shoulder."
+      }
+    },
+    {
+      "id": "ch06-dui-q22",
+      "file": "content-drafts/ch06-dui/q-22.json",
+      "prompt": "An adult reads the leaflet of a medicine box at a kitchen counter next to a glass of water, a calendar on the wall, warm morning light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый читает инструкцию к лекарству на кухне рядом со стаканом воды.",
+        "en": "An adult reads a medicine leaflet at a kitchen counter next to a glass of water."
+      }
+    },
+    {
+      "id": "ch06-dui-q23",
+      "file": "content-drafts/ch06-dui/q-23.json",
+      "prompt": "An adult patient sits calmly while a medical technician in scrubs prepares a clean tray in a bright clinic room, large window with trees outside. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый пациент спокойно сидит, пока лаборант в форме готовит чистый поднос в светлом кабинете.",
+        "en": "An adult patient sits calmly while a technician in scrubs prepares a tray in a bright clinic room."
+      }
+    },
+    {
+      "id": "ch06-dui-q24",
+      "file": "content-drafts/ch06-dui/q-24.json",
+      "prompt": "A stack of plain paper forms and a pen lie on a desk beside a calculator in a bright office, a window with tree branches behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "На столе в светлом офисе лежат бумаги, ручка и калькулятор.",
+        "en": "Paper forms, a pen, and a calculator lie on a desk in a bright office."
+      }
+    },
+    {
+      "id": "ch06-dui-q25",
+      "file": "content-drafts/ch06-dui/q-25.json",
+      "prompt": "A calendar page on a wall with several days crossed out and a pair of car keys hanging on a hook beside it, calm indoor light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "На стене календарь с зачёркнутыми днями, рядом на крючке висят ключи от машины.",
+        "en": "A wall calendar with crossed-out days and car keys hanging on a hook beside it."
+      }
+    },
+    {
+      "id": "ch06-dui-q26",
+      "file": "content-drafts/ch06-dui/q-26.json",
+      "prompt": "A driver in a parked car on a road shoulder speaks politely with an officer at the window, daytime, quiet rural road and fields. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Водитель в машине на обочине вежливо разговаривает с офицером у окна, днём.",
+        "en": "A driver in a parked car on a road shoulder talks politely with an officer at the window."
+      }
+    },
+    {
+      "id": "ch06-dui-q27",
+      "file": "content-drafts/ch06-dui/q-27.json",
+      "prompt": "A calendar with several years of pages stacked neatly on a wooden desk next to a pair of car keys and a notebook, soft indoor light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "На деревянном столе аккуратные стопки календарных листов, рядом ключи и блокнот.",
+        "en": "Neat stacks of calendar pages on a wooden desk beside car keys and a notebook."
+      }
+    },
+    {
+      "id": "ch06-dui-q28",
+      "file": "content-drafts/ch06-dui/q-28.json",
+      "prompt": "A paper calendar on a wall with a single day circled in pencil and a pair of car keys on a hook beside it, calm home interior. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "На стене календарь с одним обведённым днём, рядом на крючке ключи от машины.",
+        "en": "A wall calendar with one day circled and car keys on a hook beside it."
+      }
+    },
+    {
+      "id": "ch06-dui-q29",
+      "file": "content-drafts/ch06-dui/q-29.json",
+      "prompt": "A paper calendar page with a long row of crossed-out months lies on a desk beside an empty key ring, soft window light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "На столе лежит календарный лист с длинным рядом зачёркнутых месяцев и пустое кольцо для ключей.",
+        "en": "A calendar page with many crossed-out months lies on a desk beside an empty key ring."
+      }
+    },
+    {
+      "id": "ch06-dui-q30",
+      "file": "content-drafts/ch06-dui/q-30.json",
+      "prompt": "A neat row of numbered calendar pages with a pencil lies on a desk next to a pair of car keys, a window with maple trees behind, calm light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "На столе ряд календарных страниц и карандаш рядом с ключами от машины.",
+        "en": "A row of calendar pages and a pencil lie on a desk beside car keys."
+      }
+    },
+    {
+      "id": "ch06-dui-q31",
+      "file": "content-drafts/ch06-dui/q-31.json",
+      "prompt": "An empty wooden desk with a single set of car keys, a pen, and an open notebook, quiet room with a window onto trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "На пустом деревянном столе лежат ключи от машины, ручка и раскрытый блокнот.",
+        "en": "On an empty wooden desk lie car keys, a pen, and an open notebook."
+      }
+    },
+    {
+      "id": "ch06-dui-q32",
+      "file": "content-drafts/ch06-dui/q-32.json",
+      "prompt": "A parent buckles a young child into a booster seat in the back of a parked family car, calm tree-lined driveway, morning light, safe and loving mood. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Родитель пристёгивает ребёнка в детском кресле на заднем сиденье припаркованной машины.",
+        "en": "A parent buckles a young child into a booster seat in the back of a parked family car."
+      }
+    },
+    {
+      "id": "ch06-dui-q33",
+      "file": "content-drafts/ch06-dui/q-33.json",
+      "prompt": "An adult sits across a desk from a counselor in a calm office with a plant and a window, a notebook open between them, soft light. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый сидит напротив консультанта в спокойном кабинете, между ними раскрытый блокнот.",
+        "en": "An adult sits across a desk from a counselor in a calm office with a notebook open between them."
+      }
+    },
+    {
+      "id": "ch06-dui-q34",
+      "file": "content-drafts/ch06-dui/q-34.json",
+      "prompt": "An adult at a desk reviews a stack of insurance paperwork with an agent in a bright office, a calendar on the wall and plants by the window. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый в светлом офисе вместе со страховым агентом просматривает пачку документов.",
+        "en": "An adult reviews a stack of insurance paperwork with an agent in a bright office."
+      }
+    },
+    {
+      "id": "ch06-dui-q35",
+      "file": "content-drafts/ch06-dui/q-35.json",
+      "prompt": "A technician in work clothes checks a small black device under a car dashboard while the owner watches from the driver seat, tidy garage, daylight. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Мастер проверяет небольшое чёрное устройство под панелью автомобиля, владелец наблюдает с места водителя.",
+        "en": "A technician checks a small black device under a car dashboard while the owner watches."
+      }
+    },
+    {
+      "id": "ch06-dui-q36",
+      "file": "content-drafts/ch06-dui/q-36.json",
+      "prompt": "An adult commuter waits at a suburban bus stop bench with a bag and a smartphone, a city bus approaching in the distance, sunny morning. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослый с сумкой и телефоном ждёт на скамейке остановки, вдали подъезжает автобус.",
+        "en": "An adult with a bag and phone waits on a bus stop bench as a bus approaches in the distance."
+      }
+    },
+    {
+      "id": "ch06-dui-q37",
+      "file": "content-drafts/ch06-dui/q-37.json",
+      "prompt": "A traveler stands beside a parked car on a highway rest area next to a map on a phone, wide flat farmland and a few trees, bright day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Путешественник стоит у машины на площадке отдыха возле шоссе, смотрит карту в телефоне.",
+        "en": "A traveler stands beside a car at a highway rest area looking at a phone map."
+      }
+    },
+    {
+      "id": "ch06-dui-q38",
+      "file": "content-drafts/ch06-dui/q-38.json",
+      "prompt": "A yellow school bus parked in an empty lot beside a calm driver in a vest who checks a clipboard, morning sun, trees and fields behind. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Жёлтый школьный автобус стоит на пустой площадке, рядом спокойный водитель проверяет планшет.",
+        "en": "A yellow school bus parked in an empty lot with a calm driver checking a clipboard."
+      }
+    },
+    {
+      "id": "ch06-dui-q39",
+      "file": "content-drafts/ch06-dui/q-39.json",
+      "prompt": "A group of adult friends laughing inside a roomy white limousine with soft drinks in plastic cups, a driver visible ahead, evening light through the windows. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Взрослые друзья смеются в просторном лимузине с безалкогольными напитками, впереди виден водитель.",
+        "en": "Adult friends laugh in a roomy limousine with soft drinks, a driver visible ahead."
+      }
+    },
+    {
+      "id": "ch06-dui-q40",
+      "file": "content-drafts/ch06-dui/q-40.json",
+      "prompt": "A small motorboat is tied at a wooden dock on a calm Midwestern lake, a person in a life jacket sits on the dock holding a thermos, sunny afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Моторная лодка у деревянного причала на тихом озере, на причале сидит человек в спасательном жилете.",
+        "en": "A small motorboat tied at a wooden dock on a calm lake, a person in a life jacket nearby."
+      }
+    },
+    {
+      "id": "ch06-dui-q41",
+      "file": "content-drafts/ch06-dui/q-41.json",
+      "prompt": "A parent and a teenager talk calmly in a home kitchen, a pitcher of lemonade and glasses on the table, afternoon light through the window. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Родитель и подросток спокойно разговаривают на кухне, на столе кувшин лимонада и стаканы.",
+        "en": "A parent and a teenager talk calmly in a kitchen with a pitcher of lemonade on the table."
+      }
+    },
+    {
+      "id": "ch06-dui-q42",
+      "file": "content-drafts/ch06-dui/q-42.json",
+      "prompt": "A person walks to a bus shelter on a sunny sidewalk with a backpack, car parked in the driveway of a home behind, trees and quiet street. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Человек с рюкзаком идёт к автобусной остановке, позади дома у подъезда стоит машина.",
+        "en": "A person with a backpack walks toward a bus shelter, a car parked in the driveway behind."
+      }
+    },
+    {
+      "id": "ch06-dui-q43",
+      "file": "content-drafts/ch06-dui/q-43.json",
+      "prompt": "A young adult walks across a university campus lawn carrying a bicycle helmet and a backpack, trees and red brick buildings behind, sunny day. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Молодой человек идёт по газону кампуса с велосипедным шлемом и рюкзаком, позади кирпичные здания.",
+        "en": "A young adult walks across a campus lawn with a bicycle helmet and a backpack."
+      }
+    },
+    {
+      "id": "ch06-dui-q44",
+      "file": "content-drafts/ch06-dui/q-44.json",
+      "prompt": "Two young adults share a bottle of water, both sitting on a park bench near a parked bicycle, afternoon sun. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Двое молодых людей сидят на скамейке в парке, один держит бутылку воды, рядом припаркован велосипед.",
+        "en": "Two young adults sit on a park bench, one holding a water bottle, a bicycle parked nearby."
+      }
+    },
+    {
+      "id": "ch06-dui-q45",
+      "file": "content-drafts/ch06-dui/q-45.json",
+      "prompt": "A young adult leaves a convenience store area empty-handed holding only a soft drink can and a phone, walking toward a bus stop, daylight, parking lot with trees. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",
+      "alt": {
+        "ru": "Молодой человек идёт к автобусной остановке с банкой лимонада и телефоном в руках, днём.",
+        "en": "A young adult walks toward a bus stop holding a soda can and a phone in daylight."
+      }
+    },
+    {
       "id": "ch05-sharing-road-q15",
       "file": "content-drafts/ch05-sharing-road/q-15.json",
       "prompt": "A pedestrian on in-line skates and a walker with a stroller share a wide tree-lined sidewalk of a small Midwestern town on a sunny afternoon. Absolutely no signboards, road signs, billboards, traffic lights, railroad crossing equipment or any lettering anywhere; the background shows only trees, buildings, fields and sky.",

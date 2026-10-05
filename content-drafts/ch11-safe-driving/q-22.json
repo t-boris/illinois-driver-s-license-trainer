@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q22",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы подъезжаете к съезду со скоростной дороги. Что нужно сделать?",
+    "en": "You are approaching an exit on an expressway. What should you do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Занять нужную полосу съезда и полосу торможения, подать сигнал поворота и снижать скорость на полосе съезда",
+        "en": "Be in the correct exit and speed-change lanes, signal your intent to exit, and slow down in the speed-change lane"
+      },
+      "explanation": {
+        "ru": "Верно. Съезды могут быть как справа, так и слева, поэтому убедитесь, что вы в правильной полосе.",
+        "en": "Correct. Exits may be on the right or left, so make sure you are in the correct lane."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Перестроиться через все полосы в последний момент, не подавая сигнал",
+        "en": "Cut across all lanes at the last moment without signaling"
+      },
+      "explanation": {
+        "ru": "Так нельзя: заранее перестройтесь и подайте сигнал, чтобы показать намерение съехать.",
+        "en": "Not this way: get into position early and signal to show your intent to exit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко затормозить на основной полосе, чтобы сбросить скорость до съезда",
+        "en": "Brake hard in the through lane to slow down before the exit"
+      },
+      "explanation": {
+        "ru": "Скорость снижают на полосе торможения (speed-change lane), а не резким торможением в потоке.",
+        "en": "You slow down in the speed-change lane, not by braking hard in the traffic lanes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-family-financial-responsibility-permit",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 62",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "семейное финансовое разрешение (FRP)",
+    "en": "Family Financial Responsibility Driving Permit (FRP)"
+  },
+  "definition": {
+    "ru": "Разрешение для водителя, права которого приостановлены за неуплату алиментов или нарушение порядка встреч с ребёнком. Выдаётся только по решению окружного судьи или по указанию Illinois Department of Healthcare and Family Services.",
+    "en": "A permit for a driver whose license was suspended for nonpayment of child support or child visitation abuse. It is issued only following a circuit judge’s order or on direction from the Illinois Department of Healthcare and Family Services."
+  }
+}

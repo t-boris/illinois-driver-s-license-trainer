@@ -10,8 +10,8 @@
     "sign": true,
     "signId": "W6-1",
     "alt": {
-      "ru": "Жёлтый ромб с двумя стрелками, разделёнными островком",
-      "en": "Yellow diamond with two arrows separated by a median"
+      "ru": "Жёлтый ромб с двумя чёрными стрелками и закруглённой чёрной фигурой между ними",
+      "en": "Yellow diamond with two black arrows and a rounded black shape between them"
     }
   },
   "text": {
@@ -59,8 +59,8 @@
         "en": "Divided highway ends"
       },
       "explanation": {
-        "ru": "Знак конца показывает центральную полосу, заканчивающуюся между стрелками, а здесь она только начинается.",
-        "en": "The ends sign shows the median ending between the arrows, while here it is just beginning."
+        "ru": "Знак конца выглядит иначе: у него разделитель внизу, где разделённая дорога заканчивается, а здесь он вверху, где дорога только начинает делиться.",
+        "en": "The ends sign looks different: its median is at the bottom, where the divided road finishes, while here it is at the top, where the road is just starting to divide."
       }
     }
   ]

@@ -10,13 +10,13 @@
     "sign": true,
     "signId": "W1-5",
     "alt": {
-      "ru": "Жёлтый ромб с чёрной изогнутой стрелкой",
-      "en": "Yellow diamond with a black winding arrow"
+      "ru": "Жёлтый ромб с чёрной волнистой стрелкой",
+      "en": "Yellow diamond with a black wavy arrow"
     }
   },
   "text": {
-    "ru": "Что означает этот жёлтый ромбовидный знак со стрелкой-змейкой?",
-    "en": "What does this yellow diamond sign with a winding arrow mean?"
+    "ru": "Что означает этот жёлтый ромбовидный знак с волнистой стрелкой?",
+    "en": "What does this yellow diamond sign with a wavy arrow mean?"
   },
   "options": [
     {

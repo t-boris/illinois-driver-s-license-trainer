@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q37",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Житель Illinois осуждён за DUI в другом штате или отказался там от тестирования. Что произойдёт в Illinois?",
+    "en": "An Illinois resident is convicted of DUI, or refuses testing, in another state. What happens in Illinois?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, это касается только другого штата",
+        "en": "Nothing, it only matters in the other state"
+      },
+      "explanation": {
+        "ru": "Это не так: нарушение внесут в запись и применят меры, как в Illinois.",
+        "en": "Not so: the offense is recorded and handled as it would be in Illinois."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Это сообщат в Secretary of State, внесут в запись водителя и применят меры так же, как при нарушении в Illinois",
+        "en": "It is reported to the Secretary of State, appears on the driving record, and brings the same administrative action as in Illinois"
+      },
+      "explanation": {
+        "ru": "Верно. Штаты обмениваются такой информацией.",
+        "en": "Correct. States share this information."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права сохранятся, если оплатить штраф на месте",
+        "en": "The license stays valid if you pay a fine there"
+      },
+      "explanation": {
+        "ru": "Штраф не отменяет административных мер: информацию передадут в Secretary of State.",
+        "en": "A fine does not cancel administrative action: the information is sent to the Secretary of State."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права проверят только при продлении",
+        "en": "It is checked only at renewal"
+      },
+      "explanation": {
+        "ru": "Меры применяют так же, как при нарушении в Illinois, не дожидаясь продления.",
+        "en": "Action is taken as if it happened in Illinois, without waiting for renewal."
+      }
+    }
+  ]
+}

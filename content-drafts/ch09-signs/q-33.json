@@ -10,8 +10,8 @@
     "sign": true,
     "signId": "W13-3",
     "alt": {
-      "ru": "Жёлтый прямоугольник с надписью, большим числом и M.P.H.",
-      "en": "Yellow rectangle with lettering, a large number and M.P.H."
+      "ru": "Жёлтый квадрат с надписью сверху и большим числом",
+      "en": "Yellow square with a word at the top and a large number"
     }
   },
   "text": {
@@ -48,8 +48,8 @@
         "en": "The distance to the exit"
       },
       "explanation": {
-        "ru": "Расстояние показывают в милях на зелёных знаках, а не в M.P.H.",
-        "en": "Distance is shown in miles on green signs, not in M.P.H."
+        "ru": "Расстояние показывают в милях на зелёных знаках, а здесь число означает скорость.",
+        "en": "Distance is shown in miles on green signs, while the number here is a speed."
       }
     },
     {

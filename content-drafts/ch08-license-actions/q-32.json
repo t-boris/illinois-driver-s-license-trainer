@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q32",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Права могут быть приостановлены, если водитель не снизил скорость и не перестроился от стоящей служебной машины с мигалками, и это привело к ДТП. Что это за мера?",
+    "en": "Failing to slow down and change lanes away from a stationary emergency vehicle with lights, resulting in a crash, can lead to which action?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Аннулирование (cancellation)",
+        "en": "Cancellation"
+      },
+      "explanation": {
+        "ru": "Аннулирование связано с ошибкой в правах или утратой права на них, а не с нарушением такого рода.",
+        "en": "Cancellation relates to an error in the license or loss of entitlement, not to this kind of violation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Отказ (denial) для всех возрастов",
+        "en": "Denial for all ages"
+      },
+      "explanation": {
+        "ru": "Denial касается только людей младше 18 лет.",
+        "en": "A denial applies only to people under 18."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приостановка (suspension)",
+        "en": "Suspension"
+      },
+      "explanation": {
+        "ru": "Верно. Если результатом стали материальный ущерб или травмы, права могут быть приостановлены.",
+        "en": "Correct. If property damage or injury results, the license may be suspended."
+      }
+    }
+  ]
+}

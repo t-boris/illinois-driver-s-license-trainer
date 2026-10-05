@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q14",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что происходит, если водитель не явился и на вторую дату судебного заседания по штрафу за мелкое нарушение?",
+    "en": "What happens if a driver fails to appear on the second court date for a minor traffic ticket?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дело закрывается без последствий",
+        "en": "The case is dropped with no consequences"
+      },
+      "explanation": {
+        "ru": "Последствия серьёзные: заочное осуждение, сообщение в Secretary of State.",
+        "en": "The consequences are serious: an ex-parte conviction reported to the Secretary of State."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Назначают третье заседание",
+        "en": "A third court date is set"
+      },
+      "explanation": {
+        "ru": "Нет: после второй неявки выносят заочное осуждение.",
+        "en": "No: after the second no-show an ex-parte conviction is entered."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Выносится заочное осуждение (ex-parte), о нём сообщают в Secretary of State, и оно считается обычным осуждением",
+        "en": "An ex-parte conviction is entered, reported to the Secretary of State, and treated like any other conviction"
+      },
+      "explanation": {
+        "ru": "Верно. Чтобы этого не случилось, оплатите штраф или явитесь в суд в назначенную дату.",
+        "en": "Correct. To avoid it, pay the ticket or appear in court on the date indicated."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Штраф автоматически отменяется",
+        "en": "The ticket is automatically cancelled"
+      },
+      "explanation": {
+        "ru": "Штраф не отменяется: вносится осуждение, как при любом другом осуждении.",
+        "en": "The ticket is not cancelled: a conviction is entered like any other."
+      }
+    }
+  ]
+}

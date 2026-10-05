@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-carbon-monoxide-poisoning",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "отравление угарным газом (carbon monoxide poisoning)",
+    "en": "Carbon monoxide poisoning"
+  },
+  "definition": {
+    "ru": "Отравление смертельным газом, который образуется при сгорании топлива. Симптомы похожи на грипп: головная боль, головокружение, слабость, расстройство желудка, рвота, боль в груди, спутанность. Раз в год проверяйте выхлопную систему и никогда не заводите машину в гараже, пристроенном к дому.",
+    "en": "Poisoning by a deadly gas found in fumes whenever a vehicle burns fuel. Symptoms are flu-like: headache, dizziness, weakness, upset stomach, vomiting, chest pain and confusion. Have the exhaust system checked every year and never run a vehicle in a garage attached to a house."
+  }
+}

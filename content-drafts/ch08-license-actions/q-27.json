@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q27",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 62",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто может получить пробные права (probationary license) для вождения во время приостановки?",
+    "en": "Who may receive a probationary license to drive during a suspension?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любой водитель младше 21 года",
+        "en": "Any driver under 21"
+      },
+      "explanation": {
+        "ru": "Нет: probationary license предназначен для водителей от 21 года.",
+        "en": "No: the probationary license is for drivers age 21 and over."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Водитель, права которого приостановлены за пять неоплаченных штрафов",
+        "en": "A driver suspended for five unpaid automated violations"
+      },
+      "explanation": {
+        "ru": "Нет: он выдаётся при приостановке за три нарушения ПДД за 12 месяцев.",
+        "en": "No: it applies when the suspension is for three moving violations in 12 months."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Водитель от 21 года, права которого приостановлены за три нарушения за 12 месяцев; выдаётся вместе с курсом для водителей",
+        "en": "A driver age 21 or over suspended for three moving violations in 12 months; issued with a driver improvement course"
+      },
+      "explanation": {
+        "ru": "Верно. Он даёт полные права на время приостановки при завершении курса (driver improvement course).",
+        "en": "Correct. It grants full driving privileges during the suspension together with a driver improvement course."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q17",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что чашка кофе, еда или холодный душ помогают быстрее вывести алкоголь из организма?",
+    "en": "True or false: Food, coffee, and a shower speed up the elimination of alcohol from your body."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Нет: еда, кофе и душ не ускоряют вывод алкоголя. Помогает только время.",
+        "en": "No: food, coffee, and showers do not speed up the elimination of alcohol. Only time does."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верное решение: не рассчитывать на кофе или душ. Еда, кофе и душ не ускоряют вывод алкоголя, помогает только время.",
+        "en": "A good conclusion: do not count on coffee or a shower. Food, coffee, and showers do not speed up elimination; only time does."
+      }
+    }
+  ]
+}

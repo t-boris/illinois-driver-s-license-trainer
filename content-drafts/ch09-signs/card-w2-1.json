@@ -11,7 +11,7 @@
     "en": "Crossroad"
   },
   "meaning": {
-    "ru": "Предупреждает о приближающемся перекрёстке, где может быть движение или потребоваться поворот направо или налево. Рядом может стоять знак с названием пересекаемой дороги.",
-    "en": "Warns of an intersection ahead where traffic may exist or a right or left turn may be required. A sign naming the intersecting road also may be posted."
+    "ru": "Предупреждает о приближающемся перекрёстке, где на вашу дорогу может выехать транспорт или потребуется поворот направо или налево. Рядом может стоять знак с названием пересекаемой дороги.",
+    "en": "Warns of an intersection ahead where traffic may enter or a right or left turn may be required. A sign naming the intersecting road also may be posted."
   }
 }

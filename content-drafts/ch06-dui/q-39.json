@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q39",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто из перечисленных освобождён от запрета на открытые алкогольные напитки в автомобиле?",
+    "en": "Who is exempt from the open container rules for alcoholic beverages in a vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пассажиры любого легкового автомобиля",
+        "en": "Passengers in any passenger car"
+      },
+      "explanation": {
+        "ru": "Нет: в обычном автомобиле открытый алкоголь запрещён всем, и водителю, и пассажирам.",
+        "en": "No: in an ordinary car, open alcohol is prohibited for everyone, driver and passengers."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Водитель, если он не пьёт",
+        "en": "The driver, if not drinking"
+      },
+      "explanation": {
+        "ru": "Правило касается самого факта открытой ёмкости в салоне, а не только питья водителя.",
+        "en": "The rule is about an opened container in the passenger area, not only the driver drinking."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пассажиры школьных автобусов",
+        "en": "Passengers on school buses"
+      },
+      "explanation": {
+        "ru": "Школьные автобусы не входят в исключения: освобождены арендованные автобусы не для школ, автодома и лимузины.",
+        "en": "School buses are not exempt: exempt are chartered buses for nonschool purposes, motor homes, and limousines."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пассажиры арендованных автобусов (не для школьных целей), автодомов и лимузинов",
+        "en": "Passengers on chartered buses used for nonschool purposes, motor homes, mini motor homes, and limousines"
+      },
+      "explanation": {
+        "ru": "Верно. Для водителя и пассажиров обычных автомобилей пить алкоголь в машине незаконно.",
+        "en": "Correct. For the driver and passengers of ordinary cars, drinking alcohol in a vehicle is illegal."
+      }
+    }
+  ]
+}

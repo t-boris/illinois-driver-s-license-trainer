@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q30",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы едете по дороге с двойной сплошной жёлтой линией посередине. В каком случае её можно пересечь?",
+    "en": "You are on a road with solid double yellow lines at the center. When may you cross them?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Чтобы обогнать медленную машину",
+        "en": "To pass a slow vehicle"
+      },
+      "explanation": {
+        "ru": "Двойные сплошные запрещают обгон. Пересечь их можно только при левом повороте.",
+        "en": "Double solid lines prohibit passing. You may cross only to make a left turn."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Чтобы повернуть налево в проезд, на частную дорогу, во двор или на улицу",
+        "en": "To make a left turn to or from an alley, private road, driveway or street"
+      },
+      "explanation": {
+        "ru": "Верно. Это единственный случай, указанный для двойной сплошной жёлтой линии.",
+        "en": "Correct. This is the case the manual gives for double solid yellow lines."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Чтобы развернуться посреди квартала",
+        "en": "To make a U-turn mid-block"
+      },
+      "explanation": {
+        "ru": "В руководстве такого исключения нет.",
+        "en": "The manual gives no such exception."
+      }
+    }
+  ]
+}

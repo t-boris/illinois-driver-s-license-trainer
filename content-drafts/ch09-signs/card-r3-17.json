@@ -11,7 +11,7 @@
     "en": "Bike Lane"
   },
   "meaning": {
-    "ru": "Велодорожка это выделенная полоса для велосипедистов. Она отмечена сплошной линией, которая перед углом становится пунктирной; иногда её красят в ярко-зелёный цвет.",
-    "en": "A bike lane is a designated traffic lane for bicyclists. It is marked by a solid line that becomes dotted before it reaches the corner, and is sometimes painted bright green."
+    "ru": "Велодорожка это выделенная полоса для велосипедистов. Она отмечена сплошной белой линией, которая переходит в пунктирную и заканчивается до угла; иногда её красят в ярко-зелёный цвет, чтобы лучше было видно.",
+    "en": "A bicycle lane is a designated traffic lane for bicyclists. These lanes are marked by a solid white line that becomes a dotted line ending before it reaches the corner. Bicycle lanes are sometimes painted bright green to increase visibility."
   }
 }

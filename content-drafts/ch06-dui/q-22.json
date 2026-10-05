@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q22",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что смешивать даже небольшое количество алкоголя с другими препаратами очень опасно?",
+    "en": "True or false: Mixing even small amounts of alcohol with other drugs is very dangerous."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Такая комбинация может сильно ухудшить вождение. Обсудите лекарства с врачом или фармацевтом.",
+        "en": "Correct. The combination can seriously impair driving. Talk to a doctor or pharmacist about your medications."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Даже небольшое количество алкоголя вместе с другими препаратами очень опасно для вождения.",
+        "en": "Even a small amount of alcohol together with other drugs is very dangerous for driving."
+      }
+    }
+  ]
+}

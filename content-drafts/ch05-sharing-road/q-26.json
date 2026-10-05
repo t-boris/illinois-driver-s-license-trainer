@@ -7,7 +7,7 @@
   "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 42",
   "manualVersion": "2026",
   "text": {
-    "ru": "Что из перечисленного может сместить мотоцикл на всю ширину полосы, если водитель не готов?",
+    "ru": "Что из перечисленного может сместить мотоцикл на всю ширину полосы, если мотоциклист не готов?",
     "en": "Which of these can move a motorcycle across an entire lane if the rider is not prepared?"
   },
   "options": [
@@ -40,7 +40,7 @@
         "en": "Wind gusts, including those from large passing vehicles"
       },
       "explanation": {
-        "ru": "Верно. Также влияют лужи, лёд, гравий, ямы, масляные пятна и рельсы.",
+        "ru": "Верно. Также влияют мокрая или обледенелая дорога, гравий, ямы, масляные пятна и рельсы.",
         "en": "Correct. Wet or icy roads, gravel, potholes, oil spills, and railroad tracks also matter."
       }
     },

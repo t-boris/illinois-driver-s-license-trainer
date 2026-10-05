@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q16",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ограниченное водительское разрешение (RDP) можно выдать любому водителю, чьи права приостановлены или отозваны.",
+    "en": "Restricted Driving Permits can be issued to any suspended or revoked driver."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. RDP выдаётся лишь в определённых случаях и позволяет ездить только в определённое время и по заданным маршрутам: на работу или учёбу, отвозить ребёнка в детский сад, на лечение. Его нельзя выдать младше 16 лет.",
+        "en": "Not quite: the statement is false. An RDP is issued only in certain cases and allows driving only at certain times and along specified routes, such as for work, school, day care or medical care. It cannot be issued under age 16."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. RDP выдаётся лишь в определённых случаях и позволяет ездить только в определённое время и по заданным маршрутам: на работу или учёбу, отвозить ребёнка в детский сад, на лечение. Его нельзя выдать младше 16 лет.",
+        "en": "Correct, the statement is false. An RDP is issued only in certain cases and allows driving only at certain times and along specified routes, such as for work, school, day care or medical care. It cannot be issued under age 16."
+      }
+    }
+  ]
+}

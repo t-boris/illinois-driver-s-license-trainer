@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q17",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Авария произошла с участием школьного автобуса. Когда нужно подавать отчёт?",
+    "en": "A crash involves a school bus. When must a report be filed?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только при ущербе более $1,500",
+        "en": "Only if damage exceeds $1,500"
+      },
+      "explanation": {
+        "ru": "Для школьного автобуса правило строже: достаточно любого ущерба или травмы.",
+        "en": "The rule is stricter for school buses: any damage or injury is enough."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Если есть любой материальный ущерб, травма или авария с автобусом",
+        "en": "If there is any property damage, personal injury, or crash involving the school bus"
+      },
+      "explanation": {
+        "ru": "Верно. Для школьных автобусов порог ущерба не действует.",
+        "en": "Correct. For school buses, the damage threshold does not apply."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только при гибели людей",
+        "en": "Only if someone dies"
+      },
+      "explanation": {
+        "ru": "Отчёт нужен и при любом ущербе или травме.",
+        "en": "A report is also needed for any damage or injury."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не нужен, если автобус пуст",
+        "en": "Not needed if the bus is empty"
+      },
+      "explanation": {
+        "ru": "Нужен при любом ущербе, травме или аварии с участием школьного автобуса.",
+        "en": "It is needed for any damage, injury, or crash involving a school bus."
+      }
+    }
+  ]
+}

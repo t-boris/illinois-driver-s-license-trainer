@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q31",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если есть полоса для левых поворотов в обе стороны, можно повернуть налево и из соседней обычной полосы.",
+    "en": "If a two-way left turn lane is provided, you may still make a left turn from any other lane."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. Когда такая полоса есть, левый поворот из любой другой полосы запрещён. Ехать по ней можно только при подготовке к левому повороту или развороту (где он разрешён) либо при их выполнении.",
+        "en": "Not quite: the statement is false. When a turn lane is provided, a left turn may not be made from any other lane. The lane may be driven only when preparing for or making a left turn or a permitted U-turn."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. Когда такая полоса есть, левый поворот из любой другой полосы запрещён. Ехать по ней можно только при подготовке к левому повороту или развороту (где он разрешён) либо при их выполнении.",
+        "en": "Correct, the statement is false. When a turn lane is provided, a left turn may not be made from any other lane. The lane may be driven only when preparing for or making a left turn or a permitted U-turn."
+      }
+    }
+  ]
+}

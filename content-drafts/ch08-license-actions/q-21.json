@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q21",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Человек младше 18 лет получил отказ (denial) за вождение без действующих прав или разрешения. Что ему запрещено?",
+    "en": "A person under 18 receives a denial for driving without a valid license or permit. What is forbidden?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Подавать заявление на права до 18-летия, но подать заявление на учебное разрешение (instruction permit) можно",
+        "en": "Applying for a driver’s license until the 18th birthday, while an application for an instruction permit is still allowed"
+      },
+      "explanation": {
+        "ru": "Верно. Если права уже есть, они сводятся к учебному разрешению.",
+        "en": "Correct. If the person already has a license, its privileges are reduced to an instruction permit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Подавать заявление и на права, и на учебное разрешение до 18-летия",
+        "en": "Applying for both a license and an instruction permit until the 18th birthday"
+      },
+      "explanation": {
+        "ru": "Так бывает при отказе за нарушения, влекущие обязательный отзыв. Здесь учебное разрешение получить можно.",
+        "en": "That applies to denials for offenses carrying mandatory revocation. Here an instruction permit is still allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, отказ касается только водителей старше 21 года",
+        "en": "Nothing: a denial applies only to drivers over 21"
+      },
+      "explanation": {
+        "ru": "Отказ (denial) касается именно людей младше 18 лет.",
+        "en": "A denial applies specifically to people under age 18."
+      }
+    }
+  ]
+}

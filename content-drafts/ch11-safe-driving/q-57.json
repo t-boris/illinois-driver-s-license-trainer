@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q57",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 90",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На Illinois Tollway ваша машина сломалась. Какой номер, кроме 911, можно набрать за помощью?",
+    "en": "On the Illinois Tollway your vehicle breaks down. Which number can you also call besides 911?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "*111",
+        "en": "*111"
+      },
+      "explanation": {
+        "ru": "Нужный номер для Tollway — *999 (или 911).",
+        "en": "The Tollway number is *999 (or 911)."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "*999",
+        "en": "*999"
+      },
+      "explanation": {
+        "ru": "Верно. Оставайтесь в машине с пристёгнутым ремнём, включите аварийку и ждите прибытия Tollway Maintenance или службы помощи.",
+        "en": "Correct. Stay in your vehicle with your seatbelt on, activate hazard lights and wait for Tollway Maintenance or an emergency responder."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "*555",
+        "en": "*555"
+      },
+      "explanation": {
+        "ru": "Нужный номер — *999 (или 911).",
+        "en": "The right number is *999 (or 911)."
+      }
+    }
+  ]
+}

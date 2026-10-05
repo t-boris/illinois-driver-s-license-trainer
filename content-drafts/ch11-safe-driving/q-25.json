@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q25",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сильный попутный ветер может сильно затруднить остановку машины.",
+    "en": "A strong tailwind can make it very difficult to stop."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Направление и сила ветра — один из факторов, которые нужно учитывать, выбирая скорость.",
+        "en": "Correct. Wind direction and speed are among the factors to consider when choosing your speed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Направление и сила ветра — один из факторов, которые нужно учитывать, выбирая скорость.",
+        "en": "Not quite: the statement is true. Wind direction and speed are among the factors to consider when choosing your speed."
+      }
+    }
+  ]
+}

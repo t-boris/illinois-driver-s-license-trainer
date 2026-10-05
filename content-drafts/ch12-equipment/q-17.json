@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q17",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "С какого расстояния должен быть читаем номерной знак благодаря его подсветке?",
+    "en": "From what distance must the license plate light make the plate readable?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "С 50 футов",
+        "en": "50 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Белый свет должен гореть при включённых фарах.",
+        "en": "Correct. The white light must be on when the headlights are on."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 5 футов",
+        "en": "5 feet"
+      },
+      "explanation": {
+        "ru": "Расстояние больше: 50 футов.",
+        "en": "The distance is longer: 50 feet."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "С 500 футов",
+        "en": "500 feet"
+      },
+      "explanation": {
+        "ru": "Это расстояние для задних фонарей. Для номерного знака — 50 футов.",
+        "en": "That is the taillight distance. For the license plate it is 50 feet."
+      }
+    }
+  ]
+}

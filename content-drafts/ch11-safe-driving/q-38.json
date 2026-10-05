@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q38",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Полосы сужаются из-за ремонта, движение плотное и медленное. Что рекомендуется?",
+    "en": "Lanes are reduced due to construction and traffic is dense and slow. What is advised?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Использовать обе полосы до точки сужения и вливаться там по очереди",
+        "en": "Use both lanes up to the lane reduction point and merge there, alternating turns"
+      },
+      "explanation": {
+        "ru": "Верно. Если движения мало, наоборот, нужно перестроиться заранее.",
+        "en": "Correct. If the road is not heavily congested, merge early instead."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Перестроиться как можно раньше и не пропускать никого",
+        "en": "Merge as early as possible and let no one in"
+      },
+      "explanation": {
+        "ru": "Это совет для свободной дороги. При плотном движении лучше чередоваться.",
+        "en": "That advice is for light traffic. In dense traffic, take turns."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться и ждать, пока колонна рассосётся",
+        "en": "Stop and wait for the queue to clear"
+      },
+      "explanation": {
+        "ru": "Останавливаться не нужно: двигайтесь в потоке и вливайтесь по очереди.",
+        "en": "Do not stop: keep moving with the flow and merge in turns."
+      }
+    }
+  ]
+}

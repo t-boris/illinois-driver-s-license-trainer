@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q19",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 58",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что ещё может произойти во время отзыва водительских прав?",
+    "en": "What else may happen during the course of a revocation?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Автомобиль автоматически конфискуют",
+        "en": "Your vehicle is automatically confiscated"
+      },
+      "explanation": {
+        "ru": "В руководстве об этом не сказано. Там говорится о регистрации автомобиля.",
+        "en": "The manual does not say this. It speaks about vehicle registration."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Регистрация вашего автомобиля может быть приостановлена",
+        "en": "Your vehicle registration may be suspended"
+      },
+      "explanation": {
+        "ru": "Верно. Об этом вас уведомят.",
+        "en": "Correct. Notice is given accordingly."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего: отзыв касается только самих прав",
+        "en": "Nothing: a revocation only affects the license itself"
+      },
+      "explanation": {
+        "ru": "Не совсем: во время отзыва может быть приостановлена и регистрация автомобиля.",
+        "en": "Not quite: during a revocation your vehicle registration may be suspended too."
+      }
+    }
+  ]
+}

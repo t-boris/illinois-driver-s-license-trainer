@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q33",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что водитель, чьи права аннулированы за DUI, должен выполнить несколько условий, включая оценку на проблемы с алкоголем или наркотиками и оплату сбора за восстановление, чтобы вернуть права?",
+    "en": "True or false: Drivers whose licenses have been revoked as a result of DUI must meet several requirements, including an evaluation for alcohol and drug problems and paying a reinstatement fee, to regain their license."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Нужны также программа реабилитации или обучения, слушание у Secretary of State и другие требования.",
+        "en": "Correct. A rehabilitation or education program, an administrative hearing with the Secretary of State, and other requirements also apply."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Условий несколько: оценка, программа реабилитации или обучения, слушание у Secretary of State и сбор за восстановление.",
+        "en": "There are several requirements: an evaluation, a rehabilitation or education program, a hearing with the Secretary of State, and a reinstatement fee."
+      }
+    }
+  ]
+}

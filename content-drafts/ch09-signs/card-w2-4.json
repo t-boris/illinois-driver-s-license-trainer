@@ -11,7 +11,7 @@
     "en": "\"T\" Intersection"
   },
   "meaning": {
-    "ru": "Предупреждает о Т-образном перекрёстке впереди, где может быть движение или потребоваться поворот направо или налево.",
-    "en": "Warns of a \"T\" intersection ahead where traffic may exist or a right or left turn may be required."
+    "ru": "Предупреждает о Т-образном перекрёстке впереди, где на вашу дорогу может выехать транспорт или потребуется поворот направо или налево.",
+    "en": "Warns of a \"T\" intersection ahead where traffic may enter or a right or left turn may be required."
   }
 }

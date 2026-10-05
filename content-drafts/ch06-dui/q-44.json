@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q44",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 52",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что лицам младше 21 года незаконно водить с любым следом алкоголя или наркотиков в организме?",
+    "en": "True or false: It is illegal for persons under age 21 to drive with any trace of alcohol or drugs in their systems."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Для водителя младше 21 года действует нулевая терпимость: даже любой след алкоголя ведёт к приостановке прав минимум на три месяца.",
+        "en": "Correct. Zero tolerance applies under 21: even any trace of alcohol brings a suspension of at least three months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Для младше 21 года действует нулевая терпимость к алкоголю: достаточно любого следа.",
+        "en": "Zero tolerance applies under 21: any trace of alcohol is enough."
+      }
+    }
+  ]
+}

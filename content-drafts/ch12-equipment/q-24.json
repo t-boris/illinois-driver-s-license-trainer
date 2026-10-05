@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q24",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Просмотр или потоковая передача видео в прямом эфире на смартфоне во время движения — нарушение закона Иллинойса.",
+    "en": "Watching or streaming a live video on a cellphone while driving is a violation of Illinois law."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Также запрещены телевизоры и мониторы, которые видны с водительского сиденья, пока машина движется.",
+        "en": "Correct. Televisions or video monitors that can be seen from the driver’s seat are also prohibited while the vehicle is in motion."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Также запрещены телевизоры и мониторы, которые видны с водительского сиденья, пока машина движется.",
+        "en": "Not quite: the statement is true. Televisions or video monitors that can be seen from the driver’s seat are also prohibited while the vehicle is in motion."
+      }
+    }
+  ]
+}

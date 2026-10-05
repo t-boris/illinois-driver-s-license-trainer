@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-sr-22",
+  "topic": "ch07-violations-crashes",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 56",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "сертификат страхования SR-22",
+    "en": "SR-22 certificate of insurance"
+  },
+  "definition": {
+    "ru": "Форма доказательства финансовой ответственности. Её подаёт непосредственно в Secretary of State страховая компания. Непродление или отмена страхования ведёт к приостановке водительских прав.",
+    "en": "A form of proof of financial responsibility. The insurance company files it directly with the Secretary of State. Failure to renew or cancellation of insurance results in a driver’s license suspension."
+  }
+}

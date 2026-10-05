@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q29",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что требуется для фары мотоцикла или мопеда?",
+    "en": "What is required for a motorcycle or moped headlight?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Она может быть включена только ночью",
+        "en": "It may be on only at night"
+      },
+      "explanation": {
+        "ru": "Она должна гореть всегда, когда транспорт движется.",
+        "en": "It must be on whenever the vehicle is driven."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Она должна освещать предметы на расстоянии 500 футов и быть включена всегда, когда транспорт в движении",
+        "en": "It must show objects 500 feet ahead and be turned on whenever the vehicle is driven"
+      },
+      "explanation": {
+        "ru": "Верно. Для мотоциклов и мопедов нужна одна фара и один задний фонарь.",
+        "en": "Correct. Motorcycles and mopeds need one headlight and one taillight."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Тонированная фара допустима",
+        "en": "A tinted lens is allowed"
+      },
+      "explanation": {
+        "ru": "Тонированные и дымчатые линзы запрещены на любом транспорте.",
+        "en": "No tinted or smoked lenses are allowed on any vehicle."
+      }
+    }
+  ]
+}

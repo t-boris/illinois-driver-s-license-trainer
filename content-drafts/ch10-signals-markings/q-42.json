@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q42",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Если на железнодорожном переезде больше одного пути, где указано их число?",
+    "en": "If a railroad crossing has more than one track, where is the number of tracks shown?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "На шлагбауме",
+        "en": "On the gate arm"
+      },
+      "explanation": {
+        "ru": "В руководстве число путей указывается под крестообразным знаком (crossbuck).",
+        "en": "In the manual the number of tracks is shown below the crossbuck."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "На табличке под крестообразным знаком (crossbuck)",
+        "en": "On a sign below the crossbuck"
+      },
+      "explanation": {
+        "ru": "Верно. Крестообразный знак считается знаком «уступи дорогу».",
+        "en": "Correct. The crossbuck is considered a yield sign."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На асфальте перед переездом",
+        "en": "On the pavement before the crossing"
+      },
+      "explanation": {
+        "ru": "Число путей указано на табличке под знаком.",
+        "en": "The number is on a plate below the sign."
+      }
+    }
+  ]
+}

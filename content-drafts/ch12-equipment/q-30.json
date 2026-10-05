@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q30",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда нужны передние и задние габаритные огни (parking lights)?",
+    "en": "When are front and rear parking lights required?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда, когда машина движется днём",
+        "en": "Whenever the car moves in daytime"
+      },
+      "explanation": {
+        "ru": "Они нужны для машины, остановившейся на трассе ночью.",
+        "en": "They are needed on a vehicle stopped on a highway at night."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только на грузовиках",
+        "en": "Only on trucks"
+      },
+      "explanation": {
+        "ru": "Они нужны любому транспортному средству.",
+        "en": "They are required on any vehicle."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Для любого транспортного средства, остановившегося на шоссе ночью",
+        "en": "For any vehicle stopped on a highway at night"
+      },
+      "explanation": {
+        "ru": "Верно. Некоторые местные сообщества разрешают ночную парковку на улицах без огней.",
+        "en": "Correct. Some local communities may allow unlighted night parking on streets."
+      }
+    }
+  ]
+}

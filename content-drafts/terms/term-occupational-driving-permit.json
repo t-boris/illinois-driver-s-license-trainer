@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-occupational-driving-permit",
+  "topic": "ch08-license-actions",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 62",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "производственное водительское разрешение (ODP)",
+    "en": "Occupational Driving Permit (ODP)"
+  },
+  "definition": {
+    "ru": "Разрешение для профессионального водителя, права которого приостановлены за три нарушения ПДД: позволяет ездить в связи с работой. Подходит только тем, кто зарабатывает вождением; на водителей коммерческого транспорта не распространяется.",
+    "en": "A permit for a professional driver whose license was suspended for three moving violations, allowing driving in conjunction with employment. The person must drive for a living; it does not apply to commercial drivers."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q39",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За сколько футов до встречной машины и за сколько до обгоняемой нужно переключить дальний свет на ближний?",
+    "en": "How many feet before meeting an oncoming vehicle must you dim your bright lights, and how many before passing a vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "100 футов и 50 футов",
+        "en": "100 feet and 50 feet"
+      },
+      "explanation": {
+        "ru": "Дистанции больше: 500 футов до встречной машины и 300 футов до обгоняемой.",
+        "en": "The distances are longer: 500 feet before an oncoming vehicle and 300 feet before passing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "300 футов и 500 футов",
+        "en": "300 feet and 500 feet"
+      },
+      "explanation": {
+        "ru": "Перепутаны числа: 500 футов до встречной машины, 300 футов до обгоняемой.",
+        "en": "The numbers are swapped: 500 feet for an oncoming vehicle, 300 feet for passing."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "500 футов и 300 футов",
+        "en": "500 feet and 300 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Фары нужно использовать от заката до рассвета и всегда держать их чистыми и правильно направленными.",
+        "en": "Correct. Use lights from sunset to sunrise and keep them clean and aimed properly."
+      }
+    }
+  ]
+}

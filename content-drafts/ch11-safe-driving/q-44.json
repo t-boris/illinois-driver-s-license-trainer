@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q44",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Из-под капота идёт дым. Что вы должны сделать?",
+    "en": "Smoke appears from your vehicle. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Тушить огонь самостоятельно",
+        "en": "Fight the fire yourself"
+      },
+      "explanation": {
+        "ru": "Не боритесь с огнём сами: пожар машины очень опасен.",
+        "en": "Do not fight the fire yourself: vehicle fires can be very dangerous."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остаться в машине и ехать до ближайшего сервиса",
+        "en": "Stay in the car and drive to the nearest service station"
+      },
+      "explanation": {
+        "ru": "Нужно съехать с дороги, выключить двигатель и отойти.",
+        "en": "Pull off the road, turn off the engine and move away."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Съехать с дороги, выключить двигатель, отойти от машины и позвонить 911",
+        "en": "Pull off the road, turn off the engine, move away from the vehicle and call 911"
+      },
+      "explanation": {
+        "ru": "Верно. Безопасность важнее машины.",
+        "en": "Correct. Safety matters more than the vehicle."
+      }
+    }
+  ]
+}

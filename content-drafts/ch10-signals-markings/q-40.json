@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q40",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Помимо усиления знака stop, где ещё используется мигающий красный сигнал?",
+    "en": "Besides adding emphasis to a stop sign, where else is a flashing red signal used?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "У школ в часы перемен",
+        "en": "At schools during recess"
+      },
+      "explanation": {
+        "ru": "В руководстве такого применения нет.",
+        "en": "The manual lists no such use."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На стройках перед рабочими",
+        "en": "At work sites ahead of workers"
+      },
+      "explanation": {
+        "ru": "В руководстве такого применения нет.",
+        "en": "The manual lists no such use."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "На железнодорожных переездах, предупреждая о приближающихся поездах",
+        "en": "At railroad crossings, to warn of approaching trains"
+      },
+      "explanation": {
+        "ru": "Верно. На перекрёстках он используется там, где один знак stop плохо виден или нужно усилить его значение.",
+        "en": "Correct. At intersections it is used when a stop sign alone is hard to see or needs more emphasis."
+      }
+    }
+  ]
+}

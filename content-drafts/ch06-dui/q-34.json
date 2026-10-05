@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q34",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На какой срок после осуждения за DUI нужно подать подтверждение финансовой ответственности (Financial Responsibility Insurance)?",
+    "en": "For how long must a person convicted of DUI file Financial Responsibility Insurance?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "На один год",
+        "en": "For one year"
+      },
+      "explanation": {
+        "ru": "Срок дольше: три года.",
+        "en": "The period is longer: three years."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "На десять лет",
+        "en": "For ten years"
+      },
+      "explanation": {
+        "ru": "Это слишком долго: подтверждение подают на три года.",
+        "en": "That is too long: proof is filed for three years."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "На три года",
+        "en": "For three years"
+      },
+      "explanation": {
+        "ru": "Верно. Это требование добавляется к другим условиям восстановления прав.",
+        "en": "Correct. This requirement is added to the other conditions for reinstatement."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не требуется",
+        "en": "It is not required"
+      },
+      "explanation": {
+        "ru": "Требуется: DUI-осуждение обязывает подать страхование финансовой ответственности на три года.",
+        "en": "It is required: a DUI conviction requires filing financial responsibility insurance for three years."
+      }
+    }
+  ]
+}

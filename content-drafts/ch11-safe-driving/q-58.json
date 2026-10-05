@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q58",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 90",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ваша машина сломалась на дороге с малой пропускной способностью, и выйти безопасно можно. Что рекомендуется?",
+    "en": "Your vehicle breaks down on a low-capacity road and it is safe to leave it. What is recommended?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Выйти со стороны, противоположной встречному движению, и отойти от машины (на тротуар, за ограждение или к краю поля)",
+        "en": "Exit from the side opposite oncoming traffic and move away (a sidewalk, behind a guard rail, or the edge of a field)"
+      },
+      "explanation": {
+        "ru": "Верно. Если выйти безопасно нельзя, оставайтесь в машине с пристёгнутым ремнём. В любом случае включите аварийку и позвоните 911.",
+        "en": "Correct. If you cannot exit safely, remain in the vehicle with your seatbelt on. Either way, activate hazard lights and call 911."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выйти на полосу и махать проезжающим машинам",
+        "en": "Step into the lane and wave at passing cars"
+      },
+      "explanation": {
+        "ru": "Это опасно: уходите от дороги, а не к ней.",
+        "en": "That is dangerous: move away from traffic, not toward it."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Оставаться на водительском месте, даже если можно безопасно выйти",
+        "en": "Stay in the driver seat even if it is safe to get out"
+      },
+      "explanation": {
+        "ru": "Оставаться в машине нужно, если выйти безопасно нельзя. Если же это необходимо и безопасно, отойдите от машины.",
+        "en": "Stay in the vehicle only if you cannot exit safely. If it is necessary and safe, move away from the vehicle."
+      }
+    }
+  ]
+}

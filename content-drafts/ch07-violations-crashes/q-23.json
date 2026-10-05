@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q23",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что происходит с правами водителя, осуждённого за оставление места аварии, если ущерб превысил $1,000?",
+    "en": "What happens to the driving privileges of a driver convicted of leaving the scene of a crash when damage is more than $1,000?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, если водитель позже заплатил",
+        "en": "Nothing, if the driver pays later"
+      },
+      "explanation": {
+        "ru": "Оставление места аварии влечёт последствия независимо от последующей оплаты: при ущербе свыше $1,000 права приостанавливают.",
+        "en": "Leaving the scene has consequences regardless of later payment: with damage over $1,000, privileges are suspended."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только предупреждение",
+        "en": "Only a warning"
+      },
+      "explanation": {
+        "ru": "При ущербе свыше $1,000 права приостанавливают.",
+        "en": "With damage over $1,000, privileges are suspended."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права аннулируют навсегда",
+        "en": "The license is revoked permanently"
+      },
+      "explanation": {
+        "ru": "Аннулирование обязательно при гибели или травме; при ущербе свыше $1,000 права приостанавливают.",
+        "en": "Revocation is mandatory for a death or injury; with damage over $1,000, privileges are suspended."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Водительские права приостанавливаются",
+        "en": "Driving privileges are suspended"
+      },
+      "explanation": {
+        "ru": "Верно. А при гибели или травме Secretary of State обязан аннулировать права, и возможны уголовные обвинения.",
+        "en": "Correct. And when a death or injury occurred, the Secretary of State must revoke the license and criminal charges are possible."
+      }
+    }
+  ]
+}

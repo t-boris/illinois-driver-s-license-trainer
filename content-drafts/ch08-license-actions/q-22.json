@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q22",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Секретарь штата (Secretary of State) может отказать в выдаче или продлении прав из-за ДТП с тяжёлой травмой или гибелью человека, только если в этом ДТП участвовал алкоголь.",
+    "en": "The Secretary of State may deny issuing or renewing a driver’s license after a crash with serious injury or death only if alcohol was a factor."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. Если водителю предъявлено обвинение из-за такого ДТП, отказ возможен, и алкоголь при этом необязателен.",
+        "en": "Not quite: the statement is false. If the driver has been charged with an offense due to such a crash, a denial is possible and alcohol need not be a factor."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. Если водителю предъявлено обвинение из-за такого ДТП, отказ возможен, и алкоголь при этом необязателен.",
+        "en": "Correct, the statement is false. If the driver has been charged with an offense due to such a crash, a denial is possible and alcohol need not be a factor."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q24",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что из перечисленного ухудшает торможение машины?",
+    "en": "Which of these makes it harder for a vehicle to stop?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Крупные широкие шины с хорошим протектором",
+        "en": "Large, wide tires with good tread"
+      },
+      "explanation": {
+        "ru": "Такие шины тормозят лучше, чем мелкие узкие с изношенным протектором.",
+        "en": "Such tires stop a vehicle faster than small, narrow tires with little tread."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Старые изношенные тормоза",
+        "en": "Older, worn brakes"
+      },
+      "explanation": {
+        "ru": "Верно. Новые тормоза останавливают машину быстрее. Тип машины, вес, подвеска и амортизаторы тоже влияют.",
+        "en": "Correct. Newer brakes stop a vehicle more quickly. Vehicle design, weight distribution, suspension and shock absorbers also matter."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Новые тормоза",
+        "en": "Newer brakes"
+      },
+      "explanation": {
+        "ru": "Новые тормоза останавливают машину быстрее, чем старые изношенные.",
+        "en": "Newer brakes stop a vehicle more quickly than older, worn ones."
+      }
+    }
+  ]
+}

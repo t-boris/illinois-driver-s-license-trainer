@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q22",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что означает постоянно горящая красная стрелка?",
+    "en": "What does a constantly lit red arrow mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Нельзя совершать показанный стрелкой манёвр, пока не загорится зелёная стрелка (есть два исключения)",
+        "en": "You cannot make the movement shown by the arrow until a green arrow appears (with two exceptions)"
+      },
+      "explanation": {
+        "ru": "Верно. Исключения: правый поворот и левый поворот с односторонней улицы на одностороннюю с движением налево, после остановки и уступки.",
+        "en": "Correct. The exceptions are a right turn, and a left turn from one one-way street onto another with traffic moving left, after stopping and yielding."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Стрелка скоро погаснет, будьте готовы ехать",
+        "en": "The arrow is about to go out, get ready to go"
+      },
+      "explanation": {
+        "ru": "Так выглядит жёлтая стрелка: зелёная кончается. Красная стрелка запрещает манёвр.",
+        "en": "That describes a yellow arrow: the green is ending. A red arrow prohibits the movement."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Можно ехать в направлении стрелки после уступки",
+        "en": "You may go in the arrow’s direction after yielding"
+      },
+      "explanation": {
+        "ru": "Так работает зелёная стрелка. Красная стрелка манёвр запрещает.",
+        "en": "That is how a green arrow works. A red arrow prohibits the movement."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q28",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие особые правила действуют для антикварных автомобилей?",
+    "en": "What special rules apply to antique vehicles?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Особые правила для ламп, тормозов, фар, задних и стоп-сигналов и указателей поворота действуют для автомобилей старше 25 лет",
+        "en": "Special rules for lamps, brakes, lights (head, tail, stop) and turn signals apply to vehicles more than 25 years old"
+      },
+      "explanation": {
+        "ru": "Верно. Подробности можно узнать в офисе Secretary of State или на сайте ilsos.gov.",
+        "en": "Correct. For details, call the Secretary of State’s office or visit ilsos.gov."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никаких особых правил: требования те же",
+        "en": "None: the same requirements apply"
+      },
+      "explanation": {
+        "ru": "Для автомобилей старше 25 лет действуют особые правила.",
+        "en": "Special rules apply to vehicles more than 25 years old."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Они освобождены от обязательных ремней и бамперов",
+        "en": "They are exempt from belts and bumpers"
+      },
+      "explanation": {
+        "ru": "В руководстве такого исключения нет; особые правила касаются света, тормозов и указателей.",
+        "en": "The manual gives no such exemption; the special rules concern lamps, brakes, lights and turn signals."
+      }
+    }
+  ]
+}

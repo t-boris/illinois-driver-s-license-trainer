@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q25",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что если химический тест показал BAC .08% или выше, права впервые нарушившего будут приостановлены на шесть месяцев?",
+    "en": "True or false: For a driver who is not a second offender, if a chemical test discloses a BAC of .08% or more, driving privileges will be suspended for six months."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Это statutory summary suspension: шесть месяцев при провале теста и один год при отказе.",
+        "en": "Correct. This is the statutory summary suspension: six months for failing a test and one year for refusing."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Именно шесть месяцев: так руководство отвечает на этот вопрос. Отказ от теста наказывается строже: один год.",
+        "en": "Exactly six months: that is the manual’s answer. Refusing a test is penalized more strictly: one year."
+      }
+    }
+  ]
+}

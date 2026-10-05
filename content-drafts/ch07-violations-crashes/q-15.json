@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q15",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы водитель из Illinois, и вас оштрафовали в другом штате, который входит в Non-Resident Violator Compact. Что из этого НЕ является вашим вариантом?",
+    "en": "You are an Illinois driver ticketed in another state that belongs to the Non-Resident Violator Compact. Which of these is NOT one of your options?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остаться в штате и оспорить дело",
+        "en": "Stay in the state and argue the case"
+      },
+      "explanation": {
+        "ru": "Это допустимый вариант.",
+        "en": "This is a valid option."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Заплатить штраф",
+        "en": "Pay the fine"
+      },
+      "explanation": {
+        "ru": "Это допустимый вариант.",
+        "en": "This is a valid option."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дать обещание выполнить требования штрафа (promise to comply)",
+        "en": "Give a promise to comply with the ticket"
+      },
+      "explanation": {
+        "ru": "Это допустимый вариант: можно продолжить поездку и решить вопрос из дома.",
+        "en": "This is a valid option: you may continue your journey and handle the ticket from home."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Проигнорировать штраф и уехать домой без обещаний",
+        "en": "Ignore the ticket and go home without any promise"
+      },
+      "explanation": {
+        "ru": "Верно, это не вариант: можно остаться и оспорить, заплатить штраф или дать обещание выполнить (promise to comply). Невыполнение может привести к приостановке прав Illinois.",
+        "en": "Correct, this is not an option: you may stay and argue, pay the fine, or give a promise to comply. Failing to comply may suspend your Illinois license."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q32",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как предупредить других водителей на месте аварии?",
+    "en": "How can you warn other drivers at the scene of a crash?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Включить аварийную сигнализацию и, если есть, выставить сигнальные огни (flares)",
+        "en": "Use emergency flashers and flares if available"
+      },
+      "explanation": {
+        "ru": "Верно. Затем сразу звоните 911.",
+        "en": "Correct. Then call 911 immediately."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Постоять на дороге и махать руками",
+        "en": "Stand in the road and wave your arms"
+      },
+      "explanation": {
+        "ru": "Это опасно. Используйте аварийку и сигнальные огни, если они есть.",
+        "en": "That is dangerous. Use emergency flashers and flares if available."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выключить все огни",
+        "en": "Turn off all lights"
+      },
+      "explanation": {
+        "ru": "Огни нужно включить: аварийка и сигнальные огни предупреждают других.",
+        "en": "Lights should be on: flashers and flares warn others."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего: другие сами заметят",
+        "en": "Nothing, others will notice"
+      },
+      "explanation": {
+        "ru": "Лучше заранее предупредить: аварийка и сигнальные огни помогают избежать новой аварии.",
+        "en": "Better to warn ahead: flashers and flares help avoid another crash."
+      }
+    }
+  ]
+}

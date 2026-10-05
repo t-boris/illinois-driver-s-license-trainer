@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q19",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что разделяют жёлтые осевые линии на дороге?",
+    "en": "What do yellow center lines separate?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полосы, по которым транспорт движется в одном направлении",
+        "en": "Lanes of traffic moving in the same direction"
+      },
+      "explanation": {
+        "ru": "Не совсем: попутные полосы разделяют белые линии. Жёлтые линии проходят там, где движение идёт во встречных направлениях.",
+        "en": "Not quite: white lines separate lanes moving in the same direction. Yellow lines are used where traffic moves in opposite directions."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Полосы, по которым транспорт движется во встречных направлениях",
+        "en": "Lanes of traffic moving in opposite directions"
+      },
+      "explanation": {
+        "ru": "Верно. Жёлтые осевые линии разделяют встречные потоки, а белые линии разделяют попутные полосы.",
+        "en": "Correct. Yellow center lines separate traffic moving in opposite directions, while white lines separate lanes moving the same way."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проезжую часть и обочину",
+        "en": "The roadway and the shoulder"
+      },
+      "explanation": {
+        "ru": "Не совсем: край проезжей части показывают краевые линии, а жёлтые осевые линии разделяют встречные потоки.",
+        "en": "Not quite: edge lines show the edge of the pavement, while yellow center lines separate opposing traffic."
+      }
+    }
+  ]
+}

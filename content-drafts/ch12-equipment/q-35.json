@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q35",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Для мотоциклов и мопедов достаточно одного заднего фонаря, а легковому автомобилю нужны два красных фонаря.",
+    "en": "Motorcycles and mopeds need only one taillight, while a passenger vehicle must have two red taillights."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Фонари должны быть красными и видны с 500 футов сзади.",
+        "en": "Correct. Taillights must be red and visible for 500 feet from behind."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Фонари должны быть красными и видны с 500 футов сзади.",
+        "en": "Not quite: the statement is true. Taillights must be red and visible for 500 feet from behind."
+      }
+    }
+  ]
+}

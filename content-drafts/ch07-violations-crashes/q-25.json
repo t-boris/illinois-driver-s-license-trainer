@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q25",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "До какого момента остаются приостановленными права или регистрация после аварии без страховки?",
+    "en": "Until when do driver’s license or vehicle registration privileges remain suspended after an uninsured crash under the Safety Responsibility Law?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Один месяц",
+        "en": "One month"
+      },
+      "explanation": {
+        "ru": "Срок другой: нужно подтверждение и страхование в течение трёх лет.",
+        "en": "The term is different: proof and insurance for three years are required."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пока не будет представлено подтверждение финансовой ответственности и страхование не будет поддерживаться три года с даты первого подтверждения",
+        "en": "Until proof of financial responsibility is provided and insurance is maintained for three years from the date the proof is first filed"
+      },
+      "explanation": {
+        "ru": "Верно. Приостановить регистрацию могут и владельцу машины.",
+        "en": "Correct. The vehicle owner’s registration may be suspended too."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пока не купите новую машину",
+        "en": "Until you buy a new car"
+      },
+      "explanation": {
+        "ru": "Это не условие: нужно подтверждение финансовой ответственности и страхование в течение трёх лет.",
+        "en": "That is not the condition: proof of financial responsibility and three years of insurance are required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Автоматически через год",
+        "en": "Automatically after one year"
+      },
+      "explanation": {
+        "ru": "Автоматического окончания нет: нужно подтверждение и три года страхования.",
+        "en": "There is no automatic end: proof and three years of insurance are required."
+      }
+    }
+  ]
+}

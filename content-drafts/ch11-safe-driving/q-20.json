@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q20",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Во время дождя нужно оставить круиз-контроль включённым, чтобы держать ровную скорость.",
+    "en": "When driving in rain, you should keep the cruise control on to hold a steady speed."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. В дождь выключите круиз-контроль, снизьте скорость и увеличьте дистанцию. Особенно осторожными будьте на поворотах и при торможении.",
+        "en": "Not quite: the statement is false. In rain, turn off the cruise control, slow down and increase your following distance. Take special care on curves, turns and while braking."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. В дождь выключите круиз-контроль, снизьте скорость и увеличьте дистанцию. Особенно осторожными будьте на поворотах и при торможении.",
+        "en": "Correct, the statement is false. In rain, turn off the cruise control, slow down and increase your following distance. Take special care on curves, turns and while braking."
+      }
+    }
+  ]
+}

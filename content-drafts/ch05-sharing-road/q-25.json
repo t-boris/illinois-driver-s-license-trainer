@@ -7,30 +7,30 @@
   "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 42",
   "manualVersion": "2026",
   "text": {
-    "ru": "Верно ли, что за мотоциклом можно держать меньшую дистанцию, чем за автомобилем?",
-    "en": "True or false: A driver does not need to allow as much distance when following a motorcycle as when following a car."
+    "ru": "Верно ли, что следуя за мотоциклом, как и за любым другим транспортным средством, нужно переключить фары на ближний свет?",
+    "en": "True or false: You should dim your headlights when following a motorcycle, as when following any other vehicle."
   },
   "options": [
     {
-      "correct": false,
+      "correct": true,
       "text": {
         "ru": "Верно",
         "en": "True"
       },
       "explanation": {
-        "ru": "Нужно держать не меньше: за мотоциклом оставляйте минимум три-четыре секунды дистанции.",
-        "en": "You need at least as much: allow at least three to four seconds behind a motorcycle."
+        "ru": "Верно. Ближний свет нужен, когда вы едете за любым транспортным средством, включая мотоцикл.",
+        "en": "Correct. Dim your headlights when following all vehicles, including motorcycles."
       }
     },
     {
-      "correct": true,
+      "correct": false,
       "text": {
         "ru": "Неверно",
         "en": "False"
       },
       "explanation": {
-        "ru": "Именно так, утверждение неверно. Мотоциклисту нужно время, чтобы среагировать на опасность, поэтому за ним держите три-четыре секунды.",
-        "en": "Exactly, the statement is false. A motorcyclist needs time to maneuver in an emergency, so allow three to four seconds."
+        "ru": "Это не так: за любым транспортным средством, включая мотоцикл, фары нужно переключать на ближний свет.",
+        "en": "That is not the rule: dim your headlights when following all vehicles, including motorcycles."
       }
     }
   ]

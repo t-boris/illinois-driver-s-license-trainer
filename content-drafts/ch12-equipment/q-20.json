@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q20",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Глушитель-обход, вырезы и изменения выхлопной системы для увеличения шума в Иллинойсе запрещены.",
+    "en": "Cutouts, bypasses and changes to the exhaust system to increase noise are illegal in Illinois."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Глушитель (muffler) нужен, чтобы предотвратить лишний шум и дым.",
+        "en": "Correct. A muffler is required to prevent excessive noise and smoke."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Глушитель (muffler) нужен, чтобы предотвратить лишний шум и дым.",
+        "en": "Not quite: the statement is true. A muffler is required to prevent excessive noise and smoke."
+      }
+    }
+  ]
+}

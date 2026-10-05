@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q22",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На сколько дюймов можно поднять кузов над рамой, изменив подвеску?",
+    "en": "By how much may you lift the body from the chassis frame by altering the suspension?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "На 12 дюймов",
+        "en": "12 inches"
+      },
+      "explanation": {
+        "ru": "Это слишком много: запрещено поднимать более чем на 3 дюйма.",
+        "en": "That is too much: lifting more than 3 inches is illegal."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не более чем на 3 дюйма",
+        "en": "No more than 3 inches"
+      },
+      "explanation": {
+        "ru": "Верно. Горизонтальная линия от передней до задней части также не должна отклоняться более чем на 3 дюйма.",
+        "en": "Correct. The horizontal line from front to rear may not vary by more than 3 inches."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Без ограничений",
+        "en": "With no limit"
+      },
+      "explanation": {
+        "ru": "Ограничение есть: 3 дюйма.",
+        "en": "There is a limit: 3 inches."
+      }
+    }
+  ]
+}

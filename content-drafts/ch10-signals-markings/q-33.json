@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q33",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Для чего служат жёлтые или белые диагональные полосы на дороге?",
+    "en": "What are yellow or white diagonal stripes on the pavement used for?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Для отметки парковочных мест",
+        "en": "To mark parking spaces"
+      },
+      "explanation": {
+        "ru": "В руководстве они отмечают неподвижные препятствия.",
+        "en": "In the manual they mark fixed obstructions."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Для отметки неподвижных препятствий",
+        "en": "To mark fixed obstructions"
+      },
+      "explanation": {
+        "ru": "Верно. Жёлтые или белые диагональные полосы отмечают неподвижные препятствия.",
+        "en": "Correct. Yellow or white diagonal stripes are used to mark fixed obstructions."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Для отметки школьной зоны",
+        "en": "To mark a school zone"
+      },
+      "explanation": {
+        "ru": "Такое значение в руководстве не указано.",
+        "en": "The manual does not give this meaning."
+      }
+    }
+  ]
+}

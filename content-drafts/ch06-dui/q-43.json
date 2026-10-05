@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q43",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 52",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое минимальное наказание грозит водителю младше 21 года за первое осуждение за DUI?",
+    "en": "What is the minimum penalty for a driver under age 21 convicted of DUI for the first time?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Аннулирование прав на один год",
+        "en": "Revocation for one year"
+      },
+      "explanation": {
+        "ru": "Один год — для взрослых. Для водителя младше 21 года минимум два года.",
+        "en": "One year is for adults. For a driver under 21 the minimum is two years."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Приостановка на три месяца",
+        "en": "Suspension for three months"
+      },
+      "explanation": {
+        "ru": "Три месяца — за любой след алкоголя. За осуждение за DUI минимум два года аннулирования.",
+        "en": "Three months is for any trace of alcohol. A DUI conviction means at least two years of revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только штраф",
+        "en": "A fine only"
+      },
+      "explanation": {
+        "ru": "Помимо штрафа права аннулируют минимум на два года.",
+        "en": "Beyond a fine, privileges are revoked for at least two years."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Аннулирование прав минимум на два года",
+        "en": "Revocation of driving privileges for a minimum of two years"
+      },
+      "explanation": {
+        "ru": "Верно. Для водителей младше 21 года срок длиннее, чем для взрослых (минимум один год).",
+        "en": "Correct. For drivers under 21 the period is longer than for adults (at least one year)."
+      }
+    }
+  ]
+}

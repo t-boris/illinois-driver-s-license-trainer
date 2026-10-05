@@ -25,7 +25,7 @@
     {
       "correct": false,
       "text": {
-        "ru": "Когда ваша полоса свободна на большом расстоянии",
+        "ru": "Когда левая полоса свободна на большом расстоянии",
         "en": "When the left lane is clear for a long distance"
       },
       "explanation": {
@@ -36,7 +36,7 @@
     {
       "correct": false,
       "text": {
-        "ru": "Когда вы едете по дороге с односторонним движением",
+        "ru": "Когда вы едете по односторонней улице с несколькими полосами",
         "en": "On a one-way street with several lanes"
       },
       "explanation": {

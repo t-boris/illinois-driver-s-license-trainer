@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-blowout",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "разрыв шины (blowout)",
+    "en": "Blowout"
+  },
+  "definition": {
+    "ru": "Внезапный разрыв шины, о котором может предупреждать стук. Уберите ногу с газа, крепко держите руль, не тормозите резко и безопасно съезжайте с дороги. Так же действуйте при потере колеса.",
+    "en": "A sudden tire failure that may be signaled by a thumping sound. Ease off the gas, keep a firm grasp on the steering wheel, do not brake suddenly and pull safely off the roadway. React the same way if you lose a wheel."
+  }
+}

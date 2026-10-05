@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q36",
+  "topic": "ch10-signals-markings",
+  "pool": "exam",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 81",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что означает сплошная жёлтая линия на дороге перед железнодорожным переездом?",
+    "en": "What does a solid yellow line on the road before a railroad crossing mean?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Обгон запрещён",
+        "en": "No passing"
+      },
+      "explanation": {
+        "ru": "Верно. Белые стоп-линии с каждой стороны путей показывают, где остановиться, когда приближается поезд.",
+        "en": "Correct. White stop lines on each side of the track show where to stop when a train approaches."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Можно обгонять, если нет поезда",
+        "en": "Passing is allowed if no train is coming"
+      },
+      "explanation": {
+        "ru": "Нет: обгон перед переездом запрещён.",
+        "en": "No: passing before the crossing is prohibited."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нужно остановиться и пропустить пешеходов",
+        "en": "Stop for pedestrians"
+      },
+      "explanation": {
+        "ru": "Линия означает запрет обгона.",
+        "en": "The line means no passing."
+      }
+    }
+  ]
+}

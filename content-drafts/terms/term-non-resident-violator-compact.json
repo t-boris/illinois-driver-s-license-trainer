@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-non-resident-violator-compact",
+  "topic": "ch07-violations-crashes",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "Non-Resident Violator Compact",
+    "en": "Non-Resident Violator Compact"
+  },
+  "definition": {
+    "ru": "Соглашение штатов: водитель из Illinois, оштрафованный в штате-участнике, может остаться и оспорить дело, заплатить штраф или дать обещание выполнить требования (promise to comply) и продолжить поездку. Невыполнение обещания может привести к приостановке прав Illinois.",
+    "en": "An agreement among states: an Illinois driver ticketed in a member state may stay and argue the case, pay the fine, or give a promise to comply and continue the journey. Failing to keep the promise may result in suspension of the Illinois license."
+  }
+}

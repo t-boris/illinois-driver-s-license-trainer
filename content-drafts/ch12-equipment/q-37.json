@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q37",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько огней мощностью 300 свечей может гореть на автомобиле одновременно?",
+    "en": "What is the maximum number of 300 candlepower lights that may be burning on a vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Два",
+        "en": "Two"
+      },
+      "explanation": {
+        "ru": "Допустимо до четырёх.",
+        "en": "Up to four are allowed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Четыре",
+        "en": "Four"
+      },
+      "explanation": {
+        "ru": "Верно. Прожектор при этом — только один.",
+        "en": "Correct. Only one spotlight is allowed, though."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Десять",
+        "en": "Ten"
+      },
+      "explanation": {
+        "ru": "Слишком много: не более четырёх.",
+        "en": "Too many: no more than four."
+      }
+    }
+  ]
+}

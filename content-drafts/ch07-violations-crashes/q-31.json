@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q31",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какую информацию нужно получить у всех участников аварии?",
+    "en": "What information should you ask all those involved in a crash to give you?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только имя и телефон",
+        "en": "Only a name and phone number"
+      },
+      "explanation": {
+        "ru": "Нужно больше: адреса, номера водительских прав и номера машин.",
+        "en": "More is needed: addresses, driver’s license numbers, and license plate numbers."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Номера банковских карт",
+        "en": "Bank card numbers"
+      },
+      "explanation": {
+        "ru": "Банковские данные не нужны. Запишите имена, адреса, телефоны, номера прав и номера машин.",
+        "en": "Bank details are not needed. Record names, addresses, phone numbers, license numbers, and plates."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только номера машин",
+        "en": "Only license plate numbers"
+      },
+      "explanation": {
+        "ru": "Номера машин недостаточно: нужны ещё имена, адреса, телефоны и номера водительских прав.",
+        "en": "Plates alone are not enough: also names, addresses, phone numbers, and license numbers."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Имена, адреса, телефоны, номера водительских прав и номера машин",
+        "en": "Names, addresses, phone numbers, driver’s license numbers, and license plate numbers"
+      },
+      "explanation": {
+        "ru": "Верно. Запишите их спокойно, без споров о вине.",
+        "en": "Correct. Write them down calmly, without arguing about fault."
+      }
+    }
+  ]
+}

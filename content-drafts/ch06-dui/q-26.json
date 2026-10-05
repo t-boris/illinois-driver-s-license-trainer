@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q26",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как может быть использован отказ водителя от химического теста?",
+    "en": "How may a driver’s refusal to take a chemical test be used?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Его нельзя использовать против водителя",
+        "en": "It cannot be used against the driver"
+      },
+      "explanation": {
+        "ru": "Можно: отказ от теста могут использовать как доказательство против вас.",
+        "en": "It can: a test refusal may be used as evidence against you."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Его могут использовать как доказательство против водителя",
+        "en": "It may be used as evidence against the driver"
+      },
+      "explanation": {
+        "ru": "Верно. Помимо более долгой приостановки, сам отказ могут использовать как доказательство против вас.",
+        "en": "Correct. Besides the longer suspension, the refusal itself may be used as evidence against you."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Он отменяет приостановку прав",
+        "en": "It cancels the license suspension"
+      },
+      "explanation": {
+        "ru": "Наоборот: отказ ведёт к приостановке (на один год для впервые нарушившего), а не отменяет её.",
+        "en": "The opposite: refusing brings a suspension (one year for a first-time offender), not relief from one."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Он приравнивается к пройденному тесту",
+        "en": "It is treated like a passed test"
+      },
+      "explanation": {
+        "ru": "Совсем нет: отказ наказывается строже, чем проваленный тест.",
+        "en": "Not at all: refusal is penalized more strictly than a failed test."
+      }
+    }
+  ]
+}

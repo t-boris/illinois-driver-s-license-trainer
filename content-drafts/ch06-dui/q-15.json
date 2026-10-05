@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q15",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что алкоголь — главный фактор смертельных аварий на дорогах?",
+    "en": "True or false: Alcohol is the single greatest factor in fatal motor vehicle crashes."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Руководство называет алкоголь убийцей номер один на американских дорогах: он ухудшает зрение и замедляет реакцию.",
+        "en": "Correct. The manual calls alcohol the number one killer on American roadways: it affects vision and slows reaction time."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Руководство отвечает на этот вопрос «верно»: алкоголь — главный убийца на дорогах, ведь он ухудшает зрение и замедляет реакцию.",
+        "en": "The manual answers “true”: alcohol is the number one killer on roads, since it affects vision and slows reaction time."
+      }
+    }
+  ]
+}

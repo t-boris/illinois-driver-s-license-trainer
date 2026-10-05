@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q31",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что должно быть верно для стёкол автомобиля?",
+    "en": "What must be true of a vehicle’s window glass?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любое обычное стекло подходит",
+        "en": "Any ordinary glass will do"
+      },
+      "explanation": {
+        "ru": "Все стёкла должны быть одобренным безопасным стеклом.",
+        "en": "All window glass must be approved safety glass."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Одобренное безопасное стекло без препятствий обзору; лобовое стекло без снега, льда, влаги и дефектов",
+        "en": "Approved safety glass free of obstructions; the windshield free of snow, ice, moisture and defects that distort vision"
+      },
+      "explanation": {
+        "ru": "Верно. Дворники тоже должны хорошо убирать лёд, снег и влагу.",
+        "en": "Correct. Wipers must also operate properly to clear ice, snow and moisture."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Обязательно зеркальное покрытие",
+        "en": "A mirrored coating is required"
+      },
+      "explanation": {
+        "ru": "Тонировка спереди запрещена, кроме 6-дюймовой полосы сверху.",
+        "en": "Front tinting is not allowed except a 6-inch strip at the top."
+      }
+    }
+  ]
+}

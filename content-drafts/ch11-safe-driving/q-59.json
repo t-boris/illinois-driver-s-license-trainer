@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q59",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 90",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что руководство называет дорогой с высокой пропускной способностью (high-capacity roadway)?",
+    "en": "What does the manual call a high-capacity roadway?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Узкую проселочную дорогу с малым движением",
+        "en": "A narrow country lane with little traffic"
+      },
+      "explanation": {
+        "ru": "Это дорога с малой пропускной способностью (low-capacity).",
+        "en": "That is a low-capacity roadway."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Дорогу, рассчитанную на большой поток транспорта: несколько полос, регулируемые перекрёстки, системы управления движением",
+        "en": "A road designed to handle a large volume of traffic, with multiple lanes, controlled intersections and traffic management systems"
+      },
+      "explanation": {
+        "ru": "Верно. Примеры: шоссе и крупные городские магистрали.",
+        "en": "Correct. Examples include highways and major urban arterials."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Улицу жилого района с небольшим движением",
+        "en": "A residential street with light traffic"
+      },
+      "explanation": {
+        "ru": "Такие дороги — с малой пропускной способностью (low-capacity).",
+        "en": "Roads like that are low-capacity roadways."
+      }
+    }
+  ]
+}

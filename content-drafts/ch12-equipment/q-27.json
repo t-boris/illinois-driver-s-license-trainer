@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q27",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Шины с металлическими шипами в Иллинойсе в общем случае запрещены.",
+    "en": "Pneumatic tires with metal studs are generally illegal in Illinois."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Исключения есть: сельские почтальоны и машины с номерами для людей с инвалидностью или ветеранов-инвалидов (в обоих случаях с 15 ноября по 1 апреля), сельскохозяйственная техника и дорожно-строительная техника, движущаяся медленнее 10 миль/ч.",
+        "en": "Correct. There are exceptions: rural mail carriers and vehicles with Persons with Disabilities or Disabled Veteran plates (both November 15 to April 1), agricultural machinery, and road-building machinery operated below 10 mph."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Исключения есть: сельские почтальоны и машины с номерами для людей с инвалидностью или ветеранов-инвалидов (в обоих случаях с 15 ноября по 1 апреля), сельскохозяйственная техника и дорожно-строительная техника, движущаяся медленнее 10 миль/ч.",
+        "en": "Not quite: the statement is true. There are exceptions: rural mail carriers and vehicles with Persons with Disabilities or Disabled Veteran plates (both November 15 to April 1), agricultural machinery, and road-building machinery operated below 10 mph."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q18",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что руководство требует о ремнях безопасности в легковых автомобилях?",
+    "en": "What does the manual require about safety belts in passenger vehicles?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ремни нужны только на заднем сиденье",
+        "en": "Belts are needed only in the back seat"
+      },
+      "explanation": {
+        "ru": "Легковой автомобиль должен иметь два комплекта ремней на переднем сиденье.",
+        "en": "A passenger vehicle must have two sets of safety belts in the front seat."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ремни нужны только в машинах старше 1965 года",
+        "en": "Belts are needed only in cars older than 1965"
+      },
+      "explanation": {
+        "ru": "Наоборот: автомобили 1965 года выпуска и новее нельзя продавать и эксплуатировать без ремней.",
+        "en": "The opposite: vehicles manufactured in 1965 or after may not be sold or operated without belts."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Два комплекта ремней на переднем сиденье; машины 1965 года и новее нельзя продавать или эксплуатировать без них",
+        "en": "Two sets on the front seat; vehicles manufactured in 1965 or after may not be sold or operated without them"
+      },
+      "explanation": {
+        "ru": "Верно. Пристёгивайтесь всегда.",
+        "en": "Correct. Always buckle up."
+      }
+    }
+  ]
+}

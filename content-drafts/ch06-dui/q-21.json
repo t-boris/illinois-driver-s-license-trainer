@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q21",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Полицейский остановил машину и подозревает, что водитель под действием каннабиса. Что будет, если водитель откажется от проверок?",
+    "en": "An officer has reasonable suspicion that a stopped driver is impaired by cannabis. What happens if the driver refuses testing?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, отказаться можно без последствий",
+        "en": "Nothing, refusal has no consequences"
+      },
+      "explanation": {
+        "ru": "Последствия есть: отказ или проваленные проверки ведут к приостановке прав.",
+        "en": "There are consequences: refusal or failed tests lead to a license suspension."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Водительские права будут приостановлены",
+        "en": "The driver’s license will be suspended"
+      },
+      "explanation": {
+        "ru": "Верно. Приостановка грозит и за отказ, и за проваленные тесты на трезвость (field sobriety tests) или химические тесты на месте.",
+        "en": "Correct. Suspension follows both refusing and failing field sobriety tests or validated roadside chemical tests."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только предупреждение",
+        "en": "Only a warning"
+      },
+      "explanation": {
+        "ru": "Это серьёзнее: права будут приостановлены.",
+        "en": "It is more serious: the license will be suspended."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Автоматический арест без суда",
+        "en": "An automatic arrest without court"
+      },
+      "explanation": {
+        "ru": "Руководство называет конкретное последствие: приостановку водительских прав.",
+        "en": "The manual names the specific consequence: suspension of the driver’s license."
+      }
+    }
+  ]
+}

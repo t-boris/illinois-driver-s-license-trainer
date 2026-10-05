@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q30",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что запрещает Illinois Tollway System при сильном ветре?",
+    "en": "What does the Illinois Tollway System ban in high winds?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Движение мотоциклов",
+        "en": "Riding motorcycles"
+      },
+      "explanation": {
+        "ru": "В руководстве запрет касается другого: перевозки домов-прицепов.",
+        "en": "In the manual the ban concerns hauling house trailers."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Перевозку домов-прицепов (house trailers)",
+        "en": "Hauling house trailers"
+      },
+      "explanation": {
+        "ru": "Верно. Сильный ветер особенно опасен для трейлеров, кемперов и грузовиков.",
+        "en": "Correct. High wind is especially hard on trailers, campers and trucks."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Движение любых автобусов",
+        "en": "Any bus travel"
+      },
+      "explanation": {
+        "ru": "В руководстве запрещена перевозка домов-прицепов, а не движение автобусов.",
+        "en": "The manual bans hauling house trailers, not bus travel."
+      }
+    }
+  ]
+}

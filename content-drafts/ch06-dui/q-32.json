@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q32",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда за DUI могут назначить усиленное наказание?",
+    "en": "When may a person convicted of DUI face enhanced penalties?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Если BAC был .16% или больше либо в машине был ребёнок младше 16 лет",
+        "en": "If the BAC was .16% or more, or a child under 16 was being transported"
+      },
+      "explanation": {
+        "ru": "Верно. В обоих случаях возможны усиленные наказания.",
+        "en": "Correct. In both cases enhanced penalties are possible."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если водитель старше 65 лет",
+        "en": "Only if the driver is over 65"
+      },
+      "explanation": {
+        "ru": "Возраст не влияет: усиленное наказание возможно при BAC .16% и выше или при перевозке ребёнка младше 16 лет.",
+        "en": "Age does not matter: enhanced penalties apply for a BAC of .16% or more or when carrying a child under 16."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если DUI случилось ночью",
+        "en": "Only if it happened at night"
+      },
+      "explanation": {
+        "ru": "Время суток не влияет. Усиленные наказания возможны при BAC .16% или выше, либо с ребёнком младше 16 лет в машине.",
+        "en": "Time of day does not matter. Enhanced penalties apply for a BAC of .16% or more or a child under 16 aboard."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никогда, наказание всегда одинаково",
+        "en": "Never, the penalty is always the same"
+      },
+      "explanation": {
+        "ru": "Бывает усиленное наказание: при BAC .16% и выше или при ребёнке младше 16 лет в машине.",
+        "en": "Enhanced penalties exist: for a BAC of .16% or more or a child under 16 aboard."
+      }
+    }
+  ]
+}

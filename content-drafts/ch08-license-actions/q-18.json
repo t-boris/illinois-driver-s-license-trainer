@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q18",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За что из перечисленного права могут быть отозваны (revoked)?",
+    "en": "A driver’s license may be revoked for:"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только за оставление места ДТП, в котором кто-то пострадал или погиб",
+        "en": "Only leaving the scene of a crash that injured or killed someone"
+      },
+      "explanation": {
+        "ru": "Это основание, но не единственное: в списке есть и другие.",
+        "en": "That is a reason, but not the only one on the list."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только за ложные сведения для Secretary of State",
+        "en": "Only giving false information to the Secretary of State"
+      },
+      "explanation": {
+        "ru": "Это основание, но не единственное: в списке есть и другие.",
+        "en": "That is a reason, but not the only one on the list."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "За всё это, а также за безрассудное поведение (reckless conduct) с автомобилем, из-за которого кто-то пострадал или оказался в опасности",
+        "en": "All of these, plus reckless behavior involving a vehicle that leads to injury or danger to someone"
+      },
+      "explanation": {
+        "ru": "Верно. Все эти пункты входят в список оснований для отзыва.",
+        "en": "Correct. All of these are on the list of reasons for revocation."
+      }
+    }
+  ]
+}

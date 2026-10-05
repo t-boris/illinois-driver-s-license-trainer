@@ -29,14 +29,14 @@
         "en": "All passenger cars"
       },
       "explanation": {
-        "ru": "Нет. Обычные легковые машины останавливаются только при сигнале, опущенном шлагбауме или приближающемся поезде.",
-        "en": "No. Regular passenger cars stop only for a signal, gate, or train."
+        "ru": "Нет. Обычные легковые машины останавливаются только при знаке STOP, сигнале, опущенном шлагбауме, сигнале флагмана или приближающемся поезде.",
+        "en": "No. Regular passenger cars stop only when a stop sign, signal, gate, flagger, or train requires it."
       }
     },
     {
       "correct": true,
       "text": {
-        "ru": "Автобусы с пассажирами, школьные автобусы и машины с опасными грузами",
+        "ru": "Транспорт, перевозящий пассажиров за плату, школьные автобусы и машины с опасными грузами",
         "en": "Vehicles carrying people for hire, school buses, and vehicles carrying hazardous materials"
       },
       "explanation": {

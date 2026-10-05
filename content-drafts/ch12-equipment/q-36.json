@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q36",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Тонированные или дымчатые линзы фар разрешены, если они не слишком тёмные.",
+    "en": "Tinted or smoked headlight lenses are allowed as long as they are not too dark."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. Тонированные и дымчатые линзы запрещены на любых транспортных средствах.",
+        "en": "Not quite: the statement is false. No tinted or smoked lenses are allowed on any vehicle."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. Тонированные и дымчатые линзы запрещены на любых транспортных средствах.",
+        "en": "Correct, the statement is false. No tinted or smoked lenses are allowed on any vehicle."
+      }
+    }
+  ]
+}

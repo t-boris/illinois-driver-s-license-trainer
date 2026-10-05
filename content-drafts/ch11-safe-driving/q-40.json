@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q40",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как уменьшить блики внутри машины ночью?",
+    "en": "How can you reduce glare inside your vehicle at night?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить потолочный свет",
+        "en": "Turn on the dome light"
+      },
+      "explanation": {
+        "ru": "Любой свет внутри машины мешает видеть дорогу.",
+        "en": "Any light inside the vehicle interferes with vision."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Приглушить подсветку приборов, использовать солнцезащитный козырёк и не включать другой свет в салоне",
+        "en": "Dim the dashboard lights, use the sun visor and avoid any other light inside"
+      },
+      "explanation": {
+        "ru": "Верно. А направляющими для вас служат боковые и осевая линии разметки.",
+        "en": "Correct. Edge lines and center lines of the road serve as your guides."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Надеть тёмные очки",
+        "en": "Wear dark sunglasses"
+      },
+      "explanation": {
+        "ru": "Руководство такого совета не даёт: уменьшайте свет внутри салона.",
+        "en": "The manual gives no such advice: reduce light inside the vehicle."
+      }
+    }
+  ]
+}

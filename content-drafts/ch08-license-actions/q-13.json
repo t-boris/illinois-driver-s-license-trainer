@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q13",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водительские права могут быть приостановлены (suspension) в каком из этих случаев?",
+    "en": "An individual’s driving privileges may be suspended under which of these conditions?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три осуждения за неосторожное вождение (reckless driving) за 12 месяцев",
+        "en": "Three reckless driving offenses in 12 months"
+      },
+      "explanation": {
+        "ru": "Это основание для отзыва (revocation), а не для приостановки. Отзыв — бессрочная мера.",
+        "en": "That one leads to a revocation, not a suspension. A revocation is indefinite."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Дрэг-рейсинг или уличные гонки (drag or street racing)",
+        "en": "Drag or street racing"
+      },
+      "explanation": {
+        "ru": "Незаконные гонки — тоже основание для отзыва (revocation), а не для приостановки.",
+        "en": "Illegal racing is also a reason for revocation, not suspension."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Незаконная перевозка алкоголя дважды за 12 месяцев водителем 21 года и старше",
+        "en": "Illegally transporting alcohol twice in 12 months if age 21 or older"
+      },
+      "explanation": {
+        "ru": "Верно. Это основание для приостановки (suspension). Для водителей младше 21 года достаточно одного нарушения.",
+        "en": "Correct. This is a reason for suspension. For drivers under 21, a single illegal transportation offense is enough."
+      }
+    }
+  ]
+}

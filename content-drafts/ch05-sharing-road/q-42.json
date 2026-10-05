@@ -7,7 +7,7 @@
   "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 45",
   "manualVersion": "2026",
   "text": {
-    "ru": "Через какое время после оставления брошенного автомобиля на автомагистрали, междугородном шоссе или платной дороге полиция вправе вызвать эвакуатор за счёт владельца?",
+    "ru": "Через какое время после оставления брошенного автомобиля на межштатном шоссе, скоростной магистрали или платной дороге полиция вправе вызвать эвакуатор за счёт владельца?",
     "en": "After how long may law enforcement request a tow at the owner’s expense for a vehicle left on an interstate, expressway, or toll highway?"
   },
   "options": [
@@ -18,7 +18,7 @@
         "en": "After 10 hours"
       },
       "explanation": {
-        "ru": "10 часов — для городской дороги. На автомагистрали, междугородном шоссе и платной дороге срок два часа.",
+        "ru": "10 часов — для городской дороги. На межштатном шоссе, скоростной магистрали и платной дороге срок два часа.",
         "en": "10 hours is for an urban highway. On an interstate, expressway, or toll highway it is two hours."
       }
     },
@@ -29,7 +29,7 @@
         "en": "After 24 hours"
       },
       "explanation": {
-        "ru": "24 часа — для загородной дороги. На автомагистралях срок короче: два часа.",
+        "ru": "24 часа — для загородной дороги. На межштатных шоссе срок короче: два часа.",
         "en": "24 hours is for a non-urban highway. On interstates the period is shorter: two hours."
       }
     },
@@ -51,7 +51,7 @@
         "en": "Immediately, with no wait"
       },
       "explanation": {
-        "ru": "Срок всё же есть: два часа на автомагистралях.",
+        "ru": "Срок всё же есть: два часа на межштатных шоссе.",
         "en": "There is still a period: two hours on interstates."
       }
     }

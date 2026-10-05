@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q16",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Когда ещё нужно включать фары, кроме времени от заката до рассвета?",
+    "en": "Besides from sunset to sunrise, when should headlights be used?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только когда идёт снег",
+        "en": "Only when it snows"
+      },
+      "explanation": {
+        "ru": "Фары нужны при любых условиях, требующих дворников, а также если не видно предметов в 1000 футах.",
+        "en": "Headlights are needed in any conditions that require wipers and when objects 1,000 feet away cannot be seen."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Когда условия требуют дворников и когда не видно предметов на расстоянии 1000 футов",
+        "en": "When conditions require windshield wipers and when objects 1,000 feet away cannot be seen"
+      },
+      "explanation": {
+        "ru": "Верно. Это дождь, снег, туман и другие условия.",
+        "en": "Correct. This includes rain, snow, fog and other conditions."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только в тоннелях",
+        "en": "Only in tunnels"
+      },
+      "explanation": {
+        "ru": "В руководстве таких ограничений нет: есть закат-рассвет, дворники и видимость 1000 футов.",
+        "en": "The manual lists no such limit: it names sunset-sunrise, wipers and 1,000-foot visibility."
+      }
+    }
+  ]
+}

@@ -9,7 +9,7 @@
     "en": "Monitoring Device Driving Permit (MDDP)"
   },
   "definition": {
-    "ru": "Разрешение, которое позволяет водителю, впервые пойманному за DUI и отбывающему statutory summary suspension, ездить на машине с BAIID в любое время суток, если он не пьёт перед поездкой и не вмешивается в работу устройства. Его нельзя выдать лицу младше 18 лет.",
+    "ru": "Разрешение, которое позволяет водителю, впервые совершившему DUI и отбывающему statutory summary suspension, ездить на машине с BAIID в любое время суток, если он не пьёт перед поездкой и не вмешивается в работу устройства. Его нельзя выдать лицу младше 18 лет.",
     "en": "A permit that allows a first-time DUI offender serving a statutory summary suspension to drive a vehicle equipped with a BAIID at any time of day or night, as long as the driver does not drink alcohol before driving or tamper with the device. It cannot be issued to a person under age 18."
   }
 }

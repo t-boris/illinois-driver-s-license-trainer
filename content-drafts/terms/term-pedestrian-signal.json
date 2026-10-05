@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-pedestrian-signal",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "пешеходный сигнал (pedestrian signal)",
+    "en": "Pedestrian signal"
+  },
+  "definition": {
+    "ru": "Сигнал для пешеходов: Walk (человечек) — можно переходить; мигающая оранжевая ладонь — не начинайте переход, начавший может дойти до тротуара; постоянная оранжевая ладонь — не выходить на проезжую часть. Пешеходы уступают дорогу водителям, соблюдая сигналы.",
+    "en": "A signal for pedestrians: Walk (walking person) means you may cross; flashing orange upraised hand means do not start, but those already crossing may continue to a sidewalk or safety island; constantly lit orange hand means do not enter the roadway. Pedestrians yield to drivers by obeying signals."
+  }
+}

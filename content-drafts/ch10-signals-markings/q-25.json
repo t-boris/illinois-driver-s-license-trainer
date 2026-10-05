@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q25",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Постоянно горящая оранжевая поднятая ладонь на пешеходном сигнале означает, что пешеход может начать переход, если машин нет.",
+    "en": "A constantly lit orange upraised hand on a pedestrian signal means a pedestrian may start crossing if no cars are coming."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. Постоянная оранжевая ладонь (Don’t Walk) означает: не выходите на проезжую часть. Идти можно при сигнале «человечек» (Walk).",
+        "en": "Not quite: the statement is false. A constantly lit orange upraised hand (Don’t Walk) means do not enter the roadway. You may cross at the Walk (walking person) signal."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. Постоянная оранжевая ладонь (Don’t Walk) означает: не выходите на проезжую часть. Идти можно при сигнале «человечек» (Walk).",
+        "en": "Correct, the statement is false. A constantly lit orange upraised hand (Don’t Walk) means do not enter the roadway. You may cross at the Walk (walking person) signal."
+      }
+    }
+  ]
+}

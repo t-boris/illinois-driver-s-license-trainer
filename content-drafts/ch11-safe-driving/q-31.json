@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q31",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно сделать перед поездкой в зимнюю погоду?",
+    "en": "What should you do before driving in winter weather?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Расчистить только небольшой участок лобового стекла",
+        "en": "Clear only a small patch of windshield"
+      },
+      "explanation": {
+        "ru": "Нужно убрать весь снег и лёд с машины и очистить все стёкла.",
+        "en": "Remove all snow and ice from the vehicle and clear all windows."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Убрать весь снег и лёд, очистить все стёкла и ехать, только когда лобовое стекло прогрето и чистое",
+        "en": "Remove all snow and ice, clear all windows and wait until the windshield is defrosted and clear"
+      },
+      "explanation": {
+        "ru": "Верно. Также нужна незамерзающая жидкость для омывателя и видимые фары и задние огни.",
+        "en": "Correct. You also need nonfreezing washer liquid and visible headlights and taillights."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сразу ехать, а стекло прогреется по пути",
+        "en": "Drive right away; the windshield will clear on the way"
+      },
+      "explanation": {
+        "ru": "Не начинайте ехать, пока стекло не прогрелось и не стало чистым.",
+        "en": "Do not start driving until the windshield is defrosted and clear."
+      }
+    }
+  ]
+}

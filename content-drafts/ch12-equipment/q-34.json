@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q34",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько ламп на передней панели кузова или на крыльях (cowl or fender lamps) разрешено?",
+    "en": "How many cowl or fender lamps are allowed?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только две, неослепляющие белые или янтарные",
+        "en": "Only two, non-glare white or amber"
+      },
+      "explanation": {
+        "ru": "Верно.",
+        "en": "Correct."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Шесть любых цветов",
+        "en": "Six of any color"
+      },
+      "explanation": {
+        "ru": "Только две и только неослепляющие белые или янтарные.",
+        "en": "Only two, non-glare white or amber."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ни одной",
+        "en": "None"
+      },
+      "explanation": {
+        "ru": "Разрешены две неослепляющие белые или янтарные.",
+        "en": "Two non-glare white or amber lamps are allowed."
+      }
+    }
+  ]
+}

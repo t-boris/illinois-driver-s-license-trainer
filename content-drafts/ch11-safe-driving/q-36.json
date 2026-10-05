@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q36",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Согласно советам по езде на скоростной дороге, что нужно сделать, если у вас проблема с машиной?",
+    "en": "According to the expressway driving tips, what should you do if you have a vehicle problem?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться прямо на полосе и включить фары",
+        "en": "Stop in the lane and turn on headlights"
+      },
+      "explanation": {
+        "ru": "Не останавливайтесь на скоростной дороге: съезжайте с проезжей части.",
+        "en": "Do not stop on the expressway: pull off the road."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выйти и идти пешком вдоль дороги за помощью",
+        "en": "Get out and walk along the expressway for help"
+      },
+      "explanation": {
+        "ru": "Никогда не ходите вдоль скоростной дороги.",
+        "en": "Never walk along the expressway."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Съехать с дороги, поднять капот и включить аварийную сигнализацию",
+        "en": "Pull off the road, lift the hood and turn on hazard flashers"
+      },
+      "explanation": {
+        "ru": "Верно. Поднятый капот и аварийка дают другим понять, что у вас проблема.",
+        "en": "Correct. A raised hood and hazard flashers tell others you have a problem."
+      }
+    }
+  ]
+}

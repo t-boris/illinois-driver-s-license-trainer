@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q29",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Второе нарушение скоростного режима в зоне дорожных работ при наличии рабочих может привести к приостановке прав, если оно произошло в течение какого срока после предыдущего?",
+    "en": "A second speeding violation in a construction zone when workers are present can lead to suspension if it happens within what time of the previous violation?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Шести месяцев",
+        "en": "Six months"
+      },
+      "explanation": {
+        "ru": "Срок длиннее: два года.",
+        "en": "The period is longer: two years."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Двух лет",
+        "en": "Two years"
+      },
+      "explanation": {
+        "ru": "Верно. Скорость в рабочей зоне, где есть рабочие, может быть опасной и дорогой ошибкой.",
+        "en": "Correct. Speeding where workers are present is dangerous and costly."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Десяти лет",
+        "en": "Ten years"
+      },
+      "explanation": {
+        "ru": "Срок короче: два года.",
+        "en": "The period is shorter: two years."
+      }
+    }
+  ]
+}

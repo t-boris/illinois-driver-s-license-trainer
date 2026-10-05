@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q24",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько осуждений за неосторожное вождение (reckless driving) за 12 месяцев может привести к отзыву прав?",
+    "en": "How many reckless driving convictions in 12 months can lead to revocation?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Одно",
+        "en": "One"
+      },
+      "explanation": {
+        "ru": "Нет, порог выше: три осуждения за 12 месяцев.",
+        "en": "No, the threshold is higher: three convictions in 12 months."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Три",
+        "en": "Three"
+      },
+      "explanation": {
+        "ru": "Верно. Отзыв возможен и за вождение, повлёкшее тяжёлый вред здоровью другого человека.",
+        "en": "Correct. Revocation is also possible for driving that results in great bodily harm to another person."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пять",
+        "en": "Five"
+      },
+      "explanation": {
+        "ru": "Пять — порог для неоплаченных автоматических штрафов. Для reckless driving достаточно трёх осуждений.",
+        "en": "Five is the threshold for unpaid automated violations. For reckless driving three convictions are enough."
+      }
+    }
+  ]
+}

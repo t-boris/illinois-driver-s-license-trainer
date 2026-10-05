@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q28",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как нужно подавать сигналы и тормозить в тумане?",
+    "en": "In fog, how should you signal turns and stops?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включать поворотник только в момент манёвра",
+        "en": "Signal only at the moment of the turn"
+      },
+      "explanation": {
+        "ru": "В тумане другие водители видят хуже: сигналить нужно задолго до поворота.",
+        "en": "Other drivers see less in fog: signal long before turning."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Включать сигнал поворота заранее и тормозить раньше обычного",
+        "en": "Signal long before turning and brake early when approaching a stop"
+      },
+      "explanation": {
+        "ru": "Верно. Так вы предупреждаете других водителей. Не двигайтесь со скоростью 5–10 миль/ч на дороге: если туман слишком густой, съезжайте и остановитесь.",
+        "en": "Correct. This warns other drivers. Do not creep at 5-10 mph on the road: if the fog is too dense, pull off and stop."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Тормозить резко в последний момент",
+        "en": "Brake hard at the last moment"
+      },
+      "explanation": {
+        "ru": "Резкое торможение опасно для едущих сзади. Тормозите заранее.",
+        "en": "Hard braking at the last moment is dangerous for those behind. Brake early."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q45",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ваша машина съехала с дороги в воду и пока не тонет. Что нужно сделать?",
+    "en": "Your vehicle runs off the road into water but does not sink right away. What should you do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Попытаться выбраться через окно",
+        "en": "Try to escape through a window"
+      },
+      "explanation": {
+        "ru": "Верно. Из-за разницы давления воды двери могут не открыться.",
+        "en": "Correct. Because of differences in water pressure, you may not be able to open the doors."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ждать помощи с закрытыми окнами и дверьми",
+        "en": "Wait for help with doors and windows closed"
+      },
+      "explanation": {
+        "ru": "Нужно выбираться сразу, пока машина не затонула.",
+        "en": "Escape right away, before the vehicle sinks."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Открыть дверь и выйти",
+        "en": "Open a door and step out"
+      },
+      "explanation": {
+        "ru": "Из-за давления воды двери могут не открыться: лучше окно.",
+        "en": "Water pressure may keep the doors shut: use a window."
+      }
+    }
+  ]
+}

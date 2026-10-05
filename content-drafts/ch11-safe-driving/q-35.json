@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q35",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как нужно использовать полосы на скоростной дороге?",
+    "en": "How should you use the lanes on an expressway?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Правая — для быстрого движения и обгона, левая — для медленного",
+        "en": "Right lane for fast traffic and passing, left lane for slow traffic"
+      },
+      "explanation": {
+        "ru": "Наоборот: правая полоса для более медленных машин, левая — для быстрых и обгона.",
+        "en": "It is the reverse: the right lane is for slower traffic, the left lane for faster traffic and passing."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Правая — для медленного движения, левая — для быстрого и обгона; не ездить постоянно в левой",
+        "en": "Right lane for slower traffic, left lane for faster traffic and passing; do not drive continuously in the left lane"
+      },
+      "explanation": {
+        "ru": "Верно. Перед перестроением смотрите в зеркала и включайте поворотник.",
+        "en": "Correct. Check your mirrors and use your turn signal before changing lanes."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ездить можно в любой полосе без ограничений",
+        "en": "Drive in any lane without limits"
+      },
+      "explanation": {
+        "ru": "Правило есть: не ездите постоянно в левой полосе.",
+        "en": "There is a rule: do not drive continuously in the left lane."
+      }
+    }
+  ]
+}

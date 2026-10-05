@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q23",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Груз выступает сзади на 4 фута и более. Что нужно ночью или при плохой видимости?",
+    "en": "A load extends 4 feet or more to the rear. What is required at night or when visibility is poor?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Красный флажок",
+        "en": "A red flag"
+      },
+      "explanation": {
+        "ru": "Красный флаг нужен днём. Ночью и при плохой видимости нужен красный свет.",
+        "en": "A red flag is for daytime. At night or in poor visibility a red light is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Белый свет, видимый с 50 футов",
+        "en": "A white light visible for 50 feet"
+      },
+      "explanation": {
+        "ru": "Нужен красный свет, видимый с 500 футов.",
+        "en": "A red light visible for 500 feet is required."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Красный свет, видимый с 500 футов",
+        "en": "A red light visible for 500 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Днём груз такого размера отмечают красным флажком.",
+        "en": "Correct. By day such a load is marked with a red flag."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q16",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "При каком материальном ущербе нужно подавать отчёт об аварии, если одна из машин не застрахована?",
+    "en": "At what property damage amount must a crash report be filed if any vehicle involved is uninsured?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "$500 или больше",
+        "en": "$500 or more"
+      },
+      "explanation": {
+        "ru": "Верно. Если все машины застрахованы, порог выше: более $1,500.",
+        "en": "Correct. If all vehicles are insured, the threshold is higher: more than $1,500."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Более $1,500",
+        "en": "More than $1,500"
+      },
+      "explanation": {
+        "ru": "Это порог для случая, когда все машины застрахованы. Если одна не застрахована, порог $500.",
+        "en": "That threshold is for when all vehicles are insured. If one is uninsured, it is $500."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Более $5,000",
+        "en": "More than $5,000"
+      },
+      "explanation": {
+        "ru": "Порог ниже: $500 при незастрахованной машине.",
+        "en": "The threshold is lower: $500 when a vehicle is uninsured."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Отчёт не нужен",
+        "en": "No report is needed"
+      },
+      "explanation": {
+        "ru": "Нужен: при незастрахованной машине порог всего $500.",
+        "en": "It is needed: with an uninsured vehicle the threshold is just $500."
+      }
+    }
+  ]
+}

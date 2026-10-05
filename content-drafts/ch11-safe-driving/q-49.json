@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q49",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "После аварии на вашу машину упали провода. Что делать, если огонь становится непосредственной опасностью?",
+    "en": "Power lines have fallen on your vehicle. If fire becomes an immediate danger, what must you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выйти обычным шагом, держась за машину",
+        "en": "Step out normally while holding the car"
+      },
+      "explanation": {
+        "ru": "Это опасно: тело не должно касаться машины и земли одновременно.",
+        "en": "That is dangerous: no part of your body may touch the vehicle and the ground at the same time."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Выпрыгнуть, приземлиться на обе ноги и отойти на 50 футов прыжками или мелкими шагами, прижав руки к телу",
+        "en": "Jump clear, land on both feet and hop or shuffle 50 feet away with arms close to your body"
+      },
+      "explanation": {
+        "ru": "Верно. Если огня нет, лучше оставаться в машине до прихода помощи.",
+        "en": "Correct. If fire is not a danger, remain in the vehicle until help arrives."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выбежать большими шагами",
+        "en": "Run away with long strides"
+      },
+      "explanation": {
+        "ru": "Нужно прыгать или двигаться мелкими шагами, не делая больших шагов.",
+        "en": "Hop or shuffle rather than taking long strides."
+      }
+    }
+  ]
+}

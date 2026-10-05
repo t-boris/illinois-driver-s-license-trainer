@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q42",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 52",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что водителю, чьи права приостановлены или аннулированы за DUI, нельзя водить ни в одном штате?",
+    "en": "True or false: An Illinois driver whose driving privileges are suspended or revoked due to a DUI conviction is not allowed to drive a motor vehicle in any state."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Если вас задержат за такое вождение в другом штате, об этом сообщат в Secretary of State.",
+        "en": "Correct. If you are arrested for driving that way in another state, it is reported to the Secretary of State."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Запрет действует в любом штате, а не только в Illinois.",
+        "en": "The ban applies in any state, not only in Illinois."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q28",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что водитель, потерявший права из-за неоплаты ущерба после аварии, перед восстановлением должен подать в Secretary of State доказательство финансовой ответственности?",
+    "en": "True or false: Before drivers can regain driving privileges after losing them for failure to pay for damages caused by a crash, they must file proof of financial responsibility with the Secretary of State."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Доказательством может быть сертификат страхования (SR-22), поручительство или депозит ценных бумаг.",
+        "en": "Correct. Proof may be an insurance certificate (SR-22), a bond, or a deposit of securities."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Доказательство финансовой ответственности нужно подать до восстановления прав.",
+        "en": "Proof of financial responsibility must be filed before privileges are restored."
+      }
+    }
+  ]
+}

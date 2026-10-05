@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q30",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 58",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что из перечисленного может привести к отзыву прав (revocation), а не к приостановке?",
+    "en": "Which of these can lead to a revocation rather than a suspension?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Дрэг-рейсинг или уличные гонки",
+        "en": "Drag or street racing"
+      },
+      "explanation": {
+        "ru": "Верно. Также к отзыву ведут угон автомобиля или запчастей, третье DUI и оставление места ДТП с пострадавшими.",
+        "en": "Correct. Auto theft, a third DUI and leaving the scene of an injury crash also lead to revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Парковка на месте для людей с инвалидностью без права",
+        "en": "Unauthorized parking in a space for persons with disabilities"
+      },
+      "explanation": {
+        "ru": "Это основание для приостановки (suspension), а не для отзыва.",
+        "en": "That is a reason for suspension, not revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неоплаченные пять и более автоматических штрафов за красный свет",
+        "en": "Five or more unpaid automated red-light violations"
+      },
+      "explanation": {
+        "ru": "Это основание для приостановки (suspension), а не для отзыва.",
+        "en": "That is a reason for suspension, not revocation."
+      }
+    }
+  ]
+}

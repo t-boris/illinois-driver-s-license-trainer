@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q30",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое минимальное аннулирование прав грозит за второе осуждение за DUI в течение 20 лет?",
+    "en": "What is the minimum revocation for a second DUI conviction within 20 years?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Один год",
+        "en": "One year"
+      },
+      "explanation": {
+        "ru": "Один год — минимум за первое осуждение. За второе в течение 20 лет — пять лет.",
+        "en": "One year is the minimum for a first conviction. For a second within 20 years it is five years."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "10 лет",
+        "en": "10 years"
+      },
+      "explanation": {
+        "ru": "10 лет — минимум за третье осуждение. За второе — пять лет.",
+        "en": "10 years is the minimum for a third conviction. For a second it is five years."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пять лет",
+        "en": "Five years"
+      },
+      "explanation": {
+        "ru": "Верно. Первое осуждение — минимум один год, третье — 10 лет, четвёртое и последующие — пожизненно.",
+        "en": "Correct. A first conviction brings at least one year, a third 10 years, and a fourth or later a lifetime revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три года",
+        "en": "Three years"
+      },
+      "explanation": {
+        "ru": "Срок больше: за второе осуждение в течение 20 лет — минимум пять лет.",
+        "en": "The term is longer: at least five years for a second conviction within 20 years."
+      }
+    }
+  ]
+}

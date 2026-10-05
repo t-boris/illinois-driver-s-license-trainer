@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q29",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 85",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно сделать в сильный ветер при выезде из защищённого места на открытое и встрече с крупными машинами?",
+    "en": "In high winds, what should you do when going from a protected area to an open area or meeting large vehicles?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Снизить скорость и быть готовым исправлять курс рулём",
+        "en": "Reduce your speed and make steering corrections"
+      },
+      "explanation": {
+        "ru": "Верно. Ветер особенно сложен для грузовиков, домов на колёсах, кемперов и прицепов.",
+        "en": "Correct. Wind is a special problem for trucks, recreational vehicles, campers and trailers-in-tow."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Увеличить скорость, чтобы быстрее проехать",
+        "en": "Speed up to get through quickly"
+      },
+      "explanation": {
+        "ru": "Нужно снизить скорость, а не увеличивать.",
+        "en": "You need to reduce speed, not increase it."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Держать руль неподвижно и не корректировать курс",
+        "en": "Hold the wheel still and not correct"
+      },
+      "explanation": {
+        "ru": "Ветер сносит машину: рулевые поправки нужны.",
+        "en": "The wind pushes the vehicle: steering corrections are needed."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q19",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько футов позади машины вы должны видеть через зеркало заднего вида?",
+    "en": "How far behind your car must the rearview mirror let you see?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не менее 50 футов",
+        "en": "At least 50 feet"
+      },
+      "explanation": {
+        "ru": "Не менее 200 футов.",
+        "en": "At least 200 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не менее 200 футов",
+        "en": "At least 200 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Достаточно одного зеркала заднего вида.",
+        "en": "Correct. One rearview mirror is required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не менее 500 футов",
+        "en": "At least 500 feet"
+      },
+      "explanation": {
+        "ru": "Требуется 200 футов.",
+        "en": "200 feet is required."
+      }
+    }
+  ]
+}

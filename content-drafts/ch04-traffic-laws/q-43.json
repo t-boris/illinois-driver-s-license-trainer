@@ -7,41 +7,41 @@
   "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 24",
   "manualVersion": "2026",
   "text": {
-    "ru": "От чего зависит, нужно ли ехать ниже установленного лимита?",
-    "en": "Speed should be reduced below the posted limit for which reason?"
+    "ru": "В какой ситуации водитель обязан сбавить скорость?",
+    "en": "In which situation must a driver slow down?"
   },
   "options": [
     {
       "correct": false,
       "text": {
-        "ru": "Только при плохой погоде",
-        "en": "Only in bad weather"
+        "ru": "Только когда рядом стоит полицейский",
+        "en": "Only when a police officer is nearby"
       },
       "explanation": {
-        "ru": "Погода — одна из причин, но не единственная.",
-        "en": "Weather is one reason, but not the only one."
+        "ru": "Нет. Сбавлять скорость нужно в зависимости от дороги, а не от присутствия полиции.",
+        "en": "No. Slowing down depends on the road ahead, not on whether police are nearby."
       }
     },
     {
       "correct": false,
       "text": {
-        "ru": "Только при подъезде к перекрёстку",
-        "en": "Only when approaching an intersection"
+        "ru": "Только в тёмное время суток",
+        "en": "Only after dark"
       },
       "explanation": {
-        "ru": "Это тоже причина, но есть и другие.",
-        "en": "That is also a reason, but there are more."
+        "ru": "Нет. Сбавлять скорость нужно и днём, в определённых местах на дороге.",
+        "en": "No. You must slow down in daylight too, in certain places on the road."
       }
     },
     {
       "correct": true,
       "text": {
-        "ru": "Обе причины: неблагоприятная погода и подъезд к перекрёстку",
-        "en": "Both: unfavorable weather and approaching or crossing an intersection"
+        "ru": "При подъезде к перекрёстку, на повороте, перед вершиной холма и на узкой извилистой дороге",
+        "en": "When approaching an intersection, on a curve, near the top of a hill, and on a narrow winding road"
       },
       "explanation": {
-        "ru": "Верно! Также сбавляйте скорость на повороте, перед вершиной холма и на узкой извилистой дороге. Максимальная скорость допустима только при безопасных условиях.",
-        "en": "Correct! Also slow down on curves, at hilltops, and on narrow winding roads. The maximum speed is allowed only under safe conditions."
+        "ru": "Верно! Помните и об опасностях: пешеходы, велосипедисты, погода, состояние дороги. Максимальная скорость допустима только при безопасных условиях.",
+        "en": "Correct! Stay aware of pedestrians, bicyclists, weather, and road conditions too. The maximum speed is allowed only under safe conditions."
       }
     }
   ]

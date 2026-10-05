@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q33",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие ограничения у подножных фонарей (running board lights)?",
+    "en": "What limits apply to running board lights?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Любое количество любого цвета",
+        "en": "Any number, any color"
+      },
+      "explanation": {
+        "ru": "Не более одной с каждой стороны, неослепляющий белый или янтарный.",
+        "en": "Limited to one on each side, non-glare white or amber."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не более одного с каждой стороны, неослепляющий белый или янтарный",
+        "en": "One on each side, non-glare white or amber"
+      },
+      "explanation": {
+        "ru": "Верно.",
+        "en": "Correct."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только красные",
+        "en": "Red only"
+      },
+      "explanation": {
+        "ru": "Красные огни, видимые спереди, запрещены.",
+        "en": "Red lights visible from the front are prohibited."
+      }
+    }
+  ]
+}

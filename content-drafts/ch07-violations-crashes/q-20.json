@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q20",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что водитель, попавший в аварию или оказавшийся на месте аварии, должен по возможности остановиться в безопасном, хорошо освещённом общественном месте, не мешая движению?",
+    "en": "True or false: Drivers who are involved in or come upon a traffic crash should stop in a safe, well-lit public place that does not obstruct traffic, if able to do so."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Затем помогите пострадавшим, если это нужно, и сразу звоните 911.",
+        "en": "Correct. Then help any injured person if necessary and call 911 immediately."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Остановиться нужно в безопасном, хорошо освещённом общественном месте, где вы не мешаете движению.",
+        "en": "You should stop in a safe, well-lit public place where you do not obstruct traffic."
+      }
+    }
+  ]
+}

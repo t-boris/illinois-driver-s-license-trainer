@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q52",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Педаль тормоза неожиданно провалилась до пола. Что делать?",
+    "en": "The brake pedal suddenly sinks to the floor. What should you do?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Прокачать педаль, затем использовать стояночный тормоз и перейти на пониженную передачу",
+        "en": "Pump it to build pressure, then use the emergency or parking brake, and shift to a lower gear"
+      },
+      "explanation": {
+        "ru": "Верно. Эти действия идут по порядку: педаль, стояночный тормоз, пониженная передача.",
+        "en": "Correct. The steps are: pump the pedal, use the parking brake, shift down."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выключить двигатель и выйти из машины",
+        "en": "Switch off the engine and step out"
+      },
+      "explanation": {
+        "ru": "Нужно пытаться замедлить машину: качать педаль, стояночный тормоз, пониженная передача.",
+        "en": "Try to slow the vehicle: pump the pedal, use the parking brake, shift to a lower gear."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нажать на газ, чтобы проскочить опасное место",
+        "en": "Press the gas to get past the hazard"
+      },
+      "explanation": {
+        "ru": "Нужно замедляться, а не ускоряться.",
+        "en": "You need to slow down, not accelerate."
+      }
+    }
+  ]
+}

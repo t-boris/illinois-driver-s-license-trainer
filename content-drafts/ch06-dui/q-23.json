@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q23",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Можно ли пройти дополнительный тест у специалиста по своему выбору после теста по требованию полиции?",
+    "en": "May you have an additional test administered by a qualified person of your choice?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нет, дополнительные тесты запрещены",
+        "en": "No, additional tests are not allowed"
+      },
+      "explanation": {
+        "ru": "Разрешены: вы вправе попросить квалифицированного специалиста провести ещё один тест за свой счёт.",
+        "en": "They are allowed: you may have a qualified person administer another test at your own expense."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Да, за счёт штата",
+        "en": "Yes, at the state’s expense"
+      },
+      "explanation": {
+        "ru": "Платите вы сами: дополнительный тест проводится за ваш счёт.",
+        "en": "You pay yourself: an additional test is at your own expense."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только с разрешения судьи",
+        "en": "Only with a judge’s permission"
+      },
+      "explanation": {
+        "ru": "Разрешение судьи не нужно: можно выбрать квалифицированного специалиста за свой счёт.",
+        "en": "No judge’s permission is needed: you may choose a qualified person at your own expense."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Да, за свой счёт",
+        "en": "Yes, at your own expense"
+      },
+      "explanation": {
+        "ru": "Верно. Это право закреплено в законе об implied consent.",
+        "en": "Correct. This right is part of the implied consent law."
+      }
+    }
+  ]
+}

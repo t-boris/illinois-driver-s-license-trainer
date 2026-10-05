@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q32",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что руководство требует о тормозах легкового автомобиля?",
+    "en": "What does the manual require about a passenger vehicle’s brakes?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Две тормозные системы и тормоза на всех колёсах",
+        "en": "Two brake systems and brakes on all wheels"
+      },
+      "explanation": {
+        "ru": "Верно. Для motor-driven cycles (моторизованных двухколёсных транспортных средств) достаточно одного тормоза.",
+        "en": "Correct. Motor-driven cycles need only one brake."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Одна тормозная система и тормоза на передних колёсах",
+        "en": "One brake system and brakes on the front wheels only"
+      },
+      "explanation": {
+        "ru": "Нужны две системы и тормоза на всех колёсах.",
+        "en": "Two systems and brakes on all wheels are required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только стояночный тормоз",
+        "en": "Only a parking brake"
+      },
+      "explanation": {
+        "ru": "Нужны ножной и стояночный тормоза.",
+        "en": "Both a foot brake and an emergency/parking brake are required."
+      }
+    }
+  ]
+}

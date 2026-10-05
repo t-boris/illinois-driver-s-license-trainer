@@ -10,8 +10,8 @@
     "sign": true,
     "signId": "R6-3",
     "alt": {
-      "ru": "Бело-чёрный прямоугольник с надписью и стрелками в обе стороны",
-      "en": "Black and white rectangle with lettering and arrows in both directions"
+      "ru": "Бело-чёрный прямоугольник с двумя стрелками в противоположные стороны и вертикальной чертой",
+      "en": "Black and white rectangle with two arrows pointing opposite ways and a vertical bar"
     }
   },
   "text": {
@@ -44,12 +44,12 @@
     {
       "correct": false,
       "text": {
-        "ru": "Перекрёсток с главной дорогой",
-        "en": "A crossing of main roads"
+        "ru": "Впереди кольцевая развязка",
+        "en": "A roundabout ahead"
       },
       "explanation": {
-        "ru": "Знак говорит именно о разделительной полосе.",
-        "en": "The sign speaks specifically about a median."
+        "ru": "На знаке нет кругового символа: он говорит о разделительной полосе.",
+        "en": "There is no circular symbol on the sign: it speaks about a median."
       }
     },
     {

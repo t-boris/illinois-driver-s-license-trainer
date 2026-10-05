@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q21",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Куда сообщать об аварии, если офицера на месте нет?",
+    "en": "Where must a crash be reported if no officer is at the scene?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только по почте через месяц",
+        "en": "Only by mail within a month"
+      },
+      "explanation": {
+        "ru": "Нужно сообщить как можно скорее, в полицию, а в сельской местности шерифу или Illinois State Police.",
+        "en": "It must be reported as soon as possible to police, or in a rural area to the sheriff or Illinois State Police."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "В ближайший полицейский участок как можно скорее; в сельской местности шерифу округа или Illinois State Police",
+        "en": "At the nearest police station as soon as possible; in a rural area to the county sheriff or Illinois State Police"
+      },
+      "explanation": {
+        "ru": "Верно. Многие города и посёлки тоже требуют отчёт, если авария произошла на их территории.",
+        "en": "Correct. Many towns and cities also require a report if the crash occurs within their limits."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только своей страховой компании",
+        "en": "Only to your insurance company"
+      },
+      "explanation": {
+        "ru": "Страховая не заменяет полицию: сообщите в полицейский участок, а в сельской местности шерифу или Illinois State Police.",
+        "en": "Insurance does not replace police: report to a police station, or in a rural area to the sheriff or Illinois State Police."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Не нужно, если никто не пострадал",
+        "en": "No need if nobody was hurt"
+      },
+      "explanation": {
+        "ru": "Если ущерб выше порога, сообщать нужно независимо от того, есть ли пострадавшие.",
+        "en": "If damage exceeds the threshold, a report is needed whether or not anyone was hurt."
+      }
+    }
+  ]
+}

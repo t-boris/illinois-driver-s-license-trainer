@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-emergency-brake",
+  "topic": "ch12-equipment",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "аварийный (стояночный) тормоз (emergency brake)",
+    "en": "Emergency (parking) brake"
+  },
+  "definition": {
+    "ru": "Вторая тормозная система автомобиля. Она должна остановить машину в пределах 55 футов при скорости 20 миль/ч и удерживать машину на уклоне или горке.",
+    "en": "The vehicle’s second brake system. It must stop the vehicle within 55 feet at 20 mph and be able to hold the vehicle on a grade or hill."
+  }
+}

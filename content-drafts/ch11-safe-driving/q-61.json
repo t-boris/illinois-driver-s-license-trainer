@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q61",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вы понимаете, что избежать столкновения не удастся. Что рекомендует руководство?",
+    "en": "You cannot avoid a crash. What does the manual recommend?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Сохранять спокойствие и выбрать наименее опасный вариант",
+        "en": "Remain calm and try to choose the least dangerous situation"
+      },
+      "explanation": {
+        "ru": "Верно. Защитное вождение — быть готовым к действиям других водителей и не считать, что вы знаете, что они сделают.",
+        "en": "Correct. Defensive driving means being prepared to react to other drivers and not assuming you know what they will do."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Закрыть глаза и затормозить",
+        "en": "Close your eyes and brake"
+      },
+      "explanation": {
+        "ru": "Нужно сохранять спокойствие и выбирать наименее опасный вариант.",
+        "en": "Stay calm and choose the least dangerous option."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Посигналить и ускориться",
+        "en": "Honk and speed up"
+      },
+      "explanation": {
+        "ru": "Это не наименее опасный вариант.",
+        "en": "This is not the least dangerous option."
+      }
+    }
+  ]
+}

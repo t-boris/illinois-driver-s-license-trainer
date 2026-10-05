@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q50",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно соблюдать при заправке автомобиля?",
+    "en": "What must you do when refueling?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Заглушить двигатель, не курить и оставаться у колонки",
+        "en": "Shut off the engine, never smoke and remain with the pump"
+      },
+      "explanation": {
+        "ru": "Верно. Огонь и искры рядом с бензином взрывоопасны.",
+        "en": "Correct. Fire and sparks near gasoline are an explosive hazard."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Оставить двигатель включённым, чтобы работал кондиционер",
+        "en": "Leave the engine on for the air conditioning"
+      },
+      "explanation": {
+        "ru": "Двигатель при заправке нужно выключать.",
+        "en": "The engine must be shut off when refueling."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Оставить насос включённым и отойти в магазин",
+        "en": "Lock the pump on and walk to the shop"
+      },
+      "explanation": {
+        "ru": "Для безопасности нужно оставаться у колонки.",
+        "en": "For safety, remain with the pump while refueling."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q23",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На красную стрелку можно повернуть направо после полной остановки и уступки встречному транспорту и пешеходам.",
+    "en": "You may make a right turn at a red arrow after coming to a complete stop and yielding to oncoming traffic and pedestrians."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Это одно из двух исключений. Второе — левый поворот с односторонней улицы на другую одностороннюю с движением налево.",
+        "en": "Correct. This is one of two exceptions. The other is a left turn from a one-way street onto another one-way street with traffic moving left."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Это одно из двух исключений. Второе — левый поворот с односторонней улицы на другую одностороннюю с движением налево.",
+        "en": "Not quite: the statement is true. This is one of two exceptions. The other is a left turn from a one-way street onto another one-way street with traffic moving left."
+      }
+    }
+  ]
+}

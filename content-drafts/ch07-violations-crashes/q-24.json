@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q24",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Кто определяет размер залога (security) по Safety Responsibility Law?",
+    "en": "Who determines the amount of security under the Safety Responsibility Law?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Illinois Department of Transportation (IDOT)",
+        "en": "The Illinois Department of Transportation (IDOT)"
+      },
+      "explanation": {
+        "ru": "Верно. Если залог не внесён, права могут быть приостановлены до урегулирования иска.",
+        "en": "Correct. If the security is not posted, the license may be suspended until the lawsuit is settled."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Сам водитель",
+        "en": "The driver"
+      },
+      "explanation": {
+        "ru": "Размер определяет не водитель, а Illinois Department of Transportation.",
+        "en": "The driver does not decide: the Illinois Department of Transportation does."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Страховая компания пострадавшего",
+        "en": "The injured party’s insurer"
+      },
+      "explanation": {
+        "ru": "Размер определяет Illinois Department of Transportation.",
+        "en": "The Illinois Department of Transportation sets the amount."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полицейский на месте аварии",
+        "en": "The police officer at the scene"
+      },
+      "explanation": {
+        "ru": "Размер определяет Illinois Department of Transportation, а не полицейский.",
+        "en": "The Illinois Department of Transportation sets it, not the officer."
+      }
+    }
+  ]
+}

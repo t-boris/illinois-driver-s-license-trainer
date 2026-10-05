@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q16",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Можно ли быть осуждённым за DUI, если BAC ниже .08%?",
+    "en": "Can you be convicted of DUI if your BAC is below .08%?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Да, если способность управлять машиной нарушена",
+        "en": "Yes, if your driving ability is impaired"
+      },
+      "explanation": {
+        "ru": "Верно. .08% — это порог, при котором вождение незаконно само по себе, но алкоголь влияет на вождение и ниже этого уровня.",
+        "en": "Correct. .08% is the level at which driving is illegal by itself, but alcohol affects driving even below that level."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нет, ниже .08% DUI не бывает",
+        "en": "No, there is no DUI below .08%"
+      },
+      "explanation": {
+        "ru": "Бывает: осудить могут и при BAC ниже .08%, если способность управлять нарушена.",
+        "en": "There is: a conviction is possible below .08% if driving ability is impaired."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если за рулём новичок",
+        "en": "Only if the driver is a new driver"
+      },
+      "explanation": {
+        "ru": "Опыт не влияет: DUI возможно, если способность управлять нарушена, и при BAC ниже .08%.",
+        "en": "Experience does not matter: DUI is possible when driving ability is impaired, even below .08%."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только после аварии",
+        "en": "Only after a crash"
+      },
+      "explanation": {
+        "ru": "Авария не обязательна: нарушенной способности управлять достаточно.",
+        "en": "A crash is not required: impaired driving ability is enough."
+      }
+    }
+  ]
+}

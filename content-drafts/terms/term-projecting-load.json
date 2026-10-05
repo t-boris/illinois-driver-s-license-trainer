@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-projecting-load",
+  "topic": "ch12-equipment",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "выступающий груз (projecting load)",
+    "en": "Projecting load"
+  },
+  "definition": {
+    "ru": "Груз, выступающий сзади на 4 фута и более. Днём его отмечают красным флажком, ночью или при плохой видимости нужен красный свет, видимый с 500 футов.",
+    "en": "A load extending 4 feet or more to the rear of a vehicle. By day it must be marked with a red flag; at night or in poor visibility the vehicle must have a red light visible for 500 feet."
+  }
+}

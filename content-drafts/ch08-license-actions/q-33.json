@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q33",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Для человека младше 18 лет отказ (denial) за нарушение, за которое положен обязательный отзыв, означает, что он не может подать заявление...",
+    "en": "For a person under 18, a denial for an offense that carries mandatory revocation means they cannot apply for..."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только на права, но на учебное разрешение может",
+        "en": "Only a license, but may apply for an instruction permit"
+      },
+      "explanation": {
+        "ru": "Для этих нарушений запрет шире: нельзя подать ни на права, ни на учебное разрешение.",
+        "en": "For these offenses the ban is wider: neither a license nor a permit may be applied for."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Ни на права, ни на учебное разрешение до 18-летия",
+        "en": "Neither a license nor an instruction permit until the 18th birthday"
+      },
+      "explanation": {
+        "ru": "Верно. Срок отказа — до 18-го дня рождения.",
+        "en": "Correct. The denial lasts until the 18th birthday."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ни на что, но только в течение девяти месяцев",
+        "en": "Anything, but only for nine months"
+      },
+      "explanation": {
+        "ru": "Девять месяцев — срок отказа за серьёзное нарушение ПДД (по более короткому из двух сроков).",
+        "en": "Nine months applies to a serious moving violation denial (whichever is shorter)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q15",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "За какое расстояние стояночный (аварийный) тормоз должен остановить автомобиль, едущий со скоростью 20 миль/ч?",
+    "en": "Within what distance must the emergency or parking brake stop a vehicle traveling at 20 mph?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "За 30 футов",
+        "en": "30 feet"
+      },
+      "explanation": {
+        "ru": "30 футов — норма для ножного тормоза. Аварийный тормоз должен остановить машину в пределах 55 футов.",
+        "en": "30 feet is the standard for the foot brake. The emergency brake must stop the vehicle within 55 feet."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "За 55 футов",
+        "en": "55 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Аварийный тормоз также должен удерживать машину на уклоне или горке.",
+        "en": "Correct. The emergency brake must also be able to hold the vehicle on a grade or hill."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "За 100 футов",
+        "en": "100 feet"
+      },
+      "explanation": {
+        "ru": "Расстояние короче: 55 футов.",
+        "en": "The limit is shorter: 55 feet."
+      }
+    }
+  ]
+}

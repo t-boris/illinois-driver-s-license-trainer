@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q37",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 86",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие максимальные ограничения скорости приводит руководство для скоростных дорог (expressways, interstates, toll roads, freeways)?",
+    "en": "What maximum speed limits does the manual give for expressways, interstates, toll roads and freeways?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "30, 40 или 45 миль/ч",
+        "en": "30, 40 or 45 mph"
+      },
+      "explanation": {
+        "ru": "Скоростные дороги быстрее: максимальные ограничения 55, 65 или 70 миль/ч.",
+        "en": "Expressways are faster: maximum limits are 55, 65 or 70 mph."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "55, 65 или 70 миль/ч",
+        "en": "55, 65 or 70 mph"
+      },
+      "explanation": {
+        "ru": "Верно. Скорость и плотность движения на таких дорогах — главные факторы риска.",
+        "en": "Correct. Speed and traffic volume are the major concerns on these roads."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "80, 90 или 100 миль/ч",
+        "en": "80, 90 or 100 mph"
+      },
+      "explanation": {
+        "ru": "Слишком много: максимумы 55, 65 или 70 миль/ч.",
+        "en": "Too high: the maximums are 55, 65 or 70 mph."
+      }
+    }
+  ]
+}

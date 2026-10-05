@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q29",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что случится с правами водителя, который отказался от тестирования после аварии с серьёзной травмой или гибелью человека?",
+    "en": "What happens to the license of a driver who refuses chemical testing after a crash involving serious personal injury or death?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Права приостановят на 30 дней",
+        "en": "Privileges will be suspended for 30 days"
+      },
+      "explanation": {
+        "ru": "Мера строже: аннулирование минимум на один год.",
+        "en": "The measure is stricter: revocation for at least one year."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Права будут аннулированы (revoked) минимум на один год",
+        "en": "Driving privileges will be revoked for a minimum of one year"
+      },
+      "explanation": {
+        "ru": "Верно. Здесь не приостановка, а более серьёзная мера: аннулирование прав.",
+        "en": "Correct. This is not a suspension but the more serious measure of revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только штраф",
+        "en": "Only a fine"
+      },
+      "explanation": {
+        "ru": "Помимо других мер последует аннулирование прав минимум на один год.",
+        "en": "Revocation for at least one year follows, among other measures."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, если нет ареста",
+        "en": "Nothing, if there was no arrest"
+      },
+      "explanation": {
+        "ru": "Отказ после серьёзной аварии ведёт к аннулированию прав минимум на год.",
+        "en": "Refusal after a serious crash leads to revocation for at least one year."
+      }
+    }
+  ]
+}

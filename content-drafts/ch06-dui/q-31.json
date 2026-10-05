@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q31",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что ждёт водителя за четвёртое и последующие осуждения за DUI?",
+    "en": "What follows a fourth and subsequent DUI conviction?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Аннулирование на 10 лет",
+        "en": "A 10-year revocation"
+      },
+      "explanation": {
+        "ru": "10 лет — минимум за третье осуждение. За четвёртое — пожизненно.",
+        "en": "10 years is the minimum for a third conviction. For a fourth it is for life."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Аннулирование на 20 лет",
+        "en": "A 20-year revocation"
+      },
+      "explanation": {
+        "ru": "Срока в 20 лет нет: за четвёртое осуждение права аннулируют пожизненно.",
+        "en": "There is no 20-year term: a fourth conviction means a lifetime revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Приостановка на один год",
+        "en": "A one-year suspension"
+      },
+      "explanation": {
+        "ru": "Мера гораздо серьёзнее: пожизненное аннулирование.",
+        "en": "The measure is far more serious: a lifetime revocation."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пожизненное аннулирование прав",
+        "en": "A lifetime revocation of driving privileges"
+      },
+      "explanation": {
+        "ru": "Верно. Каждое следующее осуждение влечёт более долгий срок, а четвёртое — пожизненный.",
+        "en": "Correct. Each conviction brings a longer period, and a fourth brings a lifetime revocation."
+      }
+    }
+  ]
+}

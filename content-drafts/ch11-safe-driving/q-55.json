@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q55",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Ваш обзор внезапно оказался закрыт. Что делать?",
+    "en": "Your vision suddenly becomes blocked. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Продолжать ехать на прежней скорости",
+        "en": "Keep driving at the same speed"
+      },
+      "explanation": {
+        "ru": "Опасно: нужно открыть боковое окно, чтобы видеть, и съехать с дороги.",
+        "en": "Dangerous: roll down your side window to see and pull off the road."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Опустить боковое окно, включить аварийку и съехать с дороги",
+        "en": "Roll down the side window, turn on emergency flashers and pull off the road"
+      },
+      "explanation": {
+        "ru": "Верно. Так вы видите дорогу и предупреждаете других.",
+        "en": "Correct. You can see the road and warn others."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко затормозить на полосе",
+        "en": "Brake hard in the lane"
+      },
+      "explanation": {
+        "ru": "Резкая остановка на полосе опасна для едущих сзади.",
+        "en": "A hard stop in the lane is dangerous for those behind."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q21",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие автомобили обязаны иметь передний и задний бампер?",
+    "en": "Which vehicles must have a front and rear bumper?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Весом 9000 фунтов или меньше и все дома на колёсах (recreational vehicles)",
+        "en": "Vehicles weighing 9,000 pounds or less and all recreational vehicles"
+      },
+      "explanation": {
+        "ru": "Верно. Бамперы нужны и спереди, и сзади.",
+        "en": "Correct. A front and a rear bumper are needed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только грузовики",
+        "en": "Only trucks"
+      },
+      "explanation": {
+        "ru": "Бамперы требуются для транспортных средств весом до 9000 фунтов и для всех RV.",
+        "en": "Bumpers are required on vehicles up to 9,000 pounds and all RVs."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только машины старше 25 лет",
+        "en": "Only vehicles older than 25 years"
+      },
+      "explanation": {
+        "ru": "Это не связано с возрастом: критерий — вес и тип (RV).",
+        "en": "Age is not the criterion: it is weight and type (RVs)."
+      }
+    }
+  ]
+}

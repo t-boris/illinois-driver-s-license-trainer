@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q40",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что управлять моторной лодкой под действием алкоголя, наркотиков или одурманивающих соединений незаконно?",
+    "en": "True or false: It is illegal to operate a motorboat under the influence of alcohol, drugs, or intoxicating compounds."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Отказ от тестирования или провал после аварии на лодке с травмами или гибелью может привести и к потере водительских прав.",
+        "en": "Correct. Refusing or failing a test after a motorboat crash with injury or death can also cost you your driving privileges."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Это запрещено: правила о DUI распространяются и на моторные лодки.",
+        "en": "It is prohibited: the DUI rules extend to motorboats too."
+      }
+    }
+  ]
+}

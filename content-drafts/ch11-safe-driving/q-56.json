@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q56",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что из перечисленного считается агрессивным вождением?",
+    "en": "Which of these may be an act of aggressive driving?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включение поворотника заранее",
+        "en": "Signalling a turn in advance"
+      },
+      "explanation": {
+        "ru": "Это нормальное, безопасное вождение.",
+        "en": "That is normal, safe driving."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Соблюдение дистанции в три секунды",
+        "en": "Keeping a three-second following distance"
+      },
+      "explanation": {
+        "ru": "Это безопасная привычка.",
+        "en": "That is a safe habit."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Резкое торможение перед едущим сзади, езда по обочине, многократные гудки или мигание фарами",
+        "en": "Slamming on brakes in front of a tailgater, passing on the shoulder, repeated honking or flashing headlights"
+      },
+      "explanation": {
+        "ru": "Верно. Также агрессивным вождением считаются превышение скорости, проезд на красный и знаки stop, подрезание, жесты и крик.",
+        "en": "Correct. Speeding, running red lights and stop signs, cutting off, gestures and yelling also count."
+      }
+    }
+  ]
+}

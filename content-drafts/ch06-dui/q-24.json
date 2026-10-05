@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q24",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 49",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "До какой суммы вы можете нести расходы на анализы крови, если отказались от дыхательного теста или офицер подозревает наркотики, и вас признали виновным в DUI?",
+    "en": "Up to how much may you be held financially liable for blood test costs if you refused a breath test or the officer believed a blood test may show drugs, and you are found guilty of DUI?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "До $500",
+        "en": "Up to $500"
+      },
+      "explanation": {
+        "ru": "Верно. Это дополнительный финансовый риск при признании виновным в DUI.",
+        "en": "Correct. It is an added financial cost if you are found guilty of DUI."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "До $50",
+        "en": "Up to $50"
+      },
+      "explanation": {
+        "ru": "Сумма больше: до $500.",
+        "en": "The amount is higher: up to $500."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "До $2,500",
+        "en": "Up to $2,500"
+      },
+      "explanation": {
+        "ru": "Это сумма из другой главы (штраф за непредоставление отчёта об аварии). Здесь до $500.",
+        "en": "That figure is from another chapter (fine for not reporting a crash). Here it is up to $500."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Расходы никогда не возлагаются на водителя",
+        "en": "Costs are never charged to the driver"
+      },
+      "explanation": {
+        "ru": "Могут: до $500 при признании виновным в DUI.",
+        "en": "They can be: up to $500 if found guilty of DUI."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q53",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Внезапно отказали фары. Что вы можете сделать?",
+    "en": "Your headlights fail suddenly. What can you try?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Продолжить движение в темноте на прежней скорости",
+        "en": "Keep driving in the dark at the same speed"
+      },
+      "explanation": {
+        "ru": "Нужно подать сигналы и съехать с дороги.",
+        "en": "Signal for attention and pull off the road."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Включить аварийку, габариты или поворотники и съехать с дороги",
+        "en": "Use emergency flashers, parking lights and/or turn signals, and pull off the road"
+      },
+      "explanation": {
+        "ru": "Верно. Если фары начинают тускнеть, доезжайте до сервиса или съезжайте и ищите помощь.",
+        "en": "Correct. If lights begin to dim, drive to a service station or pull off and seek help."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остановиться на полосе и ждать",
+        "en": "Stop in the lane and wait"
+      },
+      "explanation": {
+        "ru": "Нужно съехать с дороги, а не оставаться на полосе.",
+        "en": "Pull off the road instead of staying in the lane."
+      }
+    }
+  ]
+}

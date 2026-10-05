@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q43",
+  "topic": "ch11-safe-driving",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 87",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Навстречу по вашей полосе движется машина. Что нужно сделать?",
+    "en": "A vehicle is approaching head-on in your lane. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прижаться к левому краю и мигать фарами",
+        "en": "Move to the left and flash your lights"
+      },
+      "explanation": {
+        "ru": "Нужно снизить скорость, уйти вправо и подать звуковой сигнал.",
+        "en": "Slow down, pull over to the right and sound the horn."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Снизить скорость, уйти вправо и подать звуковой сигнал",
+        "en": "Slow down, pull over to the right and sound the horn"
+      },
+      "explanation": {
+        "ru": "Верно. Это действия при лобовом сближении.",
+        "en": "Correct. These are the steps for a head-on approach."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Резко затормозить посередине дороги",
+        "en": "Brake hard in the middle of the road"
+      },
+      "explanation": {
+        "ru": "Не оставайтесь на пути: съезжайте вправо и сигнальте.",
+        "en": "Do not stay in the path: move to the right and sound the horn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q26",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что ещё применяется к водителям, осуждённым за нарушение обязательного страхования, кроме потери прав минимум на три месяца и сбора $100 за восстановление?",
+    "en": "What else applies to drivers convicted of a mandatory insurance violation, besides a minimum three-month loss of privileges and a $100 reinstatement fee?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Им выдают временное разрешение",
+        "en": "A temporary driving permit is issued"
+      },
+      "explanation": {
+        "ru": "Разрешение не выдают: на этот период ездить нельзя.",
+        "en": "No permit is available: driving is not allowed in that period."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Им разрешено ездить только днём",
+        "en": "They may drive only during daytime"
+      },
+      "explanation": {
+        "ru": "Ограничение по времени не предусмотрено: разрешения на вождение нет вообще.",
+        "en": "There is no daytime exception: no driving permit is available at all."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Им не выдают никакого разрешения на вождение (driving permit) в этот период",
+        "en": "No driving permit is available during that period"
+      },
+      "explanation": {
+        "ru": "Верно. Поэтому важно всегда иметь действующую страховку.",
+        "en": "Correct. That is why it is important to always carry valid insurance."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Им разрешено ездить на работу",
+        "en": "They may drive to work"
+      },
+      "explanation": {
+        "ru": "Исключений для работы нет: разрешения на вождение не выдают.",
+        "en": "There is no work exception: no driving permit is available."
+      }
+    }
+  ]
+}

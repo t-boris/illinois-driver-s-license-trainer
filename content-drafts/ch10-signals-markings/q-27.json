@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q27",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 78",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Над полосой горит мигающая жёлтая стрелка (lane signal). Что она показывает?",
+    "en": "A flashing yellow arrow lane signal is displayed over a lane. What does it indicate?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полоса закрыта",
+        "en": "The lane is closed"
+      },
+      "explanation": {
+        "ru": "Закрытую полосу обозначает красный крестик.",
+        "en": "A closed lane is shown by a red “X”."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Полосу можно использовать для подъезда и левого поворота",
+        "en": "The lane may be used for approaching and making a left turn"
+      },
+      "explanation": {
+        "ru": "Верно. Мигающая жёлтая стрелка над полосой означает, что её можно использовать для подъезда и левого поворота. Красный крестик, напротив, означает закрытую полосу.",
+        "en": "Correct. A flashing yellow arrow over a lane means it may be used for approaching and making a left turn. A red “X”, by contrast, means the lane is closed to you."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Полоса только для разворота",
+        "en": "The lane is for U-turns only"
+      },
+      "explanation": {
+        "ru": "В руководстве мигающая жёлтая стрелка означает подъезд и левый поворот.",
+        "en": "In the manual a flashing yellow arrow means approaching and making a left turn."
+      }
+    }
+  ]
+}

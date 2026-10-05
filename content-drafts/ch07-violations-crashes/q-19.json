@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q19",
+  "topic": "ch07-violations-crashes",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Верно ли, что водитель обязан подать отчёт об аварии независимо от вины, если в ней есть гибель, телесные повреждения или ущерб более $1,500 (или более $500, если одна из машин не застрахована)?",
+    "en": "True or false: Regardless of fault, a driver must file a crash report if the crash involves death, bodily injury, or property damage of more than $1,500 (or $500 if a vehicle is uninsured)."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Отчёт нужен независимо от вины, при гибели, травме или ущербе выше порога.",
+        "en": "Correct. A report is required regardless of fault, for death, injury, or damage above the threshold."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Вина не важна: отчёт обязателен при гибели, травме или ущербе выше порога ($1,500 или $500 при незастрахованной машине).",
+        "en": "Fault does not matter: a report is required for death, injury, or damage above the threshold ($1,500, or $500 when uninsured)."
+      }
+    }
+  ]
+}

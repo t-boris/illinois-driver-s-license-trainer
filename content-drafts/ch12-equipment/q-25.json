@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q25",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какое правило действует для прожектора (spotlight) на автомобиле?",
+    "en": "What rule applies to a spotlight on a vehicle?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Можно установить любое количество и направлять куда угодно",
+        "en": "Any number may be installed and aimed anywhere"
+      },
+      "explanation": {
+        "ru": "Допускается только один прожектор.",
+        "en": "Only one spotlight is allowed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Только один; при приближении к другой машине его нельзя направлять влево и дальше чем на 100 футов вперёд",
+        "en": "Only one; when approaching another vehicle it must be directed neither to the left nor more than 100 feet ahead"
+      },
+      "explanation": {
+        "ru": "Верно. Также нельзя, чтобы горело более четырёх огней по 300 свечей.",
+        "en": "Correct. A vehicle also may not have more than four 300-candlepower lights burning."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только на грузовиках",
+        "en": "Only on trucks"
+      },
+      "explanation": {
+        "ru": "В руководстве правило относится к автомобилям вообще: один прожектор.",
+        "en": "The manual's rule applies to vehicles in general: one spotlight."
+      }
+    }
+  ]
+}

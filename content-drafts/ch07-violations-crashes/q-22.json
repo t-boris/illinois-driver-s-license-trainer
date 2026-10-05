@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q22",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Водитель не может сообщить об аварии, а в машине есть пассажир. Кто должен сообщить?",
+    "en": "The driver is unable to report a crash and a passenger is present. Who must make the report?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Никто, нужно ждать выздоровления водителя",
+        "en": "No one, wait until the driver recovers"
+      },
+      "explanation": {
+        "ru": "Ждать нельзя: сообщить должен пассажир.",
+        "en": "Waiting is not an option: the passenger must report."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только владелец машины позже",
+        "en": "Only the vehicle owner later"
+      },
+      "explanation": {
+        "ru": "Сообщает пассажир, который находится на месте.",
+        "en": "The passenger who is present makes the report."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Пассажир",
+        "en": "The passenger"
+      },
+      "explanation": {
+        "ru": "Верно. Если водитель не в состоянии, отчёт подаёт пассажир.",
+        "en": "Correct. If the driver is unable, the passenger must make the report."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только другой водитель",
+        "en": "Only the other driver"
+      },
+      "explanation": {
+        "ru": "Обязанность лежит на пассажире, если водитель не может сообщить сам.",
+        "en": "The duty falls on the passenger if the driver cannot report."
+      }
+    }
+  ]
+}

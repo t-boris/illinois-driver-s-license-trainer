@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q36",
+  "topic": "ch06-dui",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что грозит водителю, впервые нарушившему закон о DUI (first-time DUI offender), если он отказался от MDDP и его поймали за рулём в период приостановки?",
+    "en": "A first-time DUI offender chose not to apply for an MDDP and is caught driving during the suspension. What is the result?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Он виновен в уголовном преступлении (felony)",
+        "en": "The person is guilty of a felony"
+      },
+      "explanation": {
+        "ru": "Верно. Можно не получать MDDP, но тогда в период приостановки за руль садиться нельзя совсем.",
+        "en": "Correct. You may choose not to get an MDDP, but then you must not drive at all during the suspension."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Небольшой штраф",
+        "en": "A small fine"
+      },
+      "explanation": {
+        "ru": "Последствия намного серьёзнее: это felony.",
+        "en": "The consequences are far more serious: it is a felony."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только предупреждение",
+        "en": "Only a warning"
+      },
+      "explanation": {
+        "ru": "Это felony, то есть серьёзное уголовное преступление.",
+        "en": "It is a felony, a serious crime."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, если ехал медленно",
+        "en": "Nothing, if driving slowly"
+      },
+      "explanation": {
+        "ru": "Скорость не имеет значения: вождение в период приостановки без MDDP — felony.",
+        "en": "Speed does not matter: driving during the suspension without an MDDP is a felony."
+      }
+    }
+  ]
+}

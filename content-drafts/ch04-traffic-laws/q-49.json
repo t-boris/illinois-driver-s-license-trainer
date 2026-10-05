@@ -7,14 +7,14 @@
   "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 25",
   "manualVersion": "2026",
   "text": {
-    "ru": "Как близко к месту, где работают экстренные службы, разрешено пользоваться телефоном и фотографировать?",
+    "ru": "В пределах какого расстояния от места работы экстренных служб закон Иллинойса запрещает фотографировать и пользоваться телефоном (с редкими исключениями)?",
     "en": "Within what distance of an emergency scene does Illinois law prohibit photography and cellphone use (with limited exceptions)?"
   },
   "options": [
     {
       "correct": false,
       "text": {
-        "ru": "Не ближе 50 футов",
+        "ru": "В пределах 50 футов",
         "en": "Within 50 feet"
       },
       "explanation": {

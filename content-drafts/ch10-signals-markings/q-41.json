@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q41",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На зелёный сигнал можно ехать, не обращая внимания на пешеходов и машины, которые ещё на перекрёстке.",
+    "en": "On a green light you may go without paying attention to pedestrians and vehicles still in the intersection."
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение неверное. На зелёный нужно уступить дорогу пешеходам и транспорту, которые находятся на перекрёстке или переходе, и только потом ехать.",
+        "en": "Not quite: the statement is false. On green you must yield to any pedestrians and vehicles in the intersection or crosswalk before going."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Верно, утверждение неверное. На зелёный нужно уступить дорогу пешеходам и транспорту, которые находятся на перекрёстке или переходе, и только потом ехать.",
+        "en": "Correct, the statement is false. On green you must yield to any pedestrians and vehicles in the intersection or crosswalk before going."
+      }
+    }
+  ]
+}

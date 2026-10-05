@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch07-violations-crashes-q13",
+  "topic": "ch07-violations-crashes",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Вам меньше 18 лет, и вас вызвали в суд за нарушение. Что нужно?",
+    "en": "You are under age 18 and required to appear in court for a traffic ticket. What is required?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего, можно прийти одному",
+        "en": "Nothing, you may appear alone"
+      },
+      "explanation": {
+        "ru": "Нужен родитель или законный опекун.",
+        "en": "A parent or legal guardian is needed."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Присутствие родителя или законного опекуна",
+        "en": "A parent or legal guardian must be present"
+      },
+      "explanation": {
+        "ru": "Верно. Приходите вместе, это обычное требование для несовершеннолетних.",
+        "en": "Correct. Come together; it is a standard requirement for minors."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Присутствие друга от 21 года",
+        "en": "A friend age 21 or older"
+      },
+      "explanation": {
+        "ru": "Друг не заменит родителя или опекуна.",
+        "en": "A friend cannot replace a parent or legal guardian."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Справка из школы",
+        "en": "A note from school"
+      },
+      "explanation": {
+        "ru": "Справка не нужна: должен присутствовать родитель или опекун.",
+        "en": "A note is not needed: a parent or guardian must attend."
+      }
+    }
+  ]
+}

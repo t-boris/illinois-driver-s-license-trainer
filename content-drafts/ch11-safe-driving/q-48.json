@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q48",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Какие меры защищают от отравления угарным газом?",
+    "en": "Which measures protect you from carbon monoxide poisoning?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прогревать машину в гараже, примыкающем к дому, с закрытыми воротами",
+        "en": "Warm up the car in an attached garage with the door closed"
+      },
+      "explanation": {
+        "ru": "Это опасно: никогда не заводите машину в гараже, пристроенном к дому.",
+        "en": "This is dangerous: never run a vehicle inside a garage attached to a house."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Проверять выхлопную систему раз в пять лет",
+        "en": "Check the exhaust system once every five years"
+      },
+      "explanation": {
+        "ru": "Рекомендуется проверять выхлопную систему у механика каждый год.",
+        "en": "A yearly exhaust system check by a mechanic is recommended."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Проверять выхлопную систему у механика каждый год и никогда не заводить машину в гараже, примыкающем к дому",
+        "en": "Have a mechanic check the exhaust system every year and never run a vehicle in an attached garage"
+      },
+      "explanation": {
+        "ru": "Верно. Угарный газ смертельно опасен.",
+        "en": "Correct. Carbon monoxide is deadly."
+      }
+    }
+  ]
+}

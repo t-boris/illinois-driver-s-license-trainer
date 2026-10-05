@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q15",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Права могут быть аннулированы (cancellation), если водитель признан медицински или по зрению непригодным к безопасному вождению.",
+    "en": "A driver’s license may be canceled if the driver is found medically or visually unfit to safely operate a vehicle."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. То же относится к непредставлению требуемого медицинского или зрительного заключения. Заявить о состоянии здоровья, которое может мешать вождению, нужно самому.",
+        "en": "Correct. The same applies to failing to submit a required medical or vision report. You must also self-report a condition that may interfere with safe driving."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. То же относится к непредставлению требуемого медицинского или зрительного заключения. Заявить о состоянии здоровья, которое может мешать вождению, нужно самому.",
+        "en": "Not quite: the statement is true. The same applies to failing to submit a required medical or vision report. You must also self-report a condition that may interfere with safe driving."
+      }
+    }
+  ]
+}

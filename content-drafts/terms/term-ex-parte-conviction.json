@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-ex-parte-conviction",
+  "topic": "ch07-violations-crashes",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 54",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "заочное осуждение (ex-parte conviction)",
+    "en": "Ex-parte conviction"
+  },
+  "definition": {
+    "ru": "Если водитель не явился на вторую дату суда по штрафу за мелкое нарушение, выносится заочное осуждение. О нём сообщают в Secretary of State, и оно считается обычным осуждением.",
+    "en": "If a driver fails to appear on the second court date for a minor ticket, an ex-parte conviction is entered. It is reported to the Secretary of State and treated like any other conviction."
+  }
+}

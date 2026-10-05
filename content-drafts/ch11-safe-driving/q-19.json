@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q19",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "По таблице правила трёх секунд, какую дистанцию примерно нужно держать при скорости 55 миль/ч?",
+    "en": "According to the three-second rule table, about how far back should you stay at 55 mph?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "111 футов",
+        "en": "111 feet"
+      },
+      "explanation": {
+        "ru": "Это дистанция для 25 миль/ч. На 55 миль/ч нужна больше.",
+        "en": "That is the distance for 25 mph. At 55 mph you need more."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "243 фута",
+        "en": "243 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Примерно за секунду машина проезжает 81 фут, за три секунды — 243 фута.",
+        "en": "Correct. At 55 mph a vehicle travels about 81 feet in one second, so three seconds is 243 feet."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "309 футов",
+        "en": "309 feet"
+      },
+      "explanation": {
+        "ru": "Это дистанция для 70 миль/ч. На 55 миль/ч достаточно 243 футов.",
+        "en": "That is the distance for 70 mph. At 55 mph it is 243 feet."
+      }
+    }
+  ]
+}

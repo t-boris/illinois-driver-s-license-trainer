@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-safety-responsibility-law",
+  "topic": "ch07-violations-crashes",
+  "sectionRef": "Rules of the Road 2026, Chapter 7 Traffic Violations/Crashes, p. 55",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "закон об ответственности за безопасность (Safety Responsibility Law)",
+    "en": "Safety Responsibility Law"
+  },
+  "definition": {
+    "ru": "Если вы виновны в аварии с гибелью, травмой или ущербом и у вас нет страховки, нужно внести залог (security) для покрытия ущерба пострадавшей стороны; размер определяет Illinois Department of Transportation. Иначе права могут быть приостановлены до урегулирования иска, а регистрация машины владельца тоже может быть приостановлена. Приостановка действует, пока не подано подтверждение финансовой ответственности и страхование не поддерживается три года.",
+    "en": "If you are at fault in a crash with death, injury, or property damage and have no liability insurance, you must post security to cover the injured party’s damages; the Illinois Department of Transportation sets the amount. Otherwise your license may be suspended until the lawsuit is settled, and the owner’s registration may be suspended too. The suspension lasts until proof of financial responsibility is provided and insurance is maintained for three years."
+  }
+}

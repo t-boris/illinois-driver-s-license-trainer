@@ -4,7 +4,7 @@
   "topic": "ch04-traffic-laws",
   "pool": "quiz",
   "category": "rule",
-  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 30",
+  "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 32",
   "manualVersion": "2026",
   "text": {
     "ru": "Водитель должен включать поворотник и при смене полосы, а не только на поворотах.",
@@ -18,7 +18,7 @@
         "en": "True"
       },
       "explanation": {
-        "ru": "Верно! Перед перестроением посмотрите назад и в сторону, поверните голову, включите сигнал и плавно перестройтесь.",
+        "ru": "Верно! Перед перестроением посмотрите назад и в сторону, повернув голову, включите сигнал и плавно перестройтесь.",
         "en": "Correct! Before changing lanes, turn your head to check behind and beside you, signal, then move over smoothly."
       }
     },
@@ -29,7 +29,7 @@
         "en": "False"
       },
       "explanation": {
-        "ru": "Не совсем. Перед перестроением посмотрите назад и в сторону, поверните голову, включите сигнал и плавно перестройтесь.",
+        "ru": "Не совсем. Перед перестроением посмотрите назад и в сторону, повернув голову, включите сигнал и плавно перестройтесь.",
         "en": "Not quite. Before changing lanes, turn your head to check behind and beside you, signal, then move over smoothly."
       }
     }

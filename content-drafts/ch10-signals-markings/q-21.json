@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q21",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 77",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В каком случае разрешён левый поворот на красный сигнал?",
+    "en": "When may you turn left at a red light?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда, если нет встречного транспорта",
+        "en": "Always, if there is no oncoming traffic"
+      },
+      "explanation": {
+        "ru": "Нет: только в особом случае. Вправо на красный можно чаще, влево — реже.",
+        "en": "No: only in a special case. Right on red is more widely allowed than left."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда на дороге с двусторонним движением",
+        "en": "Always on a two-way road"
+      },
+      "explanation": {
+        "ru": "Нет: левый поворот на красный допустим только с односторонней улицы.",
+        "en": "No: a left turn on red is allowed only from a one-way street."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "С односторонней улицы на другую одностороннюю с движением налево, после полной остановки и уступки",
+        "en": "From a one-way street onto another one-way street with traffic moving left, after a full stop and yielding"
+      },
+      "explanation": {
+        "ru": "Верно. Уступить нужно встречному транспорту и пешеходам.",
+        "en": "Correct. You must yield to oncoming traffic and pedestrians."
+      }
+    }
+  ]
+}

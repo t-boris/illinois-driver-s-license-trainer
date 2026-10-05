@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-high-capacity-roadway",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 90",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "дорога с высокой пропускной способностью (high-capacity roadway)",
+    "en": "High-capacity roadway"
+  },
+  "definition": {
+    "ru": "Дорога, рассчитанная на большой поток транспорта: несколько полос, регулируемые перекрёстки и системы управления движением, например шоссе и крупные городские магистрали. При поломке по возможности съезжайте на правую обочину, оставайтесь в машине с пристёгнутым ремнём, включите аварийку и позвоните 911.",
+    "en": "A road designed to handle a large volume of traffic, with multiple lanes, controlled intersections and traffic management systems, such as highways and major urban arterials. If you break down, if possible pull to the right shoulder, stay in the vehicle with your seatbelt on, activate hazard lights and call 911."
+  }
+}

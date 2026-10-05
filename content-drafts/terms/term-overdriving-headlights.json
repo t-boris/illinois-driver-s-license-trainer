@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-overdriving-headlights",
+  "topic": "ch11-safe-driving",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "езда быстрее, чем освещает свет фар (overdriving headlights)",
+    "en": "Overdriving your headlights"
+  },
+  "definition": {
+    "ru": "Езда на такой скорости, при которой вы не успеете остановиться в пределах видимой части дороги. Не превышайте возможности своего зрения, особенно ночью и в тумане.",
+    "en": "Driving so fast that you cannot stop within the distance you can see ahead. Stay within the limits of your vision, especially at night and in fog."
+  }
+}

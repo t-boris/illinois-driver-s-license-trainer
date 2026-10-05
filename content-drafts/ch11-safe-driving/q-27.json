@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q27",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "В тумане вы видите впереди фары или задние огни другой машины. Что делать?",
+    "en": "In fog you see headlights or taillights ahead. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ускориться, чтобы обогнать её",
+        "en": "Speed up to pass it"
+      },
+      "explanation": {
+        "ru": "Нельзя: машина может ехать посередине дороги, стоять или еле двигаться.",
+        "en": "No: that driver may be in the center of the roadway, stopped or barely moving."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Включить дальний свет и ехать как обычно",
+        "en": "Turn on high beams and continue as usual"
+      },
+      "explanation": {
+        "ru": "Дальний свет в тумане не помогает, а сближаться с огнями опасно.",
+        "en": "High beams do not help in fog, and closing in on lights is dangerous."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Притормозить ещё сильнее",
+        "en": "Slow down even more"
+      },
+      "explanation": {
+        "ru": "Верно. Также включите ближний свет, увеличьте дистанцию и заранее подавайте сигналы поворота.",
+        "en": "Correct. Also use dim lights, increase following distance and signal turns well in advance."
+      }
+    }
+  ]
+}

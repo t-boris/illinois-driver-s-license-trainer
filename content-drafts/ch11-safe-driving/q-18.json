@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q18",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 83",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Большинство столкновений в хвост происходит потому, что водитель сзади едет слишком близко.",
+    "en": "Most rear-end crashes are caused by the vehicle in back following too closely."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Слишком малая дистанция (tailgating) — причина большинства таких аварий. Правило трёх секунд помогает держать безопасное расстояние.",
+        "en": "Correct. Following too closely, or tailgating, is the cause of most rear-end crashes. The three-second rule helps you keep a safe distance."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Слишком малая дистанция (tailgating) — причина большинства таких аварий. Правило трёх секунд помогает держать безопасное расстояние.",
+        "en": "Not quite: the statement is true. Following too closely, or tailgating, is the cause of most rear-end crashes. The three-second rule helps you keep a safe distance."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q28",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "При каком содержании ТГК (THC) в цельной крови после ареста за DUI права приостанавливаются?",
+    "en": "At what THC level in whole blood after a DUI arrest may your license be suspended?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "1 нанограмм на миллилитр",
+        "en": "1 nanogram per milliliter"
+      },
+      "explanation": {
+        "ru": "Порог выше: 5 нанограммов на миллилитр цельной крови.",
+        "en": "The threshold is higher: 5 nanograms per milliliter of whole blood."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "5 нанограммов и более на миллилитр",
+        "en": "5 nanograms or more per milliliter"
+      },
+      "explanation": {
+        "ru": "Верно. Для другой биологической жидкости порог 10 нанограммов на миллилитр. Также достаточно BAC 0,08% или следов контролируемого вещества.",
+        "en": "Correct. For other bodily substances the level is 10 nanograms per milliliter. A BAC of .08% or more or any trace of a controlled substance also counts."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "50 нанограммов на миллилитр",
+        "en": "50 nanograms per milliliter"
+      },
+      "explanation": {
+        "ru": "Порог гораздо ниже: 5 нанограммов на миллилитр цельной крови.",
+        "en": "The threshold is much lower: 5 nanograms per milliliter of whole blood."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q41",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 51",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что говорит руководство об ответственности родителей за употребление алкоголя лицами младше 21 года?",
+    "en": "What does the manual say about parental responsibility for alcohol consumption by persons under 21?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Родители ни за что не отвечают",
+        "en": "Parents are not responsible"
+      },
+      "explanation": {
+        "ru": "Родители отвечают: нельзя разрешать употребление и нужно контролировать доступ к алкоголю.",
+        "en": "Parents are responsible: they may not allow it and must control access to alcohol."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Родителю незаконно разрешать это или не контролировать доступ к алкоголю на своей территории, включая машину и лодку",
+        "en": "It is illegal for a parent to allow it or to fail to control access to alcohol on property under their control, including a vehicle or water craft"
+      },
+      "explanation": {
+        "ru": "Верно. Если из-за этого наступила смерть или травма, возможна уголовная ответственность.",
+        "en": "Correct. If a death or injury results, criminal penalties are possible."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если подросток за рулём",
+        "en": "Only if the teen is driving"
+      },
+      "explanation": {
+        "ru": "Правило шире: оно касается и частной территории, и машины, и лодки.",
+        "en": "The rule is wider: it covers private property, a vehicle, and a water craft."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если родитель сам купил алкоголь",
+        "en": "Only if the parent bought the alcohol"
+      },
+      "explanation": {
+        "ru": "Покупка не обязательна: родитель отвечает и за то, что не контролировал доступ к алкоголю.",
+        "en": "Buying is not required: the parent is also responsible for not controlling access to alcohol."
+      }
+    }
+  ]
+}

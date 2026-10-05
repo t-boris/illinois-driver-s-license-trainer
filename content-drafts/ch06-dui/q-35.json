@@ -1,0 +1,59 @@
+{
+  "kind": "question",
+  "id": "ch06-dui-q35",
+  "topic": "ch06-dui",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 50",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Что нужно, чтобы водить во время приостановки прав по разрешению MDDP?",
+    "en": "What does a Monitoring Device Driving Permit (MDDP) require during a suspension?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только оплатить штраф",
+        "en": "Only pay a fine"
+      },
+      "explanation": {
+        "ru": "Нужен ещё прибор BAIID на машине, установленный на утверждённом пункте.",
+        "en": "A BAIID installed on the vehicle at an approved site is also required."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Получить письмо от работодателя",
+        "en": "A letter from an employer"
+      },
+      "explanation": {
+        "ru": "Письмо не требуется, а прибор BAIID требуется.",
+        "en": "A letter is not required; a BAIID is."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Ничего: MDDP выдают автоматически",
+        "en": "Nothing: MDDP is issued automatically"
+      },
+      "explanation": {
+        "ru": "Нужно подать заявление и установить прибор BAIID на утверждённом пункте.",
+        "en": "You must apply and have a BAIID installed at an approved site."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Установить на машину прибор Breath Alcohol Ignition Interlock Device (BAIID); расходы несёт водитель",
+        "en": "A Breath Alcohol Ignition Interlock Device (BAIID) installed on the vehicle; the driver pays the costs"
+      },
+      "explanation": {
+        "ru": "Верно. MDDP предназначен для впервые нарушивших (first-time DUI offenders). Прибор сообщает, если водитель пытается завести машину после алкоголя или вмешивается в прибор.",
+        "en": "Correct. An MDDP is for first-time DUI offenders. The device alerts the Secretary of State if the driver tries to start the car after drinking or tampers with it."
+      }
+    }
+  ]
+}

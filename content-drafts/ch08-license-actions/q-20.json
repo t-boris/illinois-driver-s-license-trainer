@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q20",
+  "topic": "ch08-license-actions",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 58",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Некоторые отзывы, приостановки, отказы и аннулирования могут навсегда остаться в водительской истории.",
+    "en": "Certain revocations, suspensions, denials, and cancellations can remain on an individual’s driving record permanently."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Поэтому так важно знать причины потери прав и избегать их.",
+        "en": "Correct. That is why it is important to know the reasons for losing a license and avoid them."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Поэтому так важно знать причины потери прав и избегать их.",
+        "en": "Not quite: the statement is true. That is why it is important to know the reasons for losing a license and avoid them."
+      }
+    }
+  ]
+}

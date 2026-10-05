@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q26",
+  "topic": "ch12-equipment",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Красные огни, видимые спереди, запрещены на любых автомобилях, кроме полиции и специальных аварийных служб.",
+    "en": "Red lights visible from the front are prohibited except for police or designated emergency vehicles."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. То же правило действует для мигающих или вращающихся огней, кроме указателей поворота и аварийной сигнализации.",
+        "en": "Correct. The same applies to flashing or moving lights other than turn signals or hazard indicators."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. То же правило действует для мигающих или вращающихся огней, кроме указателей поворота и аварийной сигнализации.",
+        "en": "Not quite: the statement is true. The same applies to flashing or moving lights other than turn signals or hazard indicators."
+      }
+    }
+  ]
+}

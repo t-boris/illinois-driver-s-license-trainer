@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q46",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 88",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Машина тонет. Что нужно делать?",
+    "en": "Your vehicle is sinking. What should you do?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Остаться на переднем сиденье",
+        "en": "Stay in the front seat"
+      },
+      "explanation": {
+        "ru": "Лучше перейти назад, где обычно образуется воздушная подушка.",
+        "en": "Move to the back where an air pocket usually forms."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Перейти в заднюю часть салона, где образуется воздушный карман, глубоко вдохнуть и выбраться через заднее окно",
+        "en": "Move to the back seat area where an air pocket forms, take a deep breath and exit through a rear window"
+      },
+      "explanation": {
+        "ru": "Верно. Выбираться нужно, если возможно, через заднее окно.",
+        "en": "Correct. If possible, exit from a rear window."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Открыть переднюю дверь",
+        "en": "Open the front door"
+      },
+      "explanation": {
+        "ru": "Из-за давления воды двери могут не открыться.",
+        "en": "The doors may not open because of water pressure."
+      }
+    }
+  ]
+}

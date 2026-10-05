@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q14",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 59",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Права могут быть отозваны за предоставление Secretary of State ложных сведений.",
+    "en": "Driving privileges may be revoked for giving the Secretary of State false information."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. В руководстве это называется perjury (лжесвидетельство) и входит в список оснований для отзыва.",
+        "en": "Correct. The manual calls this perjury, and it is on the list of reasons for revocation."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. В руководстве это называется perjury (лжесвидетельство) и входит в список оснований для отзыва.",
+        "en": "Not quite: the statement is true. The manual calls this perjury, and it is on the list of reasons for revocation."
+      }
+    }
+  ]
+}

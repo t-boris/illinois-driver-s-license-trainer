@@ -1,0 +1,37 @@
+{
+  "kind": "question",
+  "id": "ch12-equipment-q14",
+  "topic": "ch12-equipment",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 92",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На переднем лобовом стекле запрещена тонировка, кроме узкой полосы сверху.",
+    "en": "Tinted windows are not allowed on the front windshield of a vehicle."
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Верно",
+        "en": "True"
+      },
+      "explanation": {
+        "ru": "Верно. Разрешена только полоса тонировки шириной 6 дюймов вдоль всей верхней части лобового стекла.",
+        "en": "Correct. Only a 6-inch strip of tinting along the entire length at the top of the windshield is allowed."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Неверно",
+        "en": "False"
+      },
+      "explanation": {
+        "ru": "Не совсем: утверждение верное. Разрешена только полоса тонировки шириной 6 дюймов вдоль всей верхней части лобового стекла.",
+        "en": "Not quite: the statement is true. Only a 6-inch strip of tinting along the entire length at the top of the windshield is allowed."
+      }
+    }
+  ]
+}

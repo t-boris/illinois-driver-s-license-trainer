@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-field-sobriety-test",
+  "topic": "ch06-dui",
+  "sectionRef": "Rules of the Road 2026, Chapter 6 Driving Under the Influence (DUI), p. 48",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "тест на трезвость на месте (field sobriety test)",
+    "en": "Field sobriety test"
+  },
+  "definition": {
+    "ru": "Проверка на дороге, которую проводит полицейский при обоснованном подозрении, что водитель под действием каннабиса или алкоголя. Отказ от проверок на месте или их провал приводит к приостановке водительских прав.",
+    "en": "A roadside check conducted by an officer who has reasonable suspicion that a driver is impaired by cannabis or alcohol. Refusing validated roadside tests or failing them results in suspension of the driver’s license."
+  }
+}

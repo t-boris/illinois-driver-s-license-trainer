@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q54",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 89",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Педаль газа застряла и не освобождается, даже если подцепить её носком. Что делать дальше?",
+    "en": "Your gas pedal is stuck and does not free up after hooking your toe under it. What next?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Выключить зажигание на ходу",
+        "en": "Switch off the ignition while moving"
+      },
+      "explanation": {
+        "ru": "Сначала включите нейтральную передачу и мягко тормозите.",
+        "en": "First shift into neutral and brake gently."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Нажимать на газ сильнее",
+        "en": "Press harder on the gas"
+      },
+      "explanation": {
+        "ru": "Это не поможет: переходите на нейтраль.",
+        "en": "That will not help: shift into neutral."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Перейти на нейтральную передачу и мягко тормозить",
+        "en": "Shift into neutral and brake gently"
+      },
+      "explanation": {
+        "ru": "Верно. Сначала можно попробовать подцепить педаль носком.",
+        "en": "Correct. First you may try hooking your toe under the pedal."
+      }
+    }
+  ]
+}

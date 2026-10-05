@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-edge-line",
+  "topic": "ch10-signals-markings",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 79",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "краевая линия (edge line)",
+    "en": "Edge line"
+  },
+  "definition": {
+    "ru": "Сплошная линия вдоль края дороги, показывающая, где край покрытия. Белая — у правого края проезжей части, жёлтая — у левого края разделённых улиц или дорог.",
+    "en": "A solid line along the side of the road showing where the edge of the pavement is. White on the right edge of the roadway, yellow on the left edge of divided streets or roadways."
+  }
+}

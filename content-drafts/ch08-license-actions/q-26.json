@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q26",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 61",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На каких условиях водитель с MDDP и алкозамком (BAIID) может ездить в любое время суток?",
+    "en": "On what conditions may a driver with an MDDP and a BAIID drive at any time of day or night?"
+  },
+  "options": [
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только если едет на работу или учёбу",
+        "en": "Only when driving to work or school"
+      },
+      "explanation": {
+        "ru": "Это ограничение RDP. MDDP разрешает ездить в любое время суток.",
+        "en": "That is the limitation of an RDP. An MDDP allows driving at any time of day or night."
+      }
+    },
+    {
+      "correct": true,
+      "text": {
+        "ru": "Не пить алкоголь перед поездкой и не вмешиваться в работу BAIID",
+        "en": "Not consuming alcohol before driving and not tampering with the BAIID unit"
+      },
+      "explanation": {
+        "ru": "Верно. MDDP предназначен для водителей, впервые совершивших DUI и отбывающих обязательную приостановку; он невозможен младше 18 лет.",
+        "en": "Correct. The MDDP is for first-time DUI offenders serving a statutory summary suspension; it cannot be issued under age 18."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Только с сопровождающим взрослым пассажиром",
+        "en": "Only with an adult passenger"
+      },
+      "explanation": {
+        "ru": "В руководстве такого условия нет.",
+        "en": "The manual lists no such condition."
+      }
+    }
+  ]
+}

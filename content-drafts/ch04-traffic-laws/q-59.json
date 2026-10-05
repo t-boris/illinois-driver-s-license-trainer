@@ -7,8 +7,8 @@
   "sectionRef": "Rules of the Road 2026, Chapter 4 Traffic Laws, p. 27",
   "manualVersion": "2026",
   "text": {
-    "ru": "Водитель обязан уступить пешеходам на нерегулируемом переходе без разметки (unmarked crosswalk).",
-    "en": "Drivers must yield to pedestrians in an unmarked crosswalk."
+    "ru": "Водитель обязан уступить пешеходу на неразмеченном переходе (unmarked crosswalk) на своей стороне дороги, если нет светофора.",
+    "en": "Drivers must yield to a pedestrian in an unmarked crosswalk on their side of the roadway when there is no traffic signal."
   },
   "options": [
     {

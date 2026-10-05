@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch08-license-actions-q23",
+  "topic": "ch08-license-actions",
+  "pool": "exam",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 8 Driver’s License Revocation, Suspension, Denial and Cancellation, p. 60",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Сколько нарушений ПДД за любые 24 месяца достаточно для приостановки прав водителя младше 21 года на момент ареста?",
+    "en": "How many traffic violations within any 24-month period can lead to suspension for a driver under age 21 at the time of arrest?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Два",
+        "en": "Two"
+      },
+      "explanation": {
+        "ru": "Верно. Для остальных водителей — три нарушения за 12 месяцев.",
+        "en": "Correct. For other drivers it is three convictions in a 12-month period."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Три",
+        "en": "Three"
+      },
+      "explanation": {
+        "ru": "Три за 12 месяцев — это правило для остальных водителей. Для младше 21 года порог ниже: два за 24 месяца.",
+        "en": "Three in 12 months is the rule for other drivers. For drivers under 21 the threshold is lower: two in 24 months."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Пять",
+        "en": "Five"
+      },
+      "explanation": {
+        "ru": "Пять — порог для неоплаченных автоматических штрафов, а не для осуждений за нарушения.",
+        "en": "Five is the threshold for unpaid automated violations, not for traffic convictions."
+      }
+    }
+  ]
+}

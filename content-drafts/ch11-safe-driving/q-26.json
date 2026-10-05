@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch11-safe-driving-q26",
+  "topic": "ch11-safe-driving",
+  "pool": "quiz",
+  "category": "rule",
+  "sectionRef": "Rules of the Road 2026, Chapter 11 Safe Driving Tips, p. 84",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "Как соотносить скорость с потоком, если условия позволяют?",
+    "en": "How should your speed relate to traffic when conditions allow?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Соответствовать потоку, но не превышать максимально разрешённую скорость",
+        "en": "Match the flow of traffic, as long as it does not surpass the maximum posted speed limit"
+      },
+      "explanation": {
+        "ru": "Верно. А если погода или движение плохие, ехать нужно медленнее, чем разрешено.",
+        "en": "Correct. If weather or traffic is bad, you may need to drive more slowly than the limit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда ехать на 10 миль/ч быстрее потока",
+        "en": "Always drive 10 mph faster than traffic"
+      },
+      "explanation": {
+        "ru": "Превышать максимально разрешённую скорость нельзя.",
+        "en": "You may never exceed the maximum posted speed limit."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Всегда ехать как можно медленнее",
+        "en": "Always drive as slowly as possible"
+      },
+      "explanation": {
+        "ru": "Слишком медленная езда тоже опасна: скорость должна соответствовать потоку.",
+        "en": "Driving too slowly can also be dangerous: speed should match the flow of traffic."
+      }
+    }
+  ]
+}

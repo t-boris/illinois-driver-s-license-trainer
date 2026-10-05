@@ -7,52 +7,52 @@
   "sectionRef": "Rules of the Road 2026, Chapter 5 Sharing the Road, p. 43",
   "manualVersion": "2026",
   "text": {
-    "ru": "Как лучше открыть водительскую дверь на дороге, где могут ехать машины и велосипедисты сзади?",
-    "en": "How should you open your driver’s side door on a road with passing vehicle and bicycle traffic?"
+    "ru": "Велосипедисты обычно едут у правого края, справа от более быстрого потока. Когда они могут сместиться ближе к центру полосы?",
+    "en": "Bicyclists should usually travel just to the right of faster-moving traffic. When may a bike rider move toward the center of the lane?"
   },
   "options": [
     {
       "correct": false,
       "text": {
-        "ru": "Открыть левой рукой и затем посмотреть назад",
-        "en": "Open it with your left hand and then check behind"
+        "ru": "Никогда: только у самого края",
+        "en": "Never: only at the very edge"
       },
       "explanation": {
-        "ru": "Сначала нужно посмотреть. Лучше открывать правой рукой: корпус поворачивается и вы лучше видите, что сзади.",
-        "en": "Check first. A right-hand reach is better: your body turns and you see what is behind."
+        "ru": "Исключения есть: препятствия могут потребовать сместиться к центру полосы.",
+        "en": "There are exceptions: hazards may require a rider to move toward the center of the lane."
       }
     },
     {
       "correct": true,
       "text": {
-        "ru": "Открыть правой рукой, потянувшись через себя, и только когда это не помешает движению сзади",
-        "en": "Reach across with your right hand to open it, and only when it does not interfere with traffic approaching from behind"
+        "ru": "Когда этого требуют препятствия: неровное покрытие, мусор, решётки водостока или узкая полоса",
+        "en": "When hazards such as rough surfaces, debris, drainage grates, or a narrow traffic lane require it"
       },
       "explanation": {
-        "ru": "Верно, это ответ «a и b» из руководства. Поворот корпуса помогает взглянуть назад и заметить велосипедиста.",
-        "en": "Correct, the manual’s “both a and b.” Turning your upper body helps you look back and spot a bicyclist."
+        "ru": "Верно. Поэтому водителям стоит быть готовыми безопасно объехать велосипедиста.",
+        "en": "Correct. That is why drivers should be prepared to move around a bicyclist safely."
       }
     },
     {
       "correct": false,
       "text": {
-        "ru": "Открыть дверь быстро, пока нет машин",
-        "en": "Open it quickly while there are no cars"
+        "ru": "Только ночью",
+        "en": "Only at night"
       },
       "explanation": {
-        "ru": "Спешка опасна: велосипедист может появиться внезапно. Открывайте правой рукой и после проверки.",
-        "en": "Rushing is risky: a bicyclist can appear suddenly. Use your right hand and check first."
+        "ru": "Время суток тут ни при чём: смещение связано с препятствиями на дороге.",
+        "en": "Time of day is not the reason: the move is about hazards on the road."
       }
     },
     {
       "correct": false,
       "text": {
-        "ru": "Не проверять, если вы припарковались у бордюра",
-        "en": "Skip the check if you parked at the curb"
+        "ru": "Когда хотят помешать машинам обогнать",
+        "en": "Whenever they want to keep cars from passing"
       },
       "explanation": {
-        "ru": "Проверять нужно всегда, в том числе у бордюра: рядом может ехать велосипедист.",
-        "en": "Always check, even at the curb: a bicyclist may be riding close by."
+        "ru": "Причина другая: велосипедист смещается из-за препятствий, а не чтобы кого-то задержать.",
+        "en": "The reason is different: a rider moves because of hazards, not to hold anyone up."
       }
     }
   ]

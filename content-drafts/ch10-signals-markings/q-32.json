@@ -1,0 +1,48 @@
+{
+  "kind": "question",
+  "id": "ch10-signals-markings-q32",
+  "topic": "ch10-signals-markings",
+  "pool": "quiz",
+  "category": "sign",
+  "sectionRef": "Rules of the Road 2026, Chapter 10 Traffic Signals and Pavement Markings, p. 80",
+  "manualVersion": "2026",
+  "text": {
+    "ru": "На каком расстоянии перед пешеходным переходом обычно проходит белая стоп-линия в городе?",
+    "en": "How far before the crosswalk is a white stop line usually painted in an urban area?"
+  },
+  "options": [
+    {
+      "correct": true,
+      "text": {
+        "ru": "Примерно за 4 фута (около 1,2 м)",
+        "en": "About 4 feet"
+      },
+      "explanation": {
+        "ru": "Верно. Стоп-линия показывает, где нужно остановиться на красный или у знака stop; никакая часть машины не должна пересекать линию.",
+        "en": "Correct. The line shows where to stop for a stop sign or red light; no part of your vehicle may cross it."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Примерно за 40 футов",
+        "en": "About 40 feet"
+      },
+      "explanation": {
+        "ru": "Слишком много: обычно около 4 футов.",
+        "en": "Too far: it is usually about 4 feet."
+      }
+    },
+    {
+      "correct": false,
+      "text": {
+        "ru": "Прямо на самом переходе",
+        "en": "Right on the crosswalk"
+      },
+      "explanation": {
+        "ru": "Нет: линия проходит перед пешеходным переходом.",
+        "en": "No: the line is painted before the crosswalk."
+      }
+    }
+  ]
+}

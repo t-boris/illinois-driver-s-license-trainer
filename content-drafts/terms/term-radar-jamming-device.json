@@ -1,0 +1,15 @@
+{
+  "kind": "term",
+  "id": "term-radar-jamming-device",
+  "topic": "ch12-equipment",
+  "sectionRef": "Rules of the Road 2026, Chapter 12 Equipment For Safe Driving, p. 93",
+  "manualVersion": "2026",
+  "term": {
+    "ru": "устройство для подавления радара (radar jamming device)",
+    "en": "Radar jamming device"
+  },
+  "definition": {
+    "ru": "Устройство, мешающее радарам скорости. Владение и использование таких устройств запрещено на всех транспортных средствах.",
+    "en": "A device that interferes with speed radar. Possession and use of radar jamming devices is prohibited in all vehicles."
+  }
+}
