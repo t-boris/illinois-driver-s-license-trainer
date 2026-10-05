@@ -6,8 +6,9 @@
   "scripts": {
     "dev": "vite",
     "validate": "node scripts/validate-content.mjs",
+    "images": "node scripts/generate-images.mjs",
     "bank": "node scripts/bank-report.mjs",
-    "test": "node --test scripts/validate-content.test.mjs scripts/event-model.test.mjs",
+    "test": "node --test scripts/validate-content.test.mjs scripts/event-model.test.mjs scripts/image-manifest.test.mjs",
     "build": "node scripts/validate-content.mjs && tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"

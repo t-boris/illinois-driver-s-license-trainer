@@ -11,6 +11,7 @@ export { validateItem }
 import { validateItem, validateSign } from './validate-item.mjs'
 
 function walk(dir) {
+  if (!existsSync(dir)) return [] // an empty bank is valid; git does not track empty folders
   const out = []
   for (const name of readdirSync(dir)) {
     const p = join(dir, name)

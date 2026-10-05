@@ -1,6 +1,7 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import { validateItem, validateSign } from './validate-item.mjs'
+import { validateDir } from './validate-content.mjs'
 
 const good = () => ({
   kind: 'question', id: 'q1', topic: 't1', pool: 'quiz', category: 'rule', sectionRef: 'Ch.2 p.10', manualVersion: '2026',
@@ -40,3 +41,4 @@ test('sign card needs signId and category', () => { const c = card(); delete c.s
 test('sign image needs no src', () => { const i = good(); i.image = { sign: true, signId: 'R1-1', alt: { ru: 'а', en: 'a' } }; assert.deepEqual(validateItem(i), []) })
 test('non-sign image needs src', () => { const i = good(); i.image = { alt: { ru: 'а', en: 'a' } }; assert.match(validateItem(i).join(), /src/) })
 test('Interstate Shield is excluded', () => { const s = sign(); s.designation = 'M1-1'; assert.match(validateSign(s, () => true).join(), /Interstate Shield/) })
+test('missing content folder is an empty bank', () => assert.deepEqual(validateDir('/nonexistent/content'), { failures: [], stale: [] }))
