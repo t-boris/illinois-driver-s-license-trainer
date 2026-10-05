@@ -50,7 +50,7 @@ Q-001..Q-007 (all answered), DEC-001..DEC-010 (all accepted), F-001..F-006 (all 
 ## Open
 - [ ] REQ-005: most questions/lessons still have no image — needs an AI image generator (not chosen in the spec: overview 'Dependencies') — ask owner
 - [ ] Owner review + promote (content/ is empty, production bank empty until then)
-- [ ] I-9 copy review + real-device QA; Vercel project link/first deploy; commit
+- [ ] I-9: real-device QA on Safari iOS, Firefox, Android (needs devices)
 
 ## Deployment (DEC-024)
 - [x] Vercel project illinois-license-trainer linked; production deployed: https://illinois-license-trainer.vercel.app (HTTPS, 200; empty bank, gate working)

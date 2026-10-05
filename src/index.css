@@ -34,3 +34,6 @@ footer { margin-top:32px; font-size:14px }
 .search { width:100%; min-height:44px; padding:8px 12px; border:1px solid var(--line); border-radius:10px; font:inherit; background:var(--card); color:inherit }
 .terms dt { font-weight:700; margin-top:12px } .terms dd { margin:2px 0 0 } .terms .ru { font-weight:400 }
 .sign-pic { max-width:220px; display:block; margin:8px auto; }
+
+/* REQ-002: touch-friendly links */
+.brand, footer a, main a { display:inline-flex; align-items:center; min-height:44px }
