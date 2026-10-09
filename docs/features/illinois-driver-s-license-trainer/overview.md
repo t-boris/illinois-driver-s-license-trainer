@@ -2,7 +2,7 @@
 type: feature
 id: illinois-driver-s-license-trainer
 title: Illinois Driver's License Trainer
-status: implementing
+status: done
 owner: Boris Tsekinovsky
 created: 2026-10-05
 provenance: Created from the new-project intake
@@ -32,6 +32,7 @@ understanding_notes:
   Acceptance Criteria: Готовность = порог по каждой теме + сданная симуляция; критерии зафиксированы в требованиях.
 questions_left: 0
 confirmed: 2026-10-05
+completed: 2026-10-09
 ---
 
 # Illinois Driver's License Trainer
@@ -48,3 +49,7 @@ People preparing for the Illinois written driving test — in particular Russian
 
 IN (v1): Russian/English UI and content with language switching; responsive web app (mobile + desktop); study content covering Illinois rules of the road and road signs; practice/quiz mode and an exam-simulation mode modelled on the real Illinois test; playful, positive tone, illustrations/images throughout; deployment on Vercel.
 OUT (v1, confirmed): road (driving) test preparation, DMV appointment booking, other US states, paid plans/monetisation, native mobile apps, offline mode, social features.
+
+## Status
+
+Closed by the owner on 2026-10-09: v1 scope is live at https://illinois-license-trainer.vercel.app (lessons, quizzes, exam simulation, official signs, glossary, 443 cached illustrations, anonymous analytics). The owner checked the site and accepted it as ready. Content is published in beta mode (DEC-031); promoting drafts to `content/` with review records is handled as ongoing content work, not as part of this feature.

@@ -76,3 +76,7 @@ Q-001..Q-007 (all answered), DEC-001..DEC-010 (all accepted), F-001..F-006 (all 
 - [x] 443 illustrations generated, cached and reviewed; flashcards and motion shipped; quiz sessions of 10 (DEC-033)
 - [ ] Owner: review drafts and promote; look at illustrations; Firefox/real devices; Search Console review for the Chrome warning
 - [ ] Possible improvement: split content into lazily loaded chunks (bundle is 380 KB gzip)
+
+## Status 2026-10-09
+- [x] Owner checked the site and declared v1 ready; feature status set to done in overview.md
+- [x] Image generation verified idle: all 443 illustrations cached and committed, dry run would generate 0
